@@ -1,0 +1,474 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/callanwu",
+        "avatar": "https://avatars.githubusercontent.com/u/63695429?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/likuanppd",
+        "avatar": "https://avatars.githubusercontent.com/u/48855254?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/BaixuanLi",
+        "avatar": "https://avatars.githubusercontent.com/u/76234060?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/WenbiaoYin",
+        "avatar": "https://avatars.githubusercontent.com/u/93020991?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/HuifengYin",
+        "avatar": "https://avatars.githubusercontent.com/u/38558109?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Alibaba-NLP/DeepResearch",
+    "name": "Alibaba-NLP/DeepResearch",
+    "description": "Tongyi Deep Research, the Leading Open-source Deep Research Agent  ",
+    "language": "Python",
+    "stars": "9631",
+    "forks": "707",
+    "increased": "1031 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/folke",
+        "avatar": "https://avatars.githubusercontent.com/u/292349?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dpetka2001",
+        "avatar": "https://avatars.githubusercontent.com/u/12776461?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/amaanq",
+        "avatar": "https://avatars.githubusercontent.com/u/29718261?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rubiin",
+        "avatar": "https://avatars.githubusercontent.com/u/8222059?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/LazyVim/LazyVim",
+    "name": "LazyVim/LazyVim",
+    "description": "Neovim config for the lazy  ",
+    "language": "Lua",
+    "stars": "22541",
+    "forks": "1605",
+    "increased": "25 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/dhh",
+        "avatar": "https://avatars.githubusercontent.com/u/2741?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ryanrhughes",
+        "avatar": "https://avatars.githubusercontent.com/u/1630358?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tahayvr",
+        "avatar": "https://avatars.githubusercontent.com/u/77543049?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/npenza",
+        "avatar": "https://avatars.githubusercontent.com/u/69229034?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ryanyogan",
+        "avatar": "https://avatars.githubusercontent.com/u/41596?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/basecamp/omarchy",
+    "name": "basecamp/omarchy",
+    "description": "Opinionated Arch/Hyprland Setup  ",
+    "language": "Shell",
+    "stars": "8667",
+    "forks": "956",
+    "increased": "210 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/nbaars",
+        "avatar": "https://avatars.githubusercontent.com/u/493861?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/misfir3",
+        "avatar": "https://avatars.githubusercontent.com/u/5103241?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/zubcevic",
+        "avatar": "https://avatars.githubusercontent.com/u/7931455?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mayhew64",
+        "avatar": "https://avatars.githubusercontent.com/u/3689202?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/WebGoat/WebGoat",
+    "name": "WebGoat/WebGoat",
+    "description": "WebGoat is a deliberately insecure application  ",
+    "language": "JavaScript",
+    "stars": "7801",
+    "forks": "6716",
+    "increased": "20 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/engine-flutter-autoroll",
+        "avatar": "https://avatars.githubusercontent.com/u/42042535?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/abarth",
+        "avatar": "https://avatars.githubusercontent.com/u/112007?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Hixie",
+        "avatar": "https://avatars.githubusercontent.com/u/551196?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jmagman",
+        "avatar": "https://avatars.githubusercontent.com/u/682784?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/goderbauer",
+        "avatar": "https://avatars.githubusercontent.com/u/1227763?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/flutter/flutter",
+    "name": "flutter/flutter",
+    "description": " Flutter makes it easy and fast to build beautiful apps for mobile and beyond  ",
+    "language": "Dart",
+    "stars": "172766",
+    "forks": "29230",
+    "increased": "167 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/o1lab",
+        "avatar": "https://avatars.githubusercontent.com/u/5435402?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pranavxc",
+        "avatar": "https://avatars.githubusercontent.com/u/61551451?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/wingkwong",
+        "avatar": "https://avatars.githubusercontent.com/u/35857179?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rameshmane7218",
+        "avatar": "https://avatars.githubusercontent.com/u/101566080?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dstala",
+        "avatar": "https://avatars.githubusercontent.com/u/86527202?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/nocodb/nocodb",
+    "name": "nocodb/nocodb",
+    "description": "🔥 🔥 🔥 Open Source Airtable Alternative  ",
+    "language": "TypeScript",
+    "stars": "57314",
+    "forks": "4176",
+    "increased": "260 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ppwwyyxx",
+        "avatar": "https://avatars.githubusercontent.com/u/1381301?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/vkhalidov",
+        "avatar": "https://avatars.githubusercontent.com/u/4067232?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/MarcSzafraniec",
+        "avatar": "https://avatars.githubusercontent.com/u/13677476?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/wat3rBro",
+        "avatar": "https://avatars.githubusercontent.com/u/15271187?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/lyttonhao",
+        "avatar": "https://avatars.githubusercontent.com/u/5648235?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/facebookresearch/detectron2",
+    "name": "facebookresearch/detectron2",
+    "description": "Detectron2 is a platform for object detection, segmentation and other visual recognition tasks.  ",
+    "language": "Python",
+    "stars": "33142",
+    "forks": "7803",
+    "increased": "230 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/vitaut",
+        "avatar": "https://avatars.githubusercontent.com/u/576385?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/phprus",
+        "avatar": "https://avatars.githubusercontent.com/u/382460?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/alexezeder",
+        "avatar": "https://avatars.githubusercontent.com/u/1554508?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/DanielaE",
+        "avatar": "https://avatars.githubusercontent.com/u/1381823?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jk-jeon",
+        "avatar": "https://avatars.githubusercontent.com/u/33922675?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/fmtlib/fmt",
+    "name": "fmtlib/fmt",
+    "description": "A modern formatting library  ",
+    "language": "C++",
+    "stars": "22353",
+    "forks": "2708",
+    "increased": "8 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/SoilZhu",
+        "avatar": "https://avatars.githubusercontent.com/u/74606271?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Coconut-Aero",
+        "avatar": "https://avatars.githubusercontent.com/u/148566655?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Anduin2017",
+        "avatar": "https://avatars.githubusercontent.com/u/19531547?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Gar-b-age/CookLikeHOC",
+    "name": "Gar-b-age/CookLikeHOC",
+    "description": "🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.  ",
+    "language": "JavaScript",
+    "stars": "6707",
+    "forks": "826",
+    "increased": "1959 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ma2bd",
+        "avatar": "https://avatars.githubusercontent.com/u/1105398?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jvff",
+        "avatar": "https://avatars.githubusercontent.com/u/3216731?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/afck",
+        "avatar": "https://avatars.githubusercontent.com/u/7894725?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ndr-ds",
+        "avatar": "https://avatars.githubusercontent.com/u/2917611?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/MathieuDutSik",
+        "avatar": "https://avatars.githubusercontent.com/u/2412074?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/linera-io/linera-protocol",
+    "name": "linera-io/linera-protocol",
+    "description": "Main repository for the Linera protocol  ",
+    "language": "Rust",
+    "stars": "29465",
+    "forks": "1976",
+    "increased": "605 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/leestott",
+        "avatar": "https://avatars.githubusercontent.com/u/2511341?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jlooper",
+        "avatar": "https://avatars.githubusercontent.com/u/1450004?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/shwars",
+        "avatar": "https://avatars.githubusercontent.com/u/2892110?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/BethanyJep",
+        "avatar": "https://avatars.githubusercontent.com/u/44121227?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/microsoft/AI-For-Beginners",
+    "name": "microsoft/AI-For-Beginners",
+    "description": "12 Weeks, 24 Lessons, AI for All!  ",
+    "language": "Jupyter Notebook",
+    "stars": "40454",
+    "forks": "7973",
+    "increased": "134 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ataibarkai",
+        "avatar": "https://avatars.githubusercontent.com/u/746397?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mme",
+        "avatar": "https://avatars.githubusercontent.com/u/247775?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/arielweinberger",
+        "avatar": "https://avatars.githubusercontent.com/u/4976416?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ranst91",
+        "avatar": "https://avatars.githubusercontent.com/u/11162004?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/CopilotKit/CopilotKit",
+    "name": "CopilotKit/CopilotKit",
+    "description": "React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic last-mile 🪁  ",
+    "language": "TypeScript",
+    "stars": "23139",
+    "forks": "3120",
+    "increased": "67 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/afourney",
+        "avatar": "https://avatars.githubusercontent.com/u/4017093?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/gagb",
+        "avatar": "https://avatars.githubusercontent.com/u/13227607?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sugatoray",
+        "avatar": "https://avatars.githubusercontent.com/u/10201242?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/PetrAPConsulting",
+        "avatar": "https://avatars.githubusercontent.com/u/173082609?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/l-lumin",
+        "avatar": "https://avatars.githubusercontent.com/u/71011125?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/microsoft/markitdown",
+    "name": "microsoft/markitdown",
+    "description": "Python tool for converting files and office documents to Markdown.  ",
+    "language": "Python",
+    "stars": "79247",
+    "forks": "4343",
+    "increased": "1239 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/bitnami-bot",
+        "avatar": "https://avatars.githubusercontent.com/u/13025337?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tompizmor",
+        "avatar": "https://avatars.githubusercontent.com/u/4026184?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/fmulero",
+        "avatar": "https://avatars.githubusercontent.com/u/23502572?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/miguelaeh",
+        "avatar": "https://avatars.githubusercontent.com/u/36923089?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/carrodher",
+        "avatar": "https://avatars.githubusercontent.com/u/13216600?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/bitnami/containers",
+    "name": "bitnami/containers",
+    "description": "Bitnami container images  ",
+    "language": "Shell",
+    "stars": "4085",
+    "forks": "6159",
+    "increased": "7 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/rajatsen91",
+        "avatar": "https://avatars.githubusercontent.com/u/8039264?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/siriuz42",
+        "avatar": "https://avatars.githubusercontent.com/u/5073569?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/misha-chertushkin",
+        "avatar": "https://avatars.githubusercontent.com/u/151166456?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/JustinGuese",
+        "avatar": "https://avatars.githubusercontent.com/u/9588843?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kashif",
+        "avatar": "https://avatars.githubusercontent.com/u/8100?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/google-research/timesfm",
+    "name": "google-research/timesfm",
+    "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.  ",
+    "language": "Python",
+    "stars": "5937",
+    "forks": "536",
+    "increased": "261 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/bitnami-bot",
+        "avatar": "https://avatars.githubusercontent.com/u/13025337?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/javsalgar",
+        "avatar": "https://avatars.githubusercontent.com/u/1133777?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/juan131",
+        "avatar": "https://avatars.githubusercontent.com/u/6740773?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/migruiz4",
+        "avatar": "https://avatars.githubusercontent.com/u/37381070?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/fmulero",
+        "avatar": "https://avatars.githubusercontent.com/u/23502572?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/bitnami/charts",
+    "name": "bitnami/charts",
+    "description": "Bitnami Helm Charts  ",
+    "language": "Smarty",
+    "stars": "9975",
+    "forks": "10134",
+    "increased": "6 stars today"
+  }
+]

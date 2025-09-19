@@ -1,0 +1,566 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/asgeirtj",
+        "avatar": "https://avatars.githubusercontent.com/u/27446620?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/awrreny",
+        "avatar": "https://avatars.githubusercontent.com/u/46632417?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/xu-chris",
+        "avatar": "https://avatars.githubusercontent.com/u/980778?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/gudzenkov",
+        "avatar": "https://avatars.githubusercontent.com/u/11720732?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/EricZhou05",
+        "avatar": "https://avatars.githubusercontent.com/u/61287015?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/asgeirtj/system_prompts_leaks",
+    "name": "asgeirtj/system_prompts_leaks",
+    "description": "Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude &amp; Gemini  ",
+    "language": "JavaScript",
+    "stars": "20859",
+    "forks": "3271",
+    "increased": "12430 stars this month"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/dzhao",
+        "avatar": "https://avatars.githubusercontent.com/u/25687?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pouriya",
+        "avatar": "https://avatars.githubusercontent.com/u/20663776?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/anqueue",
+        "avatar": "https://avatars.githubusercontent.com/u/35087590?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/twitter/the-algorithm",
+    "name": "twitter/the-algorithm",
+    "description": "Source code for the X Recommendation Algorithm  ",
+    "language": "Scala",
+    "stars": "66826",
+    "forks": "12530",
+    "increased": "3400 stars this month"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/nekomeowww",
+        "avatar": "https://avatars.githubusercontent.com/u/11081491?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/luoling8192",
+        "avatar": "https://avatars.githubusercontent.com/u/44741987?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/LemonNekoGH",
+        "avatar": "https://avatars.githubusercontent.com/u/17664845?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sumimakito",
+        "avatar": "https://avatars.githubusercontent.com/u/5277268?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kwaa",
+        "avatar": "https://avatars.githubusercontent.com/u/50108258?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/moeru-ai/airi",
+    "name": "moeru-ai/airi",
+    "description": "💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.  ",
+    "language": "Vue",
+    "stars": "14159",
+    "forks": "1209",
+    "increased": "11839 stars this month"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/oskardotglobal",
+        "avatar": "https://avatars.githubusercontent.com/u/52569953?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/KernelGhost",
+        "avatar": "https://avatars.githubusercontent.com/u/57999059?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Fmstrat",
+        "avatar": "https://avatars.githubusercontent.com/u/971474?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/LDprg",
+        "avatar": "https://avatars.githubusercontent.com/u/71488985?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/winapps-org/winapps",
+    "name": "winapps-org/winapps",
+    "description": "Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of  https://github.com/Fmstrat/winapps/    ",
+    "language": "Shell",
+    "stars": "9606",
+    "forks": "293",
+    "increased": "6062 stars this month"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/pubuzhixing8",
+        "avatar": "https://avatars.githubusercontent.com/u/18631804?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/NaoCoding",
+        "avatar": "https://avatars.githubusercontent.com/u/86964895?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/WBbug",
+        "avatar": "https://avatars.githubusercontent.com/u/87802698?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/lurenyang418",
+        "avatar": "https://avatars.githubusercontent.com/u/15855043?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/PeterChen1997",
+        "avatar": "https://avatars.githubusercontent.com/u/21072589?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/plait-board/drawnix",
+    "name": "plait-board/drawnix",
+    "description": "开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc.  ",
+    "language": "TypeScript",
+    "stars": "11523",
+    "forks": "878",
+    "increased": "7193 stars this month"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/uzhilinsky",
+        "avatar": "https://avatars.githubusercontent.com/u/35573480?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kvablack",
+        "avatar": "https://avatars.githubusercontent.com/u/12429600?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jimmyt857",
+        "avatar": "https://avatars.githubusercontent.com/u/1822327?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/svlevine",
+        "avatar": "https://avatars.githubusercontent.com/u/6856401?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kpertsch",
+        "avatar": "https://avatars.githubusercontent.com/u/15955682?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Physical-Intelligence/openpi",
+    "name": "Physical-Intelligence/openpi",
+    "language": "Python",
+    "stars": "7669",
+    "forks": "861",
+    "increased": "3380 stars this month"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/kroese",
+        "avatar": "https://avatars.githubusercontent.com/u/5763256?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/hellodword",
+        "avatar": "https://avatars.githubusercontent.com/u/46193371?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/star3am",
+        "avatar": "https://avatars.githubusercontent.com/u/557021?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/luisgmuniz",
+        "avatar": "https://avatars.githubusercontent.com/u/2011450?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/dockur/windows",
+    "name": "dockur/windows",
+    "description": "Windows inside a Docker container.  ",
+    "language": "Shell",
+    "stars": "45781",
+    "forks": "3335",
+    "increased": "8921 stars this month"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/bolinfest",
+        "avatar": "https://avatars.githubusercontent.com/u/655869?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/nornagon-openai",
+        "avatar": "https://avatars.githubusercontent.com/u/172423086?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/aibrahim-oai",
+        "avatar": "https://avatars.githubusercontent.com/u/219906144?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pakrym-oai",
+        "avatar": "https://avatars.githubusercontent.com/u/204937752?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/fouad-openai",
+        "avatar": "https://avatars.githubusercontent.com/u/169186268?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/openai/codex",
+    "name": "openai/codex",
+    "description": "Lightweight coding agent that runs in your terminal  ",
+    "language": "Rust",
+    "stars": "42892",
+    "forks": "4969",
+    "increased": "7235 stars this month"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/waleedlatif1",
+        "avatar": "https://avatars.githubusercontent.com/u/40672544?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/emir-karabeg",
+        "avatar": "https://avatars.githubusercontent.com/u/78010029?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/icecrasher321",
+        "avatar": "https://avatars.githubusercontent.com/u/17950982?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Sg312",
+        "avatar": "https://avatars.githubusercontent.com/u/33737564?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/aadamgough",
+        "avatar": "https://avatars.githubusercontent.com/u/77861281?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/simstudioai/sim",
+    "name": "simstudioai/sim",
+    "description": "Open-source platform to build and deploy AI agent workflows.  ",
+    "language": "TypeScript",
+    "stars": "15224",
+    "forks": "1903",
+    "increased": "8032 stars this month"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/dataeaseShu",
+        "avatar": "https://avatars.githubusercontent.com/u/106045316?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/fit2cloud-chenyw",
+        "avatar": "https://avatars.githubusercontent.com/u/67260074?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/XiaJunjie2020",
+        "avatar": "https://avatars.githubusercontent.com/u/59437931?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ziyujiahao",
+        "avatar": "https://avatars.githubusercontent.com/u/42510293?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ulleo",
+        "avatar": "https://avatars.githubusercontent.com/u/18374182?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/dataease/SQLBot",
+    "name": "dataease/SQLBot",
+    "description": "🔥 基于大模型和 RAG 的智能问数系统。Text-to-SQL Generation via LLMs using RAG.  ",
+    "language": "Python",
+    "stars": "2512",
+    "forks": "272",
+    "increased": "1810 stars this month"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/MODSetter",
+        "avatar": "https://avatars.githubusercontent.com/u/122026167?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Utkarsh-Patel-13",
+        "avatar": "https://avatars.githubusercontent.com/u/30389481?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/CREDO23",
+        "avatar": "https://avatars.githubusercontent.com/u/103337221?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/anshul7665",
+        "avatar": "https://avatars.githubusercontent.com/u/153057617?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/MuhamadAjiW",
+        "avatar": "https://avatars.githubusercontent.com/u/89117568?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/MODSetter/SurfSense",
+    "name": "MODSetter/SurfSense",
+    "description": "Open Source Alternative to NotebookLM / Perplexity, connected to external sources such as Search Engines, Slack, Linear, Jira, ClickUp, Confluence, Notion, YouTube, GitHub, Discord and more. Join our discord:  https://discord.gg/ejRNvftDp9    ",
+    "language": "Python",
+    "stars": "7921",
+    "forks": "601",
+    "increased": "1498 stars this month"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/you-n-g",
+        "avatar": "https://avatars.githubusercontent.com/u/465606?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bxdd",
+        "avatar": "https://avatars.githubusercontent.com/u/45119470?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Derek-Wds",
+        "avatar": "https://avatars.githubusercontent.com/u/26081991?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/zhupr",
+        "avatar": "https://avatars.githubusercontent.com/u/18660661?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/SunsetWolf",
+        "avatar": "https://avatars.githubusercontent.com/u/30293408?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/microsoft/qlib",
+    "name": "microsoft/qlib",
+    "description": "Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped with  https://github.com/microsoft/RD-Agent  to automate R&amp;D process.  ",
+    "language": "Python",
+    "stars": "30767",
+    "forks": "4755",
+    "increased": "2375 stars this month"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/CorentinJ",
+        "avatar": "https://avatars.githubusercontent.com/u/12038136?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/alexpeattie",
+        "avatar": "https://avatars.githubusercontent.com/u/636814?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/matheusfillipe",
+        "avatar": "https://avatars.githubusercontent.com/u/24435787?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/vanpelt",
+        "avatar": "https://avatars.githubusercontent.com/u/17?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rancoud",
+        "avatar": "https://avatars.githubusercontent.com/u/1884186?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/CorentinJ/Real-Time-Voice-Cloning",
+    "name": "CorentinJ/Real-Time-Voice-Cloning",
+    "description": "Clone a voice in 5 seconds to generate arbitrary speech in real-time  ",
+    "language": "Python",
+    "stars": "56590",
+    "forks": "9213",
+    "increased": "1644 stars this month"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/sridharavinash",
+        "avatar": "https://avatars.githubusercontent.com/u/868958?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/domdomegg",
+        "avatar": "https://avatars.githubusercontent.com/u/4953590?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/toby",
+        "avatar": "https://avatars.githubusercontent.com/u/83556?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tadasant",
+        "avatar": "https://avatars.githubusercontent.com/u/3900899?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rdimitrov",
+        "avatar": "https://avatars.githubusercontent.com/u/16540482?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/modelcontextprotocol/registry",
+    "name": "modelcontextprotocol/registry",
+    "description": "A community driven registry service for Model Context Protocol (MCP) servers.  ",
+    "language": "Go",
+    "stars": "4735",
+    "forks": "350",
+    "increased": "2636 stars this month"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/yiranyyu",
+        "avatar": "https://avatars.githubusercontent.com/u/28106858?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/iceflame89",
+        "avatar": "https://avatars.githubusercontent.com/u/5380770?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/yaoyuanTHU",
+        "avatar": "https://avatars.githubusercontent.com/u/19372848?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tc-mb",
+        "avatar": "https://avatars.githubusercontent.com/u/157115220?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/LDLINGLINGLING",
+        "avatar": "https://avatars.githubusercontent.com/u/47373076?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/OpenBMB/MiniCPM-V",
+    "name": "OpenBMB/MiniCPM-V",
+    "description": "MiniCPM-V 4.5: A GPT-4o Level MLLM for Single Image, Multi Image and High-FPS Video Understanding on Your Phone  ",
+    "language": "Python",
+    "stars": "21801",
+    "forks": "1625",
+    "increased": "1761 stars this month"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/lonmarsDev",
+        "avatar": "https://avatars.githubusercontent.com/u/28698778?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/roxanne-tampus",
+        "avatar": "https://avatars.githubusercontent.com/u/51393035?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ahrav",
+        "avatar": "https://avatars.githubusercontent.com/u/21311841?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dustin-decker",
+        "avatar": "https://avatars.githubusercontent.com/u/6031416?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/trufflesecurity/trufflehog",
+    "name": "trufflesecurity/trufflehog",
+    "description": "Find, verify, and analyze leaked credentials  ",
+    "language": "Go",
+    "stars": "22176",
+    "forks": "2053",
+    "increased": "1920 stars this month"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/gennadiycivil",
+        "avatar": "https://avatars.githubusercontent.com/u/12735026?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kuzkry",
+        "avatar": "https://avatars.githubusercontent.com/u/18310463?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/derekmauro",
+        "avatar": "https://avatars.githubusercontent.com/u/761129?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/copybara-github",
+        "avatar": "https://avatars.githubusercontent.com/u/32201506?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/google/googletest",
+    "name": "google/googletest",
+    "description": "GoogleTest - Google Testing and Mocking Framework  ",
+    "language": "C++",
+    "stars": "37158",
+    "forks": "10534",
+    "increased": "608 stars this month"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/fatchord",
+        "avatar": "https://avatars.githubusercontent.com/u/37295764?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/JeremyCCHsu",
+        "avatar": "https://avatars.githubusercontent.com/u/16027371?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/manmay-nakhashi",
+        "avatar": "https://avatars.githubusercontent.com/u/17176700?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ZohaibAhmed",
+        "avatar": "https://avatars.githubusercontent.com/u/660224?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/TediPapajorgji",
+        "avatar": "https://avatars.githubusercontent.com/u/5790075?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/resemble-ai/chatterbox",
+    "name": "resemble-ai/chatterbox",
+    "description": "SoTA open-source TTS  ",
+    "language": "Python",
+    "stars": "13084",
+    "forks": "1675",
+    "increased": "2815 stars this month"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/dhh",
+        "avatar": "https://avatars.githubusercontent.com/u/2741?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ryanrhughes",
+        "avatar": "https://avatars.githubusercontent.com/u/1630358?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tahayvr",
+        "avatar": "https://avatars.githubusercontent.com/u/77543049?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/npenza",
+        "avatar": "https://avatars.githubusercontent.com/u/69229034?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ryanyogan",
+        "avatar": "https://avatars.githubusercontent.com/u/41596?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/basecamp/omarchy",
+    "name": "basecamp/omarchy",
+    "description": "Opinionated Arch/Hyprland Setup  ",
+    "language": "Shell",
+    "stars": "8667",
+    "forks": "956",
+    "increased": "4085 stars this month"
+  }
+]
