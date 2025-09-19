@@ -5,7 +5,7 @@ permissions:
 
 on:
   schedule:
-    - cron: '0 0 * * *' # 每天 UTC 0 点运行
+    - cron: '1 0 * * *' # 每天 UTC 0 点运行
   workflow_dispatch:
 
 jobs:
