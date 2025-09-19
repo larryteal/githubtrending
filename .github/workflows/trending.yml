@@ -1,0 +1,36 @@
+name: Fetch Trending of Github Daily
+
+permissions:
+  contents: write
+
+on:
+  schedule:
+    - cron: '30 0 * * *' # 每天 UTC 0 点运行
+  workflow_dispatch:
+
+jobs:
+  fetch-and-save:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Fetch trending from github
+        run: |
+          mkdir -p daily weekly monthly
+          timestamp=$(date -u +"%Y%m%dT%H%M%SZ")
+          curl -s "https://githubtrending.lessx.xyz/trending?since=daily" -o "daily/$timestamp.json"
+          echo "Fetched and saved to daily/$timestamp.json"
+          curl -s "https://githubtrending.lessx.xyz/trending?since=weekly" -o "weekly/$timestamp.json"
+          echo "Fetched and saved to weekly/$timestamp.json"
+          curl -s "https://githubtrending.lessx.xyz/trending?since=monthly" -o "monthly/$timestamp.json"
+          echo "Fetched and saved to monthly/$timestamp.json"
+
+      - name: Commit and push new trending files
+        run: |
+          timestamp=$(date -u +"%Y%m%dT%H%M%SZ")
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add daily/*.json weekly/*.json monthly/*.json
+          git commit -m "Add trending for $timestamp UTC" || echo "Nothing to commit"
+          git push
