@@ -5,7 +5,7 @@ permissions:
 
 on:
   schedule:
-    - cron: '30 0 * * *' # 每天 UTC 0 点运行
+    - cron: '0 0 * * *' # 每天 UTC 0 点运行
   workflow_dispatch:
 
 jobs:
@@ -15,22 +15,29 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      - name: Get timestamp
+        id: get-timestamp
+        run: echo "timestamp=$(date -u +'%Y%m%dT%H%M%SZ')" >> $GITHUB_OUTPUT
+
       - name: Fetch trending from github
         run: |
           mkdir -p daily weekly monthly
-          timestamp=$(date -u +"%Y%m%dT%H%M%SZ")
-          curl -s "https://githubtrending.lessx.xyz/trending?since=daily" -o "daily/$timestamp.json"
-          echo "Fetched and saved to daily/$timestamp.json"
-          curl -s "https://githubtrending.lessx.xyz/trending?since=weekly" -o "weekly/$timestamp.json"
-          echo "Fetched and saved to weekly/$timestamp.json"
-          curl -s "https://githubtrending.lessx.xyz/trending?since=monthly" -o "monthly/$timestamp.json"
-          echo "Fetched and saved to monthly/$timestamp.json"
+          curl -s "https://githubtrending.lessx.xyz/trending?since=daily" \
+            -o "daily/${{ steps.get-timestamp.outputs.timestamp }}.json"
+          echo "Fetched and saved to daily/${{ steps.get-timestamp.outputs.timestamp }}.json"
+
+          curl -s "https://githubtrending.lessx.xyz/trending?since=weekly" \
+            -o "weekly/${{ steps.get-timestamp.outputs.timestamp }}.json"
+          echo "Fetched and saved to weekly/${{ steps.get-timestamp.outputs.timestamp }}.json"
+
+          curl -s "https://githubtrending.lessx.xyz/trending?since=monthly" \
+            -o "monthly/${{ steps.get-timestamp.outputs.timestamp }}.json"
+          echo "Fetched and saved to monthly/${{ steps.get-timestamp.outputs.timestamp }}.json"
 
       - name: Commit and push new trending files
         run: |
-          timestamp=$(date -u +"%Y%m%dT%H%M%SZ")
           git config --local user.name "github-actions[bot]"
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add daily/*.json weekly/*.json monthly/*.json
-          git commit -m "Add trending for $timestamp UTC" || echo "Nothing to commit"
+          git commit -m "Add trending for ${{ steps.get-timestamp.outputs.timestamp }} UTC" || echo "Nothing to commit"
           git push
