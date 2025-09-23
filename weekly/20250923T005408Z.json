@@ -1,0 +1,513 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/callanwu",
+        "avatar": "https://avatars.githubusercontent.com/u/63695429?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/likuanppd",
+        "avatar": "https://avatars.githubusercontent.com/u/48855254?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/BaixuanLi",
+        "avatar": "https://avatars.githubusercontent.com/u/76234060?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/WenbiaoYin",
+        "avatar": "https://avatars.githubusercontent.com/u/93020991?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/HuifengYin",
+        "avatar": "https://avatars.githubusercontent.com/u/38558109?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Alibaba-NLP/DeepResearch",
+    "name": "Alibaba-NLP/DeepResearch",
+    "description": "Tongyi Deep Research, the Leading Open-source Deep Research Agent  ",
+    "language": "Python",
+    "stars": "13766",
+    "forks": "994",
+    "increased": "7031 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/afourney",
+        "avatar": "https://avatars.githubusercontent.com/u/4017093?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/gagb",
+        "avatar": "https://avatars.githubusercontent.com/u/13227607?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sugatoray",
+        "avatar": "https://avatars.githubusercontent.com/u/10201242?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/PetrAPConsulting",
+        "avatar": "https://avatars.githubusercontent.com/u/173082609?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/l-lumin",
+        "avatar": "https://avatars.githubusercontent.com/u/71011125?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/microsoft/markitdown",
+    "name": "microsoft/markitdown",
+    "description": "Python tool for converting files and office documents to Markdown.  ",
+    "language": "Python",
+    "stars": "79721",
+    "forks": "4378",
+    "increased": "5781 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/CorentinJ",
+        "avatar": "https://avatars.githubusercontent.com/u/12038136?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/alexpeattie",
+        "avatar": "https://avatars.githubusercontent.com/u/636814?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/matheusfillipe",
+        "avatar": "https://avatars.githubusercontent.com/u/24435787?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/vanpelt",
+        "avatar": "https://avatars.githubusercontent.com/u/17?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rancoud",
+        "avatar": "https://avatars.githubusercontent.com/u/1884186?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/CorentinJ/Real-Time-Voice-Cloning",
+    "name": "CorentinJ/Real-Time-Voice-Cloning",
+    "description": "Clone a voice in 5 seconds to generate arbitrary speech in real-time  ",
+    "language": "Python",
+    "stars": "57051",
+    "forks": "9241",
+    "increased": "1537 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ItzCrazyKns",
+        "avatar": "https://avatars.githubusercontent.com/u/95534749?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/WanQuanXie",
+        "avatar": "https://avatars.githubusercontent.com/u/8021137?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/OmarElKadri",
+        "avatar": "https://avatars.githubusercontent.com/u/118303871?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sjiampojamarn",
+        "avatar": "https://avatars.githubusercontent.com/u/18257803?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tuxthepenguin84",
+        "avatar": "https://avatars.githubusercontent.com/u/12042822?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/ItzCrazyKns/Perplexica",
+    "name": "ItzCrazyKns/Perplexica",
+    "description": "Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI  ",
+    "language": "TypeScript",
+    "stars": "25703",
+    "forks": "2670",
+    "increased": "1295 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/dataeaseShu",
+        "avatar": "https://avatars.githubusercontent.com/u/106045316?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/fit2cloud-chenyw",
+        "avatar": "https://avatars.githubusercontent.com/u/67260074?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/XiaJunjie2020",
+        "avatar": "https://avatars.githubusercontent.com/u/59437931?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ulleo",
+        "avatar": "https://avatars.githubusercontent.com/u/18374182?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ziyujiahao",
+        "avatar": "https://avatars.githubusercontent.com/u/42510293?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/dataease/SQLBot",
+    "name": "dataease/SQLBot",
+    "description": "🔥 基于大模型和 RAG 的智能问数系统。Text-to-SQL Generation via LLMs using RAG.  ",
+    "language": "Python",
+    "stars": "2711",
+    "forks": "284",
+    "increased": "1127 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/folke",
+        "avatar": "https://avatars.githubusercontent.com/u/292349?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dpetka2001",
+        "avatar": "https://avatars.githubusercontent.com/u/12776461?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/amaanq",
+        "avatar": "https://avatars.githubusercontent.com/u/29718261?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rubiin",
+        "avatar": "https://avatars.githubusercontent.com/u/8222059?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/LazyVim/LazyVim",
+    "name": "LazyVim/LazyVim",
+    "description": "Neovim config for the lazy  ",
+    "language": "Lua",
+    "stars": "22907",
+    "forks": "1621",
+    "increased": "458 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/jglogan",
+        "avatar": "https://avatars.githubusercontent.com/u/1019924?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/katiewasnothere",
+        "avatar": "https://avatars.githubusercontent.com/u/14638319?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dkovba",
+        "avatar": "https://avatars.githubusercontent.com/u/206787606?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/adityaramani",
+        "avatar": "https://avatars.githubusercontent.com/u/10784159?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dcantah",
+        "avatar": "https://avatars.githubusercontent.com/u/36526702?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/apple/container",
+    "name": "apple/container",
+    "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.  ",
+    "language": "Swift",
+    "stars": "20227",
+    "forks": "446",
+    "increased": "520 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/salzubi401",
+        "avatar": "https://avatars.githubusercontent.com/u/188922838?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/barannama",
+        "avatar": "https://avatars.githubusercontent.com/u/222400385?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/arda-sentient",
+        "avatar": "https://avatars.githubusercontent.com/u/205849205?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/sentient-agi/ROMA",
+    "name": "sentient-agi/ROMA",
+    "description": "Recursive-Open-Meta-Agent v0.1 (Beta). A meta-agent framework to build high-performance multi-agent systems.  ",
+    "language": "Python",
+    "stars": "3306",
+    "forks": "442",
+    "increased": "926 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/virattt",
+        "avatar": "https://avatars.githubusercontent.com/u/901795?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/arsaboo",
+        "avatar": "https://avatars.githubusercontent.com/u/18319734?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/KittatamSaisaard",
+        "avatar": "https://avatars.githubusercontent.com/u/50354903?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jsemldonado",
+        "avatar": "https://avatars.githubusercontent.com/u/172995042?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ak4631",
+        "avatar": "https://avatars.githubusercontent.com/u/132299371?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/virattt/ai-hedge-fund",
+    "name": "virattt/ai-hedge-fund",
+    "description": "An AI Hedge Fund Team  ",
+    "language": "Python",
+    "stars": "41277",
+    "forks": "7260",
+    "increased": "1154 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/o1lab",
+        "avatar": "https://avatars.githubusercontent.com/u/5435402?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pranavxc",
+        "avatar": "https://avatars.githubusercontent.com/u/61551451?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/wingkwong",
+        "avatar": "https://avatars.githubusercontent.com/u/35857179?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rameshmane7218",
+        "avatar": "https://avatars.githubusercontent.com/u/101566080?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dstala",
+        "avatar": "https://avatars.githubusercontent.com/u/86527202?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/nocodb/nocodb",
+    "name": "nocodb/nocodb",
+    "description": "🔥 🔥 🔥 Open Source Airtable Alternative  ",
+    "language": "TypeScript",
+    "stars": "57631",
+    "forks": "4210",
+    "increased": "742 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Zie619",
+        "avatar": "https://avatars.githubusercontent.com/u/54673680?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/PraveenMudalgeri",
+        "avatar": "https://avatars.githubusercontent.com/u/145120469?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/wildcard",
+        "avatar": "https://avatars.githubusercontent.com/u/2939405?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Siphon880gh",
+        "avatar": "https://avatars.githubusercontent.com/u/5465445?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Zie619/n8n-workflows",
+    "name": "Zie619/n8n-workflows",
+    "description": "all of the workflows of n8n i could find (also from the site itself)  ",
+    "language": "HTML",
+    "stars": "32862",
+    "forks": "2093",
+    "increased": "2744 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/rajatsen91",
+        "avatar": "https://avatars.githubusercontent.com/u/8039264?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/siriuz42",
+        "avatar": "https://avatars.githubusercontent.com/u/5073569?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/misha-chertushkin",
+        "avatar": "https://avatars.githubusercontent.com/u/151166456?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/JustinGuese",
+        "avatar": "https://avatars.githubusercontent.com/u/9588843?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kashif",
+        "avatar": "https://avatars.githubusercontent.com/u/8100?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/google-research/timesfm",
+    "name": "google-research/timesfm",
+    "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.  ",
+    "language": "Python",
+    "stars": "6247",
+    "forks": "549",
+    "increased": "744 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/plutoless",
+        "avatar": "https://avatars.githubusercontent.com/u/471561?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/halajohn",
+        "avatar": "https://avatars.githubusercontent.com/u/3167297?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cyfyifanchen",
+        "avatar": "https://avatars.githubusercontent.com/u/2340896?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/wangyoucao577",
+        "avatar": "https://avatars.githubusercontent.com/u/1905370?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sunxilin",
+        "avatar": "https://avatars.githubusercontent.com/u/31622273?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/TEN-framework/ten-framework",
+    "name": "TEN-framework/ten-framework",
+    "description": "Open-source framework for conversational voice AI agents.  ",
+    "language": "C",
+    "stars": "7990",
+    "forks": "925",
+    "increased": "596 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/bolinfest",
+        "avatar": "https://avatars.githubusercontent.com/u/655869?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/nornagon-openai",
+        "avatar": "https://avatars.githubusercontent.com/u/172423086?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/aibrahim-oai",
+        "avatar": "https://avatars.githubusercontent.com/u/219906144?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pakrym-oai",
+        "avatar": "https://avatars.githubusercontent.com/u/204937752?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/fouad-openai",
+        "avatar": "https://avatars.githubusercontent.com/u/169186268?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/openai/codex",
+    "name": "openai/codex",
+    "description": "Lightweight coding agent that runs in your terminal  ",
+    "language": "Rust",
+    "stars": "43720",
+    "forks": "5113",
+    "increased": "2782 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/leestott",
+        "avatar": "https://avatars.githubusercontent.com/u/2511341?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jlooper",
+        "avatar": "https://avatars.githubusercontent.com/u/1450004?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/shwars",
+        "avatar": "https://avatars.githubusercontent.com/u/2892110?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/BethanyJep",
+        "avatar": "https://avatars.githubusercontent.com/u/44121227?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/microsoft/AI-For-Beginners",
+    "name": "microsoft/AI-For-Beginners",
+    "description": "12 Weeks, 24 Lessons, AI for All!  ",
+    "language": "Jupyter Notebook",
+    "stars": "42023",
+    "forks": "8139",
+    "increased": "1818 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/lemire",
+        "avatar": "https://avatars.githubusercontent.com/u/391987?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jkeiser",
+        "avatar": "https://avatars.githubusercontent.com/u/654882?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/geofflangdale",
+        "avatar": "https://avatars.githubusercontent.com/u/37128715?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pauldreik",
+        "avatar": "https://avatars.githubusercontent.com/u/3541498?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ioioioio",
+        "avatar": "https://avatars.githubusercontent.com/u/26575562?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/simdjson/simdjson",
+    "name": "simdjson/simdjson",
+    "description": "Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, ClickHouse, WatermelonDB, Apache Doris, Milvus, StarRocks  ",
+    "language": "C++",
+    "stars": "22330",
+    "forks": "1153",
+    "increased": "480 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/davidkoski",
+        "avatar": "https://avatars.githubusercontent.com/u/46639364?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/DePasqualeOrg",
+        "avatar": "https://avatars.githubusercontent.com/u/25420077?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/johnmai-dev",
+        "avatar": "https://avatars.githubusercontent.com/u/1825679?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/awni",
+        "avatar": "https://avatars.githubusercontent.com/u/1542805?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ibrahimcetin",
+        "avatar": "https://avatars.githubusercontent.com/u/33904390?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/ml-explore/mlx-swift-examples",
+    "name": "ml-explore/mlx-swift-examples",
+    "description": "Examples using MLX Swift  ",
+    "language": "Swift",
+    "stars": "2178",
+    "forks": "309",
+    "increased": "124 stars this week"
+  }
+]
