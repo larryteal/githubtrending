@@ -1,0 +1,535 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/manucorporat",
+        "avatar": "https://avatars.githubusercontent.com/u/127379?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/javierprovecho",
+        "avatar": "https://avatars.githubusercontent.com/u/2457529?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/thinkerou",
+        "avatar": "https://avatars.githubusercontent.com/u/4488261?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/appleboy",
+        "avatar": "https://avatars.githubusercontent.com/u/21979?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/gin-gonic/gin",
+    "name": "gin-gonic/gin",
+    "description": "Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.  ",
+    "language": "Go",
+    "stars": "84222",
+    "forks": "8335",
+    "increased": "37 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/awesomekling",
+        "avatar": "https://avatars.githubusercontent.com/u/5954907?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/trflynn89",
+        "avatar": "https://avatars.githubusercontent.com/u/5600524?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/linusg",
+        "avatar": "https://avatars.githubusercontent.com/u/19366641?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/AtkinsSJ",
+        "avatar": "https://avatars.githubusercontent.com/u/222642?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/alimpfard",
+        "avatar": "https://avatars.githubusercontent.com/u/14001776?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/LadybirdBrowser/ladybird",
+    "name": "LadybirdBrowser/ladybird",
+    "description": "Truly independent web browser  ",
+    "language": "C++",
+    "stars": "48331",
+    "forks": "2091",
+    "increased": "300 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Fenny",
+        "avatar": "https://avatars.githubusercontent.com/u/25108519?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ReneWerner87",
+        "avatar": "https://avatars.githubusercontent.com/u/7063188?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/gaby",
+        "avatar": "https://avatars.githubusercontent.com/u/835733?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kiyonlin",
+        "avatar": "https://avatars.githubusercontent.com/u/1214670?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/efectn",
+        "avatar": "https://avatars.githubusercontent.com/u/45270788?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/gofiber/fiber",
+    "name": "gofiber/fiber",
+    "description": "⚡️ Express inspired web framework written in Go  ",
+    "language": "Go",
+    "stars": "37776",
+    "forks": "1869",
+    "increased": "29 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/nzakas",
+        "avatar": "https://avatars.githubusercontent.com/u/38546?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mdjermanovic",
+        "avatar": "https://avatars.githubusercontent.com/u/44349756?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ilyavolodin",
+        "avatar": "https://avatars.githubusercontent.com/u/1380062?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/not-an-aardvark",
+        "avatar": "https://avatars.githubusercontent.com/u/11638619?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mysticatea",
+        "avatar": "https://avatars.githubusercontent.com/u/1937871?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/eslint/eslint",
+    "name": "eslint/eslint",
+    "description": "Find and fix problems in your JavaScript code.  ",
+    "language": "JavaScript",
+    "stars": "26444",
+    "forks": "4806",
+    "increased": "103 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/vitaut",
+        "avatar": "https://avatars.githubusercontent.com/u/576385?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/phprus",
+        "avatar": "https://avatars.githubusercontent.com/u/382460?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/alexezeder",
+        "avatar": "https://avatars.githubusercontent.com/u/1554508?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/DanielaE",
+        "avatar": "https://avatars.githubusercontent.com/u/1381823?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jk-jeon",
+        "avatar": "https://avatars.githubusercontent.com/u/33922675?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/fmtlib/fmt",
+    "name": "fmtlib/fmt",
+    "description": "A modern formatting library  ",
+    "language": "C++",
+    "stars": "22534",
+    "forks": "2721",
+    "increased": "6 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/mr-mig",
+        "avatar": "https://avatars.githubusercontent.com/u/1062491?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/YellowFoxH4XOR",
+        "avatar": "https://avatars.githubusercontent.com/u/24626419?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/espozbob",
+        "avatar": "https://avatars.githubusercontent.com/u/2732120?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/wa008",
+        "avatar": "https://avatars.githubusercontent.com/u/29834520?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/diendv96",
+        "avatar": "https://avatars.githubusercontent.com/u/9625273?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/mtdvio/every-programmer-should-know",
+    "name": "mtdvio/every-programmer-should-know",
+    "description": "A collection of (mostly) technical things every software developer should know about  ",
+    "stars": "90702",
+    "forks": "8201",
+    "increased": "797 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ljharb",
+        "avatar": "https://avatars.githubusercontent.com/u/45469?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/PeterDaveHello",
+        "avatar": "https://avatars.githubusercontent.com/u/3691490?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/creationix",
+        "avatar": "https://avatars.githubusercontent.com/u/89353?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/koenpunt",
+        "avatar": "https://avatars.githubusercontent.com/u/351038?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/lukechilds",
+        "avatar": "https://avatars.githubusercontent.com/u/2123375?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/nvm-sh/nvm",
+    "name": "nvm-sh/nvm",
+    "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions  ",
+    "language": "Shell",
+    "stars": "87056",
+    "forks": "9320",
+    "increased": "26 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/frangio",
+        "avatar": "https://avatars.githubusercontent.com/u/481465?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Amxx",
+        "avatar": "https://avatars.githubusercontent.com/u/2432299?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/nventuro",
+        "avatar": "https://avatars.githubusercontent.com/u/2530770?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ernestognw",
+        "avatar": "https://avatars.githubusercontent.com/u/33379285?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/maraoz",
+        "avatar": "https://avatars.githubusercontent.com/u/287189?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/OpenZeppelin/openzeppelin-contracts",
+    "name": "OpenZeppelin/openzeppelin-contracts",
+    "description": "OpenZeppelin Contracts is a library for secure smart contract development.  ",
+    "language": "Solidity",
+    "stars": "26382",
+    "forks": "12192",
+    "increased": "7 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/SoilZhu",
+        "avatar": "https://avatars.githubusercontent.com/u/74606271?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Coconut-Aero",
+        "avatar": "https://avatars.githubusercontent.com/u/148566655?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/YaoSiQian",
+        "avatar": "https://avatars.githubusercontent.com/u/29835749?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/hu-qi",
+        "avatar": "https://avatars.githubusercontent.com/u/17986122?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Anduin2017",
+        "avatar": "https://avatars.githubusercontent.com/u/19531547?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Gar-b-age/CookLikeHOC",
+    "name": "Gar-b-age/CookLikeHOC",
+    "description": "🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.  ",
+    "language": "JavaScript",
+    "stars": "17354",
+    "forks": "1701",
+    "increased": "3634 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/vhf",
+        "avatar": "https://avatars.githubusercontent.com/u/2022803?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/eshellman",
+        "avatar": "https://avatars.githubusercontent.com/u/926513?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/davorpa",
+        "avatar": "https://avatars.githubusercontent.com/u/3125580?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/MHM5000",
+        "avatar": "https://avatars.githubusercontent.com/u/2694949?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kadhirash",
+        "avatar": "https://avatars.githubusercontent.com/u/10100659?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/EbookFoundation/free-programming-books",
+    "name": "EbookFoundation/free-programming-books",
+    "description": "📚 Freely available programming books  ",
+    "language": "Python",
+    "stars": "370067",
+    "forks": "64285",
+    "increased": "441 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/WECENG",
+        "avatar": "https://avatars.githubusercontent.com/u/34994019?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/llbbl",
+        "avatar": "https://avatars.githubusercontent.com/u/19964?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/thomas-art",
+        "avatar": "https://avatars.githubusercontent.com/u/60135827?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/BlueCestbon",
+        "avatar": "https://avatars.githubusercontent.com/u/65054570?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/WECENG/ticket-purchase",
+    "name": "WECENG/ticket-purchase",
+    "description": "大麦自动抢票，支持人员、城市、日期场次、价格选择  ",
+    "language": "Python",
+    "stars": "3134",
+    "forks": "428",
+    "increased": "84 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/tjb-tech",
+        "avatar": "https://avatars.githubusercontent.com/u/56426168?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/chaohuang-ai",
+        "avatar": "https://avatars.githubusercontent.com/u/204865953?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/LZH-YS1998",
+        "avatar": "https://avatars.githubusercontent.com/u/90381931?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/HKUDS/AI-Researcher",
+    "name": "HKUDS/AI-Researcher",
+    "description": "[NeurIPS2025] \"AI-Researcher: Autonomous Scientific Innovation\" -- A production-ready version:  https://novix.science/chat    ",
+    "language": "Python",
+    "stars": "2885",
+    "forks": "335",
+    "increased": "41 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/mattsse",
+        "avatar": "https://avatars.githubusercontent.com/u/19890894?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/DaniPopes",
+        "avatar": "https://avatars.githubusercontent.com/u/57450786?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/grandizzy",
+        "avatar": "https://avatars.githubusercontent.com/u/38490174?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/gakonst",
+        "avatar": "https://avatars.githubusercontent.com/u/17802178?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Evalir",
+        "avatar": "https://avatars.githubusercontent.com/u/26014927?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/foundry-rs/foundry",
+    "name": "foundry-rs/foundry",
+    "description": "Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.  ",
+    "language": "Rust",
+    "stars": "9499",
+    "forks": "2159",
+    "increased": "8 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ahejlsberg",
+        "avatar": "https://avatars.githubusercontent.com/u/4226954?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sheetalkamat",
+        "avatar": "https://avatars.githubusercontent.com/u/8052792?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sandersn",
+        "avatar": "https://avatars.githubusercontent.com/u/293473?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/DanielRosenwasser",
+        "avatar": "https://avatars.githubusercontent.com/u/972891?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mhegazy",
+        "avatar": "https://avatars.githubusercontent.com/u/8000722?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/microsoft/TypeScript",
+    "name": "microsoft/TypeScript",
+    "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.  ",
+    "language": "TypeScript",
+    "stars": "106074",
+    "forks": "13008",
+    "increased": "19 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/technosophos",
+        "avatar": "https://avatars.githubusercontent.com/u/89193?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/adamreese",
+        "avatar": "https://avatars.githubusercontent.com/u/2347529?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mattfarina",
+        "avatar": "https://avatars.githubusercontent.com/u/62991?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/thomastaylor312",
+        "avatar": "https://avatars.githubusercontent.com/u/4294228?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/helm/helm",
+    "name": "helm/helm",
+    "description": "The Kubernetes Package Manager  ",
+    "language": "Go",
+    "stars": "28523",
+    "forks": "7333",
+    "increased": "8 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/steveruizok",
+        "avatar": "https://avatars.githubusercontent.com/u/23072548?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ds300",
+        "avatar": "https://avatars.githubusercontent.com/u/1242537?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mimecuvalo",
+        "avatar": "https://avatars.githubusercontent.com/u/469604?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/MitjaBezensek",
+        "avatar": "https://avatars.githubusercontent.com/u/2523721?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/SomeHats",
+        "avatar": "https://avatars.githubusercontent.com/u/1489520?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/tldraw/tldraw",
+    "name": "tldraw/tldraw",
+    "description": "very good whiteboard SDK / infinite canvas SDK  ",
+    "language": "TypeScript",
+    "stars": "42704",
+    "forks": "2747",
+    "increased": "236 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/se3000",
+        "avatar": "https://avatars.githubusercontent.com/u/573827?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/j16r",
+        "avatar": "https://avatars.githubusercontent.com/u/344071?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dimroc",
+        "avatar": "https://avatars.githubusercontent.com/u/635121?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/samsondav",
+        "avatar": "https://avatars.githubusercontent.com/u/4147639?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jmank88",
+        "avatar": "https://avatars.githubusercontent.com/u/1194128?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/smartcontractkit/chainlink",
+    "name": "smartcontractkit/chainlink",
+    "description": "node of the decentralized oracle network, bridging on and off-chain computation  ",
+    "language": "Go",
+    "stars": "7569",
+    "forks": "1842",
+    "increased": "8 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/lovelydinosaur",
+        "avatar": "https://avatars.githubusercontent.com/u/647359?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Kludex",
+        "avatar": "https://avatars.githubusercontent.com/u/7353520?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/euri10",
+        "avatar": "https://avatars.githubusercontent.com/u/1104190?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/florimondmanca",
+        "avatar": "https://avatars.githubusercontent.com/u/15911462?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Kludex/uvicorn",
+    "name": "Kludex/uvicorn",
+    "description": "An ASGI web server, for Python. 🦄  ",
+    "language": "Python",
+    "stars": "736",
+    "forks": "850",
+    "increased": "2 stars today"
+  }
+]
