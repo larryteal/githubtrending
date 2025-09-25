@@ -1,0 +1,499 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/kentonv",
+        "avatar": "https://avatars.githubusercontent.com/u/4001805?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dynamic-calm",
+        "avatar": "https://avatars.githubusercontent.com/u/96750403?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/southpolesteve",
+        "avatar": "https://avatars.githubusercontent.com/u/471400?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sifatulrabbi",
+        "avatar": "https://avatars.githubusercontent.com/u/96096780?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/cloudflare/capnweb",
+    "name": "cloudflare/capnweb",
+    "description": "JavaScript/TypeScript-native, low-boilerplate, object-capability RPC system  ",
+    "language": "TypeScript",
+    "stars": "1740",
+    "forks": "46",
+    "increased": "326 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/kimchy",
+        "avatar": "https://avatars.githubusercontent.com/u/41300?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/martijnvg",
+        "avatar": "https://avatars.githubusercontent.com/u/580421?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/nik9000",
+        "avatar": "https://avatars.githubusercontent.com/u/215970?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/s1monw",
+        "avatar": "https://avatars.githubusercontent.com/u/973334?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rjernst",
+        "avatar": "https://avatars.githubusercontent.com/u/289412?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/elastic/elasticsearch",
+    "name": "elastic/elasticsearch",
+    "description": "Free and Open Source, Distributed, RESTful Search Engine  ",
+    "language": "Java",
+    "stars": "74302",
+    "forks": "25486",
+    "increased": "64 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/awesomekling",
+        "avatar": "https://avatars.githubusercontent.com/u/5954907?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/trflynn89",
+        "avatar": "https://avatars.githubusercontent.com/u/5600524?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/linusg",
+        "avatar": "https://avatars.githubusercontent.com/u/19366641?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/AtkinsSJ",
+        "avatar": "https://avatars.githubusercontent.com/u/222642?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/alimpfard",
+        "avatar": "https://avatars.githubusercontent.com/u/14001776?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/LadybirdBrowser/ladybird",
+    "name": "LadybirdBrowser/ladybird",
+    "description": "Truly independent web browser  ",
+    "language": "C++",
+    "stars": "48575",
+    "forks": "2104",
+    "increased": "227 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/LarFii",
+        "avatar": "https://avatars.githubusercontent.com/u/49157727?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/chaohuang-ai",
+        "avatar": "https://avatars.githubusercontent.com/u/204865953?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/hzywhite",
+        "avatar": "https://avatars.githubusercontent.com/u/53216231?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Zongwei9888",
+        "avatar": "https://avatars.githubusercontent.com/u/145887958?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/LaansDole",
+        "avatar": "https://avatars.githubusercontent.com/u/85084360?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/HKUDS/RAG-Anything",
+    "name": "HKUDS/RAG-Anything",
+    "description": "\"RAG-Anything: All-in-One RAG Framework\"  ",
+    "language": "Python",
+    "stars": "5540",
+    "forks": "653",
+    "increased": "122 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/glenn-jocher",
+        "avatar": "https://avatars.githubusercontent.com/u/26833433?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/UltralyticsAssistant",
+        "avatar": "https://avatars.githubusercontent.com/u/135830346?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Laughing-q",
+        "avatar": "https://avatars.githubusercontent.com/u/61612323?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/RizwanMunawar",
+        "avatar": "https://avatars.githubusercontent.com/u/62513924?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/ultralytics/ultralytics",
+    "name": "ultralytics/ultralytics",
+    "description": "Ultralytics YOLO 🚀  ",
+    "language": "Python",
+    "stars": "46039",
+    "forks": "8968",
+    "increased": "49 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/istio-testing",
+        "avatar": "https://avatars.githubusercontent.com/u/25311884?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/howardjohn",
+        "avatar": "https://avatars.githubusercontent.com/u/623453?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/hzxuzhonghu",
+        "avatar": "https://avatars.githubusercontent.com/u/13374016?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ramaraochavali",
+        "avatar": "https://avatars.githubusercontent.com/u/17204904?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kyessenov",
+        "avatar": "https://avatars.githubusercontent.com/u/9537734?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/istio/istio",
+    "name": "istio/istio",
+    "description": "Connect, secure, control, and observe services.  ",
+    "language": "Go",
+    "stars": "37352",
+    "forks": "8078",
+    "increased": "7 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/manucorporat",
+        "avatar": "https://avatars.githubusercontent.com/u/127379?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/javierprovecho",
+        "avatar": "https://avatars.githubusercontent.com/u/2457529?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/thinkerou",
+        "avatar": "https://avatars.githubusercontent.com/u/4488261?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/appleboy",
+        "avatar": "https://avatars.githubusercontent.com/u/21979?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/gin-gonic/gin",
+    "name": "gin-gonic/gin",
+    "description": "Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.  ",
+    "language": "Go",
+    "stars": "84964",
+    "forks": "8374",
+    "increased": "550 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/xmatthias",
+        "avatar": "https://avatars.githubusercontent.com/u/5024695?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/hroff-1902",
+        "avatar": "https://avatars.githubusercontent.com/u/47309513?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/samgermain",
+        "avatar": "https://avatars.githubusercontent.com/u/29212519?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/robcaulk",
+        "avatar": "https://avatars.githubusercontent.com/u/20807672?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/freqtrade/freqtrade",
+    "name": "freqtrade/freqtrade",
+    "description": "Free, open source crypto trading bot  ",
+    "language": "Python",
+    "stars": "42949",
+    "forks": "8702",
+    "increased": "125 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/fh2019ustc",
+        "avatar": "https://avatars.githubusercontent.com/u/50725551?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/xfey",
+        "avatar": "https://avatars.githubusercontent.com/u/35292675?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ktyptorio",
+        "avatar": "https://avatars.githubusercontent.com/u/81064943?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Ivan-Inby",
+        "avatar": "https://avatars.githubusercontent.com/u/170828399?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/bytedance/Dolphin",
+    "name": "bytedance/Dolphin",
+    "description": "The official repo for “Dolphin: Document Image Parsing via Heterogeneous Anchor Prompting”, ACL, 2025.  ",
+    "language": "Python",
+    "stars": "6439",
+    "forks": "527",
+    "increased": "457 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/vmayoral",
+        "avatar": "https://avatars.githubusercontent.com/u/1375246?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rm-openai",
+        "avatar": "https://avatars.githubusercontent.com/u/192034341?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/luijait",
+        "avatar": "https://avatars.githubusercontent.com/u/60628803?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/luijait23",
+        "avatar": "https://avatars.githubusercontent.com/u/29357780?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/MartinEBravo",
+        "avatar": "https://avatars.githubusercontent.com/u/123977407?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/aliasrobotics/cai",
+    "name": "aliasrobotics/cai",
+    "description": "Cybersecurity AI (CAI), the framework for AI Security  ",
+    "language": "Python",
+    "stars": "4218",
+    "forks": "582",
+    "increased": "99 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/SoilZhu",
+        "avatar": "https://avatars.githubusercontent.com/u/74606271?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Coconut-Aero",
+        "avatar": "https://avatars.githubusercontent.com/u/148566655?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/YaoSiQian",
+        "avatar": "https://avatars.githubusercontent.com/u/29835749?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/hu-qi",
+        "avatar": "https://avatars.githubusercontent.com/u/17986122?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Anduin2017",
+        "avatar": "https://avatars.githubusercontent.com/u/19531547?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Gar-b-age/CookLikeHOC",
+    "name": "Gar-b-age/CookLikeHOC",
+    "description": "🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.  ",
+    "language": "JavaScript",
+    "stars": "17945",
+    "forks": "1771",
+    "increased": "1152 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/mr-mig",
+        "avatar": "https://avatars.githubusercontent.com/u/1062491?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/YellowFoxH4XOR",
+        "avatar": "https://avatars.githubusercontent.com/u/24626419?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/espozbob",
+        "avatar": "https://avatars.githubusercontent.com/u/2732120?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/wa008",
+        "avatar": "https://avatars.githubusercontent.com/u/29834520?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/diendv96",
+        "avatar": "https://avatars.githubusercontent.com/u/9625273?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/mtdvio/every-programmer-should-know",
+    "name": "mtdvio/every-programmer-should-know",
+    "description": "A collection of (mostly) technical things every software developer should know about  ",
+    "stars": "91695",
+    "forks": "8263",
+    "increased": "841 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/mvines",
+        "avatar": "https://avatars.githubusercontent.com/u/1281082?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/garious",
+        "avatar": "https://avatars.githubusercontent.com/u/55449?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jeffwashington",
+        "avatar": "https://avatars.githubusercontent.com/u/75863576?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jstarry",
+        "avatar": "https://avatars.githubusercontent.com/u/1076145?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/solana-labs/solana",
+    "name": "solana-labs/solana",
+    "description": "Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.  ",
+    "language": "Rust",
+    "stars": "14483",
+    "forks": "5196",
+    "increased": "2 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Vanessa219",
+        "avatar": "https://avatars.githubusercontent.com/u/970828?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/88250",
+        "avatar": "https://avatars.githubusercontent.com/u/873584?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/TCOTC",
+        "avatar": "https://avatars.githubusercontent.com/u/78434827?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Zuoqiu-Yingyi",
+        "avatar": "https://avatars.githubusercontent.com/u/49649786?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/siyuan-note/siyuan",
+    "name": "siyuan-note/siyuan",
+    "description": "A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.  ",
+    "language": "TypeScript",
+    "stars": "37727",
+    "forks": "2320",
+    "increased": "75 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/timgraham",
+        "avatar": "https://avatars.githubusercontent.com/u/411869?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/adrianholovaty",
+        "avatar": "https://avatars.githubusercontent.com/u/180401?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/malcolmt",
+        "avatar": "https://avatars.githubusercontent.com/u/6923?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/freakboy3742",
+        "avatar": "https://avatars.githubusercontent.com/u/37345?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/felixxm",
+        "avatar": "https://avatars.githubusercontent.com/u/2865885?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/django/django",
+    "name": "django/django",
+    "description": "The Web framework for perfectionists with deadlines.  ",
+    "language": "Python",
+    "stars": "85152",
+    "forks": "33006",
+    "increased": "22 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/slam",
+        "avatar": "https://avatars.githubusercontent.com/u/50348?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kamranahmedse",
+        "avatar": "https://avatars.githubusercontent.com/u/4921183?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/LombardiDaniel",
+        "avatar": "https://avatars.githubusercontent.com/u/50521908?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Stephanvs",
+        "avatar": "https://avatars.githubusercontent.com/u/375631?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/alastairp",
+        "avatar": "https://avatars.githubusercontent.com/u/1277202?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/ByteByteGoHq/system-design-101",
+    "name": "ByteByteGoHq/system-design-101",
+    "description": "Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.  ",
+    "stars": "76842",
+    "forks": "8304",
+    "increased": "126 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/AlexCheema",
+        "avatar": "https://avatars.githubusercontent.com/u/41707476?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cadenmackenzie",
+        "avatar": "https://avatars.githubusercontent.com/u/14060736?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/blindcrone",
+        "avatar": "https://avatars.githubusercontent.com/u/114382923?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ianpaul10",
+        "avatar": "https://avatars.githubusercontent.com/u/46036106?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pranav4501",
+        "avatar": "https://avatars.githubusercontent.com/u/56645758?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/exo-explore/exo",
+    "name": "exo-explore/exo",
+    "description": "Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚  ",
+    "language": "Python",
+    "stars": "31212",
+    "forks": "2072",
+    "increased": "32 stars today"
+  }
+]
