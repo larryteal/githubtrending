@@ -1,0 +1,521 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/adeebshihadeh",
+        "avatar": "https://avatars.githubusercontent.com/u/8762862?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sshane",
+        "avatar": "https://avatars.githubusercontent.com/u/25857203?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/deanlee",
+        "avatar": "https://avatars.githubusercontent.com/u/27770?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pd0wm",
+        "avatar": "https://avatars.githubusercontent.com/u/1314752?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/haraschax",
+        "avatar": "https://avatars.githubusercontent.com/u/6804392?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/commaai/openpilot",
+    "name": "commaai/openpilot",
+    "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.  ",
+    "language": "Python",
+    "stars": "56688",
+    "forks": "10175",
+    "increased": "68 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/kamranahmedse",
+        "avatar": "https://avatars.githubusercontent.com/u/4921183?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dansholds",
+        "avatar": "https://avatars.githubusercontent.com/u/25537601?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/arikchakma",
+        "avatar": "https://avatars.githubusercontent.com/u/54026804?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/kamranahmedse/developer-roadmap",
+    "name": "kamranahmedse/developer-roadmap",
+    "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.  ",
+    "language": "TypeScript",
+    "stars": "338219",
+    "forks": "42934",
+    "increased": "346 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/rasbt",
+        "avatar": "https://avatars.githubusercontent.com/u/5618407?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/d-kleine",
+        "avatar": "https://avatars.githubusercontent.com/u/53251018?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Intelligence-Manifesto",
+        "avatar": "https://avatars.githubusercontent.com/u/155522535?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rayed-therap",
+        "avatar": "https://avatars.githubusercontent.com/u/4649183?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/casinca",
+        "avatar": "https://avatars.githubusercontent.com/u/47400729?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/rasbt/LLMs-from-scratch",
+    "name": "rasbt/LLMs-from-scratch",
+    "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step  ",
+    "language": "Jupyter Notebook",
+    "stars": "73330",
+    "forks": "10673",
+    "increased": "163 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/dexhorthy",
+        "avatar": "https://avatars.githubusercontent.com/u/3730605?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/balanceiskey",
+        "avatar": "https://avatars.githubusercontent.com/u/470240?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/samdickson22",
+        "avatar": "https://avatars.githubusercontent.com/u/217395086?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/allisoneer",
+        "avatar": "https://avatars.githubusercontent.com/u/20910163?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/humanlayer/humanlayer",
+    "name": "humanlayer/humanlayer",
+    "description": "The best way to get AI coding agents to solve hard problems in complex codebases.  ",
+    "language": "TypeScript",
+    "stars": "4588",
+    "forks": "358",
+    "increased": "1024 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/laurmaedje",
+        "avatar": "https://avatars.githubusercontent.com/u/17899797?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/reknih",
+        "avatar": "https://avatars.githubusercontent.com/u/3874949?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/MDLC01",
+        "avatar": "https://avatars.githubusercontent.com/u/57839069?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Leedehai",
+        "avatar": "https://avatars.githubusercontent.com/u/18319900?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/PgBiel",
+        "avatar": "https://avatars.githubusercontent.com/u/9021226?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/typst/typst",
+    "name": "typst/typst",
+    "description": "A new markup-based typesetting system that is powerful and easy to learn.  ",
+    "language": "Rust",
+    "stars": "46104",
+    "forks": "1238",
+    "increased": "152 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Shubhamsaboo",
+        "avatar": "https://avatars.githubusercontent.com/u/31396011?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Madhuvod",
+        "avatar": "https://avatars.githubusercontent.com/u/124294538?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/libw0430",
+        "avatar": "https://avatars.githubusercontent.com/u/102198332?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/AndrewHoh",
+        "avatar": "https://avatars.githubusercontent.com/u/774516?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ArkVex",
+        "avatar": "https://avatars.githubusercontent.com/u/159469387?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+    "name": "Shubhamsaboo/awesome-llm-apps",
+    "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.  ",
+    "language": "Python",
+    "stars": "70535",
+    "forks": "9018",
+    "increased": "169 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/you-n-g",
+        "avatar": "https://avatars.githubusercontent.com/u/465606?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bxdd",
+        "avatar": "https://avatars.githubusercontent.com/u/45119470?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Derek-Wds",
+        "avatar": "https://avatars.githubusercontent.com/u/26081991?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/zhupr",
+        "avatar": "https://avatars.githubusercontent.com/u/18660661?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/SunsetWolf",
+        "avatar": "https://avatars.githubusercontent.com/u/30293408?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/microsoft/qlib",
+    "name": "microsoft/qlib",
+    "description": "Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped with  https://github.com/microsoft/RD-Agent  to automate R&amp;D process.  ",
+    "language": "Python",
+    "stars": "31433",
+    "forks": "4842",
+    "increased": "75 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/thdxr",
+        "avatar": "https://avatars.githubusercontent.com/u/826656?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/adamdotdevin",
+        "avatar": "https://avatars.githubusercontent.com/u/2363879?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jayair",
+        "avatar": "https://avatars.githubusercontent.com/u/53023?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rekram1-node",
+        "avatar": "https://avatars.githubusercontent.com/u/63023139?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/fwang",
+        "avatar": "https://avatars.githubusercontent.com/u/83515?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/sst/opencode",
+    "name": "sst/opencode",
+    "description": "AI coding agent, built for the terminal.  ",
+    "language": "TypeScript",
+    "stars": "25354",
+    "forks": "1828",
+    "increased": "124 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/harry0703",
+        "avatar": "https://avatars.githubusercontent.com/u/4928832?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/yyhhyyyyyy",
+        "avatar": "https://avatars.githubusercontent.com/u/95077259?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/vuisme",
+        "avatar": "https://avatars.githubusercontent.com/u/96235876?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/KevinZhang19870314",
+        "avatar": "https://avatars.githubusercontent.com/u/13794286?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/garylab",
+        "avatar": "https://avatars.githubusercontent.com/u/3072379?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/harry0703/MoneyPrinterTurbo",
+    "name": "harry0703/MoneyPrinterTurbo",
+    "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.  ",
+    "language": "Python",
+    "stars": "40713",
+    "forks": "5918",
+    "increased": "368 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/an-lee",
+        "avatar": "https://avatars.githubusercontent.com/u/22209056?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/xiaolai",
+        "avatar": "https://avatars.githubusercontent.com/u/152970?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/lyricat",
+        "avatar": "https://avatars.githubusercontent.com/u/67439?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/zgw010",
+        "avatar": "https://avatars.githubusercontent.com/u/26003810?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/divisey",
+        "avatar": "https://avatars.githubusercontent.com/u/26423172?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/ZuodaoTech/everyone-can-use-english",
+    "name": "ZuodaoTech/everyone-can-use-english",
+    "description": "人人都能用英语  ",
+    "language": "TypeScript",
+    "stars": "30678",
+    "forks": "4371",
+    "increased": "238 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/nabinhait",
+        "avatar": "https://avatars.githubusercontent.com/u/836784?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rohitwaghchaure",
+        "avatar": "https://avatars.githubusercontent.com/u/8780500?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/deepeshgarg007",
+        "avatar": "https://avatars.githubusercontent.com/u/42651287?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rmehta",
+        "avatar": "https://avatars.githubusercontent.com/u/140076?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/anandpdoshi",
+        "avatar": "https://avatars.githubusercontent.com/u/836785?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/frappe/erpnext",
+    "name": "frappe/erpnext",
+    "description": "Free and Open Source Enterprise Resource Planning (ERP)  ",
+    "language": "Python",
+    "stars": "28982",
+    "forks": "9436",
+    "increased": "231 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/dhh",
+        "avatar": "https://avatars.githubusercontent.com/u/2741?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ryanrhughes",
+        "avatar": "https://avatars.githubusercontent.com/u/1630358?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tahayvr",
+        "avatar": "https://avatars.githubusercontent.com/u/77543049?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/npenza",
+        "avatar": "https://avatars.githubusercontent.com/u/69229034?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ryanyogan",
+        "avatar": "https://avatars.githubusercontent.com/u/41596?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/basecamp/omarchy",
+    "name": "basecamp/omarchy",
+    "description": "Opinionated Arch/Hyprland Setup  ",
+    "language": "Shell",
+    "stars": "11619",
+    "forks": "1104",
+    "increased": "368 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/LukePulverenti",
+        "avatar": "https://avatars.githubusercontent.com/u/3607463?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Bond-009",
+        "avatar": "https://avatars.githubusercontent.com/u/21289123?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/crobibero",
+        "avatar": "https://avatars.githubusercontent.com/u/24963659?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cvium",
+        "avatar": "https://avatars.githubusercontent.com/u/675118?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/joshuaboniface",
+        "avatar": "https://avatars.githubusercontent.com/u/4031396?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/jellyfin/jellyfin",
+    "name": "jellyfin/jellyfin",
+    "description": "The Free Software Media System - Server Backend &amp; API  ",
+    "language": "C#",
+    "stars": "44006",
+    "forks": "3955",
+    "increased": "118 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/wchen-r7",
+        "avatar": "https://avatars.githubusercontent.com/u/1170914?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/wvu",
+        "avatar": "https://avatars.githubusercontent.com/u/4551878?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/msjenkins-r7",
+        "avatar": "https://avatars.githubusercontent.com/u/5332090?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jvazquez-r7",
+        "avatar": "https://avatars.githubusercontent.com/u/1742838?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/zeroSteiner",
+        "avatar": "https://avatars.githubusercontent.com/u/2058303?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/rapid7/metasploit-framework",
+    "name": "rapid7/metasploit-framework",
+    "description": "Metasploit Framework  ",
+    "language": "Ruby",
+    "stars": "36552",
+    "forks": "14540",
+    "increased": "11 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Weves",
+        "avatar": "https://avatars.githubusercontent.com/u/25087905?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pablonyx",
+        "avatar": "https://avatars.githubusercontent.com/u/171597620?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/yuhongsun96",
+        "avatar": "https://avatars.githubusercontent.com/u/32520769?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rkuo-danswer",
+        "avatar": "https://avatars.githubusercontent.com/u/173942086?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/evan-onyx",
+        "avatar": "https://avatars.githubusercontent.com/u/183385614?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/onyx-dot-app/onyx",
+    "name": "onyx-dot-app/onyx",
+    "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM  ",
+    "language": "Python",
+    "stars": "14636",
+    "forks": "1978",
+    "increased": "288 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/dstftw",
+        "avatar": "https://avatars.githubusercontent.com/u/1908898?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/phihag",
+        "avatar": "https://avatars.githubusercontent.com/u/779568?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pukkandan",
+        "avatar": "https://avatars.githubusercontent.com/u/6623388?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/remitamine",
+        "avatar": "https://avatars.githubusercontent.com/u/10879694?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jaimeMF",
+        "avatar": "https://avatars.githubusercontent.com/u/1239727?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/yt-dlp/yt-dlp",
+    "name": "yt-dlp/yt-dlp",
+    "description": "A feature-rich command-line audio/video downloader  ",
+    "language": "Python",
+    "stars": "128672",
+    "forks": "10310",
+    "increased": "277 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/koreyspace",
+        "avatar": "https://avatars.githubusercontent.com/u/7462909?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/leestott",
+        "avatar": "https://avatars.githubusercontent.com/u/2511341?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ShivamGoyal03",
+        "avatar": "https://avatars.githubusercontent.com/u/93383164?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/skytin1004",
+        "avatar": "https://avatars.githubusercontent.com/u/99078115?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/indcoder",
+        "avatar": "https://avatars.githubusercontent.com/u/2099300?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/microsoft/ai-agents-for-beginners",
+    "name": "microsoft/ai-agents-for-beginners",
+    "description": "12 Lessons to Get Started Building AI Agents  ",
+    "language": "Jupyter Notebook",
+    "stars": "40276",
+    "forks": "13121",
+    "increased": "272 stars today"
+  }
+]
