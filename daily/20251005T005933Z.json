@@ -1,0 +1,621 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/SanchithHegde",
+        "avatar": "https://avatars.githubusercontent.com/u/22217505?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Narayanbhat166",
+        "avatar": "https://avatars.githubusercontent.com/u/48803246?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pixincreate",
+        "avatar": "https://avatars.githubusercontent.com/u/69745008?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/juspay/hyperswitch",
+    "name": "juspay/hyperswitch",
+    "description": "An open source payments switch written in Rust to make payments fast, reliable and affordable  ",
+    "language": "Rust",
+    "stars": "35614",
+    "forks": "4301",
+    "increased": "171 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/leecalcote",
+        "avatar": "https://avatars.githubusercontent.com/u/7570704?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/MUzairS15",
+        "avatar": "https://avatars.githubusercontent.com/u/79860504?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/amitamrutiya",
+        "avatar": "https://avatars.githubusercontent.com/u/91112485?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/theBeginner86",
+        "avatar": "https://avatars.githubusercontent.com/u/73700530?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Revolyssup",
+        "avatar": "https://avatars.githubusercontent.com/u/43276904?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/meshery/meshery",
+    "name": "meshery/meshery",
+    "description": "Meshery, the cloud native manager  ",
+    "language": "JavaScript",
+    "stars": "8307",
+    "forks": "2661",
+    "increased": "123 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/tianshub",
+        "avatar": "https://avatars.githubusercontent.com/u/4454178?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/wang2yn84",
+        "avatar": "https://avatars.githubusercontent.com/u/13134832?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/abheesht17",
+        "avatar": "https://avatars.githubusercontent.com/u/31360468?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/lc5211",
+        "avatar": "https://avatars.githubusercontent.com/u/181417613?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/google/tunix",
+    "name": "google/tunix",
+    "description": "A JAX-native LLM Post-Training Library  ",
+    "language": "Python",
+    "stars": "1470",
+    "forks": "127",
+    "increased": "165 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/nklhtv",
+        "avatar": "https://avatars.githubusercontent.com/u/5950722?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tymmesyde",
+        "avatar": "https://avatars.githubusercontent.com/u/7889816?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kKaskak",
+        "avatar": "https://avatars.githubusercontent.com/u/117831817?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/swetlasg",
+        "avatar": "https://avatars.githubusercontent.com/u/15102316?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Botsy",
+        "avatar": "https://avatars.githubusercontent.com/u/10400528?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Stremio/stremio-web",
+    "name": "Stremio/stremio-web",
+    "description": "Stremio - Freedom to Stream  ",
+    "language": "JavaScript",
+    "stars": "1901",
+    "forks": "404",
+    "increased": "57 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/sentientwaffle",
+        "avatar": "https://avatars.githubusercontent.com/u/461112?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/matklad",
+        "avatar": "https://avatars.githubusercontent.com/u/1711539?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jorangreef",
+        "avatar": "https://avatars.githubusercontent.com/u/413206?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/batiati",
+        "avatar": "https://avatars.githubusercontent.com/u/5728002?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cb22",
+        "avatar": "https://avatars.githubusercontent.com/u/703017?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/tigerbeetle/tigerbeetle",
+    "name": "tigerbeetle/tigerbeetle",
+    "description": "The financial transactions database designed for mission critical safety and performance.  ",
+    "language": "Zig",
+    "stars": "13893",
+    "forks": "685",
+    "increased": "74 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/paaatrick",
+        "avatar": "https://avatars.githubusercontent.com/u/3904051?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/LawnGnome",
+        "avatar": "https://avatars.githubusercontent.com/u/229984?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jeffhayworth",
+        "avatar": "https://avatars.githubusercontent.com/u/1210885?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Jeremy1026",
+        "avatar": "https://avatars.githubusercontent.com/u/2308626?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rdimascio",
+        "avatar": "https://avatars.githubusercontent.com/u/17639082?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/paaatrick/playball",
+    "name": "paaatrick/playball",
+    "description": "Watch MLB games from the comfort of your own terminal  ",
+    "language": "JavaScript",
+    "stars": "1053",
+    "forks": "41",
+    "increased": "106 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/AykutSarac",
+        "avatar": "https://avatars.githubusercontent.com/u/47941171?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/victorbrambati",
+        "avatar": "https://avatars.githubusercontent.com/u/52288843?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cihat",
+        "avatar": "https://avatars.githubusercontent.com/u/57585087?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dogukanuhn",
+        "avatar": "https://avatars.githubusercontent.com/u/42101198?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/AykutSarac/jsoncrack.com",
+    "name": "AykutSarac/jsoncrack.com",
+    "description": "✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.  ",
+    "language": "TypeScript",
+    "stars": "41771",
+    "forks": "2981",
+    "increased": "66 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/alckasoc",
+        "avatar": "https://avatars.githubusercontent.com/u/58043265?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/saa1605",
+        "avatar": "https://avatars.githubusercontent.com/u/29002135?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/eric-xw",
+        "avatar": "https://avatars.githubusercontent.com/u/7235298?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/eric-simu",
+        "avatar": "https://avatars.githubusercontent.com/u/173823391?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/shuyugan",
+        "avatar": "https://avatars.githubusercontent.com/u/140282198?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/simular-ai/Agent-S",
+    "name": "simular-ai/Agent-S",
+    "description": "Agent S: an open agentic framework that uses computers like a human  ",
+    "language": "Python",
+    "stars": "6532",
+    "forks": "712",
+    "increased": "82 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/tchiotludo",
+        "avatar": "https://avatars.githubusercontent.com/u/2064609?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/loicmathieu",
+        "avatar": "https://avatars.githubusercontent.com/u/1819009?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/MilosPaunovic",
+        "avatar": "https://avatars.githubusercontent.com/u/62475782?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/brian-mulier-p",
+        "avatar": "https://avatars.githubusercontent.com/u/37618489?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Skraye",
+        "avatar": "https://avatars.githubusercontent.com/u/37600690?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/kestra-io/kestra",
+    "name": "kestra-io/kestra",
+    "description": "Orchestrate everything - from scripts to data, infra, AI, and business - as code, with UI and AI Copilot. Simple. Fast. Scalable.  ",
+    "language": "Java",
+    "stars": "21794",
+    "forks": "1951",
+    "increased": "131 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/potassiummmm",
+        "avatar": "https://avatars.githubusercontent.com/u/54800242?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/younesbelkada",
+        "avatar": "https://avatars.githubusercontent.com/u/49240599?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tsong-ms",
+        "avatar": "https://avatars.githubusercontent.com/u/84831885?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dawnmsg",
+        "avatar": "https://avatars.githubusercontent.com/u/23658399?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sd983527",
+        "avatar": "https://avatars.githubusercontent.com/u/59006636?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/microsoft/BitNet",
+    "name": "microsoft/BitNet",
+    "description": "Official inference framework for 1-bit LLMs  ",
+    "language": "Python",
+    "stars": "22562",
+    "forks": "1762",
+    "increased": "288 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/maidul98",
+        "avatar": "https://avatars.githubusercontent.com/u/9300960?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/DanielHougaard",
+        "avatar": "https://avatars.githubusercontent.com/u/62331820?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dangtony98",
+        "avatar": "https://avatars.githubusercontent.com/u/25857006?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/akhilmhdh",
+        "avatar": "https://avatars.githubusercontent.com/u/31166322?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sheensantoscapadngan",
+        "avatar": "https://avatars.githubusercontent.com/u/65645666?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Infisical/infisical",
+    "name": "Infisical/infisical",
+    "description": "Infisical is the open-source platform for secrets management, PKI, and SSH access.  ",
+    "language": "TypeScript",
+    "stars": "20444",
+    "forks": "1394",
+    "increased": "157 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/jrose-signal",
+        "avatar": "https://avatars.githubusercontent.com/u/72036507?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jack-signal",
+        "avatar": "https://avatars.githubusercontent.com/u/67017134?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/akonradi-signal",
+        "avatar": "https://avatars.githubusercontent.com/u/144144902?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/moiseev-signal",
+        "avatar": "https://avatars.githubusercontent.com/u/122060238?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/andrew-signal",
+        "avatar": "https://avatars.githubusercontent.com/u/181278005?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/signalapp/libsignal",
+    "name": "signalapp/libsignal",
+    "description": "Home to the Signal Protocol as well as other cryptographic primitives which make Signal possible.  ",
+    "language": "Rust",
+    "stars": "4901",
+    "forks": "601",
+    "increased": "19 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Garderoben",
+        "avatar": "https://avatars.githubusercontent.com/u/10367109?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/henon",
+        "avatar": "https://avatars.githubusercontent.com/u/44090?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/danielchalmers",
+        "avatar": "https://avatars.githubusercontent.com/u/7112040?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ScarletKuro",
+        "avatar": "https://avatars.githubusercontent.com/u/19953225?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/MudBlazor/MudBlazor",
+    "name": "MudBlazor/MudBlazor",
+    "description": "Blazor Component Library based on Material Design principles with an emphasis on ease of use and extensibility  ",
+    "language": "C#",
+    "stars": "9668",
+    "forks": "1524",
+    "increased": "9 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Pathway-Dev",
+        "avatar": "https://avatars.githubusercontent.com/u/72749368?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/olruas",
+        "avatar": "https://avatars.githubusercontent.com/u/28102878?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/zxqfd555-pw",
+        "avatar": "https://avatars.githubusercontent.com/u/104143901?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/KamilPiechowiak",
+        "avatar": "https://avatars.githubusercontent.com/u/32928185?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pw-ppodhajski",
+        "avatar": "https://avatars.githubusercontent.com/u/106311100?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/pathwaycom/pathway",
+    "name": "pathwaycom/pathway",
+    "description": "Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.  ",
+    "language": "Python",
+    "stars": "44672",
+    "forks": "1367",
+    "increased": "457 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/RobertCraigie",
+        "avatar": "https://avatars.githubusercontent.com/u/23125036?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/yjp20",
+        "avatar": "https://avatars.githubusercontent.com/u/44457064?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ehamberg",
+        "avatar": "https://avatars.githubusercontent.com/u/16063?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/glide-browser/glide",
+    "name": "glide-browser/glide",
+    "description": "An extensible and keyboard-focused web browser  ",
+    "language": "TypeScript",
+    "stars": "536",
+    "forks": "11",
+    "increased": "72 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/drewbanin",
+        "avatar": "https://avatars.githubusercontent.com/u/1541139?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jtcohen6",
+        "avatar": "https://avatars.githubusercontent.com/u/13897643?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/beckjake",
+        "avatar": "https://avatars.githubusercontent.com/u/452302?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/emmyoop",
+        "avatar": "https://avatars.githubusercontent.com/u/7070049?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/gshank",
+        "avatar": "https://avatars.githubusercontent.com/u/38051?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/dbt-labs/dbt-core",
+    "name": "dbt-labs/dbt-core",
+    "description": "dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.  ",
+    "language": "Python",
+    "stars": "11555",
+    "forks": "1979",
+    "increased": "19 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/hsliuping",
+        "avatar": "https://avatars.githubusercontent.com/u/128790537?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Yijia-Xiao",
+        "avatar": "https://avatars.githubusercontent.com/u/48253104?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/EdwardoSunny",
+        "avatar": "https://avatars.githubusercontent.com/u/68405458?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ZeroAct",
+        "avatar": "https://avatars.githubusercontent.com/u/46982469?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/YifanHere",
+        "avatar": "https://avatars.githubusercontent.com/u/62582492?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/hsliuping/TradingAgents-CN",
+    "name": "hsliuping/TradingAgents-CN",
+    "description": "基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版  ",
+    "language": "Python",
+    "stars": "9054",
+    "forks": "2033",
+    "increased": "1034 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/orhanrauf",
+        "avatar": "https://avatars.githubusercontent.com/u/29870230?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/marc-rutzou",
+        "avatar": "https://avatars.githubusercontent.com/u/205832644?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/lennertjansen",
+        "avatar": "https://avatars.githubusercontent.com/u/25402511?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/danielsteman",
+        "avatar": "https://avatars.githubusercontent.com/u/60931158?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/airweave-ai/airweave",
+    "name": "airweave-ai/airweave",
+    "description": "Airweave lets agents search any app  ",
+    "language": "Python",
+    "stars": "3852",
+    "forks": "472",
+    "increased": "329 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/eavanvalkenburg",
+        "avatar": "https://avatars.githubusercontent.com/u/13749212?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/crickman",
+        "avatar": "https://avatars.githubusercontent.com/u/66376200?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dmytrostruk",
+        "avatar": "https://avatars.githubusercontent.com/u/13853051?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/westey-m",
+        "avatar": "https://avatars.githubusercontent.com/u/164392973?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ekzhu",
+        "avatar": "https://avatars.githubusercontent.com/u/320302?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/microsoft/agent-framework",
+    "name": "microsoft/agent-framework",
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET.  ",
+    "language": "Python",
+    "stars": "2181",
+    "forks": "235",
+    "increased": "567 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/berkecanrizai",
+        "avatar": "https://avatars.githubusercontent.com/u/63911408?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/szymondudycz",
+        "avatar": "https://avatars.githubusercontent.com/u/2479355?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pw-ppodhajski",
+        "avatar": "https://avatars.githubusercontent.com/u/106311100?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dxtrous",
+        "avatar": "https://avatars.githubusercontent.com/u/15914792?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mdmalhou",
+        "avatar": "https://avatars.githubusercontent.com/u/123164531?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/pathwaycom/llm-app",
+    "name": "pathwaycom/llm-app",
+    "description": "Ready-to-run cloud templates for RAG, AI pipelines, and enterprise search with live data. 🐳Docker-friendly.⚡Always in sync with Sharepoint, Google Drive, S3, Kafka, PostgreSQL, real-time data APIs, and more.  ",
+    "language": "Jupyter Notebook",
+    "stars": "41354",
+    "forks": "1111",
+    "increased": "203 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/mfpiccolo",
+        "avatar": "https://avatars.githubusercontent.com/u/3249825?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sergiofilhowz",
+        "avatar": "https://avatars.githubusercontent.com/u/4141723?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ytallo",
+        "avatar": "https://avatars.githubusercontent.com/u/5348335?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/actions-user",
+        "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rohitg00",
+        "avatar": "https://avatars.githubusercontent.com/u/48523873?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/MotiaDev/motia",
+    "name": "MotiaDev/motia",
+    "description": "Multi-Language Backend Framework that unifies API s, background jobs, workflows, and AI Agents into a single core primitive with built-in observability and state management.  ",
+    "language": "TypeScript",
+    "stars": "9132",
+    "forks": "693",
+    "increased": "125 stars today"
+  }
+]
