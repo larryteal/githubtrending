@@ -1,0 +1,549 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/harry0703",
+        "avatar": "https://avatars.githubusercontent.com/u/4928832?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/yyhhyyyyyy",
+        "avatar": "https://avatars.githubusercontent.com/u/95077259?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/vuisme",
+        "avatar": "https://avatars.githubusercontent.com/u/96235876?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/KevinZhang19870314",
+        "avatar": "https://avatars.githubusercontent.com/u/13794286?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/garylab",
+        "avatar": "https://avatars.githubusercontent.com/u/3072379?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/harry0703/MoneyPrinterTurbo",
+    "name": "harry0703/MoneyPrinterTurbo",
+    "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.  ",
+    "language": "Python",
+    "stars": "45811",
+    "forks": "6417",
+    "increased": "2918 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/LeiWang1999",
+        "avatar": "https://avatars.githubusercontent.com/u/34334180?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/chengyupku",
+        "avatar": "https://avatars.githubusercontent.com/u/54519279?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/xwhzz",
+        "avatar": "https://avatars.githubusercontent.com/u/132904306?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tzj-fxz",
+        "avatar": "https://avatars.githubusercontent.com/u/97930865?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Cunxiao2002",
+        "avatar": "https://avatars.githubusercontent.com/u/85601223?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/tile-ai/tilelang",
+    "name": "tile-ai/tilelang",
+    "description": "Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels  ",
+    "language": "C++",
+    "stars": "3221",
+    "forks": "238",
+    "increased": "833 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/dicksontsai",
+        "avatar": "https://avatars.githubusercontent.com/u/3757768?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ltawfik",
+        "avatar": "https://avatars.githubusercontent.com/u/11431944?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ashwin-ant",
+        "avatar": "https://avatars.githubusercontent.com/u/178951676?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/anthropics/claude-agent-sdk-python",
+    "name": "anthropics/claude-agent-sdk-python",
+    "language": "Python",
+    "stars": "2259",
+    "forks": "286",
+    "increased": "908 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/cjpais",
+        "avatar": "https://avatars.githubusercontent.com/u/1559480?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/vladstudio",
+        "avatar": "https://avatars.githubusercontent.com/u/914320?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/hanpham32",
+        "avatar": "https://avatars.githubusercontent.com/u/36429830?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/alextes",
+        "avatar": "https://avatars.githubusercontent.com/u/2011351?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/braden-w",
+        "avatar": "https://avatars.githubusercontent.com/u/13159333?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/cjpais/Handy",
+    "name": "cjpais/Handy",
+    "description": "A free, open source, and extensible speech-to-text application that works completely offline.  ",
+    "language": "TypeScript",
+    "stars": "2202",
+    "forks": "135",
+    "increased": "1235 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/potassiummmm",
+        "avatar": "https://avatars.githubusercontent.com/u/54800242?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/younesbelkada",
+        "avatar": "https://avatars.githubusercontent.com/u/49240599?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tsong-ms",
+        "avatar": "https://avatars.githubusercontent.com/u/84831885?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dawnmsg",
+        "avatar": "https://avatars.githubusercontent.com/u/23658399?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sd983527",
+        "avatar": "https://avatars.githubusercontent.com/u/59006636?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/microsoft/BitNet",
+    "name": "microsoft/BitNet",
+    "description": "Official inference framework for 1-bit LLMs  ",
+    "language": "Python",
+    "stars": "23917",
+    "forks": "1843",
+    "increased": "1801 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/hsliuping",
+        "avatar": "https://avatars.githubusercontent.com/u/128790537?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Yijia-Xiao",
+        "avatar": "https://avatars.githubusercontent.com/u/48253104?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/EdwardoSunny",
+        "avatar": "https://avatars.githubusercontent.com/u/68405458?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ZeroAct",
+        "avatar": "https://avatars.githubusercontent.com/u/46982469?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/YifanHere",
+        "avatar": "https://avatars.githubusercontent.com/u/62582492?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/hsliuping/TradingAgents-CN",
+    "name": "hsliuping/TradingAgents-CN",
+    "description": "基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版  ",
+    "language": "Python",
+    "stars": "9526",
+    "forks": "2102",
+    "increased": "2203 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/rullzer",
+        "avatar": "https://avatars.githubusercontent.com/u/45821?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/MorrisJobke",
+        "avatar": "https://avatars.githubusercontent.com/u/245432?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/DeepDiver1975",
+        "avatar": "https://avatars.githubusercontent.com/u/1005065?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/nickvergessen",
+        "avatar": "https://avatars.githubusercontent.com/u/213943?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/icewind1991",
+        "avatar": "https://avatars.githubusercontent.com/u/1283854?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/nextcloud/server",
+    "name": "nextcloud/server",
+    "description": "☁️ Nextcloud server, a safe home for all your data  ",
+    "language": "PHP",
+    "stars": "32814",
+    "forks": "4567",
+    "increased": "1951 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/maidul98",
+        "avatar": "https://avatars.githubusercontent.com/u/9300960?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/DanielHougaard",
+        "avatar": "https://avatars.githubusercontent.com/u/62331820?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dangtony98",
+        "avatar": "https://avatars.githubusercontent.com/u/25857006?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/akhilmhdh",
+        "avatar": "https://avatars.githubusercontent.com/u/31166322?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sheensantoscapadngan",
+        "avatar": "https://avatars.githubusercontent.com/u/65645666?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Infisical/infisical",
+    "name": "Infisical/infisical",
+    "description": "Infisical is the open-source platform for secrets management, PKI, and SSH access.  ",
+    "language": "TypeScript",
+    "stars": "22067",
+    "forks": "1486",
+    "increased": "1805 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/YaLTeR",
+        "avatar": "https://avatars.githubusercontent.com/u/1794388?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sodiboo",
+        "avatar": "https://avatars.githubusercontent.com/u/37938646?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cmeissl",
+        "avatar": "https://avatars.githubusercontent.com/u/4582663?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kchibisov",
+        "avatar": "https://avatars.githubusercontent.com/u/27620401?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/YaLTeR/niri",
+    "name": "YaLTeR/niri",
+    "description": "A scrollable-tiling Wayland compositor.  ",
+    "language": "Rust",
+    "stars": "12921",
+    "forks": "450",
+    "increased": "1049 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/yuqi1129",
+        "avatar": "https://avatars.githubusercontent.com/u/15794564?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jerryshao",
+        "avatar": "https://avatars.githubusercontent.com/u/850797?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mchades",
+        "avatar": "https://avatars.githubusercontent.com/u/24897598?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/FANNG1",
+        "avatar": "https://avatars.githubusercontent.com/u/5102100?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/justinmclean",
+        "avatar": "https://avatars.githubusercontent.com/u/144504?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/apache/gravitino",
+    "name": "apache/gravitino",
+    "description": "World's most powerful open data catalog for building a high-performance, geo-distributed and federated metadata lake.  ",
+    "language": "Java",
+    "stars": "2136",
+    "forks": "632",
+    "increased": "298 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Done-0",
+        "avatar": "https://avatars.githubusercontent.com/u/168193380?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Magniveo",
+        "avatar": "https://avatars.githubusercontent.com/u/5388016?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tyh97",
+        "avatar": "https://avatars.githubusercontent.com/u/34681937?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Robert-Ro",
+        "avatar": "https://avatars.githubusercontent.com/u/52750222?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Cat7373",
+        "avatar": "https://avatars.githubusercontent.com/u/9296576?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Done-0/fuck-u-code",
+    "name": "Done-0/fuck-u-code",
+    "description": "Legacy-Mess Detector – assess the “legacy-mess level” of your code and output a beautiful report | 屎山代码检测器，评 估代码的“屎山等级”并输出美观的报告  ",
+    "language": "Go",
+    "stars": "5204",
+    "forks": "252",
+    "increased": "770 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/guidedways",
+        "avatar": "https://avatars.githubusercontent.com/u/202437?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/svnlto",
+        "avatar": "https://avatars.githubusercontent.com/u/103989?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/BeehiveInnovations/zen-mcp-server",
+    "name": "BeehiveInnovations/zen-mcp-server",
+    "description": "The power of Claude Code / GeminiCLI / CodexCLI + [Gemini / OpenAI / OpenRouter / Azure / Grok / Ollama / Custom Model / All Of The Above] working as one.  ",
+    "language": "Python",
+    "stars": "8058",
+    "forks": "685",
+    "increased": "515 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/laanwj",
+        "avatar": "https://avatars.githubusercontent.com/u/126646?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/fanquake",
+        "avatar": "https://avatars.githubusercontent.com/u/863730?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sipa",
+        "avatar": "https://avatars.githubusercontent.com/u/548488?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/achow101",
+        "avatar": "https://avatars.githubusercontent.com/u/3782274?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/hebasto",
+        "avatar": "https://avatars.githubusercontent.com/u/32963518?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/bitcoin/bitcoin",
+    "name": "bitcoin/bitcoin",
+    "description": "Bitcoin Core integration/staging tree  ",
+    "language": "C++",
+    "stars": "85931",
+    "forks": "37980",
+    "increased": "171 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/alxkm",
+        "avatar": "https://avatars.githubusercontent.com/u/19151554?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/vil02",
+        "avatar": "https://avatars.githubusercontent.com/u/65706193?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Hardvan",
+        "avatar": "https://avatars.githubusercontent.com/u/97388607?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/yanglbme",
+        "avatar": "https://avatars.githubusercontent.com/u/21008209?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/TheAlgorithms/Java",
+    "name": "TheAlgorithms/Java",
+    "description": "All Algorithms implemented in Java  ",
+    "language": "Java",
+    "stars": "63813",
+    "forks": "20437",
+    "increased": "191 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/iluwatar",
+        "avatar": "https://avatars.githubusercontent.com/u/582346?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/npathai",
+        "avatar": "https://avatars.githubusercontent.com/u/1792515?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ohbus",
+        "avatar": "https://avatars.githubusercontent.com/u/13291222?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/iluwatar/java-design-patterns",
+    "name": "iluwatar/java-design-patterns",
+    "description": "Design patterns implemented in Java  ",
+    "language": "Java",
+    "stars": "92927",
+    "forks": "27231",
+    "increased": "158 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/swisskyrepo",
+        "avatar": "https://avatars.githubusercontent.com/u/12152583?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/p0dalirius",
+        "avatar": "https://avatars.githubusercontent.com/u/79218792?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/noraj",
+        "avatar": "https://avatars.githubusercontent.com/u/16578570?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cyber-niz",
+        "avatar": "https://avatars.githubusercontent.com/u/25560738?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/swisskyrepo/PayloadsAllTheThings",
+    "name": "swisskyrepo/PayloadsAllTheThings",
+    "description": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF  ",
+    "language": "Python",
+    "stars": "70597",
+    "forks": "16035",
+    "increased": "303 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Flowseal",
+        "avatar": "https://avatars.githubusercontent.com/u/50780822?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/V3nilla",
+        "avatar": "https://avatars.githubusercontent.com/u/48512277?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/fridorin",
+        "avatar": "https://avatars.githubusercontent.com/u/93490920?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/amozebus",
+        "avatar": "https://avatars.githubusercontent.com/u/190386872?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/burnedoutman",
+        "avatar": "https://avatars.githubusercontent.com/u/97279475?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Flowseal/zapret-discord-youtube",
+    "name": "Flowseal/zapret-discord-youtube",
+    "language": "Batchfile",
+    "stars": "17003",
+    "forks": "1202",
+    "increased": "572 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/tchiotludo",
+        "avatar": "https://avatars.githubusercontent.com/u/2064609?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/loicmathieu",
+        "avatar": "https://avatars.githubusercontent.com/u/1819009?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/MilosPaunovic",
+        "avatar": "https://avatars.githubusercontent.com/u/62475782?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/brian-mulier-p",
+        "avatar": "https://avatars.githubusercontent.com/u/37618489?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Skraye",
+        "avatar": "https://avatars.githubusercontent.com/u/37600690?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/kestra-io/kestra",
+    "name": "kestra-io/kestra",
+    "description": "Orchestrate everything - from scripts to data, infra, AI, and business - as code, with UI and AI Copilot. Simple. Fast. Scalable.  ",
+    "language": "Java",
+    "stars": "22302",
+    "forks": "2021",
+    "increased": "969 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/SanchithHegde",
+        "avatar": "https://avatars.githubusercontent.com/u/22217505?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Narayanbhat166",
+        "avatar": "https://avatars.githubusercontent.com/u/48803246?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pixincreate",
+        "avatar": "https://avatars.githubusercontent.com/u/69745008?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/juspay/hyperswitch",
+    "name": "juspay/hyperswitch",
+    "description": "An open source payments switch written in Rust to make payments fast, reliable and affordable  ",
+    "language": "Rust",
+    "stars": "36390",
+    "forks": "4386",
+    "increased": "2360 stars this week"
+  }
+]
