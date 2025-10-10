@@ -1,0 +1,376 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/nklhtv",
+        "avatar": "https://avatars.githubusercontent.com/u/5950722?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tymmesyde",
+        "avatar": "https://avatars.githubusercontent.com/u/7889816?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kKaskak",
+        "avatar": "https://avatars.githubusercontent.com/u/117831817?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/swetlasg",
+        "avatar": "https://avatars.githubusercontent.com/u/15102316?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Botsy",
+        "avatar": "https://avatars.githubusercontent.com/u/10400528?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Stremio/stremio-web",
+    "name": "Stremio/stremio-web",
+    "description": "Stremio - Freedom to Stream  ",
+    "language": "JavaScript",
+    "stars": "6718",
+    "forks": "778",
+    "increased": "1576 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/MODSetter",
+        "avatar": "https://avatars.githubusercontent.com/u/122026167?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Utkarsh-Patel-13",
+        "avatar": "https://avatars.githubusercontent.com/u/30389481?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/CREDO23",
+        "avatar": "https://avatars.githubusercontent.com/u/103337221?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/anshul7665",
+        "avatar": "https://avatars.githubusercontent.com/u/153057617?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/MuhamadAjiW",
+        "avatar": "https://avatars.githubusercontent.com/u/89117568?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/MODSetter/SurfSense",
+    "name": "MODSetter/SurfSense",
+    "description": "Open Source Alternative to NotebookLM / Perplexity, connected to external sources such as Search Engines, Slack, Linear, Jira, ClickUp, Confluence, Notion, YouTube, GitHub, Discord and more. Join our discord:  https://discord.gg/ejRNvftDp9    ",
+    "language": "Python",
+    "stars": "8878",
+    "forks": "677",
+    "increased": "236 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/sammccauley117",
+        "avatar": "https://avatars.githubusercontent.com/u/23038858?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ericpts",
+        "avatar": "https://avatars.githubusercontent.com/u/5286719?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/lorenss-m",
+        "avatar": "https://avatars.githubusercontent.com/u/31991968?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/smsohan",
+        "avatar": "https://avatars.githubusercontent.com/u/121935?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/emilypitler",
+        "avatar": "https://avatars.githubusercontent.com/u/24372370?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/google/computer-use-preview",
+    "name": "google/computer-use-preview",
+    "language": "Python",
+    "stars": "655",
+    "forks": "74",
+    "increased": "203 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/TibixDev",
+        "avatar": "https://avatars.githubusercontent.com/u/21055141?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Levev",
+        "avatar": "https://avatars.githubusercontent.com/u/72160179?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/TheDokT0r",
+        "avatar": "https://avatars.githubusercontent.com/u/85199046?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/AdianKozlica",
+        "avatar": "https://avatars.githubusercontent.com/u/105174725?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/TibixDev/winboat",
+    "name": "TibixDev/winboat",
+    "description": "Run Windows apps on 🐧 Linux with ✨ seamless integration  ",
+    "language": "TypeScript",
+    "stars": "8280",
+    "forks": "214",
+    "increased": "859 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/mholt",
+        "avatar": "https://avatars.githubusercontent.com/u/1128849?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rubiojr",
+        "avatar": "https://avatars.githubusercontent.com/u/10998?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jphastings",
+        "avatar": "https://avatars.githubusercontent.com/u/42999?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Shrinks99",
+        "avatar": "https://avatars.githubusercontent.com/u/5672810?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/timelinize/timelinize",
+    "name": "timelinize/timelinize",
+    "description": "Store your data from all your accounts and devices in a single cohesive timeline on your own computer  ",
+    "language": "Go",
+    "stars": "2171",
+    "forks": "64",
+    "increased": "225 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/topecongiro",
+        "avatar": "https://avatars.githubusercontent.com/u/21980157?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/nrc",
+        "avatar": "https://avatars.githubusercontent.com/u/762626?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/calebcartwright",
+        "avatar": "https://avatars.githubusercontent.com/u/13042488?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/marcusklaas",
+        "avatar": "https://avatars.githubusercontent.com/u/1255413?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/scampi",
+        "avatar": "https://avatars.githubusercontent.com/u/795879?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/rust-lang/rustfmt",
+    "name": "rust-lang/rustfmt",
+    "description": "Format Rust code  ",
+    "language": "Rust",
+    "stars": "6539",
+    "forks": "957",
+    "increased": "9 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/IntegratedQuantum",
+        "avatar": "https://avatars.githubusercontent.com/u/43880493?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/careeoki",
+        "avatar": "https://avatars.githubusercontent.com/u/122191047?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Argmaster",
+        "avatar": "https://avatars.githubusercontent.com/u/56170852?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/OneAvargeCoder193",
+        "avatar": "https://avatars.githubusercontent.com/u/85588535?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ikabod-kee",
+        "avatar": "https://avatars.githubusercontent.com/u/155805949?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/PixelGuys/Cubyz",
+    "name": "PixelGuys/Cubyz",
+    "description": "Voxel sandbox game with a large render distance, procedurally generated content and some cool graphical effects.  ",
+    "language": "Zig",
+    "stars": "1130",
+    "forks": "99",
+    "increased": "89 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/rm-openai",
+        "avatar": "https://avatars.githubusercontent.com/u/192034341?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/seratch",
+        "avatar": "https://avatars.githubusercontent.com/u/19658?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/MartinEBravo",
+        "avatar": "https://avatars.githubusercontent.com/u/123977407?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dmitry-openai",
+        "avatar": "https://avatars.githubusercontent.com/u/187447562?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/openai/openai-agents-python",
+    "name": "openai/openai-agents-python",
+    "description": "A lightweight, powerful framework for multi-agent workflows  ",
+    "language": "Python",
+    "stars": "15974",
+    "forks": "2646",
+    "increased": "116 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/TapXWorld",
+        "avatar": "https://avatars.githubusercontent.com/u/3353541?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/keminshu",
+        "avatar": "https://avatars.githubusercontent.com/u/10050045?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/TapXWorld/ChinaTextbook",
+    "name": "TapXWorld/ChinaTextbook",
+    "description": "所有小初高、大学PDF教材。  ",
+    "language": "Roff",
+    "stars": "52121",
+    "forks": "11716",
+    "increased": "606 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/seanmcguire12",
+        "avatar": "https://avatars.githubusercontent.com/u/75873287?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/miguelg719",
+        "avatar": "https://avatars.githubusercontent.com/u/36487034?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kamath",
+        "avatar": "https://avatars.githubusercontent.com/u/7597423?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jeremypress",
+        "avatar": "https://avatars.githubusercontent.com/u/2474027?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sameelarif",
+        "avatar": "https://avatars.githubusercontent.com/u/124230383?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/browserbase/stagehand",
+    "name": "browserbase/stagehand",
+    "description": "The AI Browser Automation Framework  ",
+    "language": "TypeScript",
+    "stars": "17877",
+    "forks": "1122",
+    "increased": "366 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/rustdesk",
+        "avatar": "https://avatars.githubusercontent.com/u/71636191?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/fufesou",
+        "avatar": "https://avatars.githubusercontent.com/u/13586388?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/21pages",
+        "avatar": "https://avatars.githubusercontent.com/u/14891774?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Kingtous",
+        "avatar": "https://avatars.githubusercontent.com/u/39793325?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Heap-Hop",
+        "avatar": "https://avatars.githubusercontent.com/u/62206297?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/rustdesk/rustdesk",
+    "name": "rustdesk/rustdesk",
+    "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.  ",
+    "language": "Rust",
+    "stars": "99553",
+    "forks": "14639",
+    "increased": "67 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/HenryHengZJ",
+        "avatar": "https://avatars.githubusercontent.com/u/26460777?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/chungyau97",
+        "avatar": "https://avatars.githubusercontent.com/u/33013947?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/vinodkiran",
+        "avatar": "https://avatars.githubusercontent.com/u/842544?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/0xi4o",
+        "avatar": "https://avatars.githubusercontent.com/u/4386534?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Yongtae723",
+        "avatar": "https://avatars.githubusercontent.com/u/50616781?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/FlowiseAI/Flowise",
+    "name": "FlowiseAI/Flowise",
+    "description": "Build AI Agents, Visually  ",
+    "language": "TypeScript",
+    "stars": "45093",
+    "forks": "22675",
+    "increased": "98 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/oskardotglobal",
+        "avatar": "https://avatars.githubusercontent.com/u/52569953?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/KernelGhost",
+        "avatar": "https://avatars.githubusercontent.com/u/57999059?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Fmstrat",
+        "avatar": "https://avatars.githubusercontent.com/u/971474?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/LDprg",
+        "avatar": "https://avatars.githubusercontent.com/u/71488985?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/winapps-org/winapps",
+    "name": "winapps-org/winapps",
+    "description": "Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of  https://github.com/Fmstrat/winapps/    ",
+    "language": "Shell",
+    "stars": "10846",
+    "forks": "332",
+    "increased": "150 stars today"
+  }
+]
