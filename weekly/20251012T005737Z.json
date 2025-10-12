@@ -1,0 +1,558 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/nklhtv",
+        "avatar": "https://avatars.githubusercontent.com/u/5950722?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tymmesyde",
+        "avatar": "https://avatars.githubusercontent.com/u/7889816?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kKaskak",
+        "avatar": "https://avatars.githubusercontent.com/u/117831817?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/swetlasg",
+        "avatar": "https://avatars.githubusercontent.com/u/15102316?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Botsy",
+        "avatar": "https://avatars.githubusercontent.com/u/10400528?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Stremio/stremio-web",
+    "name": "Stremio/stremio-web",
+    "description": "Stremio - Freedom to Stream  ",
+    "language": "JavaScript",
+    "stars": "7389",
+    "forks": "837",
+    "increased": "5686 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Paul-Licameli",
+        "avatar": "https://avatars.githubusercontent.com/u/11670369?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/JamesCrook",
+        "avatar": "https://avatars.githubusercontent.com/u/1621525?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/lllucius",
+        "avatar": "https://avatars.githubusercontent.com/u/7347848?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/crsib",
+        "avatar": "https://avatars.githubusercontent.com/u/2660628?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/vsverchinsky",
+        "avatar": "https://avatars.githubusercontent.com/u/20165230?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/audacity/audacity",
+    "name": "audacity/audacity",
+    "description": "Audio Editor  ",
+    "language": "C++",
+    "stars": "15330",
+    "forks": "2437",
+    "increased": "920 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/guidedways",
+        "avatar": "https://avatars.githubusercontent.com/u/202437?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/svnlto",
+        "avatar": "https://avatars.githubusercontent.com/u/103989?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/BeehiveInnovations/zen-mcp-server",
+    "name": "BeehiveInnovations/zen-mcp-server",
+    "description": "The power of Claude Code / GeminiCLI / CodexCLI + [Gemini / OpenAI / OpenRouter / Azure / Grok / Ollama / Custom Model / All Of The Above] working as one.  ",
+    "language": "Python",
+    "stars": "8672",
+    "forks": "724",
+    "increased": "1276 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/potassiummmm",
+        "avatar": "https://avatars.githubusercontent.com/u/54800242?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/younesbelkada",
+        "avatar": "https://avatars.githubusercontent.com/u/49240599?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tsong-ms",
+        "avatar": "https://avatars.githubusercontent.com/u/84831885?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dawnmsg",
+        "avatar": "https://avatars.githubusercontent.com/u/23658399?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sd983527",
+        "avatar": "https://avatars.githubusercontent.com/u/59006636?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/microsoft/BitNet",
+    "name": "microsoft/BitNet",
+    "description": "Official inference framework for 1-bit LLMs  ",
+    "language": "Python",
+    "stars": "24095",
+    "forks": "1858",
+    "increased": "1688 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/maidul98",
+        "avatar": "https://avatars.githubusercontent.com/u/9300960?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/DanielHougaard",
+        "avatar": "https://avatars.githubusercontent.com/u/62331820?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/akhilmhdh",
+        "avatar": "https://avatars.githubusercontent.com/u/31166322?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dangtony98",
+        "avatar": "https://avatars.githubusercontent.com/u/25857006?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sheensantoscapadngan",
+        "avatar": "https://avatars.githubusercontent.com/u/65645666?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Infisical/infisical",
+    "name": "Infisical/infisical",
+    "description": "Infisical is the open-source platform for secrets, certificates, and privileged access management.  ",
+    "language": "TypeScript",
+    "stars": "22532",
+    "forks": "1516",
+    "increased": "2233 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/dgtlmoon",
+        "avatar": "https://avatars.githubusercontent.com/u/275001?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Constantin1489",
+        "avatar": "https://avatars.githubusercontent.com/u/61624808?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kruton",
+        "avatar": "https://avatars.githubusercontent.com/u/50407?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/marceloalencar",
+        "avatar": "https://avatars.githubusercontent.com/u/6068319?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/dgtlmoon/changedetection.io",
+    "name": "dgtlmoon/changedetection.io",
+    "description": "Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitoring—all for free or enjoy our SaaS plan!  ",
+    "language": "Python",
+    "stars": "27734",
+    "forks": "1546",
+    "increased": "1015 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/hsliuping",
+        "avatar": "https://avatars.githubusercontent.com/u/128790537?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Yijia-Xiao",
+        "avatar": "https://avatars.githubusercontent.com/u/48253104?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/EdwardoSunny",
+        "avatar": "https://avatars.githubusercontent.com/u/68405458?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ZeroAct",
+        "avatar": "https://avatars.githubusercontent.com/u/46982469?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/YifanHere",
+        "avatar": "https://avatars.githubusercontent.com/u/62582492?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/hsliuping/TradingAgents-CN",
+    "name": "hsliuping/TradingAgents-CN",
+    "description": "基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版  ",
+    "language": "Python",
+    "stars": "10234",
+    "forks": "2234",
+    "increased": "1254 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/TapXWorld",
+        "avatar": "https://avatars.githubusercontent.com/u/3353541?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/keminshu",
+        "avatar": "https://avatars.githubusercontent.com/u/10050045?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/TapXWorld/ChinaTextbook",
+    "name": "TapXWorld/ChinaTextbook",
+    "description": "所有小初高、大学PDF教材。  ",
+    "language": "Roff",
+    "stars": "52905",
+    "forks": "11858",
+    "increased": "2218 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/actions-user",
+        "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bcherny",
+        "avatar": "https://avatars.githubusercontent.com/u/1761758?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ant-kurt",
+        "avatar": "https://avatars.githubusercontent.com/u/209710463?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bogini",
+        "avatar": "https://avatars.githubusercontent.com/u/605424?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/anthropics/claude-code",
+    "name": "anthropics/claude-code",
+    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.  ",
+    "language": "TypeScript",
+    "stars": "36961",
+    "forks": "2324",
+    "increased": "986 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/orhanrauf",
+        "avatar": "https://avatars.githubusercontent.com/u/29870230?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/marc-rutzou",
+        "avatar": "https://avatars.githubusercontent.com/u/205832644?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/lennertjansen",
+        "avatar": "https://avatars.githubusercontent.com/u/25402511?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/EwanTauran",
+        "avatar": "https://avatars.githubusercontent.com/u/32881017?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/airweave-ai/airweave",
+    "name": "airweave-ai/airweave",
+    "description": "Airweave lets agents search any app  ",
+    "language": "Python",
+    "stars": "4201",
+    "forks": "517",
+    "increased": "464 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/bradymiller",
+        "avatar": "https://avatars.githubusercontent.com/u/278968?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sjpadgett",
+        "avatar": "https://avatars.githubusercontent.com/u/1859985?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/stephenwaite",
+        "avatar": "https://avatars.githubusercontent.com/u/5618372?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/adunsulag",
+        "avatar": "https://avatars.githubusercontent.com/u/228117?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sunsetsystems",
+        "avatar": "https://avatars.githubusercontent.com/u/386879?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/openemr/openemr",
+    "name": "openemr/openemr",
+    "description": "The most popular open source electronic health records and medical practice management solution.  ",
+    "language": "PHP",
+    "stars": "4338",
+    "forks": "2560",
+    "increased": "650 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/MODSetter",
+        "avatar": "https://avatars.githubusercontent.com/u/122026167?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Utkarsh-Patel-13",
+        "avatar": "https://avatars.githubusercontent.com/u/30389481?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/CREDO23",
+        "avatar": "https://avatars.githubusercontent.com/u/103337221?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/anshul7665",
+        "avatar": "https://avatars.githubusercontent.com/u/153057617?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/MuhamadAjiW",
+        "avatar": "https://avatars.githubusercontent.com/u/89117568?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/MODSetter/SurfSense",
+    "name": "MODSetter/SurfSense",
+    "description": "Open Source Alternative to NotebookLM / Perplexity, connected to external sources such as Search Engines, Slack, Linear, Jira, ClickUp, Confluence, Notion, YouTube, GitHub, Discord and more. Join our discord:  https://discord.gg/ejRNvftDp9    ",
+    "language": "Python",
+    "stars": "9344",
+    "forks": "720",
+    "increased": "956 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ddupont808",
+        "avatar": "https://avatars.githubusercontent.com/u/3820588?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/f-trycua",
+        "avatar": "https://avatars.githubusercontent.com/u/195596869?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jamesmurdza",
+        "avatar": "https://avatars.githubusercontent.com/u/33395784?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mdean808",
+        "avatar": "https://avatars.githubusercontent.com/u/31518969?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/trycua/cua",
+    "name": "trycua/cua",
+    "description": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).  ",
+    "language": "Python",
+    "stars": "10635",
+    "forks": "583",
+    "increased": "821 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/YaLTeR",
+        "avatar": "https://avatars.githubusercontent.com/u/1794388?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sodiboo",
+        "avatar": "https://avatars.githubusercontent.com/u/37938646?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cmeissl",
+        "avatar": "https://avatars.githubusercontent.com/u/4582663?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kchibisov",
+        "avatar": "https://avatars.githubusercontent.com/u/27620401?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/YaLTeR/niri",
+    "name": "YaLTeR/niri",
+    "description": "A scrollable-tiling Wayland compositor.  ",
+    "language": "Rust",
+    "stars": "13272",
+    "forks": "461",
+    "increased": "795 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/wwwillchen",
+        "avatar": "https://avatars.githubusercontent.com/u/7344640?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/princeaden1",
+        "avatar": "https://avatars.githubusercontent.com/u/14006504?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/azizmejri1",
+        "avatar": "https://avatars.githubusercontent.com/u/125149796?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/dyad-sh/dyad",
+    "name": "dyad-sh/dyad",
+    "description": "Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it!  ",
+    "language": "TypeScript",
+    "stars": "16028",
+    "forks": "1701",
+    "increased": "869 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/iluwatar",
+        "avatar": "https://avatars.githubusercontent.com/u/582346?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/npathai",
+        "avatar": "https://avatars.githubusercontent.com/u/1792515?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ohbus",
+        "avatar": "https://avatars.githubusercontent.com/u/13291222?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/iluwatar/java-design-patterns",
+    "name": "iluwatar/java-design-patterns",
+    "description": "Design patterns implemented in Java  ",
+    "language": "Java",
+    "stars": "93050",
+    "forks": "27257",
+    "increased": "227 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/jkelleyrtp",
+        "avatar": "https://avatars.githubusercontent.com/u/10237910?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ealmloff",
+        "avatar": "https://avatars.githubusercontent.com/u/66571940?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mrxiaozhuox",
+        "avatar": "https://avatars.githubusercontent.com/u/41265098?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/DogeDark",
+        "avatar": "https://avatars.githubusercontent.com/u/30190859?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rMazeiks",
+        "avatar": "https://avatars.githubusercontent.com/u/11248241?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/DioxusLabs/dioxus",
+    "name": "DioxusLabs/dioxus",
+    "description": "Fullstack app framework for web, desktop, and mobile.  ",
+    "language": "Rust",
+    "stars": "31049",
+    "forks": "1313",
+    "increased": "331 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/JC5",
+        "avatar": "https://avatars.githubusercontent.com/u/5889984?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/SDx3",
+        "avatar": "https://avatars.githubusercontent.com/u/16149559?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/firefly-iii/firefly-iii",
+    "name": "firefly-iii/firefly-iii",
+    "description": "Firefly III: a personal finances manager  ",
+    "language": "PHP",
+    "stars": "21089",
+    "forks": "1913",
+    "increased": "563 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/tchiotludo",
+        "avatar": "https://avatars.githubusercontent.com/u/2064609?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/loicmathieu",
+        "avatar": "https://avatars.githubusercontent.com/u/1819009?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/MilosPaunovic",
+        "avatar": "https://avatars.githubusercontent.com/u/62475782?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/brian-mulier-p",
+        "avatar": "https://avatars.githubusercontent.com/u/37618489?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Skraye",
+        "avatar": "https://avatars.githubusercontent.com/u/37600690?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/kestra-io/kestra",
+    "name": "kestra-io/kestra",
+    "description": "Orchestrate everything - fro m scripts to data, infra, AI, and business - as code, with UI and AI Copilot. Simple. Fast. Scalable.  ",
+    "language": "Java",
+    "stars": "22491",
+    "forks": "2054",
+    "increased": "777 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/treoden",
+        "avatar": "https://avatars.githubusercontent.com/u/6950941?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/en1-gma",
+        "avatar": "https://avatars.githubusercontent.com/u/77514209?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ultimate-tester",
+        "avatar": "https://avatars.githubusercontent.com/u/580758?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/GiorgosIlia",
+        "avatar": "https://avatars.githubusercontent.com/u/24270247?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tszczypinski6",
+        "avatar": "https://avatars.githubusercontent.com/u/34459148?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/evershopcommerce/evershop",
+    "name": "evershopcommerce/evershop",
+    "description": "🛍️ Typescript E-commerce Platform  ",
+    "language": "TypeScript",
+    "stars": "6786",
+    "forks": "1833",
+    "increased": "781 stars this week"
+  }
+]
