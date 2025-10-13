@@ -1,0 +1,562 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/actions-user",
+        "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bcherny",
+        "avatar": "https://avatars.githubusercontent.com/u/1761758?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ant-kurt",
+        "avatar": "https://avatars.githubusercontent.com/u/209710463?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bogini",
+        "avatar": "https://avatars.githubusercontent.com/u/605424?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/anthropics/claude-code",
+    "name": "anthropics/claude-code",
+    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - a ll through natural language commands.  ",
+    "language": "TypeScript",
+    "stars": "37899",
+    "forks": "2372",
+    "increased": "997 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/davila7",
+        "avatar": "https://avatars.githubusercontent.com/u/6216945?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/actions-user",
+        "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/KingsleyKelly",
+        "avatar": "https://avatars.githubusercontent.com/u/837822?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/davila7/claude-code-templates",
+    "name": "davila7/claude-code-templates",
+    "description": "CLI tool for configuring and monitoring Claude Code  ",
+    "language": "JavaScript",
+    "stars": "7502",
+    "forks": "646",
+    "increased": "302 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/treoden",
+        "avatar": "https://avatars.githubusercontent.com/u/6950941?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/en1-gma",
+        "avatar": "https://avatars.githubusercontent.com/u/77514209?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ultimate-tester",
+        "avatar": "https://avatars.githubusercontent.com/u/580758?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/GiorgosIlia",
+        "avatar": "https://avatars.githubusercontent.com/u/24270247?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tszczypinski6",
+        "avatar": "https://avatars.githubusercontent.com/u/34459148?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/evershopcommerce/evershop",
+    "name": "evershopcommerce/evershop",
+    "description": "🛍️ Typescript E-commerce Platform  ",
+    "language": "TypeScript",
+    "stars": "7151",
+    "forks": "1866",
+    "increased": "384 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/78",
+        "avatar": "https://avatars.githubusercontent.com/u/4488133?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/laride",
+        "avatar": "https://avatars.githubusercontent.com/u/198868291?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Kevincoooool",
+        "avatar": "https://avatars.githubusercontent.com/u/33611679?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Y1hsiaochunnn",
+        "avatar": "https://avatars.githubusercontent.com/u/66012385?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ZhouKes",
+        "avatar": "https://avatars.githubusercontent.com/u/20272580?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/78/xiaozhi-esp32",
+    "name": "78/xiaozhi-esp32",
+    "description": "An MCP-based chatbot | 一个基于MCP的聊天机器人  ",
+    "language": "C++",
+    "stars": "19835",
+    "forks": "4019",
+    "increased": "80 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Tpuljak",
+        "avatar": "https://avatars.githubusercontent.com/u/26512078?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/idagelic",
+        "avatar": "https://avatars.githubusercontent.com/u/25279767?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/lbrecic",
+        "avatar": "https://avatars.githubusercontent.com/u/116551028?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/fabjanvucina",
+        "avatar": "https://avatars.githubusercontent.com/u/65237084?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/MDzaja",
+        "avatar": "https://avatars.githubusercontent.com/u/59669062?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/daytonaio/daytona",
+    "name": "daytonaio/daytona",
+    "description": "Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code  ",
+    "language": "TypeScript",
+    "stars": "22936",
+    "forks": "2377",
+    "increased": "231 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/TapXWorld",
+        "avatar": "https://avatars.githubusercontent.com/u/3353541?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/keminshu",
+        "avatar": "https://avatars.githubusercontent.com/u/10050045?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/TapXWorld/ChinaTextbook",
+    "name": "TapXWorld/ChinaTextbook",
+    "description": "所有小初高、大学PDF教材。  ",
+    "language": "Roff",
+    "stars": "53064",
+    "forks": "11902",
+    "increased": "114 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/WECENG",
+        "avatar": "https://avatars.githubusercontent.com/u/34994019?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/llbbl",
+        "avatar": "https://avatars.githubusercontent.com/u/19964?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/thomas-art",
+        "avatar": "https://avatars.githubusercontent.com/u/60135827?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/BlueCestbon",
+        "avatar": "https://avatars.githubusercontent.com/u/65054570?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/WECENG/ticket-purchase",
+    "name": "WECENG/ticket-purchase",
+    "description": "大麦自动抢票，支持人员、城市、日期场次、价格选择  ",
+    "language": "Python",
+    "stars": "4810",
+    "forks": "612",
+    "increased": "34 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/DIYgod",
+        "avatar": "https://avatars.githubusercontent.com/u/8266075?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/TonyRL",
+        "avatar": "https://avatars.githubusercontent.com/u/11386903?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/DIYgod/RSSHub",
+    "name": "DIYgod/RSSHub",
+    "description": "🧡 Everything is RSSible  ",
+    "language": "TypeScript",
+    "stars": "39143",
+    "forks": "8594",
+    "increased": "19 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/DearVa",
+        "avatar": "https://avatars.githubusercontent.com/u/55902546?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/AuroraZiling",
+        "avatar": "https://avatars.githubusercontent.com/u/69903523?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/SlimeNull",
+        "avatar": "https://avatars.githubusercontent.com/u/69663231?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/DearVa/Everywhere",
+    "name": "DearVa/Everywhere",
+    "description": "A context-aware AI assistant for your desktop. Ready to respond intelligently, seamlessly integrating multiple LLMs and MCP tools.  ",
+    "language": "C#",
+    "stars": "542",
+    "forks": "26",
+    "increased": "83 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Anduin2017",
+        "avatar": "https://avatars.githubusercontent.com/u/19531547?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/draem0507",
+        "avatar": "https://avatars.githubusercontent.com/u/1260149?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/WakiJi",
+        "avatar": "https://avatars.githubusercontent.com/u/29685667?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/LeoFBW",
+        "avatar": "https://avatars.githubusercontent.com/u/31880587?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Anduin2017/HowToCook",
+    "name": "Anduin2017/HowToCook",
+    "description": "程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).  ",
+    "language": "Dockerfile",
+    "stars": "94832",
+    "forks": "10616",
+    "increased": "39 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/fanlv",
+        "avatar": "https://avatars.githubusercontent.com/u/3121177?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/junwen-lee",
+        "avatar": "https://avatars.githubusercontent.com/u/212685295?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Tecvan-fe",
+        "avatar": "https://avatars.githubusercontent.com/u/84165678?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/lvxinyu-1117",
+        "avatar": "https://avatars.githubusercontent.com/u/223192063?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mrh997",
+        "avatar": "https://avatars.githubusercontent.com/u/190584727?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/coze-dev/coze-studio",
+    "name": "coze-dev/coze-studio",
+    "description": "An AI agent development platform with all-in-one visual tools, simplifying agent creation, debugging, and deployment like never before. Coze your way to AI Agent creation.  ",
+    "language": "TypeScript",
+    "stars": "17743",
+    "forks": "2450",
+    "increased": "20 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/semantic-release-bot",
+        "avatar": "https://avatars.githubusercontent.com/u/32174276?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/arvinxx",
+        "avatar": "https://avatars.githubusercontent.com/u/28616219?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/lobehubbot",
+        "avatar": "https://avatars.githubusercontent.com/u/134299653?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/canisminor1990",
+        "avatar": "https://avatars.githubusercontent.com/u/17870709?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/lobehub/lobe-chat",
+    "name": "lobehub/lobe-chat",
+    "description": "🤯 Lobe Chat - an open-source, modern design AI chat framework. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click FREE deployment of your private AI Agent application.  ",
+    "language": "TypeScript",
+    "stars": "66705",
+    "forks": "13806",
+    "increased": "37 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/IntegratedQuantum",
+        "avatar": "https://avatars.githubusercontent.com/u/43880493?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/careeoki",
+        "avatar": "https://avatars.githubusercontent.com/u/122191047?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Argmaster",
+        "avatar": "https://avatars.githubusercontent.com/u/56170852?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/OneAvargeCoder193",
+        "avatar": "https://avatars.githubusercontent.com/u/85588535?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ikabod-kee",
+        "avatar": "https://avatars.githubusercontent.com/u/155805949?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/PixelGuys/Cubyz",
+    "name": "PixelGuys/Cubyz",
+    "description": "Voxel sandbox game with a large render distance, procedurally generated content and some cool graphical effects.  ",
+    "language": "Zig",
+    "stars": "2118",
+    "forks": "131",
+    "increased": "274 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/dhh",
+        "avatar": "https://avatars.githubusercontent.com/u/2741?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ryanrhughes",
+        "avatar": "https://avatars.githubusercontent.com/u/1630358?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tahayvr",
+        "avatar": "https://avatars.githubusercontent.com/u/77543049?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/npenza",
+        "avatar": "https://avatars.githubusercontent.com/u/69229034?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ryanyogan",
+        "avatar": "https://avatars.githubusercontent.com/u/41596?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/basecamp/omarchy",
+    "name": "basecamp/omarchy",
+    "description": "Opinionated Arch/Hyprland Setup  ",
+    "language": "Shell",
+    "stars": "13659",
+    "forks": "1273",
+    "increased": "236 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/TibixDev",
+        "avatar": "https://avatars.githubusercontent.com/u/21055141?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Levev",
+        "avatar": "https://avatars.githubusercontent.com/u/72160179?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/AdianKozlica",
+        "avatar": "https://avatars.githubusercontent.com/u/105174725?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/TheDokT0r",
+        "avatar": "https://avatars.githubusercontent.com/u/85199046?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/TibixDev/winboat",
+    "name": "TibixDev/winboat",
+    "description": "Run Windows apps on 🐧 Linux with ✨ seamless integration  ",
+    "language": "TypeScript",
+    "stars": "10565",
+    "forks": "269",
+    "increased": "616 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/chickenlj",
+        "avatar": "https://avatars.githubusercontent.com/u/18097545?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/yuluo-yx",
+        "avatar": "https://avatars.githubusercontent.com/u/77964041?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/answeropensource",
+        "avatar": "https://avatars.githubusercontent.com/u/173772258?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Aias00",
+        "avatar": "https://avatars.githubusercontent.com/u/25810623?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/zhangshenghang",
+        "avatar": "https://avatars.githubusercontent.com/u/29418975?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/alibaba/spring-ai-alibaba",
+    "name": "alibaba/spring-ai-alibaba",
+    "description": "Agentic AI Framework for Java Developers  ",
+    "language": "Java",
+    "stars": "6126",
+    "forks": "1312",
+    "increased": "13 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Jarred-Sumner",
+        "avatar": "https://avatars.githubusercontent.com/u/709451?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dylan-conway",
+        "avatar": "https://avatars.githubusercontent.com/u/35280289?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/nektro",
+        "avatar": "https://avatars.githubusercontent.com/u/5464072?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/paperclover",
+        "avatar": "https://avatars.githubusercontent.com/u/24465214?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cirospaciari",
+        "avatar": "https://avatars.githubusercontent.com/u/6379399?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/oven-sh/bun",
+    "name": "oven-sh/bun",
+    "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one  ",
+    "language": "Zig",
+    "stars": "81093",
+    "forks": "3384",
+    "increased": "91 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/patrickvonplaten",
+        "avatar": "https://avatars.githubusercontent.com/u/23423619?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sayakpaul",
+        "avatar": "https://avatars.githubusercontent.com/u/22957388?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/yiyixuxu",
+        "avatar": "https://avatars.githubusercontent.com/u/12631849?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/DN6",
+        "avatar": "https://avatars.githubusercontent.com/u/7529846?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/patil-suraj",
+        "avatar": "https://avatars.githubusercontent.com/u/27137566?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/huggingface/diffusers",
+    "name": "huggingface/diffusers",
+    "description": "🤗 Diffusers: State-of-the-art diffusion models for image, video, and audio generation in PyTorch.  ",
+    "language": "Python",
+    "stars": "31139",
+    "forks": "6405",
+    "increased": "11 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/zihaolin96",
+        "avatar": "https://avatars.githubusercontent.com/u/100875308?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/xiangkaiz",
+        "avatar": "https://avatars.githubusercontent.com/u/16846984?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/udaykakade25",
+        "avatar": "https://avatars.githubusercontent.com/u/141299403?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/xz-dev",
+        "avatar": "https://avatars.githubusercontent.com/u/32761048?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Klavis-AI/klavis",
+    "name": "Klavis-AI/klavis",
+    "description": "Klavis AI (YC X25): MCP integration platforms that let AI agents use tools reliably at any scale  ",
+    "language": "Python",
+    "stars": "4810",
+    "forks": "451",
+    "increased": "47 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/myhloli",
+        "avatar": "https://avatars.githubusercontent.com/u/11393164?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dt-yy",
+        "avatar": "https://avatars.githubusercontent.com/u/102640628?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Focusshang",
+        "avatar": "https://avatars.githubusercontent.com/u/25022954?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Sidney233",
+        "avatar": "https://avatars.githubusercontent.com/u/54933042?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/opendatalab/MinerU",
+    "name": "opendatalab/MinerU",
+    "description": "Transforms complex documents like PDFs into LLM-ready markdown/JSON for your Agentic workflows.  ",
+    "language": "Python",
+    "stars": "45886",
+    "forks": "3806",
+    "increased": "99 stars today"
+  }
+]
