@@ -1,0 +1,447 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/CloudsOfChange",
+        "avatar": "https://avatars.githubusercontent.com/u/2212020?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/maggie-vo",
+        "avatar": "https://avatars.githubusercontent.com/u/143411590?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jawhnycooke",
+        "avatar": "https://avatars.githubusercontent.com/u/11808002?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/anthropics/prompt-eng-interactive-tutorial",
+    "name": "anthropics/prompt-eng-interactive-tutorial",
+    "description": "Anthropic's Interactive Prompt Engineering Tutorial  ",
+    "language": "Jupyter Notebook",
+    "stars": "20956",
+    "forks": "2014",
+    "increased": "643 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Wirasm",
+        "avatar": "https://avatars.githubusercontent.com/u/152263317?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/coleam00",
+        "avatar": "https://avatars.githubusercontent.com/u/47287758?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sean-eskerium",
+        "avatar": "https://avatars.githubusercontent.com/u/192726823?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/leex279",
+        "avatar": "https://avatars.githubusercontent.com/u/6664492?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/coleam00/Archon",
+    "name": "coleam00/Archon",
+    "description": "Be ta release of Archon OS - the knowledge and task management backbone for AI coding assistants.  ",
+    "language": "Python",
+    "stars": "12677",
+    "forks": "2192",
+    "increased": "42 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/actions-user",
+        "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bcherny",
+        "avatar": "https://avatars.githubusercontent.com/u/1761758?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ant-kurt",
+        "avatar": "https://avatars.githubusercontent.com/u/209710463?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bogini",
+        "avatar": "https://avatars.githubusercontent.com/u/605424?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/anthropics/claude-code",
+    "name": "anthropics/claude-code",
+    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.  ",
+    "language": "TypeScript",
+    "stars": "38591",
+    "forks": "2429",
+    "increased": "1149 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/asgeirtj",
+        "avatar": "https://avatars.githubusercontent.com/u/27446620?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/awrreny",
+        "avatar": "https://avatars.githubusercontent.com/u/46632417?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/xu-chris",
+        "avatar": "https://avatars.githubusercontent.com/u/980778?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/gudzenkov",
+        "avatar": "https://avatars.githubusercontent.com/u/11720732?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/EricZhou05",
+        "avatar": "https://avatars.githubusercontent.com/u/61287015?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/asgeirtj/system_prompts_leaks",
+    "name": "asgeirtj/system_prompts_leaks",
+    "description": "Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude &amp; Gemini  ",
+    "language": "JavaScript",
+    "stars": "22299",
+    "forks": "3438",
+    "increased": "138 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/zihaolin96",
+        "avatar": "https://avatars.githubusercontent.com/u/100875308?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/xiangkaiz",
+        "avatar": "https://avatars.githubusercontent.com/u/16846984?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/udaykakade25",
+        "avatar": "https://avatars.githubusercontent.com/u/141299403?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/xz-dev",
+        "avatar": "https://avatars.githubusercontent.com/u/32761048?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Klavis-AI/klavis",
+    "name": "Klavis-AI/klavis",
+    "description": "Klavis AI (YC X25): MCP integration platforms that let AI agents use tools reliably at any scale  ",
+    "language": "Python",
+    "stars": "5008",
+    "forks": "466",
+    "increased": "217 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/matheusfelipeog",
+        "avatar": "https://avatars.githubusercontent.com/u/50463866?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/davemachado",
+        "avatar": "https://avatars.githubusercontent.com/u/15134885?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pawelborkar",
+        "avatar": "https://avatars.githubusercontent.com/u/36134699?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jbrooksuk",
+        "avatar": "https://avatars.githubusercontent.com/u/246103?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/marekdano",
+        "avatar": "https://avatars.githubusercontent.com/u/1914165?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/public-apis/public-apis",
+    "name": "public-apis/public-apis",
+    "description": "A collective list of free APIs  ",
+    "language": "Python",
+    "stars": "369029",
+    "forks": "38850",
+    "increased": "366 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/zzzgydi",
+        "avatar": "https://avatars.githubusercontent.com/u/27361820?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/huzibaca",
+        "avatar": "https://avatars.githubusercontent.com/u/179569293?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/wonfen",
+        "avatar": "https://avatars.githubusercontent.com/u/96291150?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/MystiPanda",
+        "avatar": "https://avatars.githubusercontent.com/u/152463842?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Tunglies",
+        "avatar": "https://avatars.githubusercontent.com/u/77394545?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/clash-verge-rev/clash-verge-rev",
+    "name": "clash-verge-rev/clash-verge-rev",
+    "description": "A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience  ",
+    "language": "TypeScript",
+    "stars": "77781",
+    "forks": "5808",
+    "increased": "112 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Jarred-Sumner",
+        "avatar": "https://avatars.githubusercontent.com/u/709451?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dylan-conway",
+        "avatar": "https://avatars.githubusercontent.com/u/35280289?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/nektro",
+        "avatar": "https://avatars.githubusercontent.com/u/5464072?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/paperclover",
+        "avatar": "https://avatars.githubusercontent.com/u/24465214?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cirospaciari",
+        "avatar": "https://avatars.githubusercontent.com/u/6379399?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/oven-sh/bun",
+    "name": "oven-sh/bun",
+    "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one  ",
+    "language": "Zig",
+    "stars": "81291",
+    "forks": "3396",
+    "increased": "199 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ggerganov",
+        "avatar": "https://avatars.githubusercontent.com/u/1991296?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/slaren",
+        "avatar": "https://avatars.githubusercontent.com/u/2141330?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ngxson",
+        "avatar": "https://avatars.githubusercontent.com/u/7702203?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/JohannesGaessler",
+        "avatar": "https://avatars.githubusercontent.com/u/18492268?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/CISC",
+        "avatar": "https://avatars.githubusercontent.com/u/1629204?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/ggml-org/llama.cpp",
+    "name": "ggml-org/llama.cpp",
+    "description": "LLM inference in C/C++  ",
+    "language": "C++",
+    "stars": "87687",
+    "forks": "13321",
+    "increased": "93 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/IntegratedQuantum",
+        "avatar": "https://avatars.githubusercontent.com/u/43880493?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/careeoki",
+        "avatar": "https://avatars.githubusercontent.com/u/122191047?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Argmaster",
+        "avatar": "https://avatars.githubusercontent.com/u/56170852?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/OneAvargeCoder193",
+        "avatar": "https://avatars.githubusercontent.com/u/85588535?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ikabod-kee",
+        "avatar": "https://avatars.githubusercontent.com/u/155805949?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/PixelGuys/Cubyz",
+    "name": "PixelGuys/Cubyz",
+    "description": "Voxel sandbox game with a large render distance, procedurally generated content and some cool graphical effects.  ",
+    "language": "Zig",
+    "stars": "2374",
+    "forks": "139",
+    "increased": "324 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/dhh",
+        "avatar": "https://avatars.githubusercontent.com/u/2741?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ryanrhughes",
+        "avatar": "https://avatars.githubusercontent.com/u/1630358?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tahayvr",
+        "avatar": "https://avatars.githubusercontent.com/u/77543049?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/npenza",
+        "avatar": "https://avatars.githubusercontent.com/u/69229034?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ryanyogan",
+        "avatar": "https://avatars.githubusercontent.com/u/41596?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/basecamp/omarchy",
+    "name": "basecamp/omarchy",
+    "description": "Opinionated Arch/Hyprland Setup  ",
+    "language": "Shell",
+    "stars": "13903",
+    "forks": "1294",
+    "increased": "262 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/davila7",
+        "avatar": "https://avatars.githubusercontent.com/u/6216945?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/actions-user",
+        "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/KingsleyKelly",
+        "avatar": "https://avatars.githubusercontent.com/u/837822?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/davila7/claude-code-templates",
+    "name": "davila7/claude-code-templates",
+    "description": "CLI tool for configuring and monitoring Claude Code  ",
+    "language": "JavaScript",
+    "stars": "7838",
+    "forks": "661",
+    "increased": "394 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Raphire",
+        "avatar": "https://avatars.githubusercontent.com/u/9938813?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tsumi",
+        "avatar": "https://avatars.githubusercontent.com/u/1663025?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/SashankBhamidi",
+        "avatar": "https://avatars.githubusercontent.com/u/66299104?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/N0tHorizon",
+        "avatar": "https://avatars.githubusercontent.com/u/100943586?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kapad",
+        "avatar": "https://avatars.githubusercontent.com/u/2017355?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Raphire/Win11Debloat",
+    "name": "Raphire/Win11Debloat",
+    "description": "A simple, lightweight PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.  ",
+    "language": "PowerShell",
+    "stars": "28836",
+    "forks": "1171",
+    "increased": "262 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/omarsar",
+        "avatar": "https://avatars.githubusercontent.com/u/7049564?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/S4MFI",
+        "avatar": "https://avatars.githubusercontent.com/u/129090711?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/behrends",
+        "avatar": "https://avatars.githubusercontent.com/u/50868?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ThunderCatXp",
+        "avatar": "https://avatars.githubusercontent.com/u/53365307?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/giornaledisistema",
+        "avatar": "https://avatars.githubusercontent.com/u/1067217?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/dair-ai/Prompt-Engineering-Guide",
+    "name": "dair-ai/Prompt-Engineering-Guide",
+    "description": "🐙 Guides, papers, lecture, notebooks and resources for prompt engineering  ",
+    "language": "MDX",
+    "stars": "63250",
+    "forks": "6618",
+    "increased": "244 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/pi0",
+        "avatar": "https://avatars.githubusercontent.com/u/5158436?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/danielroe",
+        "avatar": "https://avatars.githubusercontent.com/u/28706372?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/renovate-bot",
+        "avatar": "https://avatars.githubusercontent.com/u/25180681?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/atinux",
+        "avatar": "https://avatars.githubusercontent.com/u/904724?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/nitrojs/nitro",
+    "name": "nitrojs/nitro",
+    "description": "Next Generation Server Toolkit. Create web servers with everything you need and deploy them wherever you prefer.  ",
+    "language": "TypeScript",
+    "stars": "8150",
+    "forks": "672",
+    "increased": "51 stars today"
+  }
+]
