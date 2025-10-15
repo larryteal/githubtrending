@@ -1,0 +1,446 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/CloudsOfChange",
+        "avatar": "https://avatars.githubusercontent.com/u/2212020?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/maggie-vo",
+        "avatar": "https://avatars.githubusercontent.com/u/143411590?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jawhnycooke",
+        "avatar": "https://avatars.githubusercontent.com/u/11808002?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/anthropics/prompt-eng-interactive-tutorial",
+    "name": "anthropics/prompt-eng-interactive-tutorial",
+    "description": "Anthropic's Interactive Prompt Engineering Tutorial  ",
+    "language": "Jupyter Notebook",
+    "stars": "22869",
+    "forks": "2137",
+    "increased": "2246 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ljharb",
+        "avatar": "https://avatars.githubusercontent.com/u/45469?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/PeterDaveHello",
+        "avatar": "https://avatars.githubusercontent.com/u/3691490?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/creationix",
+        "avatar": "https://avatars.githubusercontent.com/u/89353?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/koenpunt",
+        "avatar": "https://avatars.githubusercontent.com/u/351038?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/lukechilds",
+        "avatar": "https://avatars.githubusercontent.com/u/2123375?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/nvm-sh/nvm",
+    "name": "nvm-sh/nvm",
+    "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions  ",
+    "language": "Shell",
+    "stars": "87478",
+    "forks": "9413",
+    "increased": "25 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/GorvGoyl",
+        "avatar": "https://avatars.githubusercontent.com/u/7106086?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dimi-fn",
+        "avatar": "https://avatars.githubusercontent.com/u/56633241?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Pritamgit2002",
+        "avatar": "https://avatars.githubusercontent.com/u/102732012?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mani-barathi",
+        "avatar": "https://avatars.githubusercontent.com/u/49336839?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Areso",
+        "avatar": "https://avatars.githubusercontent.com/u/4927300?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/GorvGoyl/Clone-Wars",
+    "name": "GorvGoyl/Clone-Wars",
+    "description": "100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.  ",
+    "stars": "30390",
+    "forks": "2719",
+    "increased": "173 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/chickenlj",
+        "avatar": "https://avatars.githubusercontent.com/u/18097545?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/yuluo-yx",
+        "avatar": "https://avatars.githubusercontent.com/u/77964041?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/answeropensource",
+        "avatar": "https://avatars.githubusercontent.com/u/173772258?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Aias00",
+        "avatar": "https://avatars.githubusercontent.com/u/25810623?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/zhangshenghang",
+        "avatar": "https://avatars.githubusercontent.com/u/29418975?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/alibaba/spring-ai-alibaba",
+    "name": "alibaba/spring-ai-alibaba",
+    "description": "Agentic AI Framework for Java Developers  ",
+    "language": "Java",
+    "stars": "6265",
+    "forks": "1340",
+    "increased": "32 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/KMnO4-zx",
+        "avatar": "https://avatars.githubusercontent.com/u/77671993?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/logan-zou",
+        "avatar": "https://avatars.githubusercontent.com/u/74288839?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/xinala-781",
+        "avatar": "https://avatars.githubusercontent.com/u/184225750?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Zeyi-Lin",
+        "avatar": "https://avatars.githubusercontent.com/u/58305964?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/MengYue-MK2000",
+        "avatar": "https://avatars.githubusercontent.com/u/147008135?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/datawhalechina/happy-llm",
+    "name": "datawhalechina/happy-llm",
+    "description": "📚 从零开始的大语言模型原理与实践教程  ",
+    "language": "Jupyter Notebook",
+    "stars": "19439",
+    "forks": "1688",
+    "increased": "119 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/asgeirtj",
+        "avatar": "https://avatars.githubusercontent.com/u/27446620?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/awrreny",
+        "avatar": "https://avatars.githubusercontent.com/u/46632417?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/xu-chris",
+        "avatar": "https://avatars.githubusercontent.com/u/980778?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/gudzenkov",
+        "avatar": "https://avatars.githubusercontent.com/u/11720732?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/MaloneFreak",
+        "avatar": "https://avatars.githubusercontent.com/u/21204817?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/asgeirtj/system_prompts_leaks",
+    "name": "asgeirtj/system_prompts_leaks",
+    "description": "Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude &amp; Gemini  ",
+    "language": "JavaScript",
+    "stars": "22638",
+    "forks": "3470",
+    "increased": "441 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/myhloli",
+        "avatar": "https://avatars.githubusercontent.com/u/11393164?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dt-yy",
+        "avatar": "https://avatars.githubusercontent.com/u/102640628?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Focusshang",
+        "avatar": "https://avatars.githubusercontent.com/u/25022954?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Sidney233",
+        "avatar": "https://avatars.githubusercontent.com/u/54933042?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/opendatalab/MinerU",
+    "name": "opendatalab/MinerU",
+    "description": "Transforms complex documents like PDFs into LLM-ready markdown/JSON for your Agentic workflows.  ",
+    "language": "Python",
+    "stars": "46326",
+    "forks": "3837",
+    "increased": "115 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/pi0",
+        "avatar": "https://avatars.githubusercontent.com/u/5158436?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/danielroe",
+        "avatar": "https://avatars.githubusercontent.com/u/28706372?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/renovate-bot",
+        "avatar": "https://avatars.githubusercontent.com/u/25180681?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/atinux",
+        "avatar": "https://avatars.githubusercontent.com/u/904724?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/nitrojs/nitro",
+    "name": "nitrojs/nitro",
+    "description": "Next Generation Server Toolkit. Create web servers with everything you need and deploy them wherever you prefer.  ",
+    "language": "TypeScript",
+    "stars": "8487",
+    "forks": "692",
+    "increased": "429 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/zihaolin96",
+        "avatar": "https://avatars.githubusercontent.com/u/100875308?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/xiangkaiz",
+        "avatar": "https://avatars.githubusercontent.com/u/16846984?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/udaykakade25",
+        "avatar": "https://avatars.githubusercontent.com/u/141299403?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/xz-dev",
+        "avatar": "https://avatars.githubusercontent.com/u/32761048?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Klavis-AI/klavis",
+    "name": "Klavis-AI/klavis",
+    "description": "Klavis AI (YC X25): MCP integration platforms that let AI agents use tools reliably at any scale  ",
+    "language": "Python",
+    "stars": "5152",
+    "forks": "471",
+    "increased": "179 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/eniokaljic",
+        "avatar": "https://avatars.githubusercontent.com/u/5741611?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/chili-chips-ba",
+        "avatar": "https://avatars.githubusercontent.com/u/67533663?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/wyvernSemi",
+        "avatar": "https://avatars.githubusercontent.com/u/21970031?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Juninho99",
+        "avatar": "https://avatars.githubusercontent.com/u/70281175?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kerimbavcic",
+        "avatar": "https://avatars.githubusercontent.com/u/113244867?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/chili-chips-ba/wireguard-fpga",
+    "name": "chili-chips-ba/wireguard-fpga",
+    "description": "Full-throttle, wire-speed hardware implementation of Wireguard VPN, using low-cost Artix7 FPGA with opensource toolchain. If you seek security and privacy, nothing is private in our codebase. Our door is wide open for backdoor scrutiny, be it related to RTL, embedded, build, bitstream or any other aspect of design and delivery package. Bujrum!  ",
+    "language": "Verilog",
+    "stars": "1042",
+    "forks": "18",
+    "increased": "165 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/omarsar",
+        "avatar": "https://avatars.githubusercontent.com/u/7049564?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/S4MFI",
+        "avatar": "https://avatars.githubusercontent.com/u/129090711?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/behrends",
+        "avatar": "https://avatars.githubusercontent.com/u/50868?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ThunderCatXp",
+        "avatar": "https://avatars.githubusercontent.com/u/53365307?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/giornaledisistema",
+        "avatar": "https://avatars.githubusercontent.com/u/1067217?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/dair-ai/Prompt-Engineering-Guide",
+    "name": "dair-ai/Prompt-Engineering-Guide",
+    "description": "🐙 Guides, papers, lecture, notebooks and resources for prompt engineering  ",
+    "language": "MDX",
+    "stars": "63648",
+    "forks": "6650",
+    "increased": "498 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/shaohuzhang1",
+        "avatar": "https://avatars.githubusercontent.com/u/80892890?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/wangdan-fit2cloud",
+        "avatar": "https://avatars.githubusercontent.com/u/79562285?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/liuruibin",
+        "avatar": "https://avatars.githubusercontent.com/u/23045261?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/wxg0103",
+        "avatar": "https://avatars.githubusercontent.com/u/46886316?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/liqiang-fit2cloud",
+        "avatar": "https://avatars.githubusercontent.com/u/20766823?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/1Panel-dev/MaxKB",
+    "name": "1Panel-dev/MaxKB",
+    "description": "🔥 MaxKB is an open-source platform for building enterprise-grade agents. MaxKB 是强大易用的开源企业级智能体平台。  ",
+    "language": "Python",
+    "stars": "18596",
+    "forks": "2422",
+    "increased": "16 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/matheusfelipeog",
+        "avatar": "https://avatars.githubusercontent.com/u/50463866?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/davemachado",
+        "avatar": "https://avatars.githubusercontent.com/u/15134885?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pawelborkar",
+        "avatar": "https://avatars.githubusercontent.com/u/36134699?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jbrooksuk",
+        "avatar": "https://avatars.githubusercontent.com/u/246103?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/marekdano",
+        "avatar": "https://avatars.githubusercontent.com/u/1914165?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/public-apis/public-apis",
+    "name": "public-apis/public-apis",
+    "description": "A collective list of free APIs  ",
+    "language": "Python",
+    "stars": "369735",
+    "forks": "38902",
+    "increased": "693 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/KellerJordan",
+        "avatar": "https://avatars.githubusercontent.com/u/18433116?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/YouJiacheng",
+        "avatar": "https://avatars.githubusercontent.com/u/83971976?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/leloykun",
+        "avatar": "https://avatars.githubusercontent.com/u/14250344?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bluecoconut",
+        "avatar": "https://avatars.githubusercontent.com/u/916073?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tysam-code",
+        "avatar": "https://avatars.githubusercontent.com/u/120343106?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/KellerJordan/modded-nanogpt",
+    "name": "KellerJordan/modded-nanogpt",
+    "description": "NanoGPT (124M) in 3 minutes  ",
+    "language": "Python",
+    "stars": "3337",
+    "forks": "449",
+    "increased": "62 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/qin-ctx",
+        "avatar": "https://avatars.githubusercontent.com/u/234610432?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/KashiwaByte101",
+        "avatar": "https://avatars.githubusercontent.com/u/219091167?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/fanrenaz",
+        "avatar": "https://avatars.githubusercontent.com/u/51114968?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/WuMingDao",
+        "avatar": "https://avatars.githubusercontent.com/u/146366930?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/MaojiaSheng",
+        "avatar": "https://avatars.githubusercontent.com/u/211460083?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/volcengine/MineContext",
+    "name": "volcengine/MineContext",
+    "description": "MineContext is your proactive context-aware AI partner（Context-Engineering+ChatGPT Pulse）  ",
+    "language": "Python",
+    "stars": "1669",
+    "forks": "75",
+    "increased": "208 stars today"
+  }
+]

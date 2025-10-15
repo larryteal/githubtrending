@@ -1,0 +1,531 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/nklhtv",
+        "avatar": "https://avatars.githubusercontent.com/u/5950722?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tymmesyde",
+        "avatar": "https://avatars.githubusercontent.com/u/7889816?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kKaskak",
+        "avatar": "https://avatars.githubusercontent.com/u/117831817?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/swetlasg",
+        "avatar": "https://avatars.githubusercontent.com/u/15102316?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Botsy",
+        "avatar": "https://avatars.githubusercontent.com/u/10400528?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Stremio/stremio-web",
+    "name": "Stremio/stremio-web",
+    "description": "Stremio - Freedom to Stream  ",
+    "language": "JavaScript",
+    "stars": "7971",
+    "forks": "885",
+    "increased": "4987 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/CloudsOfChange",
+        "avatar": "https://avatars.githubusercontent.com/u/2212020?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/maggie-vo",
+        "avatar": "https://avatars.githubusercontent.com/u/143411590?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jawhnycooke",
+        "avatar": "https://avatars.githubusercontent.com/u/11808002?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/anthropics/prompt-eng-interactive-tutorial",
+    "name": "anthropics/prompt-eng-interactive-tutorial",
+    "description": "Anthropic's Interactive Prompt Engineering Tutorial  ",
+    "language": "Jupyter Notebook",
+    "stars": "22869",
+    "forks": "2137",
+    "increased": "3502 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/actions-user",
+        "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bcherny",
+        "avatar": "https://avatars.githubusercontent.com/u/1761758?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ant-kurt",
+        "avatar": "https://avatars.githubusercontent.com/u/209710463?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bogini",
+        "avatar": "https://avatars.githubusercontent.com/u/605424?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/anthropics/claude-code",
+    "name": "anthropics/claude-code",
+    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.  ",
+    "language": "TypeScript",
+    "stars": "38855",
+    "forks": "2446",
+    "increased": "3247 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/treoden",
+        "avatar": "https://avatars.githubusercontent.com/u/6950941?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/en1-gma",
+        "avatar": "https://avatars.githubusercontent.com/u/77514209?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ultimate-tester",
+        "avatar": "https://avatars.githubusercontent.com/u/580758?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/GiorgosIlia",
+        "avatar": "https://avatars.githubusercontent.com/u/24270247?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tszczypinski6",
+        "avatar": "https://avatars.githubusercontent.com/u/34459148?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/evershopcommerce/evershop",
+    "name": "evershopcommerce/evershop",
+    "description": "🛍️ Typescript E-commerce Platform  ",
+    "language": "TypeScript",
+    "stars": "7483",
+    "forks": "1905",
+    "increased": "1718 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/TibixDev",
+        "avatar": "https://avatars.githubusercontent.com/u/21055141?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Levev",
+        "avatar": "https://avatars.githubusercontent.com/u/72160179?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/AdianKozlica",
+        "avatar": "https://avatars.githubusercontent.com/u/105174725?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/TheDokT0r",
+        "avatar": "https://avatars.githubusercontent.com/u/85199046?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/TibixDev/winboat",
+    "name": "TibixDev/winboat",
+    "description": "Run Windows apps on 🐧 Linux with ✨ seamless integration  ",
+    "language": "TypeScript",
+    "stars": "11279",
+    "forks": "285",
+    "increased": "4989 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/davila7",
+        "avatar": "https://avatars.githubusercontent.com/u/6216945?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/actions-user",
+        "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/KingsleyKelly",
+        "avatar": "https://avatars.githubusercontent.com/u/837822?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/davila7/claude-code-templates",
+    "name": "davila7/claude-code-templates",
+    "description": "CLI tool for configuring and monitoring Claude Code  ",
+    "language": "JavaScript",
+    "stars": "8042",
+    "forks": "681",
+    "increased": "1329 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/TapXWorld",
+        "avatar": "https://avatars.githubusercontent.com/u/3353541?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/keminshu",
+        "avatar": "https://avatars.githubusercontent.com/u/10050045?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/TapXWorld/ChinaTextbook",
+    "name": "TapXWorld/ChinaTextbook",
+    "description": "所有小初高、大学PDF教材。  ",
+    "language": "Roff",
+    "stars": "53417",
+    "forks": "11979",
+    "increased": "2329 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/MODSetter",
+        "avatar": "https://avatars.githubusercontent.com/u/122026167?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Utkarsh-Patel-13",
+        "avatar": "https://avatars.githubusercontent.com/u/30389481?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/CREDO23",
+        "avatar": "https://avatars.githubusercontent.com/u/103337221?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/anshul7665",
+        "avatar": "https://avatars.githubusercontent.com/u/153057617?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/MuhamadAjiW",
+        "avatar": "https://avatars.githubusercontent.com/u/89117568?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/MODSetter/SurfSense",
+    "name": "MODSetter/SurfSense",
+    "description": "Open Source Alternative to NotebookLM / Perplexity, connected to external sources such as Search Engines, Slack, Linear, Jira, ClickUp, Confluence, Notion, YouTube, GitHub, Discord and more. Join our discord:  https://discord.gg/ejRNvftDp9    ",
+    "language": "Python",
+    "stars": "9646",
+    "forks": "760",
+    "increased": "1245 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/dgtlmoon",
+        "avatar": "https://avatars.githubusercontent.com/u/275001?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Constantin1489",
+        "avatar": "https://avatars.githubusercontent.com/u/61624808?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kruton",
+        "avatar": "https://avatars.githubusercontent.com/u/50407?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/marceloalencar",
+        "avatar": "https://avatars.githubusercontent.com/u/6068319?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/dgtlmoon/changedetection.io",
+    "name": "dgtlmoon/changedetection.io",
+    "description": "Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitoring—all for free or enjoy our SaaS plan!  ",
+    "language": "Python",
+    "stars": "27957",
+    "forks": "1554",
+    "increased": "is week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/guidedways",
+        "avatar": "https://avatars.githubusercontent.com/u/202437?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/svnlto",
+        "avatar": "https://avatars.githubusercontent.com/u/103989?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/BeehiveInnovations/zen-mcp-server",
+    "name": "BeehiveInnovations/zen-mcp-server",
+    "description": "The power of Claude Code / GeminiCLI / CodexCLI + [Gemini / OpenAI / OpenRouter / Azure / Grok / Ollama / Custom Model / All Of The Above] working as one.  ",
+    "language": "Python",
+    "stars": "8973",
+    "forks": "744",
+    "increased": "1060 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/hsliuping",
+        "avatar": "https://avatars.githubusercontent.com/u/128790537?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Yijia-Xiao",
+        "avatar": "https://avatars.githubusercontent.com/u/48253104?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/EdwardoSunny",
+        "avatar": "https://avatars.githubusercontent.com/u/68405458?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ZeroAct",
+        "avatar": "https://avatars.githubusercontent.com/u/46982469?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/YifanHere",
+        "avatar": "https://avatars.githubusercontent.com/u/62582492?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/hsliuping/TradingAgents-CN",
+    "name": "hsliuping/TradingAgents-CN",
+    "description": "基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版  ",
+    "language": "Python",
+    "stars": "10523",
+    "forks": "2295",
+    "increased": "1027 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/maidul98",
+        "avatar": "https://avatars.githubusercontent.com/u/9300960?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/DanielHougaard",
+        "avatar": "https://avatars.githubusercontent.com/u/62331820?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/akhilmhdh",
+        "avatar": "https://avatars.githubusercontent.com/u/31166322?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dangtony98",
+        "avatar": "https://avatars.githubusercontent.com/u/25857006?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sheensantoscapadngan",
+        "avatar": "https://avatars.githubusercontent.com/u/65645666?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Infisical/infisical",
+    "name": "Infisical/infisical",
+    "description": "Infisical is the open-source platform for secrets, certificates, and privileged access management.  ",
+    "language": "TypeScript",
+    "stars": "22659",
+    "forks": "1523",
+    "increased": "749 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/SkalskiP",
+        "avatar": "https://avatars.githubusercontent.com/u/26109316?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/probicheaux",
+        "avatar": "https://avatars.githubusercontent.com/u/25629529?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/capjamesg",
+        "avatar": "https://avatars.githubusercontent.com/u/37276661?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Matvezy",
+        "avatar": "https://avatars.githubusercontent.com/u/46304340?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/isaacrob-roboflow",
+        "avatar": "https://avatars.githubusercontent.com/u/185952509?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/roboflow/rf-detr",
+    "name": "roboflow/rf-detr",
+    "description": "RF-DETR is a real-time object detection and segmentation model architecture developed by Roboflow, SOTA on COCO and designed for fine-tuning.  ",
+    "language": "Python",
+    "stars": "3613",
+    "forks": "415",
+    "increased": "week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Paul-Licameli",
+        "avatar": "https://avatars.githubusercontent.com/u/11670369?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/JamesCrook",
+        "avatar": "https://avatars.githubusercontent.com/u/1621525?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/lllucius",
+        "avatar": "https://avatars.githubusercontent.com/u/7347848?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/crsib",
+        "avatar": "https://avatars.githubusercontent.com/u/2660628?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/vsverchinsky",
+        "avatar": "https://avatars.githubusercontent.com/u/20165230?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/audacity/audacity",
+    "name": "audacity/audacity",
+    "description": "Audio Editor  ",
+    "language": "C++",
+    "stars": "15466",
+    "forks": "2443",
+    "increased": "467 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/moklick",
+        "avatar": "https://avatars.githubusercontent.com/u/2857535?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/peterkogo",
+        "avatar": "https://avatars.githubusercontent.com/u/7165378?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/chrtze",
+        "avatar": "https://avatars.githubusercontent.com/u/3797215?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/xyflow/xyflow",
+    "name": "xyflow/xyflow",
+    "description": "React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (  https://reactflow.dev  ) or Svelte (  https://svelteflow.dev  ). Ready out-of-the-box and infinitely customizable.  ",
+    "language": "TypeScript",
+    "stars": "32768",
+    "forks": "2148",
+    "increased": "919 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/JC5",
+        "avatar": "https://avatars.githubusercontent.com/u/5889984?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/SDx3",
+        "avatar": "https://avatars.githubusercontent.com/u/16149559?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/firefly-iii/firefly-iii",
+    "name": "firefly-iii/firefly-iii",
+    "description": "Firefly III: a personal finances manager  ",
+    "language": "PHP",
+    "stars": "21167",
+    "forks": "1924",
+    "increased": "397 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Jarred-Sumner",
+        "avatar": "https://avatars.githubusercontent.com/u/709451?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dylan-conway",
+        "avatar": "https://avatars.githubusercontent.com/u/35280289?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/nektro",
+        "avatar": "https://avatars.githubusercontent.com/u/5464072?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/paperclover",
+        "avatar": "https://avatars.githubusercontent.com/u/24465214?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cirospaciari",
+        "avatar": "https://avatars.githubusercontent.com/u/6379399?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/oven-sh/bun",
+    "name": "oven-sh/bun",
+    "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one  ",
+    "language": "Zig",
+    "stars": "81410",
+    "forks": "3411",
+    "increased": "677 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/you-n-g",
+        "avatar": "https://avatars.githubusercontent.com/u/465606?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/peteryang1",
+        "avatar": "https://avatars.githubusercontent.com/u/25981102?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/XianBW",
+        "avatar": "https://avatars.githubusercontent.com/u/36835909?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/WinstonLiyt",
+        "avatar": "https://avatars.githubusercontent.com/u/104308117?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/qew21",
+        "avatar": "https://avatars.githubusercontent.com/u/25722332?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/microsoft/RD-Agent",
+    "name": "microsoft/RD-Agent",
+    "description": "Research and development (R&amp;D) is crucial for the enhancement of industrial productivity, especially in the AI era, where the core aspects of R&amp;D are mainly focused on data and models. We are committed to automating these high-value generic R&amp;D processes through R&amp;D-Agent, which lets AI drive data-driven AI. 🔗  https://aka.ms/RD-Agent-Tech-Report    ",
+    "language": "Python",
+    "stars": "8542",
+    "forks": "895",
+    "increased": "462 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/78",
+        "avatar": "https://avatars.githubusercontent.com/u/4488133?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/laride",
+        "avatar": "https://avatars.githubusercontent.com/u/198868291?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Kevincoooool",
+        "avatar": "https://avatars.githubusercontent.com/u/33611679?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Y1hsiaochunnn",
+        "avatar": "https://avatars.githubusercontent.com/u/66012385?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ZhouKes",
+        "avatar": "https://avatars.githubusercontent.com/u/20272580?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/78/xiaozhi-esp32",
+    "name": "78/xiaozhi-esp32",
+    "description": "An MCP-based chatbot | 一个基于MCP的聊天机器人  ",
+    "language": "C++",
+    "stars": "20076",
+    "forks": "4051",
+    "increased": "1033 stars this week"
+  }
+]
