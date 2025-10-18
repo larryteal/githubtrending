@@ -1,0 +1,589 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/harry0703",
+        "avatar": "https://avatars.githubusercontent.com/u/4928832?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/yyhhyyyyyy",
+        "avatar": "https://avatars.githubusercontent.com/u/95077259?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/vuisme",
+        "avatar": "https://avatars.githubusercontent.com/u/96235876?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/KevinZhang19870314",
+        "avatar": "https://avatars.githubusercontent.com/u/13794286?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/garylab",
+        "avatar": "https://avatars.githubusercontent.com/u/3072379?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/harry0703/MoneyPrinterTurbo",
+    "name": "harry0703/MoneyPrinterTurbo",
+    "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.  ",
+    "language": "Python",
+    "stars": "46606",
+    "forks": "6526",
+    "increased": "6886 stars this month"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/LeiWang1999",
+        "avatar": "https://avatars.githubusercontent.com/u/34334180?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/chengyupku",
+        "avatar": "https://avatars.githubusercontent.com/u/54519279?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/xwhzz",
+        "avatar": "https://avatars.githubusercontent.com/u/132904306?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tzj-fxz",
+        "avatar": "https://avatars.githubusercontent.com/u/97930865?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/yyttt6",
+        "avatar": "https://avatars.githubusercontent.com/u/134183314?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/tile-ai/tilelang",
+    "name": "tile-ai/tilelang",
+    "description": "Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels  ",
+    "language": "C++",
+    "stars": "3607",
+    "forks": "267",
+    "increased": "1993 stars this month"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/callanwu",
+        "avatar": "https://avatars.githubusercontent.com/u/63695429?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/likuanppd",
+        "avatar": "https://avatars.githubusercontent.com/u/48855254?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/BaixuanLi",
+        "avatar": "https://avatars.githubusercontent.com/u/76234060?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/WenbiaoYin",
+        "avatar": "https://avatars.githubusercontent.com/u/93020991?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/HuifengYin",
+        "avatar": "https://avatars.githubusercontent.com/u/38558109?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Alibaba-NLP/DeepResearch",
+    "name": "Alibaba-NLP/DeepResearch",
+    "description": "Tongyi Deep Research, the Leading Open-source Deep Research Agent  ",
+    "language": "Python",
+    "stars": "16152",
+    "forks": "1212",
+    "increased": "8980 stars this month"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/CloudsOfChange",
+        "avatar": "https://avatars.githubusercontent.com/u/2212020?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/maggie-vo",
+        "avatar": "https://avatars.githubusercontent.com/u/143411590?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jawhnycooke",
+        "avatar": "https://avatars.githubusercontent.com/u/11808002?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/anthropics/prompt-eng-interactive-tutorial",
+    "name": "anthropics/prompt-eng-interactive-tutorial",
+    "description": "Anthropic's Interactive Prompt Engineering Tutorial  ",
+    "language": "Jupyter Notebook",
+    "stars": "24392",
+    "forks": "2235",
+    "increased": "6039 stars this month"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/dexhorthy",
+        "avatar": "https://avatars.githubusercontent.com/u/3730605?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/K-Mistele",
+        "avatar": "https://avatars.githubusercontent.com/u/18430555?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/balanceiskey",
+        "avatar": "https://avatars.githubusercontent.com/u/470240?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/samdickson22",
+        "avatar": "https://avatars.githubusercontent.com/u/217395086?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/humanlayer/humanlayer",
+    "name": "humanlayer/humanlayer",
+    "description": "The best way to get AI coding agents to solve hard problems in complex codebases.  ",
+    "language": "TypeScript",
+    "stars": "6166",
+    "forks": "473",
+    "increased": "3699 stars this month"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dicksontsai",
+        "avatar": "https://avatars.githubusercontent.com/u/3757768?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ltawfik",
+        "avatar": "https://avatars.githubusercontent.com/u/11431944?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ashwin-ant",
+        "avatar": "https://avatars.githubusercontent.com/u/178951676?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/anthropics/claude-agent-sdk-python",
+    "name": "anthropics/claude-agent-sdk-python",
+    "language": "Python",
+    "stars": "2676",
+    "forks": "326",
+    "increased": "1645 stars this month"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/TibixDev",
+        "avatar": "https://avatars.githubusercontent.com/u/21055141?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Levev",
+        "avatar": "https://avatars.githubusercontent.com/u/72160179?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/AdianKozlica",
+        "avatar": "https://avatars.githubusercontent.com/u/105174725?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Simon-Weij",
+        "avatar": "https://avatars.githubusercontent.com/u/175155691?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/TibixDev/winboat",
+    "name": "TibixDev/winboat",
+    "description": "Run Windows apps on 🐧 Linux with ✨ seamless integration  ",
+    "language": "TypeScript",
+    "stars": "12029",
+    "forks": "302",
+    "increased": "7990 stars this month"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/jordanhunt22",
+        "avatar": "https://avatars.githubusercontent.com/u/65152573?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Nicolapps",
+        "avatar": "https://avatars.githubusercontent.com/u/7029582?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/emmaling27",
+        "avatar": "https://avatars.githubusercontent.com/u/21979288?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/thomasballinger",
+        "avatar": "https://avatars.githubusercontent.com/u/458879?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sshader",
+        "avatar": "https://avatars.githubusercontent.com/u/15620796?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/get-convex/chef",
+    "name": "get-convex/chef",
+    "description": "The only AI app builder that knows backend  ",
+    "language": "TypeScript",
+    "stars": "2188",
+    "forks": "398",
+    "increased": "2160 stars this month"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/CarsonRoscoe",
+        "avatar": "https://avatars.githubusercontent.com/u/9859171?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/erikreppel-cb",
+        "avatar": "https://avatars.githubusercontent.com/u/200281512?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/apmcdermott-cb",
+        "avatar": "https://avatars.githubusercontent.com/u/143443788?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/murrlincoln",
+        "avatar": "https://avatars.githubusercontent.com/u/65836530?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/John-peterson-coinbase",
+        "avatar": "https://avatars.githubusercontent.com/u/98187317?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/coinbase/x402",
+    "name": "coinbase/x402",
+    "description": "A payments protocol for the internet. Built on HTTP.  ",
+    "language": "TypeScript",
+    "stars": "2195",
+    "forks": "331",
+    "increased": "1245 stars this month"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Paul-Licameli",
+        "avatar": "https://avatars.githubusercontent.com/u/11670369?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/JamesCrook",
+        "avatar": "https://avatars.githubusercontent.com/u/1621525?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/lllucius",
+        "avatar": "https://avatars.githubusercontent.com/u/7347848?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/crsib",
+        "avatar": "https://avatars.githubusercontent.com/u/2660628?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/vsverchinsky",
+        "avatar": "https://avatars.githubusercontent.com/u/20165230?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/audacity/audacity",
+    "name": "audacity/audacity",
+    "description": "Audio Editor  ",
+    "language": "C++",
+    "stars": "15565",
+    "forks": "2449",
+    "increased": "1420 stars this month"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/treoden",
+        "avatar": "https://avatars.githubusercontent.com/u/6950941?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/en1-gma",
+        "avatar": "https://avatars.githubusercontent.com/u/77514209?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ultimate-tester",
+        "avatar": "https://avatars.githubusercontent.com/u/580758?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/GiorgosIlia",
+        "avatar": "https://avatars.githubusercontent.com/u/24270247?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tszczypinski6",
+        "avatar": "https://avatars.githubusercontent.com/u/34459148?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/evershopcommerce/evershop",
+    "name": "evershopcommerce/evershop",
+    "description": "🛍️ Typescript E-commerce Platform  ",
+    "language": "TypeScript",
+    "stars": "7739",
+    "forks": "1927",
+    "increased": "2045 stars this month"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/holtskinner",
+        "avatar": "https://avatars.githubusercontent.com/u/13262395?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mdoeseckle",
+        "avatar": "https://avatars.githubusercontent.com/u/1266492?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/zeroasterisk",
+        "avatar": "https://avatars.githubusercontent.com/u/23422?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/google-agentic-commerce/AP2",
+    "name": "google-agentic-commerce/AP2",
+    "description": "Building a Secure and Interoperable Future for AI-Driven Payments.  ",
+    "language": "Python",
+    "stars": "2271",
+    "forks": "308",
+    "increased": "1808 stars this month"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/laanwj",
+        "avatar": "https://avatars.githubusercontent.com/u/126646?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/fanquake",
+        "avatar": "https://avatars.githubusercontent.com/u/863730?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sipa",
+        "avatar": "https://avatars.githubusercontent.com/u/548488?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/achow101",
+        "avatar": "https://avatars.githubusercontent.com/u/3782274?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/hebasto",
+        "avatar": "https://avatars.githubusercontent.com/u/32963518?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/bitcoin/bitcoin",
+    "name": "bitcoin/bitcoin",
+    "description": "Bitcoin Core integration/staging tree  ",
+    "language": "C++",
+    "stars": "86254",
+    "forks": "38039",
+    "increased": "824 stars this month"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/bolinfest",
+        "avatar": "https://avatars.githubusercontent.com/u/655869?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/nornagon-openai",
+        "avatar": "https://avatars.githubusercontent.com/u/172423086?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pakrym-oai",
+        "avatar": "https://avatars.githubusercontent.com/u/204937752?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/aibrahim-oai",
+        "avatar": "https://avatars.githubusercontent.com/u/219906144?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/gpeal",
+        "avatar": "https://avatars.githubusercontent.com/u/1307745?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/openai/codex",
+    "name": "openai/codex",
+    "description": "Lightweight coding agent that runs in your terminal  ",
+    "language": "Rust",
+    "stars": "47989",
+    "forks": "5795",
+    "increased": "6341 stars this month"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/manucorporat",
+        "avatar": "https://avatars.githubusercontent.com/u/127379?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/javierprovecho",
+        "avatar": "https://avatars.githubusercontent.com/u/2457529?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/thinkerou",
+        "avatar": "https://avatars.githubusercontent.com/u/4488261?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/appleboy",
+        "avatar": "https://avatars.githubusercontent.com/u/21979?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/gin-gonic/gin",
+    "name": "gin-gonic/gin",
+    "description": "Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.  ",
+    "language": "Go",
+    "stars": "86545",
+    "forks": "8459",
+    "increased": "2683 stars this month"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/cclauss",
+        "avatar": "https://avatars.githubusercontent.com/u/3709715?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/harshildarji",
+        "avatar": "https://avatars.githubusercontent.com/u/14276147?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tianyizheng02",
+        "avatar": "https://avatars.githubusercontent.com/u/52298854?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/MaximSmolskiy",
+        "avatar": "https://avatars.githubusercontent.com/u/25690822?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/TheAlgorithms/Python",
+    "name": "TheAlgorithms/Python",
+    "description": "All Algorithms implemented in Python  ",
+    "language": "Python",
+    "stars": "211033",
+    "forks": "48746",
+    "increased": "3948 stars this month"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/jatZama",
+        "avatar": "https://avatars.githubusercontent.com/u/153528475?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/immortal-tofu",
+        "avatar": "https://avatars.githubusercontent.com/u/1384478?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/goshawk-3",
+        "avatar": "https://avatars.githubusercontent.com/u/76947196?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/leventdem",
+        "avatar": "https://avatars.githubusercontent.com/u/6748529?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/RomanBredehoft",
+        "avatar": "https://avatars.githubusercontent.com/u/56846628?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/zama-ai/fhevm",
+    "name": "zama-ai/fhevm",
+    "description": "FHEVM, a full-stack framework for integrating Fully Homomorphic Encryption (FHE) with blockchain applications  ",
+    "language": "Rust",
+    "stars": "24324",
+    "forks": "1203",
+    "increased": "5193 stars this month"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/vhf",
+        "avatar": "https://avatars.githubusercontent.com/u/2022803?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/eshellman",
+        "avatar": "https://avatars.githubusercontent.com/u/926513?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/davorpa",
+        "avatar": "https://avatars.githubusercontent.com/u/3125580?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/MHM5000",
+        "avatar": "https://avatars.githubusercontent.com/u/2694949?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kadhirash",
+        "avatar": "https://avatars.githubusercontent.com/u/10100659?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/EbookFoundation/free-programming-books",
+    "name": "EbookFoundation/free-programming-books",
+    "description": "📚 Freely available programming books  ",
+    "language": "Python",
+    "stars": "372758",
+    "forks": "64832",
+    "increased": "4821 stars this month"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/kimchy",
+        "avatar": "https://avatars.githubusercontent.com/u/41300?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/martijnvg",
+        "avatar": "https://avatars.githubusercontent.com/u/580421?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/nik9000",
+        "avatar": "https://avatars.githubusercontent.com/u/215970?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/s1monw",
+        "avatar": "https://avatars.githubusercontent.com/u/973334?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rjernst",
+        "avatar": "https://avatars.githubusercontent.com/u/289412?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/elastic/elasticsearch",
+    "name": "elastic/elasticsearch",
+    "description": "Free and Open Source, Distributed, RESTful Search Engine  ",
+    "language": "Java",
+    "stars": "75083",
+    "forks": "25554",
+    "increased": "1360 stars this month"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/janober",
+        "avatar": "https://avatars.githubusercontent.com/u/6249596?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ivov",
+        "avatar": "https://avatars.githubusercontent.com/u/44588767?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/netroy",
+        "avatar": "https://avatars.githubusercontent.com/u/196144?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/RicardoE105",
+        "avatar": "https://avatars.githubusercontent.com/u/16496553?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/michael-radency",
+        "avatar": "https://avatars.githubusercontent.com/u/88898367?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/n8n-io/n8n",
+    "name": "n8n-io/n8n",
+    "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.  ",
+    "language": "TypeScript",
+    "stars": "149722",
+    "forks": "47573",
+    "increased": "11526 stars this month"
+  }
+]
