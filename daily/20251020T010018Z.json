@@ -1,0 +1,566 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/zealoushacker",
+        "avatar": "https://avatars.githubusercontent.com/u/346275?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/alexalbertt",
+        "avatar": "https://avatars.githubusercontent.com/u/34638987?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/saflamini",
+        "avatar": "https://avatars.githubusercontent.com/u/43142465?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/maheshmurag",
+        "avatar": "https://avatars.githubusercontent.com/u/5667029?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/anthropics/claude-cookbooks",
+    "name": "anthropics/claude-cookbooks",
+    "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.  ",
+    "language": "Jupyter Notebook",
+    "stars": "22108",
+    "forks": "2337",
+    "increased": "331 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/lfnovo",
+        "avatar": "https://avatars.githubusercontent.com/u/579178?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/troykelly",
+        "avatar": "https://avatars.githubusercontent.com/u/4564803?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pchuri",
+        "avatar": "https://avatars.githubusercontent.com/u/11848484?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/lfnovo/open-notebook",
+    "name": "lfnovo/open-notebook",
+    "description": "An Open Source implementation of Notebook LM with more flexibility and features  ",
+    "language": "TypeScript",
+    "stars": "5670",
+    "forks": "587",
+    "increased": "142 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/jingyaogong",
+        "avatar": "https://avatars.githubusercontent.com/u/62287848?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/iomgaa-ycz",
+        "avatar": "https://avatars.githubusercontent.com/u/124225682?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/MuWinds",
+        "avatar": "https://avatars.githubusercontent.com/u/93832089?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/jingyaogong/minimind",
+    "name": "jingyaogong/minimind",
+    "description": "🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!  ",
+    "language": "Python",
+    "stars": "30199",
+    "forks": "3491",
+    "increased": "278 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/BinaryMuse",
+        "avatar": "https://avatars.githubusercontent.com/u/189606?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ellie",
+        "avatar": "https://avatars.githubusercontent.com/u/53315310?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/atuinsh/desktop",
+    "name": "atuinsh/desktop",
+    "description": "📖 Runbooks that run  ",
+    "language": "TypeScript",
+    "stars": "1723",
+    "forks": "46",
+    "increased": "43 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/vhf",
+        "avatar": "https://avatars.githubusercontent.com/u/2022803?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/eshellman",
+        "avatar": "https://avatars.githubusercontent.com/u/926513?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/davorpa",
+        "avatar": "https://avatars.githubusercontent.com/u/3125580?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/MHM5000",
+        "avatar": "https://avatars.githubusercontent.com/u/2694949?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kadhirash",
+        "avatar": "https://avatars.githubusercontent.com/u/10100659?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/EbookFoundation/free-programming-books",
+    "name": "EbookFoundation/free-programming-books",
+    "description": "📚 Freely available programming books  ",
+    "language": "Python",
+    "stars": "373423",
+    "forks": "64906",
+    "increased": "476 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/gschier",
+        "avatar": "https://avatars.githubusercontent.com/u/587576?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/subframe7536",
+        "avatar": "https://avatars.githubusercontent.com/u/78338239?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/hxzhao527",
+        "avatar": "https://avatars.githubusercontent.com/u/8402502?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/null-dev",
+        "avatar": "https://avatars.githubusercontent.com/u/9571936?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/mountain-loop/yaak",
+    "name": "mountain-loop/yaak",
+    "description": "The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬  ",
+    "language": "TypeScript",
+    "stars": "8433",
+    "forks": "296",
+    "increased": "178 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/wintonzheng",
+        "avatar": "https://avatars.githubusercontent.com/u/5225702?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/LawyZheng",
+        "avatar": "https://avatars.githubusercontent.com/u/26927551?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ykeremy",
+        "avatar": "https://avatars.githubusercontent.com/u/26116031?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jomido",
+        "avatar": "https://avatars.githubusercontent.com/u/1469593?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/suchintan",
+        "avatar": "https://avatars.githubusercontent.com/u/3853670?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Skyvern-AI/skyvern",
+    "name": "Skyvern-AI/skyvern",
+    "description": "Automate browser-based workflows with LLMs and Computer Vision  ",
+    "language": "Python",
+    "stars": "14746",
+    "forks": "1264",
+    "increased": "25 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/LDOUBLEV",
+        "avatar": "https://avatars.githubusercontent.com/u/26592129?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/WenmuZhou",
+        "avatar": "https://avatars.githubusercontent.com/u/12406017?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/MissPenguin",
+        "avatar": "https://avatars.githubusercontent.com/u/25809855?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tink2123",
+        "avatar": "https://avatars.githubusercontent.com/u/31891223?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dyning",
+        "avatar": "https://avatars.githubusercontent.com/u/10047064?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/PaddlePaddle/PaddleOCR",
+    "name": "PaddlePaddle/PaddleOCR",
+    "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.  ",
+    "language": "Python",
+    "stars": "58948",
+    "forks": "8967",
+    "increased": "405 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/cclauss",
+        "avatar": "https://avatars.githubusercontent.com/u/3709715?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/harshildarji",
+        "avatar": "https://avatars.githubusercontent.com/u/14276147?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tianyizheng02",
+        "avatar": "https://avatars.githubusercontent.com/u/52298854?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/MaximSmolskiy",
+        "avatar": "https://avatars.githubusercontent.com/u/25690822?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/TheAlgorithms/Python",
+    "name": "TheAlgorithms/Python",
+    "description": "All Algorithms implemented in Python  ",
+    "language": "Python",
+    "stars": "211413",
+    "forks": "48814",
+    "increased": "225 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/zerob13",
+        "avatar": "https://avatars.githubusercontent.com/u/339229?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/hllshiro",
+        "avatar": "https://avatars.githubusercontent.com/u/40970081?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/yyhhyyyyyy",
+        "avatar": "https://avatars.githubusercontent.com/u/95077259?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/astaxie",
+        "avatar": "https://avatars.githubusercontent.com/u/233907?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Simon-He95",
+        "avatar": "https://avatars.githubusercontent.com/u/57086651?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/ThinkInAIXYZ/deepchat",
+    "name": "ThinkInAIXYZ/deepchat",
+    "description": "🐬DeepChat - A smart assistant that connects powerful AI to your personal world  ",
+    "language": "TypeScript",
+    "stars": "4532",
+    "forks": "546",
+    "increased": "203 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/esimkowitz",
+        "avatar": "https://avatars.githubusercontent.com/u/16651283?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sawka",
+        "avatar": "https://avatars.githubusercontent.com/u/2722291?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/oneirocosm",
+        "avatar": "https://avatars.githubusercontent.com/u/107814465?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/wavetermdev/waveterm",
+    "name": "wavetermdev/waveterm",
+    "description": "An open-source, cross-platform terminal for seamless workflows  ",
+    "language": "Go",
+    "stars": "12010",
+    "forks": "482",
+    "increased": "190 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/DHowett",
+        "avatar": "https://avatars.githubusercontent.com/u/189190?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/zadjii-msft",
+        "avatar": "https://avatars.githubusercontent.com/u/18356694?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/lhecker",
+        "avatar": "https://avatars.githubusercontent.com/u/2256941?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/carlos-zamora",
+        "avatar": "https://avatars.githubusercontent.com/u/11050425?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/miniksa",
+        "avatar": "https://avatars.githubusercontent.com/u/18221333?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/microsoft/terminal",
+    "name": "microsoft/terminal",
+    "description": "The new Windows Terminal and the original Windows console host, all in the same place!  ",
+    "language": "C++",
+    "stars": "100608",
+    "forks": "8862",
+    "increased": "18 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/karpathy",
+        "avatar": "https://avatars.githubusercontent.com/u/241138?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bpesquet",
+        "avatar": "https://avatars.githubusercontent.com/u/1837749?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/karpathy/micrograd",
+    "name": "karpathy/micrograd",
+    "description": "A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API  ",
+    "language": "Jupyter Notebook",
+    "stars": "13066",
+    "forks": "1946",
+    "increased": "40 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ROBERT-MCDOWELL",
+        "avatar": "https://avatars.githubusercontent.com/u/2649072?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/DrewThomasson",
+        "avatar": "https://avatars.githubusercontent.com/u/126999465?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mahdi155000",
+        "avatar": "https://avatars.githubusercontent.com/u/72710302?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Wesam-1110111",
+        "avatar": "https://avatars.githubusercontent.com/u/108031419?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/DrewThomasson/ebook2audiobook",
+    "name": "DrewThomasson/ebook2audiobook",
+    "description": "Generate audiobooks from e-books, voice cloning &amp; 1107+ languages!  ",
+    "language": "Python",
+    "stars": "12066",
+    "forks": "919",
+    "increased": "230 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/nsarrazin",
+        "avatar": "https://avatars.githubusercontent.com/u/25119303?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/gary149",
+        "avatar": "https://avatars.githubusercontent.com/u/3841370?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/coyotte508",
+        "avatar": "https://avatars.githubusercontent.com/u/342922?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Grsmto",
+        "avatar": "https://avatars.githubusercontent.com/u/527559?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/julien-c",
+        "avatar": "https://avatars.githubusercontent.com/u/326577?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/huggingface/chat-ui",
+    "name": "huggingface/chat-ui",
+    "description": "Open source codebase powering the HuggingChat app  ",
+    "language": "TypeScript",
+    "stars": "9411",
+    "forks": "1447",
+    "increased": "24 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Centril",
+        "avatar": "https://avatars.githubusercontent.com/u/855702?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bfops",
+        "avatar": "https://avatars.githubusercontent.com/u/196249?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/gefjon",
+        "avatar": "https://avatars.githubusercontent.com/u/10927791?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/joshua-spacetime",
+        "avatar": "https://avatars.githubusercontent.com/u/141075564?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cloutiertyler",
+        "avatar": "https://avatars.githubusercontent.com/u/6432361?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/clockworklabs/SpacetimeDB",
+    "name": "clockworklabs/SpacetimeDB",
+    "description": "Multiplayer at the speed of light  ",
+    "language": "Rust",
+    "stars": "17790",
+    "forks": "621",
+    "increased": "17 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/masenf",
+        "avatar": "https://avatars.githubusercontent.com/u/1524005?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/adhami3310",
+        "avatar": "https://avatars.githubusercontent.com/u/27952765?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Lendemor",
+        "avatar": "https://avatars.githubusercontent.com/u/4015177?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/picklelo",
+        "avatar": "https://avatars.githubusercontent.com/u/6270214?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ElijahAhianyo",
+        "avatar": "https://avatars.githubusercontent.com/u/19895635?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/reflex-dev/reflex",
+    "name": "reflex-dev/reflex",
+    "description": "🕸️ Web apps in pure Python 🐍  ",
+    "language": "Python",
+    "stars": "26938",
+    "forks": "1596",
+    "increased": "44 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Chocobo1",
+        "avatar": "https://avatars.githubusercontent.com/u/9395168?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sledgehammer999",
+        "avatar": "https://avatars.githubusercontent.com/u/273315?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/glassez",
+        "avatar": "https://avatars.githubusercontent.com/u/5063477?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Piccirello",
+        "avatar": "https://avatars.githubusercontent.com/u/8296030?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/zeule",
+        "avatar": "https://avatars.githubusercontent.com/u/394621?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/qbittorrent/qBittorrent",
+    "name": "qbittorrent/qBittorrent",
+    "description": "qBittorrent BitTorrent client  ",
+    "language": "C++",
+    "stars": "33468",
+    "forks": "4423",
+    "increased": "13 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/alexkaratarakis",
+        "avatar": "https://avatars.githubusercontent.com/u/128712?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ras0219-msft",
+        "avatar": "https://avatars.githubusercontent.com/u/12301622?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dg0yt",
+        "avatar": "https://avatars.githubusercontent.com/u/13567791?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/BillyONeal",
+        "avatar": "https://avatars.githubusercontent.com/u/1544943?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/JackBoosY",
+        "avatar": "https://avatars.githubusercontent.com/u/47264268?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/microsoft/vcpkg",
+    "name": "microsoft/vcpkg",
+    "description": "C++ Library Manager for Windows, Linux, and MacOS  ",
+    "language": "CMake",
+    "stars": "25879",
+    "forks": "7126",
+    "increased": "64 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Zengyi-Qin",
+        "avatar": "https://avatars.githubusercontent.com/u/40556743?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/wl-zhao",
+        "avatar": "https://avatars.githubusercontent.com/u/26575932?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/yuxumin",
+        "avatar": "https://avatars.githubusercontent.com/u/29698233?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/iamshreeram",
+        "avatar": "https://avatars.githubusercontent.com/u/7752805?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Alienpups",
+        "avatar": "https://avatars.githubusercontent.com/u/43612061?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/myshell-ai/OpenVoice",
+    "name": "myshell-ai/OpenVoice",
+    "description": "Instant voice cloning by MIT and MyShell. Audio foundation model.  ",
+    "language": "Python",
+    "stars": "34908",
+    "forks": "3842",
+    "increased": "34 stars today"
+  }
+]
