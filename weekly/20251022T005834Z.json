@@ -1,0 +1,508 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/jingyaogong",
+        "avatar": "https://avatars.githubusercontent.com/u/62287848?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/iomgaa-ycz",
+        "avatar": "https://avatars.githubusercontent.com/u/124225682?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/MuWinds",
+        "avatar": "https://avatars.githubusercontent.com/u/93832089?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/jingyaogong/minimind",
+    "name": "jingyaogong/minimind",
+    "description": "🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!  ",
+    "language": "Python",
+    "stars": "30975",
+    "forks": "3565",
+    "increased": "3574 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/karpathy",
+        "avatar": "https://avatars.githubusercontent.com/u/241138?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/apivovarov",
+        "avatar": "https://avatars.githubusercontent.com/u/218087?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/danielgross",
+        "avatar": "https://avatars.githubusercontent.com/u/279531?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/otaviogood",
+        "avatar": "https://avatars.githubusercontent.com/u/189850?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/lantiga",
+        "avatar": "https://avatars.githubusercontent.com/u/191033?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/karpathy/nanoGPT",
+    "name": "karpathy/nanoGPT",
+    "description": "The simplest, fastest repository for training/finetuning medium-sized GPTs.  ",
+    "language": "Python",
+    "stars": "47318",
+    "forks": "7944",
+    "increased": "1908 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/CloudsOfChange",
+        "avatar": "https://avatars.githubusercontent.com/u/2212020?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/maggie-vo",
+        "avatar": "https://avatars.githubusercontent.com/u/143411590?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jawhnycooke",
+        "avatar": "https://avatars.githubusercontent.com/u/11808002?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/anthropics/prompt-eng-interactive-tutorial",
+    "name": "anthropics/prompt-eng-interactive-tutorial",
+    "description": "Anthropic's Interactive Prompt Engineering Tutorial  ",
+    "language": "Jupyter Notebook",
+    "stars": "24814",
+    "forks": "2262",
+    "increased": "2805 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/zealoushacker",
+        "avatar": "https://avatars.githubusercontent.com/u/346275?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/alexalbertt",
+        "avatar": "https://avatars.githubusercontent.com/u/34638987?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/saflamini",
+        "avatar": "https://avatars.githubusercontent.com/u/43142465?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/maheshmurag",
+        "avatar": "https://avatars.githubusercontent.com/u/5667029?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/anthropics/claude-cookbooks",
+    "name": "anthropics/claude-cookbooks",
+    "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.  ",
+    "language": "Jupyter Notebook",
+    "stars": "24333",
+    "forks": "2455",
+    "increased": "3300 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/lfnovo",
+        "avatar": "https://avatars.githubusercontent.com/u/579178?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/troykelly",
+        "avatar": "https://avatars.githubusercontent.com/u/4564803?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pchuri",
+        "avatar": "https://avatars.githubusercontent.com/u/11848484?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/lfnovo/open-notebook",
+    "name": "lfnovo/open-notebook",
+    "description": "An Open Source implementation of Notebook LM with more flexibility and features  ",
+    "language": "TypeScript",
+    "stars": "6757",
+    "forks": "684",
+    "increased": "1681 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/gschier",
+        "avatar": "https://avatars.githubusercontent.com/u/587576?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/subframe7536",
+        "avatar": "https://avatars.githubusercontent.com/u/78338239?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/hxzhao527",
+        "avatar": "https://avatars.githubusercontent.com/u/8402502?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/null-dev",
+        "avatar": "https://avatars.githubusercontent.com/u/9571936?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/mountain-loop/yaak",
+    "name": "mountain-loop/yaak",
+    "description": "The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬  ",
+    "language": "TypeScript",
+    "stars": "10313",
+    "forks": "358",
+    "increased": "1438 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/davila7",
+        "avatar": "https://avatars.githubusercontent.com/u/6216945?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/actions-user",
+        "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/KingsleyKelly",
+        "avatar": "https://avatars.githubusercontent.com/u/837822?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/davila7/claude-code-templates",
+    "name": "davila7/claude-code-templates",
+    "description": "CLI tool for configuring and monitoring Claude Code  ",
+    "language": "JavaScript",
+    "stars": "9105",
+    "forks": "763",
+    "increased": "1105 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/qin-ctx",
+        "avatar": "https://avatars.githubusercontent.com/u/234610432?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/KashiwaByte101",
+        "avatar": "https://avatars.githubusercontent.com/u/219091167?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/shanmohan-maker",
+        "avatar": "https://avatars.githubusercontent.com/u/227782168?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/FoundDream",
+        "avatar": "https://avatars.githubusercontent.com/u/54743551?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/fanrenaz",
+        "avatar": "https://avatars.githubusercontent.com/u/51114968?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/volcengine/MineContext",
+    "name": "volcengine/MineContext",
+    "description": "MineContext is your proactive context-aware AI partner（Context-Engineering+ChatGPT Pulse）  ",
+    "language": "Python",
+    "stars": "2429",
+    "forks": "130",
+    "increased": "838 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/karpathy",
+        "avatar": "https://avatars.githubusercontent.com/u/241138?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bpesquet",
+        "avatar": "https://avatars.githubusercontent.com/u/1837749?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/karpathy/micrograd",
+    "name": "karpathy/micrograd",
+    "description": "A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API  ",
+    "language": "Jupyter Notebook",
+    "stars": "13276",
+    "forks": "1959",
+    "increased": "337 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/crutkas",
+        "avatar": "https://avatars.githubusercontent.com/u/1462282?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bao-qian",
+        "avatar": "https://avatars.githubusercontent.com/u/1169912?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/qianlifeng",
+        "avatar": "https://avatars.githubusercontent.com/u/1725475?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jaimecbernardo",
+        "avatar": "https://avatars.githubusercontent.com/u/26118718?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/stefansjfw",
+        "avatar": "https://avatars.githubusercontent.com/u/57057282?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/microsoft/PowerToys",
+    "name": "microsoft/PowerToys",
+    "description": "Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks  ",
+    "language": "C#",
+    "stars": "124993",
+    "forks": "7433",
+    "increased": "740 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ljharb",
+        "avatar": "https://avatars.githubusercontent.com/u/45469?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/PeterDaveHello",
+        "avatar": "https://avatars.githubusercontent.com/u/3691490?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/creationix",
+        "avatar": "https://avatars.githubusercontent.com/u/89353?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/koenpunt",
+        "avatar": "https://avatars.githubusercontent.com/u/351038?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/lukechilds",
+        "avatar": "https://avatars.githubusercontent.com/u/2123375?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/nvm-sh/nvm",
+    "name": "nvm-sh/nvm",
+    "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions  ",
+    "language": "Shell",
+    "stars": "88489",
+    "forks": "9474",
+    "increased": "1119 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/DHowett",
+        "avatar": "https://avatars.githubusercontent.com/u/189190?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/zadjii-msft",
+        "avatar": "https://avatars.githubusercontent.com/u/18356694?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/lhecker",
+        "avatar": "https://avatars.githubusercontent.com/u/2256941?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/carlos-zamora",
+        "avatar": "https://avatars.githubusercontent.com/u/11050425?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/miniksa",
+        "avatar": "https://avatars.githubusercontent.com/u/18221333?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/microsoft/terminal",
+    "name": "microsoft/terminal",
+    "description": "The new Windows Terminal and the original Windows console host, all in the same place!  ",
+    "language": "C++",
+    "stars": "100685",
+    "forks": "8872",
+    "increased": "207 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/pi0",
+        "avatar": "https://avatars.githubusercontent.com/u/5158436?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/danielroe",
+        "avatar": "https://avatars.githubusercontent.com/u/28706372?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/renovate-bot",
+        "avatar": "https://avatars.githubusercontent.com/u/25180681?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/atinux",
+        "avatar": "https://avatars.githubusercontent.com/u/904724?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/nitrojs/nitro",
+    "name": "nitrojs/nitro",
+    "description": "Next Generation Server Toolkit. Create web servers with everything you need and deploy them wher ever you prefer.  ",
+    "language": "TypeScript",
+    "stars": "9259",
+    "forks": "728",
+    "increased": "901 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/alyssawilk",
+        "avatar": "https://avatars.githubusercontent.com/u/18220477?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/phlax",
+        "avatar": "https://avatars.githubusercontent.com/u/454682?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mattklein123",
+        "avatar": "https://avatars.githubusercontent.com/u/6305260?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/junr03",
+        "avatar": "https://avatars.githubusercontent.com/u/6007532?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/envoyproxy/envoy",
+    "name": "envoyproxy/envoy",
+    "description": "Cloud-native high-performance edge/middle/service proxy  ",
+    "language": "C++",
+    "stars": "26885",
+    "forks": "5115",
+    "increased": "197 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/omarsar",
+        "avatar": "https://avatars.githubusercontent.com/u/7049564?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/S4MFI",
+        "avatar": "https://avatars.githubusercontent.com/u/129090711?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/behrends",
+        "avatar": "https://avatars.githubusercontent.com/u/50868?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ThunderCatXp",
+        "avatar": "https://avatars.githubusercontent.com/u/53365307?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/giornaledisistema",
+        "avatar": "https://avatars.githubusercontent.com/u/1067217?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/dair-ai/Prompt-Engineering-Guide",
+    "name": "dair-ai/Prompt-Engineering-Guide",
+    "description": "🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.  ",
+    "language": "MDX",
+    "stars": "64918",
+    "forks": "6752",
+    "increased": "1396 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ShuaiBai623",
+        "avatar": "https://avatars.githubusercontent.com/u/43326198?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kq-chen",
+        "avatar": "https://avatars.githubusercontent.com/u/136600500?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/fyabc",
+        "avatar": "https://avatars.githubusercontent.com/u/12120155?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/JJJYmmm",
+        "avatar": "https://avatars.githubusercontent.com/u/92386084?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jinze1994",
+        "avatar": "https://avatars.githubusercontent.com/u/13191886?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/QwenLM/Qwen3-VL",
+    "name": "QwenLM/Qwen3-VL",
+    "description": "Qwen3-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud.  ",
+    "language": "Jupyter Notebook",
+    "stars": "15249",
+    "forks": "1177",
+    "increased": "1036 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/emilio",
+        "avatar": "https://avatars.githubusercontent.com/u/1323194?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Ms2ger",
+        "avatar": "https://avatars.githubusercontent.com/u/111161?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jdm",
+        "avatar": "https://avatars.githubusercontent.com/u/27658?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/SimonSapin",
+        "avatar": "https://avatars.githubusercontent.com/u/291359?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/servo/servo",
+    "name": "servo/servo",
+    "description": "Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.  ",
+    "language": "Rust",
+    "stars": "32487",
+    "forks": "3291",
+    "increased": "611 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/imoneoi",
+        "avatar": "https://avatars.githubusercontent.com/u/26354659?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/btoo",
+        "avatar": "https://avatars.githubusercontent.com/u/8883465?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/raincchio",
+        "avatar": "https://avatars.githubusercontent.com/u/18380752?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/liamnorm",
+        "avatar": "https://avatars.githubusercontent.com/u/56448763?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/WC-william",
+        "avatar": "https://avatars.githubusercontent.com/u/72850088?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/sapientinc/HRM",
+    "name": "sapientinc/HRM",
+    "description": "Hierarchical Reasoning Model Official Release  ",
+    "language": "Python",
+    "stars": "11498",
+    "forks": "1668",
+    "increased": "517 stars this week"
+  }
+]
