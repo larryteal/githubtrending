@@ -1,0 +1,481 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/awesomekling",
+        "avatar": "https://avatars.githubusercontent.com/u/5954907?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/trflynn89",
+        "avatar": "https://avatars.githubusercontent.com/u/5600524?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/linusg",
+        "avatar": "https://avatars.githubusercontent.com/u/19366641?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/AtkinsSJ",
+        "avatar": "https://avatars.githubusercontent.com/u/222642?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/alimpfard",
+        "avatar": "https://avatars.githubusercontent.com/u/14001776?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/LadybirdBrowser/ladybird",
+    "name": "LadybirdBrowser/ladybird",
+    "description": "Truly independent web browser  ",
+    "language": "C++",
+    "stars": "52542",
+    "forks": "2316",
+    "increased": "1387 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/TheRobotStudio",
+        "avatar": "https://avatars.githubusercontent.com/u/5095811?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pkooij",
+        "avatar": "https://avatars.githubusercontent.com/u/138571049?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/philfung",
+        "avatar": "https://avatars.githubusercontent.com/u/1054593?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Cadene",
+        "avatar": "https://avatars.githubusercontent.com/u/4681518?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cmcgartoll",
+        "avatar": "https://avatars.githubusercontent.com/u/56743782?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/TheRobotStudio/SO-ARM100",
+    "name": "TheRobotStudio/SO-ARM100",
+    "description": "Standard Open Arm 100  ",
+    "stars": "3810",
+    "forks": "321",
+    "increased": "154 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/CarsonRoscoe",
+        "avatar": "https://avatars.githubusercontent.com/u/9859171?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/erikreppel-cb",
+        "avatar": "https://avatars.githubusercontent.com/u/200281512?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/apmcdermott-cb",
+        "avatar": "https://avatars.githubusercontent.com/u/143443788?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/murrlincoln",
+        "avatar": "https://avatars.githubusercontent.com/u/65836530?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/John-peterson-coinbase",
+        "avatar": "https://avatars.githubusercontent.com/u/98187317?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/coinbase/x402",
+    "name": "coinbase/x402",
+    "description": "A payments protocol for the internet. Built on HTTP.  ",
+    "language": "TypeScript",
+    "stars": "2557",
+    "forks": "397",
+    "increased": "91 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/guofei9987",
+        "avatar": "https://avatars.githubusercontent.com/u/19920283?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Dobmod",
+        "avatar": "https://avatars.githubusercontent.com/u/33273950?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mannam95",
+        "avatar": "https://avatars.githubusercontent.com/u/64306529?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Keycatowo",
+        "avatar": "https://avatars.githubusercontent.com/u/47293699?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ilikega",
+        "avatar": "https://avatars.githubusercontent.com/u/54138747?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/guofei9987/blind_watermark",
+    "name": "guofei9987/blind_watermark",
+    "description": "Blind&amp;Invisible Watermark ，图片盲水印，提取水印无须原图！  ",
+    "language": "Python",
+    "stars": "10070",
+    "forks": "1021",
+    "increased": "839 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/shamoon",
+        "avatar": "https://avatars.githubusercontent.com/u/4887959?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/stumpylog",
+        "avatar": "https://avatars.githubusercontent.com/u/797416?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/danielquinn",
+        "avatar": "https://avatars.githubusercontent.com/u/218205?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/paperlessngx-bot",
+        "avatar": "https://avatars.githubusercontent.com/u/99855517?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jonaswinkler",
+        "avatar": "https://avatars.githubusercontent.com/u/17569239?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/paperless-ngx/paperless-ngx",
+    "name": "paperless-ngx/paperless-ngx",
+    "description": "A community-supported supercharged document management system: scan, index and archive all your documents  ",
+    "language": "Python",
+    "stars": "33528",
+    "forks": "2096",
+    "increased": "151 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/nashif",
+        "avatar": "https://avatars.githubusercontent.com/u/180017?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jukkar",
+        "avatar": "https://avatars.githubusercontent.com/u/1098415?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/galak",
+        "avatar": "https://avatars.githubusercontent.com/u/16417047?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/gmarull",
+        "avatar": "https://avatars.githubusercontent.com/u/25011557?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cvinayak",
+        "avatar": "https://avatars.githubusercontent.com/u/6350656?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/zephyrproject-rtos/zephyr",
+    "name": "zephyrproject-rtos/zephyr",
+    "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.  ",
+    "language": "C",
+    "stars": "13480",
+    "forks": "8116",
+    "increased": "80 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/liyasthomas",
+        "avatar": "https://avatars.githubusercontent.com/u/10395817?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/AndrewBastin",
+        "avatar": "https://avatars.githubusercontent.com/u/9131943?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jamesgeorge007",
+        "avatar": "https://avatars.githubusercontent.com/u/25279263?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/nivedin",
+        "avatar": "https://avatars.githubusercontent.com/u/53208152?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/hoppscotch/hoppscotch",
+    "name": "hoppscotch/hoppscotch",
+    "description": "Open source API development ecosystem -  https://hoppscotch.io  (open-source alternative to Postman, Insomnia)  ",
+    "language": "TypeScript",
+    "stars": "75917",
+    "forks": "5344",
+    "increased": "274 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/matheusfelipeog",
+        "avatar": "https://avatars.githubusercontent.com/u/50463866?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/davemachado",
+        "avatar": "https://avatars.githubusercontent.com/u/15134885?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pawelborkar",
+        "avatar": "https://avatars.githubusercontent.com/u/36134699?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jbrooksuk",
+        "avatar": "https://avatars.githubusercontent.com/u/246103?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/marekdano",
+        "avatar": "https://avatars.githubusercontent.com/u/1914165?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/public-apis/public-apis",
+    "name": "public-apis/public-apis",
+    "description": "A collective list of free APIs  ",
+    "language": "Python",
+    "stars": "372578",
+    "forks": "39310",
+    "increased": "332 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/fdr",
+        "avatar": "https://avatars.githubusercontent.com/u/7191?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jeremyevans",
+        "avatar": "https://avatars.githubusercontent.com/u/3846?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/enescakir",
+        "avatar": "https://avatars.githubusercontent.com/u/993199?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/byucesoy",
+        "avatar": "https://avatars.githubusercontent.com/u/2082070?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/ubicloud/ubicloud",
+    "name": "ubicloud/ubicloud",
+    "description": "Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, K8s, AI inference, and IAM services.  ",
+    "language": "Ruby",
+    "stars": "11060",
+    "forks": "498",
+    "increased": "73 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/dstftw",
+        "avatar": "https://avatars.githubusercontent.com/u/1908898?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/phihag",
+        "avatar": "https://avatars.githubusercontent.com/u/779568?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pukkandan",
+        "avatar": "https://avatars.githubusercontent.com/u/6623388?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/remitamine",
+        "avatar": "https://avatars.githubusercontent.com/u/10879694?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jaimeMF",
+        "avatar": "https://avatars.githubusercontent.com/u/1239727?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/yt-dlp/yt-dlp",
+    "name": "yt-dlp/yt-dlp",
+    "description": "A feature-rich command-line audio/video downloader  ",
+    "language": "Python",
+    "stars": "132549",
+    "forks": "10644",
+    "increased": "342 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/TangmereCottage",
+        "avatar": "https://avatars.githubusercontent.com/u/111824917?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/openminddev",
+        "avatar": "https://avatars.githubusercontent.com/u/147775420?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ahmadkhan100",
+        "avatar": "https://avatars.githubusercontent.com/u/163046609?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kyle-openmind",
+        "avatar": "https://avatars.githubusercontent.com/u/194324994?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bobjiang",
+        "avatar": "https://avatars.githubusercontent.com/u/1224604?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/OpenMind/OM1",
+    "name": "OpenMind/OM1",
+    "description": "Modular AI runtime for robots  ",
+    "language": "Python",
+    "stars": "1186",
+    "forks": "390",
+    "increased": "132 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/jaywcjlove",
+        "avatar": "https://avatars.githubusercontent.com/u/1680273?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/alichtman",
+        "avatar": "https://avatars.githubusercontent.com/u/20600565?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/xcv58",
+        "avatar": "https://avatars.githubusercontent.com/u/503123?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/heldev",
+        "avatar": "https://avatars.githubusercontent.com/u/16080436?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/jaywcjlove/awesome-mac",
+    "name": "jaywcjlove/awesome-mac",
+    "description": " Now we have become very big, Different from the original idea. Collect premium software in various categories.  ",
+    "language": "JavaScript",
+    "stars": "91623",
+    "forks": "6936",
+    "increased": "148 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ashishps1",
+        "avatar": "https://avatars.githubusercontent.com/u/8646889?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/systemdesign42",
+        "avatar": "https://avatars.githubusercontent.com/u/118598641?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ajitzero",
+        "avatar": "https://avatars.githubusercontent.com/u/19947758?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/abdulrahim2002",
+        "avatar": "https://avatars.githubusercontent.com/u/89011337?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/ashishps1/awesome-system-design-resources",
+    "name": "ashishps1/awesome-system-design-resources",
+    "description": "Learn System Design concepts and prepare for interviews using free resources.  ",
+    "language": "Java",
+    "stars": "27021",
+    "forks": "6332",
+    "increased": "37 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/harshavardhana",
+        "avatar": "https://avatars.githubusercontent.com/u/622699?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/vadmeste",
+        "avatar": "https://avatars.githubusercontent.com/u/283197?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/klauspost",
+        "avatar": "https://avatars.githubusercontent.com/u/5663952?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/minio-trusted",
+        "avatar": "https://avatars.githubusercontent.com/u/21070888?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/poornas",
+        "avatar": "https://avatars.githubusercontent.com/u/791968?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/minio/minio",
+    "name": "minio/minio",
+    "description": "MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.  ",
+    "language": "Go",
+    "stars": "57307",
+    "forks": "6370",
+    "increased": "167 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/csukuangfj",
+        "avatar": "https://avatars.githubusercontent.com/u/5284924?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pkufool",
+        "avatar": "https://avatars.githubusercontent.com/u/11765074?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pingfengluo",
+        "avatar": "https://avatars.githubusercontent.com/u/2265062?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/manickavela29",
+        "avatar": "https://avatars.githubusercontent.com/u/50542248?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/yujinqiu",
+        "avatar": "https://avatars.githubusercontent.com/u/785405?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/k2-fsa/sherpa-onnx",
+    "name": "k2-fsa/sherpa-onnx",
+    "description": "Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, Raspberry Pi, RISC-V, x86_64 servers, websocket server/client, support 12 programming languages  ",
+    "language": "C++",
+    "stars": "8396",
+    "forks": "944",
+    "increased": "32 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/cjpais",
+        "avatar": "https://avatars.githubusercontent.com/u/1559480?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/vladstudio",
+        "avatar": "https://avatars.githubusercontent.com/u/914320?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jacksongoode",
+        "avatar": "https://avatars.githubusercontent.com/u/54308792?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/hanpham32",
+        "avatar": "https://avatars.githubusercontent.com/u/36429830?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/segudev",
+        "avatar": "https://avatars.githubusercontent.com/u/41948994?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/cjpais/Handy",
+    "name": "cjpais/Handy",
+    "description": "A free, open source, and extensible speech-to-text application that works completely offline.  ",
+    "language": "TypeScript",
+    "stars": "3183",
+    "forks": "203",
+    "increased": "55 stars today"
+  }
+]
