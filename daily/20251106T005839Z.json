@@ -1,0 +1,518 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/666ghj",
+        "avatar": "https://avatars.githubusercontent.com/u/110395318?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Qst137",
+        "avatar": "https://avatars.githubusercontent.com/u/139198328?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/DoiiarX",
+        "avatar": "https://avatars.githubusercontent.com/u/25550075?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/YYL469",
+        "avatar": "https://avatars.githubusercontent.com/u/145646858?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ghmark675",
+        "avatar": "https://avatars.githubusercontent.com/u/188834327?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/666ghj/BettaFish",
+    "name": "666ghj/BettaFish",
+    "description": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。  ",
+    "language": "Python",
+    "stars": "14905",
+    "forks": "2622",
+    "increased": "3843 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/wintonzheng",
+        "avatar": "https://avatars.githubusercontent.com/u/5225702?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/LawyZheng",
+        "avatar": "https://avatars.githubusercontent.com/u/26927551?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ykeremy",
+        "avatar": "https://avatars.githubusercontent.com/u/26116031?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jomido",
+        "avatar": "https://avatars.githubusercontent.com/u/1469593?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/suchintan",
+        "avatar": "https://avatars.githubusercontent.com/u/3853670?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Skyvern-AI/skyvern",
+    "name": "Skyvern-AI/skyvern",
+    "description": "Automate browser based workflows with AI  ",
+    "language": "Python",
+    "stars": "16180",
+    "forks": "1377",
+    "increased": "207 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Zongwei9888",
+        "avatar": "https://avatars.githubusercontent.com/u/145887958?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/LarFii",
+        "avatar": "https://avatars.githubusercontent.com/u/49157727?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/LZH-YS1998",
+        "avatar": "https://avatars.githubusercontent.com/u/90381931?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/chaohuang-ai",
+        "avatar": "https://avatars.githubusercontent.com/u/204865953?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/HKUDS/DeepCode",
+    "name": "HKUDS/DeepCode",
+    "description": "\"DeepCode: Open Agentic Coding (Paper2Code &amp; Text2Web &amp; Text2Backend)\"  ",
+    "language": "Python",
+    "stars": "9441",
+    "forks": "1281",
+    "increased": "264 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/chenos",
+        "avatar": "https://avatars.githubusercontent.com/u/2993310?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mytharcher",
+        "avatar": "https://avatars.githubusercontent.com/u/525658?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/zhangzhonghe",
+        "avatar": "https://avatars.githubusercontent.com/u/38434641?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/chareice",
+        "avatar": "https://avatars.githubusercontent.com/u/1624785?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/nocobase/nocobase",
+    "name": "nocobase/nocobase",
+    "description": "NocoBase is the most extensible AI-powered no-code/low-code platform for building business applications and enterprise solutions.  ",
+    "language": "TypeScript",
+    "stars": "17865",
+    "forks": "2039",
+    "increased": "223 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/mudler",
+        "avatar": "https://avatars.githubusercontent.com/u/2420543?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/localai-bot",
+        "avatar": "https://avatars.githubusercontent.com/u/139863280?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dave-gray101",
+        "avatar": "https://avatars.githubusercontent.com/u/15875595?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/mudler/LocalAI",
+    "name": "mudler/LocalAI",
+    "description": "🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P and decentralized inference  ",
+    "language": "Go",
+    "stars": "37256",
+    "forks": "2939",
+    "increased": "335 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/kommander",
+        "avatar": "https://avatars.githubusercontent.com/u/335157?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/msmps",
+        "avatar": "https://avatars.githubusercontent.com/u/7691252?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Adictya",
+        "avatar": "https://avatars.githubusercontent.com/u/14136384?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/fezproof",
+        "avatar": "https://avatars.githubusercontent.com/u/26830309?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/thdxr",
+        "avatar": "https://avatars.githubusercontent.com/u/826656?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/sst/opentui",
+    "name": "sst/opentui",
+    "description": "OpenTUI is a library for building terminal user interfaces (TUIs)  ",
+    "language": "TypeScript",
+    "stars": "4460",
+    "forks": "162",
+    "increased": "790 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/fabxc",
+        "avatar": "https://avatars.githubusercontent.com/u/4948210?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/stuartnelson3",
+        "avatar": "https://avatars.githubusercontent.com/u/1398104?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/simonpasquier",
+        "avatar": "https://avatars.githubusercontent.com/u/2587585?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/juliusv",
+        "avatar": "https://avatars.githubusercontent.com/u/538008?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/prometheus/alertmanager",
+    "name": "prometheus/alertmanager",
+    "description": "Prometheus Alertmanager  ",
+    "language": "Go",
+    "stars": "7351",
+    "forks": "2286",
+    "increased": "4 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/monkeyWie",
+        "avatar": "https://avatars.githubusercontent.com/u/13160176?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pugaizai",
+        "avatar": "https://avatars.githubusercontent.com/u/85693457?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/hugetiny",
+        "avatar": "https://avatars.githubusercontent.com/u/19659202?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ElliotCHEN37",
+        "avatar": "https://avatars.githubusercontent.com/u/109361374?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/MrGlp",
+        "avatar": "https://avatars.githubusercontent.com/u/45711711?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/GopeedLab/gopeed",
+    "name": "GopeedLab/gopeed",
+    "description": "A modern download manager that supports all platforms. Built with Golang and Flutter.  ",
+    "language": "Dart",
+    "stars": "21178",
+    "forks": "1466",
+    "increased": "84 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/imthenachoman",
+        "avatar": "https://avatars.githubusercontent.com/u/83817?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/LaurenceJJones",
+        "avatar": "https://avatars.githubusercontent.com/u/23139695?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/hellresistor",
+        "avatar": "https://avatars.githubusercontent.com/u/50468493?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/nidamanx",
+        "avatar": "https://avatars.githubusercontent.com/u/1094368?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/JacksonChen666",
+        "avatar": "https://avatars.githubusercontent.com/u/50755746?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/imthenachoman/How-To-Secure-A-Linux-Server",
+    "name": "imthenachoman/How-To-Secure-A-Linux-Server",
+    "description": "An evolving how-to guide for securing a Linux server.  ",
+    "stars": "21684",
+    "forks": "1375",
+    "increased": "542 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Raphire",
+        "avatar": "https://avatars.githubusercontent.com/u/9938813?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tsumi",
+        "avatar": "https://avatars.githubusercontent.com/u/1663025?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/SashankBhamidi",
+        "avatar": "https://avatars.githubusercontent.com/u/66299104?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/N0tHorizon",
+        "avatar": "https://avatars.githubusercontent.com/u/100943586?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kapad",
+        "avatar": "https://avatars.githubusercontent.com/u/2017355?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Raphire/Win11Debloat",
+    "name": "Raphire/Win11Debloat",
+    "description": "A simple, lightweight PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.  ",
+    "language": "PowerShell",
+    "stars": "32165",
+    "forks": "1258",
+    "increased": "472 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ghchinoy",
+        "avatar": "https://avatars.githubusercontent.com/u/469685?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/renovate-bot",
+        "avatar": "https://avatars.githubusercontent.com/u/25180681?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/LUJ20",
+        "avatar": "https://avatars.githubusercontent.com/u/89557446?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/csantos",
+        "avatar": "https://avatars.githubusercontent.com/u/149124?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/GoogleCloudPlatform/vertex-ai-creative-studio",
+    "name": "GoogleCloudPlatform/vertex-ai-creative-studio",
+    "description": "GenMedia Creative Studio is a Vertex AI generative media user experience highlighting the use of Imagen, Veo, Gemini 🍌, Gemini TTS, Chirp 3, Lyria and other generative media APIs on Google Cloud.   ",
+    "language": "Jupyter Notebook",
+    "stars": "596",
+    "forks": "207",
+    "increased": "9 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/rejojer",
+        "avatar": "https://avatars.githubusercontent.com/u/8255061?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/zmtomorrow",
+        "avatar": "https://avatars.githubusercontent.com/u/13518252?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/clarenceluo78",
+        "avatar": "https://avatars.githubusercontent.com/u/71917860?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/VectifyAI/PageIndex",
+    "name": "VectifyAI/PageIndex",
+    "description": "📑 PageIndex: Document Index for Reasoning-based RAG  ",
+    "language": "Python",
+    "stars": "3624",
+    "forks": "268",
+    "increased": "82 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/coleam00",
+        "avatar": "https://avatars.githubusercontent.com/u/47287758?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/32xnabin",
+        "avatar": "https://avatars.githubusercontent.com/u/2490891?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Vondert",
+        "avatar": "https://avatars.githubusercontent.com/u/95308300?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/coleam00/ottomator-agents",
+    "name": "coleam00/ottomator-agents",
+    "description": "All the open source AI Agents hosted on the oTTomator Live Agent Studio platform!  ",
+    "language": "Python",
+    "stars": "4731",
+    "forks": "1684",
+    "increased": "63 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/nlogozzo",
+        "avatar": "https://avatars.githubusercontent.com/u/17648453?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/weblate",
+        "avatar": "https://avatars.githubusercontent.com/u/1607653?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/fsobolev",
+        "avatar": "https://avatars.githubusercontent.com/u/117388856?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/DaPigGuy",
+        "avatar": "https://avatars.githubusercontent.com/u/8540562?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/soumyaDghosh",
+        "avatar": "https://avatars.githubusercontent.com/u/72045785?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/NickvisionApps/Parabolic",
+    "name": "NickvisionApps/Parabolic",
+    "description": "Download web video and audio  ",
+    "language": "C++",
+    "stars": "4201",
+    "forks": "194",
+    "increased": "19 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/aandrew-me",
+        "avatar": "https://avatars.githubusercontent.com/u/66430340?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/albanobattistella",
+        "avatar": "https://avatars.githubusercontent.com/u/34811668?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Muxutruk2",
+        "avatar": "https://avatars.githubusercontent.com/u/156070698?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/soredake",
+        "avatar": "https://avatars.githubusercontent.com/u/5204968?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/candrapersada",
+        "avatar": "https://avatars.githubusercontent.com/u/36833664?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/aandrew-me/ytDownloader",
+    "name": "aandrew-me/ytDownloader",
+    "description": "Desktop App for downloading Videos and Audios from hundreds of sites  ",
+    "language": "JavaScript",
+    "stars": "5982",
+    "forks": "487",
+    "increased": "48 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/thdxr",
+        "avatar": "https://avatars.githubusercontent.com/u/826656?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/adamdotdevin",
+        "avatar": "https://avatars.githubusercontent.com/u/2363879?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rekram1-node",
+        "avatar": "https://avatars.githubusercontent.com/u/63023139?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jayair",
+        "avatar": "https://avatars.githubusercontent.com/u/53023?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/fwang",
+        "avatar": "https://avatars.githubusercontent.com/u/83515?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/sst/opencode",
+    "name": "sst/opencode",
+    "description": "The AI coding agent built for the terminal.  ",
+    "language": "TypeScript",
+    "stars": "31706",
+    "forks": "2453",
+    "increased": "186 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/whummer",
+        "avatar": "https://avatars.githubusercontent.com/u/2807888?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bentsku",
+        "avatar": "https://avatars.githubusercontent.com/u/42031100?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/thrau",
+        "avatar": "https://avatars.githubusercontent.com/u/3996682?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/alexrashed",
+        "avatar": "https://avatars.githubusercontent.com/u/2796604?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/localstack-bot",
+        "avatar": "https://avatars.githubusercontent.com/u/88328844?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/localstack/localstack",
+    "name": "localstack/localstack",
+    "description": "💻 A fully functional local AWS cloud stack. Develop and test your cloud &amp; Serverless apps offline  ",
+    "language": "Python",
+    "stars": "61388",
+    "forks": "4299",
+    "increased": "60 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/jwasham",
+        "avatar": "https://avatars.githubusercontent.com/u/3771963?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Anri-Lombard",
+        "avatar": "https://avatars.githubusercontent.com/u/76818211?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/avizmarlon",
+        "avatar": "https://avatars.githubusercontent.com/u/24354489?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/esaucedof",
+        "avatar": "https://avatars.githubusercontent.com/u/13459501?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Ilyushin",
+        "avatar": "https://avatars.githubusercontent.com/u/4519586?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/jwasham/coding-interview-university",
+    "name": "jwasham/coding-interview-university",
+    "description": "A complete computer science study plan to become a software engineer.  ",
+    "stars": "332455",
+    "forks": "81119",
+    "increased": "74 stars today"
+  }
+]
