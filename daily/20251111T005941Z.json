@@ -1,0 +1,387 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/dpasiukevich",
+        "avatar": "https://avatars.githubusercontent.com/u/20398573?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/baptmont",
+        "avatar": "https://avatars.githubusercontent.com/u/19804017?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/hyangah",
+        "avatar": "https://avatars.githubusercontent.com/u/4999471?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ngeorgy",
+        "avatar": "https://avatars.githubusercontent.com/u/220007636?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/anFatum",
+        "avatar": "https://avatars.githubusercontent.com/u/25040001?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/google/adk-go",
+    "name": "google/adk-go",
+    "description": "An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.  ",
+    "language": "Go",
+    "stars": "1501",
+    "forks": "83",
+    "increased": "380 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/0xallam",
+        "avatar": "https://avatars.githubusercontent.com/u/49919286?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/SharafEldein",
+        "avatar": "https://avatars.githubusercontent.com/u/70941626?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bearsyankees",
+        "avatar": "https://avatars.githubusercontent.com/u/46074070?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sadesguy",
+        "avatar": "https://avatars.githubusercontent.com/u/65134422?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/usestrix/strix",
+    "name": "usestrix/strix",
+    "description": "✨ Open-source AI hackers for your apps 👨🏻‍💻  ",
+    "language": "Python",
+    "stars": "8770",
+    "forks": "793",
+    "increased": "2539 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/mikecao",
+        "avatar": "https://avatars.githubusercontent.com/u/477975?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/franciscao633",
+        "avatar": "https://avatars.githubusercontent.com/u/31608805?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/briancao",
+        "avatar": "https://avatars.githubusercontent.com/u/4401225?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Maxime-J",
+        "avatar": "https://avatars.githubusercontent.com/u/12450219?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/gnarlex",
+        "avatar": "https://avatars.githubusercontent.com/u/24435169?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/umami-software/umami",
+    "name": "umami-software/umami",
+    "description": "Umami is a modern, privacy-focused alternative to Google Analytics.  ",
+    "language": "TypeScript",
+    "stars": "33173",
+    "forks": "5835",
+    "increased": "393 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/TapXWorld",
+        "avatar": "https://avatars.githubusercontent.com/u/3353541?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/keminshu",
+        "avatar": "https://avatars.githubusercontent.com/u/10050045?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/TapXWorld/ChinaTextbook",
+    "name": "TapXWorld/ChinaTextbook",
+    "description": "所有小初高、大学PDF教材。  ",
+    "language": "Roff",
+    "stars": "54951",
+    "forks": "12343",
+    "increased": "181 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Tiiiger",
+        "avatar": "https://avatars.githubusercontent.com/u/19514537?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/joschu",
+        "avatar": "https://avatars.githubusercontent.com/u/144178?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/danobi",
+        "avatar": "https://avatars.githubusercontent.com/u/824615?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ruiqi-zhong",
+        "avatar": "https://avatars.githubusercontent.com/u/22912421?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/devendrachaplot",
+        "avatar": "https://avatars.githubusercontent.com/u/1102621?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/thinking-machines-lab/tinker-cookbook",
+    "name": "thinking-machines-lab/tinker-cookbook",
+    "description": "Post-training with Tinker  ",
+    "language": "Python",
+    "stars": "1753",
+    "forks": "140",
+    "increased": "137 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/freearhey",
+        "avatar": "https://avatars.githubusercontent.com/u/7253922?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/BellezaEmporium",
+        "avatar": "https://avatars.githubusercontent.com/u/30985701?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Dum4G",
+        "avatar": "https://avatars.githubusercontent.com/u/5430116?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/UltraHDR",
+        "avatar": "https://avatars.githubusercontent.com/u/108294295?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/iptv-org/iptv",
+    "name": "iptv-org/iptv",
+    "description": "Collection of publicly available IPTV channels from all over the world  ",
+    "language": "TypeScript",
+    "stars": "99187",
+    "forks": "4257",
+    "increased": "140 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/lzhoang2801",
+        "avatar": "https://avatars.githubusercontent.com/u/169338399?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Trao-X",
+        "avatar": "https://avatars.githubusercontent.com/u/140246452?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/lzhoang2801/OpCore-Simplify",
+    "name": "lzhoang2801/OpCore-Simplify",
+    "description": "A tool designed to simplify the creation of OpenCore EFI  ",
+    "language": "Python",
+    "stars": "2257",
+    "forks": "215",
+    "increased": "67 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/YaLTeR",
+        "avatar": "https://avatars.githubusercontent.com/u/1794388?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sodiboo",
+        "avatar": "https://avatars.githubusercontent.com/u/37938646?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cmeissl",
+        "avatar": "https://avatars.githubusercontent.com/u/4582663?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kchibisov",
+        "avatar": "https://avatars.githubusercontent.com/u/27620401?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/YaLTeR/niri",
+    "name": "YaLTeR/niri",
+    "description": "A scrollable-tiling Wayland compositor.  ",
+    "language": "Rust",
+    "stars": "14751",
+    "forks": "522",
+    "increased": "49 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/bobeff",
+        "avatar": "https://avatars.githubusercontent.com/u/675506?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/iboB",
+        "avatar": "https://avatars.githubusercontent.com/u/84118?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/nramsbottom",
+        "avatar": "https://avatars.githubusercontent.com/u/136175?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/def-",
+        "avatar": "https://avatars.githubusercontent.com/u/2335377?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/geneotech",
+        "avatar": "https://avatars.githubusercontent.com/u/3588717?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/bobeff/open-source-games",
+    "name": "bobeff/open-source-games",
+    "description": "A list of open source games.  ",
+    "stars": "2163",
+    "forks": "154",
+    "increased": "208 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/clemlesne",
+        "avatar": "https://avatars.githubusercontent.com/u/10001945?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/AmineDjeghri",
+        "avatar": "https://avatars.githubusercontent.com/u/32715913?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/microsoft/call-center-ai",
+    "name": "microsoft/call-center-ai",
+    "description": "Send a phone call from AI agent, in an API call. Or, directly call the bot from the configured phone number!  ",
+    "language": "Python",
+    "stars": "1640",
+    "forks": "287",
+    "increased": "236 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/roderickvd",
+        "avatar": "https://avatars.githubusercontent.com/u/113727?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/plietar",
+        "avatar": "https://avatars.githubusercontent.com/u/1489775?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sashahilton00",
+        "avatar": "https://avatars.githubusercontent.com/u/4185362?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Johannesd3",
+        "avatar": "https://avatars.githubusercontent.com/u/51954457?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ashthespy",
+        "avatar": "https://avatars.githubusercontent.com/u/16233271?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/librespot-org/librespot",
+    "name": "librespot-org/librespot",
+    "description": "Open Source Spotify client library  ",
+    "language": "Rust",
+    "stars": "6063",
+    "forks": "768",
+    "increased": "130 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/micbar",
+        "avatar": "https://avatars.githubusercontent.com/u/4378513?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/butonic",
+        "avatar": "https://avatars.githubusercontent.com/u/956847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kulmann",
+        "avatar": "https://avatars.githubusercontent.com/u/3532843?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rhafer",
+        "avatar": "https://avatars.githubusercontent.com/u/373399?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dragonchaser",
+        "avatar": "https://avatars.githubusercontent.com/u/1058116?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/opencloud-eu/opencloud",
+    "name": "opencloud-eu/opencloud",
+    "description": "🌤️This is the main repository of the OpenCloud server. It contains the golang codebase for the backend services.  ",
+    "language": "Go",
+    "stars": "3452",
+    "forks": "113",
+    "increased": "s today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/end-4",
+        "avatar": "https://avatars.githubusercontent.com/u/97237370?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/clsty",
+        "avatar": "https://avatars.githubusercontent.com/u/129247596?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jwihardi",
+        "avatar": "https://avatars.githubusercontent.com/u/84292598?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/vaguesyntax",
+        "avatar": "https://avatars.githubusercontent.com/u/173799252?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/H0mire",
+        "avatar": "https://avatars.githubusercontent.com/u/45454768?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/end-4/dots-hyprland",
+    "name": "end-4/dots-hyprland",
+    "description": "uhh questioning the meaning of dotfiles  ",
+    "language": "QML",
+    "stars": "10406",
+    "forks": "822",
+    "increased": "31 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Zie619",
+        "avatar": "https://avatars.githubusercontent.com/u/54673680?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/PraveenMudalgeri",
+        "avatar": "https://avatars.githubusercontent.com/u/145120469?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/wildcard",
+        "avatar": "https://avatars.githubusercontent.com/u/2939405?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Siphon880gh",
+        "avatar": "https://avatars.githubusercontent.com/u/5465445?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Zie619/n8n-workflows",
+    "name": "Zie619/n8n-workflows",
+    "description": "all of the workflows of n8n i could find (also from the site itself)  ",
+    "language": "Python",
+    "stars": "39404",
+    "forks": "3845",
+    "increased": "270 stars today"
+  }
+]
