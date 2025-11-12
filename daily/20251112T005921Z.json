@@ -1,0 +1,467 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/actions-user",
+        "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sansan0",
+        "avatar": "https://avatars.githubusercontent.com/u/77180927?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/sansan0/TrendRadar",
+    "name": "sansan0/TrendRadar",
+    "description": "🎯 告别信息过载，AI 助你看懂新闻资讯热点，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等13种工具）。支持企业微信/飞书/钉钉/Telegram/邮件/ntfy推送，3 0秒网页部署，1分钟手机通知，无需编程。支持Docker部署⭐ 让算法为你服务，用AI理解热点  ",
+    "language": "Python",
+    "stars": "6479",
+    "forks": "4625",
+    "increased": "444 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/dpasiukevich",
+        "avatar": "https://avatars.githubusercontent.com/u/20398573?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/baptmont",
+        "avatar": "https://avatars.githubusercontent.com/u/19804017?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/hyangah",
+        "avatar": "https://avatars.githubusercontent.com/u/4999471?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ngeorgy",
+        "avatar": "https://avatars.githubusercontent.com/u/220007636?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/anFatum",
+        "avatar": "https://avatars.githubusercontent.com/u/25040001?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/google/adk-go",
+    "name": "google/adk-go",
+    "description": "An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.  ",
+    "language": "Go",
+    "stars": "2429",
+    "forks": "135",
+    "increased": "1299 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/0xallam",
+        "avatar": "https://avatars.githubusercontent.com/u/49919286?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/SharafEldein",
+        "avatar": "https://avatars.githubusercontent.com/u/70941626?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bearsyankees",
+        "avatar": "https://avatars.githubusercontent.com/u/46074070?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sadesguy",
+        "avatar": "https://avatars.githubusercontent.com/u/65134422?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/usestrix/strix",
+    "name": "usestrix/strix",
+    "description": "✨ Open-source AI hackers for your apps 👨🏻‍💻  ",
+    "language": "Python",
+    "stars": "9621",
+    "forks": "868",
+    "increased": "1137 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/bobeff",
+        "avatar": "https://avatars.githubusercontent.com/u/675506?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/iboB",
+        "avatar": "https://avatars.githubusercontent.com/u/84118?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/nramsbottom",
+        "avatar": "https://avatars.githubusercontent.com/u/136175?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/def-",
+        "avatar": "https://avatars.githubusercontent.com/u/2335377?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/geneotech",
+        "avatar": "https://avatars.githubusercontent.com/u/3588717?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/bobeff/open-source-games",
+    "name": "bobeff/open-source-games",
+    "description": "A list of open source games.  ",
+    "stars": "3074",
+    "forks": "223",
+    "increased": "511 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/TapXWorld",
+        "avatar": "https://avatars.githubusercontent.com/u/3353541?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/keminshu",
+        "avatar": "https://avatars.githubusercontent.com/u/10050045?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/TapXWorld/ChinaTextbook",
+    "name": "TapXWorld/ChinaTextbook",
+    "description": "所有小初高、大学PDF教材。  ",
+    "language": "Roff",
+    "stars": "55307",
+    "forks": "12394",
+    "increased": "392 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ignoramous",
+        "avatar": "https://avatars.githubusercontent.com/u/852289?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/amithm7",
+        "avatar": "https://avatars.githubusercontent.com/u/7036770?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/santhosh-ponnusamy",
+        "avatar": "https://avatars.githubusercontent.com/u/67677652?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/SpencerIsGiddy",
+        "avatar": "https://avatars.githubusercontent.com/u/109806759?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/JakeChampion",
+        "avatar": "https://avatars.githubusercontent.com/u/1569131?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/serverless-dns/serverless-dns",
+    "name": "serverless-dns/serverless-dns",
+    "description": "The RethinkDNS resolver that deploys to Cloudflare Workers, Deno Deploy, Fastly, and Fly.io  ",
+    "language": "JavaScript",
+    "stars": "2868",
+    "forks": "2078",
+    "increased": "17 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/yichuan-w",
+        "avatar": "https://avatars.githubusercontent.com/u/73766326?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/andylizf",
+        "avatar": "https://avatars.githubusercontent.com/u/28052536?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/actions-user",
+        "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ASuresh0524",
+        "avatar": "https://avatars.githubusercontent.com/u/135802079?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/yichuan-w/LEANN",
+    "name": "yichuan-w/LEANN",
+    "description": "RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.  ",
+    "language": "Python",
+    "stars": "4074",
+    "forks": "414",
+    "increased": "70 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/yangshun",
+        "avatar": "https://avatars.githubusercontent.com/u/1315101?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/keanecjy",
+        "avatar": "https://avatars.githubusercontent.com/u/65328119?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/BryannYeap",
+        "avatar": "https://avatars.githubusercontent.com/u/77266823?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jeffsieu",
+        "avatar": "https://avatars.githubusercontent.com/u/8487294?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/s7u4rt99",
+        "avatar": "https://avatars.githubusercontent.com/u/77237808?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/yangshun/tech-interview-handbook",
+    "name": "yangshun/tech-interview-handbook",
+    "description": "💯 Curated coding interview preparation materials for busy software engineers  ",
+    "language": "TypeScript",
+    "stars": "132019",
+    "forks": "16012",
+    "increased": "141 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/leestott",
+        "avatar": "https://avatars.githubusercontent.com/u/2511341?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/koreyspace",
+        "avatar": "https://avatars.githubusercontent.com/u/7462909?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ShivamGoyal03",
+        "avatar": "https://avatars.githubusercontent.com/u/93383164?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/skytin1004",
+        "avatar": "https://avatars.githubusercontent.com/u/99078115?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/microsoft/ai-agents-for-beginners",
+    "name": "microsoft/ai-agents-for-beginners",
+    "description": "12 Lessons to Get Started Building AI Agents  ",
+    "language": "Jupyter Notebook",
+    "stars": "44569",
+    "forks": "15099",
+    "increased": "124 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ReenigneArcher",
+        "avatar": "https://avatars.githubusercontent.com/u/42013603?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cgutman",
+        "avatar": "https://avatars.githubusercontent.com/u/2695644?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/LizardByte-bot",
+        "avatar": "https://avatars.githubusercontent.com/u/108553330?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/loki-47-6F-64",
+        "avatar": "https://avatars.githubusercontent.com/u/3084139?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/LizardByte/Sunshine",
+    "name": "LizardByte/Sunshine",
+    "description": "Self-hosted game stream host for Moonlight.  ",
+    "language": "C++",
+    "stars": "31169",
+    "forks": "1491",
+    "increased": "47 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/dgtlmoon",
+        "avatar": "https://avatars.githubusercontent.com/u/275001?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Constantin1489",
+        "avatar": "https://avatars.githubusercontent.com/u/61624808?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kruton",
+        "avatar": "https://avatars.githubusercontent.com/u/50407?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/marceloalencar",
+        "avatar": "https://avatars.githubusercontent.com/u/6068319?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/dgtlmoon/changedetection.io",
+    "name": "dgtlmoon/changedetection.io",
+    "description": "Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitoring—all for free or enjoy our SaaS plan!  ",
+    "language": "Python",
+    "stars": "28556",
+    "forks": "1583",
+    "increased": "18 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/davila7",
+        "avatar": "https://avatars.githubusercontent.com/u/6216945?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/actions-user",
+        "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/KingsleyKelly",
+        "avatar": "https://avatars.githubusercontent.com/u/837822?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/davila7/claude-code-templates",
+    "name": "davila7/claude-code-templates",
+    "description": "CLI tool for configuring and monitoring Claude Code  ",
+    "language": "JavaScript",
+    "stars": "10913",
+    "forks": "947",
+    "increased": "170 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/koverholt",
+        "avatar": "https://avatars.githubusercontent.com/u/303236?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/joefernandez",
+        "avatar": "https://avatars.githubusercontent.com/u/931947?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/lavinigam-gcp",
+        "avatar": "https://avatars.githubusercontent.com/u/98014943?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Sita04",
+        "avatar": "https://avatars.githubusercontent.com/u/13590990?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/google/adk-docs",
+    "name": "google/adk-docs",
+    "description": "An open-source, code-first toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.  ",
+    "language": "HTML",
+    "stars": "781",
+    "forks": "565",
+    "increased": "5 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ljharb",
+        "avatar": "https://avatars.githubusercontent.com/u/45469?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/PeterDaveHello",
+        "avatar": "https://avatars.githubusercontent.com/u/3691490?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/creationix",
+        "avatar": "https://avatars.githubusercontent.com/u/89353?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/koenpunt",
+        "avatar": "https://avatars.githubusercontent.com/u/351038?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/lukechilds",
+        "avatar": "https://avatars.githubusercontent.com/u/2123375?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/nvm-sh/nvm",
+    "name": "nvm-sh/nvm",
+    "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions  ",
+    "language": "Shell",
+    "stars": "89022",
+    "forks": "9538",
+    "increased": "24 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/AtsushiSakai",
+        "avatar": "https://avatars.githubusercontent.com/u/3813847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/actions-user",
+        "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Gjacquenot",
+        "avatar": "https://avatars.githubusercontent.com/u/6797340?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/guilyx",
+        "avatar": "https://avatars.githubusercontent.com/u/43545812?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/AtsushiSakai/PythonRobotics",
+    "name": "AtsushiSakai/PythonRobotics",
+    "description": "Python sample codes and textbook for robotics algorithms.  ",
+    "language": "Python",
+    "stars": "26410",
+    "forks": "6953",
+    "increased": "32 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/google-genai-bot",
+        "avatar": "https://avatars.githubusercontent.com/u/194307901?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/hoonji",
+        "avatar": "https://avatars.githubusercontent.com/u/736199?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/abchang123",
+        "avatar": "https://avatars.githubusercontent.com/u/212421007?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/wyf7107",
+        "avatar": "https://avatars.githubusercontent.com/u/14008276?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/copybara-github",
+        "avatar": "https://avatars.githubusercontent.com/u/32201506?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/google/adk-web",
+    "name": "google/adk-web",
+    "description": "Agent Development Kit Web (adk web) is the built-in developer UI that is integrated with Agent Development Kit for easier agent development and debugging.  ",
+    "language": "TypeScript",
+    "stars": "492",
+    "forks": "144",
+    "increased": "16 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/dickhardt",
+        "avatar": "https://avatars.githubusercontent.com/u/688982?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/samuelgoto",
+        "avatar": "https://avatars.githubusercontent.com/u/693738?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cwilso",
+        "avatar": "https://avatars.githubusercontent.com/u/507001?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/WICG/email-verification-protocol",
+    "name": "WICG/email-verification-protocol",
+    "description": "verified autofill  ",
+    "stars": "300",
+    "forks": "12",
+    "increased": "27 stars today"
+  }
+]
