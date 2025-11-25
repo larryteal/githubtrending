@@ -1,0 +1,489 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/0xallam",
+        "avatar": "https://avatars.githubusercontent.com/u/49919286?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/SharafEldein",
+        "avatar": "https://avatars.githubusercontent.com/u/70941626?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mdp",
+        "avatar": "https://avatars.githubusercontent.com/u/2868?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bearsyankees",
+        "avatar": "https://avatars.githubusercontent.com/u/46074070?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/usestrix/strix",
+    "name": "usestrix/strix",
+    "description": "Open-source AI agents for penetration testing  ",
+    "language": "Python",
+    "stars": "13409",
+    "forks": "1257",
+    "increased": "1522 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/666ghj",
+        "avatar": "https://avatars.githubusercontent.com/u/110395318?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ghmark675",
+        "avatar": "https://avatars.githubusercontent.com/u/188834327?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/DoiiarX",
+        "avatar": "https://avatars.githubusercontent.com/u/25550075?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Qst137",
+        "avatar": "https://avatars.githubusercontent.com/u/139198328?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/YYL469",
+        "avatar": "https://avatars.githubusercontent.com/u/145646858?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/666ghj/BettaFish",
+    "name": "666ghj/BettaFish",
+    "description": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。  ",
+    "language": "Python",
+    "stars": "29235",
+    "forks": "5628",
+    "increased": "1472 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/wintonzheng",
+        "avatar": "https://avatars.githubusercontent.com/u/5225702?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/LawyZheng",
+        "avatar": "https://avatars.githubusercontent.com/u/26927551?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ykeremy",
+        "avatar": "https://avatars.githubusercontent.com/u/26116031?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jomido",
+        "avatar": "https://avatars.githubusercontent.com/u/1469593?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/suchintan",
+        "avatar": "https://avatars.githubusercontent.com/u/3853670?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Skyvern-AI/skyvern",
+    "name": "Skyvern-AI/skyvern",
+    "description": "Automate browser based workflows with AI  ",
+    "language": "Python",
+    "stars": "18768",
+    "forks": "1614",
+    "increased": "554 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/chenos",
+        "avatar": "https://avatars.githubusercontent.com/u/2993310?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mytharcher",
+        "avatar": "https://avatars.githubusercontent.com/u/525658?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/zhangzhonghe",
+        "avatar": "https://avatars.githubusercontent.com/u/38434641?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/chareice",
+        "avatar": "https://avatars.githubusercontent.com/u/1624785?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/nocobase/nocobase",
+    "name": "nocobase/nocobase",
+    "description": "NocoBase is the most extensible AI-powered no-code/low-code platform for building business applications and enterprise solutions.  ",
+    "language": "TypeScript",
+    "stars": "20090",
+    "forks": "2253",
+    "increased": "467 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/actions-user",
+        "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sansan0",
+        "avatar": "https://avatars.githubusercontent.com/u/77180927?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/sansan0/TrendRadar",
+    "name": "sansan0/TrendRadar",
+    "description": "🎯 告别信息过载，AI 助你看懂新闻资讯热点，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等13种工具）。支持企业微信/个人微信/飞书/钉钉/Telegram/邮件/ntfy/bark 推送，30秒网页部署，1分钟手机通知，无需编程。支持Docker部署⭐ 让算法为你服务，用AI理解热点  ",
+    "language": "Python",
+    "stars": "26989",
+    "forks": "14647",
+    "increased": "10164 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/micbar",
+        "avatar": "https://avatars.githubusercontent.com/u/4378513?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/butonic",
+        "avatar": "https://avatars.githubusercontent.com/u/956847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kulmann",
+        "avatar": "https://avatars.githubusercontent.com/u/3532843?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rhafer",
+        "avatar": "https://avatars.githubusercontent.com/u/373399?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dragonchaser",
+        "avatar": "https://avatars.githubusercontent.com/u/1058116?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/opencloud-eu/opencloud",
+    "name": "opencloud-eu/opencloud",
+    "description": "🌤️This is the main repository of the OpenCloud server. It contains the golang codebase for the backend services.  ",
+    "language": "Go",
+    "stars": "4065",
+    "forks": "133",
+    "increased": "207 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/AkihiroSuda",
+        "avatar": "https://avatars.githubusercontent.com/u/9248427?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jandubois",
+        "avatar": "https://avatars.githubusercontent.com/u/78947?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/afbjorklund",
+        "avatar": "https://avatars.githubusercontent.com/u/10364051?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/norio-nomura",
+        "avatar": "https://avatars.githubusercontent.com/u/33430?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/lima-vm/lima",
+    "name": "lima-vm/lima",
+    "description": "Linux virtual machines, with a focus on running containers  ",
+    "language": "Go",
+    "stars": "19329",
+    "forks": "769",
+    "increased": "202 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/mudler",
+        "avatar": "https://avatars.githubusercontent.com/u/2420543?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/localai-bot",
+        "avatar": "https://avatars.githubusercontent.com/u/139863280?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dave-gray101",
+        "avatar": "https://avatars.githubusercontent.com/u/15875595?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/mudler/LocalAI",
+    "name": "mudler/LocalAI",
+    "description": "🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P and decentralized inference  ",
+    "language": "Go",
+    "stars": "39132",
+    "forks": "3104",
+    "increased": "492 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ayn2op",
+        "avatar": "https://avatars.githubusercontent.com/u/119342035?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cyberme0w",
+        "avatar": "https://avatars.githubusercontent.com/u/59916540?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/emanueljg",
+        "avatar": "https://avatars.githubusercontent.com/u/18590700?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/xqrs",
+        "avatar": "https://avatars.githubusercontent.com/u/196997388?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Retropaint",
+        "avatar": "https://avatars.githubusercontent.com/u/70713407?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/ayn2op/discordo",
+    "name": "ayn2op/discordo",
+    "description": "A lightweight, secure, and feature-rich Discord terminal (TUI) client.  ",
+    "language": "Go",
+    "stars": "4176",
+    "forks": "142",
+    "increased": "250 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/jc21",
+        "avatar": "https://avatars.githubusercontent.com/u/1518257?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/chaptergy",
+        "avatar": "https://avatars.githubusercontent.com/u/26956711?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/lastsamurai26",
+        "avatar": "https://avatars.githubusercontent.com/u/3257844?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/7heMech",
+        "avatar": "https://avatars.githubusercontent.com/u/83923848?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/NginxProxyManager/nginx-proxy-manager",
+    "name": "NginxProxyManager/nginx-proxy-manager",
+    "description": "Docker container for managing Nginx proxy hosts with a simple, powerful interface  ",
+    "language": "TypeScript",
+    "stars": "29911",
+    "forks": "3413",
+    "increased": "266 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/dmcgowan",
+        "avatar": "https://avatars.githubusercontent.com/u/169601?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/crosbymichael",
+        "avatar": "https://avatars.githubusercontent.com/u/749551?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/estesp",
+        "avatar": "https://avatars.githubusercontent.com/u/1397980?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Random-Liu",
+        "avatar": "https://avatars.githubusercontent.com/u/5821883?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/AkihiroSuda",
+        "avatar": "https://avatars.githubusercontent.com/u/9248427?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/containerd/containerd",
+    "name": "containerd/containerd",
+    "description": "An open and reliable container runtime  ",
+    "language": "Go",
+    "stars": "19783",
+    "forks": "3700",
+    "increased": "114 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/kommander",
+        "avatar": "https://avatars.githubusercontent.com/u/335157?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/msmps",
+        "avatar": "https://avatars.githubusercontent.com/u/7691252?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Adictya",
+        "avatar": "https://avatars.githubusercontent.com/u/14136384?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/fezproof",
+        "avatar": "https://avatars.githubusercontent.com/u/26830309?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/thdxr",
+        "avatar": "https://avatars.githubusercontent.com/u/826656?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/sst/opentui",
+    "name": "sst/opentui",
+    "description": "OpenTUI is a library for building terminal user interfaces (TUIs)  ",
+    "language": "TypeScript",
+    "stars": "5492",
+    "forks": "211",
+    "increased": "292 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/fabxc",
+        "avatar": "https://avatars.githubusercontent.com/u/4948210?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/stuartnelson3",
+        "avatar": "https://avatars.githubusercontent.com/u/1398104?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/simonpasquier",
+        "avatar": "https://avatars.githubusercontent.com/u/2587585?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/juliusv",
+        "avatar": "https://avatars.githubusercontent.com/u/538008?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/prometheus/alertmanager",
+    "name": "prometheus/alertmanager",
+    "description": "Prometheus Alertmanager  ",
+    "language": "Go",
+    "stars": "8159",
+    "forks": "2362",
+    "increased": "76 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Atream",
+        "avatar": "https://avatars.githubusercontent.com/u/80757050?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/KMSorSMS",
+        "avatar": "https://avatars.githubusercontent.com/u/82826507?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Azure-Tang",
+        "avatar": "https://avatars.githubusercontent.com/u/50126533?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/qiyuxinlin",
+        "avatar": "https://avatars.githubusercontent.com/u/44601537?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ovowei",
+        "avatar": "https://avatars.githubusercontent.com/u/80044717?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/kvcache-ai/ktransformers",
+    "name": "kvcache-ai/ktransformers",
+    "description": "A Flexible Framework for Experiencing Cutting-edge LLM Inference Optimizations  ",
+    "language": "Python",
+    "stars": "15909",
+    "forks": "1155",
+    "increased": "183 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/jba",
+        "avatar": "https://avatars.githubusercontent.com/u/18483045?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/findleyr",
+        "avatar": "https://avatars.githubusercontent.com/u/57144380?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/samthanawalla",
+        "avatar": "https://avatars.githubusercontent.com/u/17936816?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cryo-zd",
+        "avatar": "https://avatars.githubusercontent.com/u/129663775?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rwjblue-glean",
+        "avatar": "https://avatars.githubusercontent.com/u/205674904?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/modelcontextprotocol/go-sdk",
+    "name": "modelcontextprotocol/go-sdk",
+    "description": "The official Go SDK for Model Context Protocol servers and clients. Maintained in collaboration with Google.  ",
+    "language": "Go",
+    "stars": "3167",
+    "forks": "282",
+    "increased": "135 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/serge-rider",
+        "avatar": "https://avatars.githubusercontent.com/u/6398845?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ShadelessFox",
+        "avatar": "https://avatars.githubusercontent.com/u/35821147?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/LonwoLonwo",
+        "avatar": "https://avatars.githubusercontent.com/u/45152336?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/E1izabeth",
+        "avatar": "https://avatars.githubusercontent.com/u/28875055?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ruspl-afed",
+        "avatar": "https://avatars.githubusercontent.com/u/15242312?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/dbeaver/dbeaver",
+    "name": "dbeaver/dbeaver",
+    "description": "Free universal database tool and SQL client  ",
+    "language": "Java",
+    "stars": "47236",
+    "forks": "3949",
+    "increased": "291 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Vasilije1990",
+        "avatar": "https://avatars.githubusercontent.com/u/8619304?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dexters1",
+        "avatar": "https://avatars.githubusercontent.com/u/30923996?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/borisarzentar",
+        "avatar": "https://avatars.githubusercontent.com/u/5081379?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/hajdul88",
+        "avatar": "https://avatars.githubusercontent.com/u/52442977?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/daukadolt",
+        "avatar": "https://avatars.githubusercontent.com/u/26189247?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/topoteretes/cognee",
+    "name": "topoteretes/cognee",
+    "description": "Memory for AI Agents in 6 lines of code  ",
+    "language": "Python",
+    "stars": "9101",
+    "forks": "841",
+    "increased": "423 stars this week"
+  }
+]
