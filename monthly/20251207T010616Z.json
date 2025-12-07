@@ -1,0 +1,516 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/actions-user",
+        "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sansan0",
+        "avatar": "https://avatars.githubusercontent.com/u/77180927?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/sansan0/TrendRadar",
+    "name": "sansan0/TrendRadar",
+    "description": "🎯 告别信息过载，AI 助你看懂新闻资讯热点，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等13种工具）。支持企业微信/个人微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 推送，1分钟手机通知，无需编程。支持Docker部署⭐ 让算法为你服务，用AI理解热点【 当前仅推荐Docker部署，Fork/Actions方式暂停（正在与GitHub官方沟通中）】  ",
+    "language": "Python",
+    "stars": "37855",
+    "forks": "20083",
+    "increased": "33211 stars this month"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/kavishdevar",
+        "avatar": "https://avatars.githubusercontent.com/u/46088622?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tim-gromeyer",
+        "avatar": "https://avatars.githubusercontent.com/u/58736434?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/devnoname120",
+        "avatar": "https://avatars.githubusercontent.com/u/2824100?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jay-tau",
+        "avatar": "https://avatars.githubusercontent.com/u/95355656?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ImgBotApp",
+        "avatar": "https://avatars.githubusercontent.com/u/31427850?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/kavishdevar/librepods",
+    "name": "kavishdevar/librepods",
+    "description": "AirPods liberated from Apple's ecosystem.  ",
+    "language": "Kotlin",
+    "stars": "19519",
+    "forks": "926",
+    "increased": "17971 stars this month"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/0xallam",
+        "avatar": "https://avatars.githubusercontent.com/u/49919286?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/SharafEldein",
+        "avatar": "https://avatars.githubusercontent.com/u/70941626?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mdp",
+        "avatar": "https://avatars.githubusercontent.com/u/2868?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Vincent550102",
+        "avatar": "https://avatars.githubusercontent.com/u/48404862?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/usestrix/strix",
+    "name": "usestrix/strix",
+    "description": "Open-source AI agents for penetration testing  ",
+    "language": "Python",
+    "stars": "16918",
+    "forks": "1715",
+    "increased": "14301 stars this month"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/harshalmore31",
+        "avatar": "https://avatars.githubusercontent.com/u/86048671?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Boburmirzo",
+        "avatar": "https://avatars.githubusercontent.com/u/14247607?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/actions-user",
+        "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/devwdave",
+        "avatar": "https://avatars.githubusercontent.com/u/209181612?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/MemoriLabs/Memori",
+    "name": "MemoriLabs/Memori",
+    "description": "Open-Source Memory Engine for LLMs, AI Agents &amp; Multi-Agent Systems  ",
+    "language": "Python",
+    "stars": "9486",
+    "forks": "677",
+    "increased": "7918 stars this month"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/lzhoang2801",
+        "avatar": "https://avatars.githubusercontent.com/u/169338399?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/githubuser77777",
+        "avatar": "https://avatars.githubusercontent.com/u/95003413?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Trao-X",
+        "avatar": "https://avatars.githubusercontent.com/u/140246452?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/lzhoang2801/OpCore-Simplify",
+    "name": "lzhoang2801/OpCore-Simplify",
+    "description": "A tool designed to simplify the creation of OpenCore EFI  ",
+    "language": "Python",
+    "stars": "3639",
+    "forks": "347",
+    "increased": "1648 stars this month"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/husseinmozannar",
+        "avatar": "https://avatars.githubusercontent.com/u/25182234?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/gagb",
+        "avatar": "https://avatars.githubusercontent.com/u/13227607?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cheng-tan",
+        "avatar": "https://avatars.githubusercontent.com/u/24258143?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/afourney",
+        "avatar": "https://avatars.githubusercontent.com/u/4017093?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/matheusmaldaner",
+        "avatar": "https://avatars.githubusercontent.com/u/68019055?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/microsoft/magentic-ui",
+    "name": "microsoft/magentic-ui",
+    "description": "A research prototype of a human-centered web agent  ",
+    "language": "Python",
+    "stars": "8710",
+    "forks": "898",
+    "increased": "781 stars this month"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/TapXWorld",
+        "avatar": "https://avatars.githubusercontent.com/u/3353541?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/keminshu",
+        "avatar": "https://avatars.githubusercontent.com/u/10050045?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/TapXWorld/ChinaTextbook",
+    "name": "TapXWorld/ChinaTextbook",
+    "description": "所有小初高、大学PDF教材。  ",
+    "language": "Roff",
+    "stars": "61073",
+    "forks": "13559",
+    "increased": "6787 stars this month"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/micbar",
+        "avatar": "https://avatars.githubusercontent.com/u/4378513?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/butonic",
+        "avatar": "https://avatars.githubusercontent.com/u/956847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kulmann",
+        "avatar": "https://avatars.githubusercontent.com/u/3532843?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rhafer",
+        "avatar": "https://avatars.githubusercontent.com/u/373399?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dragonchaser",
+        "avatar": "https://avatars.githubusercontent.com/u/1058116?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/opencloud-eu/opencloud",
+    "name": "opencloud-eu/opencloud",
+    "description": "🌤️This is the main repository of the OpenCloud server. It contains the golang codebase for the backend services.  ",
+    "language": "Go",
+    "stars": "4328",
+    "forks": "153",
+    "increased": "1726 stars this month"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ourongxing",
+        "avatar": "https://avatars.githubusercontent.com/u/48356807?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bruceblink",
+        "avatar": "https://avatars.githubusercontent.com/u/14996214?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/d380025303",
+        "avatar": "https://avatars.githubusercontent.com/u/31104430?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/urlyy",
+        "avatar": "https://avatars.githubusercontent.com/u/61675635?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jianlingzhong",
+        "avatar": "https://avatars.githubusercontent.com/u/12853307?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/ourongxing/newsnow",
+    "name": "ourongxing/newsnow",
+    "description": "Elegant reading of real-time and hottest news  ",
+    "language": "TypeScript",
+    "stars": "14957",
+    "forks": "4469",
+    "increased": "1357 stars this month"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/yeongpin",
+        "avatar": "https://avatars.githubusercontent.com/u/29575074?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/canmi21",
+        "avatar": "https://avatars.githubusercontent.com/u/72544151?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Nigel1992",
+        "avatar": "https://avatars.githubusercontent.com/u/5491930?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/razen-core",
+        "avatar": "https://avatars.githubusercontent.com/u/181340812?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cjahv",
+        "avatar": "https://avatars.githubusercontent.com/u/15372793?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/yeongpin/cursor-free-vip",
+    "name": "yeongpin/cursor-free-vip",
+    "description": "[Support 0.49.x]（Reset Cursor AI MachineID &amp; Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.  ",
+    "language": "Python",
+    "stars": "45235",
+    "forks": "5407",
+    "increased": "5467 stars this month"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/jacob314",
+        "avatar": "https://avatars.githubusercontent.com/u/1226812?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/scidomino",
+        "avatar": "https://avatars.githubusercontent.com/u/13950003?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/NTaylorMullen",
+        "avatar": "https://avatars.githubusercontent.com/u/2008729?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mattKorwel",
+        "avatar": "https://avatars.githubusercontent.com/u/1538695?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/olcan",
+        "avatar": "https://avatars.githubusercontent.com/u/747196?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/google-gemini/gemini-cli",
+    "name": "google-gemini/gemini-cli",
+    "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.  ",
+    "language": "TypeScript",
+    "stars": "86087",
+    "forks": "9824",
+    "increased": "4829 stars this month"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/houseme",
+        "avatar": "https://avatars.githubusercontent.com/u/4829346?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/weisd",
+        "avatar": "https://avatars.githubusercontent.com/u/2057561?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/overtrue",
+        "avatar": "https://avatars.githubusercontent.com/u/1472352?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/guojidan",
+        "avatar": "https://avatars.githubusercontent.com/u/63799833?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/loverustfs",
+        "avatar": "https://avatars.githubusercontent.com/u/155562731?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/rustfs/rustfs",
+    "name": "rustfs/rustfs",
+    "description": "🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.  ",
+    "language": "Rust",
+    "stars": "15137",
+    "forks": "651",
+    "increased": "3966 stars this month"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/aeikum",
+        "avatar": "https://avatars.githubusercontent.com/u/34554541?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rbernon",
+        "avatar": "https://avatars.githubusercontent.com/u/4134719?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ivyl",
+        "avatar": "https://avatars.githubusercontent.com/u/16490?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/alasky17",
+        "avatar": "https://avatars.githubusercontent.com/u/40211296?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Plagman",
+        "avatar": "https://avatars.githubusercontent.com/u/529930?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/ValveSoftware/Proton",
+    "name": "ValveSoftware/Proton",
+    "description": "Compatibility tool for Steam Play based on Wine and additional components  ",
+    "language": "C++",
+    "stars": "29076",
+    "forks": "1262",
+    "increased": "1011 stars this month"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/freearhey",
+        "avatar": "https://avatars.githubusercontent.com/u/7253922?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/BellezaEmporium",
+        "avatar": "https://avatars.githubusercontent.com/u/30985701?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Dum4G",
+        "avatar": "https://avatars.githubusercontent.com/u/5430116?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/UltraHDR",
+        "avatar": "https://avatars.githubusercontent.com/u/108294295?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/iptv-org/iptv",
+    "name": "iptv-org/iptv",
+    "description": "Collection of publicly available IPTV channels from all over the world  ",
+    "language": "TypeScript",
+    "stars": "104657",
+    "forks": "4692",
+    "increased": "6549 stars this month"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/jaretburkett",
+        "avatar": "https://avatars.githubusercontent.com/u/195960?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/apolinario",
+        "avatar": "https://avatars.githubusercontent.com/u/788417?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/hameerabbasi",
+        "avatar": "https://avatars.githubusercontent.com/u/2190658?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/squewel",
+        "avatar": "https://avatars.githubusercontent.com/u/97603184?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/martintomov",
+        "avatar": "https://avatars.githubusercontent.com/u/101264514?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/ostris/ai-toolkit",
+    "name": "ostris/ai-toolkit",
+    "description": "The ultimate training toolkit for finetuning diffusion models  ",
+    "language": "Python",
+    "stars": "7702",
+    "forks": "935",
+    "increased": "922 stars this month"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/mchandschuh",
+        "avatar": "https://avatars.githubusercontent.com/u/531416?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jaredbroad",
+        "avatar": "https://avatars.githubusercontent.com/u/2243225?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Martin-Molinero",
+        "avatar": "https://avatars.githubusercontent.com/u/18473240?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/StefanoRaggi",
+        "avatar": "https://avatars.githubusercontent.com/u/7236689?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/AlexCatarino",
+        "avatar": "https://avatars.githubusercontent.com/u/6889033?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/QuantConnect/Lean",
+    "name": "QuantConnect/Lean",
+    "description": "Lean Algorithmic Trading Engine by QuantConnect (Python, C#)  ",
+    "language": "C#",
+    "stars": "13643",
+    "forks": "3959",
+    "increased": "951 stars this month"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/farion1231",
+        "avatar": "https://avatars.githubusercontent.com/u/44939412?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/yovinchen",
+        "avatar": "https://avatars.githubusercontent.com/u/76760071?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/TinsFox",
+        "avatar": "https://avatars.githubusercontent.com/u/33956589?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ZyphrZero",
+        "avatar": "https://avatars.githubusercontent.com/u/133507172?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/farion1231/cc-switch",
+    "name": "farion1231/cc-switch",
+    "description": "A cross-platform desktop All-in-One assistant tool for Claude Code, Codex &amp; Gemini CLI.  ",
+    "language": "TypeScript",
+    "stars": "5913",
+    "forks": "388",
+    "increased": "2724 stars this month"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/willeastcott",
+        "avatar": "https://avatars.githubusercontent.com/u/697563?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/daredevildave",
+        "avatar": "https://avatars.githubusercontent.com/u/504980?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/guycalledfrank",
+        "avatar": "https://avatars.githubusercontent.com/u/7008423?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mvaligursky",
+        "avatar": "https://avatars.githubusercontent.com/u/59932779?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/vkalpias",
+        "avatar": "https://avatars.githubusercontent.com/u/850969?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/playcanvas/engine",
+    "name": "playcanvas/engine",
+    "description": "Powerful web graphics runtime built on WebGL, WebGPU, WebXR and glTF  ",
+    "language": "JavaScript",
+    "stars": "14128",
+    "forks": "1668",
+    "increased": "3133 stars this month"
+  }
+]
