@@ -1,0 +1,351 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/BrentFarris",
+        "avatar": "https://avatars.githubusercontent.com/u/1002223?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Crazy8ball",
+        "avatar": "https://avatars.githubusercontent.com/u/1581335?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/qwertyuu",
+        "avatar": "https://avatars.githubusercontent.com/u/3145639?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pato98115",
+        "avatar": "https://avatars.githubusercontent.com/u/44127015?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bshore",
+        "avatar": "https://avatars.githubusercontent.com/u/14914028?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/KaijuEngine/kaiju",
+    "name": "KaijuEngine/kaiju",
+    "description": "General purpose 3D and 2D game engine using Go (golang) and Vulkan with built in editor  ",
+    "language": "Go",
+    "stars": "1579",
+    "forks": "53",
+    "increased": "260 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/thedotmack",
+        "avatar": "https://avatars.githubusercontent.com/u/683968?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dreamiurg",
+        "avatar": "https://avatars.githubusercontent.com/u/369468?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/thedotmack/claude-mem",
+    "name": "thedotmack/claude-mem",
+    "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.  ",
+    "language": "JavaScript",
+    "stars": "1458",
+    "forks": "110",
+    "increased": "209 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/wwwillchen",
+        "avatar": "https://avatars.githubusercontent.com/u/7344640?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/princeaden1",
+        "avatar": "https://avatars.githubusercontent.com/u/14006504?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/azizmejri1",
+        "avatar": "https://avatars.githubusercontent.com/u/125149796?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Olyno",
+        "avatar": "https://avatars.githubusercontent.com/u/25107942?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/dyad-sh/dyad",
+    "name": "dyad-sh/dyad",
+    "description": "Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it!  ",
+    "language": "TypeScript",
+    "stars": "18007",
+    "forks": "1997",
+    "increased": "76 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/YaoyaoChang",
+        "avatar": "https://avatars.githubusercontent.com/u/20237658?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/wenhui0924",
+        "avatar": "https://avatars.githubusercontent.com/u/46838421?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/hydropix",
+        "avatar": "https://avatars.githubusercontent.com/u/5154373?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/RaihanulHaque",
+        "avatar": "https://avatars.githubusercontent.com/u/52377279?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/microsoft/VibeVoice",
+    "name": "microsoft/VibeVoice",
+    "description": "Open-Source Frontier Voice AI  ",
+    "language": "Python",
+    "stars": "16308",
+    "forks": "1794",
+    "increased": "2638 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/haijieg",
+        "avatar": "https://avatars.githubusercontent.com/u/818855?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/nvangelak",
+        "avatar": "https://avatars.githubusercontent.com/u/107583177?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jollylili",
+        "avatar": "https://avatars.githubusercontent.com/u/169484760?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/NVIDIA/cutile-python",
+    "name": "NVIDIA/cutile-python",
+    "description": "cuTile is a programming model for writing parallel kernels for NVIDIA GPUs  ",
+    "language": "Python",
+    "stars": "1204",
+    "forks": "57",
+    "increased": "178 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/mstyer-google",
+        "avatar": "https://avatars.githubusercontent.com/u/50425771?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/eliasecchig",
+        "avatar": "https://avatars.githubusercontent.com/u/115624100?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/turanbulmus",
+        "avatar": "https://avatars.githubusercontent.com/u/124069046?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jackwotherspoon",
+        "avatar": "https://avatars.githubusercontent.com/u/32113413?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/google/adk-samples",
+    "name": "google/adk-samples",
+    "description": "A collection of sample agents built with Agent Development Kit (ADK)  ",
+    "language": "Python",
+    "stars": "7053",
+    "forks": "2009",
+    "increased": "76 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/patchy631",
+        "avatar": "https://avatars.githubusercontent.com/u/38653995?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sitammeur",
+        "avatar": "https://avatars.githubusercontent.com/u/103279526?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ChawlaAvi",
+        "avatar": "https://avatars.githubusercontent.com/u/36801774?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/nikhil-1e9",
+        "avatar": "https://avatars.githubusercontent.com/u/84204563?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/namanvirk18",
+        "avatar": "https://avatars.githubusercontent.com/u/109527422?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/patchy631/ai-engineering-hub",
+    "name": "patchy631/ai-engineering-hub",
+    "description": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.  ",
+    "language": "Jupyter Notebook",
+    "stars": "22787",
+    "forks": "3674",
+    "increased": "550 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/tanmlh",
+        "avatar": "https://avatars.githubusercontent.com/u/42575294?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/snchen1230",
+        "avatar": "https://avatars.githubusercontent.com/u/65218547?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/wuhwyy",
+        "avatar": "https://avatars.githubusercontent.com/u/5689179?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Zhu-Lab-Admin",
+        "avatar": "https://avatars.githubusercontent.com/u/69350980?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/zhu-xlab/GlobalBuildingAtlas",
+    "name": "zhu-xlab/GlobalBuildingAtlas",
+    "language": "Python",
+    "stars": "1122",
+    "forks": "121",
+    "increased": "143 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/666ghj",
+        "avatar": "https://avatars.githubusercontent.com/u/110395318?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/MaYiding",
+        "avatar": "https://avatars.githubusercontent.com/u/77890939?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ghmark675",
+        "avatar": "https://avatars.githubusercontent.com/u/188834327?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/DoiiarX",
+        "avatar": "https://avatars.githubusercontent.com/u/25550075?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Qst137",
+        "avatar": "https://avatars.githubusercontent.com/u/139198328?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/666ghj/BettaFish",
+    "name": "666ghj/BettaFish",
+    "description": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。  ",
+    "language": "Python",
+    "stars": "32005",
+    "forks": "6150",
+    "increased": "464 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/koreyspace",
+        "avatar": "https://avatars.githubusercontent.com/u/7462909?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/leestott",
+        "avatar": "https://avatars.githubusercontent.com/u/2511341?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/john0isaac",
+        "avatar": "https://avatars.githubusercontent.com/u/64026625?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/yoshioterada",
+        "avatar": "https://avatars.githubusercontent.com/u/1871266?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/glaucia86",
+        "avatar": "https://avatars.githubusercontent.com/u/1631477?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/microsoft/generative-ai-for-beginners",
+    "name": "microsoft/generative-ai-for-beginners",
+    "description": "21 Lessons, Get Started Building with Generative AI  ",
+    "language": "Jupyter Notebook",
+    "stars": "103041",
+    "forks": "54781",
+    "increased": "75 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/thdxr",
+        "avatar": "https://avatars.githubusercontent.com/u/826656?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/adamdotdevin",
+        "avatar": "https://avatars.githubusercontent.com/u/2363879?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rekram1-node",
+        "avatar": "https://avatars.githubusercontent.com/u/63023139?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/actions-user",
+        "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/fwang",
+        "avatar": "https://avatars.githubusercontent.com/u/83515?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/sst/opencode",
+    "name": "sst/opencode",
+    "description": "The open source coding agent.  ",
+    "language": "TypeScript",
+    "stars": "37520",
+    "forks": "3142",
+    "increased": "243 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/srbhr",
+        "avatar": "https://avatars.githubusercontent.com/u/54472864?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rrvrs",
+        "avatar": "https://avatars.githubusercontent.com/u/47035684?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/elliotclee",
+        "avatar": "https://avatars.githubusercontent.com/u/39544852?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/SubramanyamChalla24",
+        "avatar": "https://avatars.githubusercontent.com/u/46422196?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/srbhr/Resume-Matcher",
+    "name": "srbhr/Resume-Matcher",
+    "description": "Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions.  ",
+    "language": "Python",
+    "stars": "24324",
+    "forks": "4532",
+    "increased": "45 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Johnshall",
+        "avatar": "https://avatars.githubusercontent.com/u/71166067?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever",
+    "name": "Johnshall/Shadowrocket-ADBlock-Rules-Forever",
+    "description": "提供多款 Shadowrocket 规则，拥有强劲的广告过滤功能。每日 8 时重新构建规则。  ",
+    "stars": "20129",
+    "forks": "1293",
+    "increased": "237 stars today"
+  }
+]

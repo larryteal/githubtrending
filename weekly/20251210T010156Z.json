@@ -1,0 +1,516 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/DayuanJiang",
+        "avatar": "https://avatars.githubusercontent.com/u/34411969?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Biki-dev",
+        "avatar": "https://avatars.githubusercontent.com/u/86558912?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/broBinChen",
+        "avatar": "https://avatars.githubusercontent.com/u/139344558?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/clevertension",
+        "avatar": "https://avatars.githubusercontent.com/u/346723?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/terrydash",
+        "avatar": "https://avatars.githubusercontent.com/u/16539525?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/DayuanJiang/next-ai-draw-io",
+    "name": "DayuanJiang/next-ai-draw-io",
+    "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.  ",
+    "language": "TypeScript",
+    "stars": "5812",
+    "forks": "652",
+    "increased": "3800 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/houseme",
+        "avatar": "https://avatars.githubusercontent.com/u/4829346?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/weisd",
+        "avatar": "https://avatars.githubusercontent.com/u/2057561?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/overtrue",
+        "avatar": "https://avatars.githubusercontent.com/u/1472352?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/guojidan",
+        "avatar": "https://avatars.githubusercontent.com/u/63799833?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/loverustfs",
+        "avatar": "https://avatars.githubusercontent.com/u/155562731?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/rustfs/rustfs",
+    "name": "rustfs/rustfs",
+    "description": "🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.  ",
+    "language": "Rust",
+    "stars": "16258",
+    "forks": "697",
+    "increased": "4395 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Jarred-Sumner",
+        "avatar": "https://avatars.githubusercontent.com/u/709451?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dylan-conway",
+        "avatar": "https://avatars.githubusercontent.com/u/35280289?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/nektro",
+        "avatar": "https://avatars.githubusercontent.com/u/5464072?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/paperclover",
+        "avatar": "https://avatars.githubusercontent.com/u/24465214?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/oven-sh/bun",
+    "name": "oven-sh/bun",
+    "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one  ",
+    "language": "Zig",
+    "stars": "84737",
+    "forks": "3772",
+    "increased": "2315 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/x5a",
+        "avatar": "https://avatars.githubusercontent.com/u/4421754?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/alexalbertt",
+        "avatar": "https://avatars.githubusercontent.com/u/34638987?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/zckly",
+        "avatar": "https://avatars.githubusercontent.com/u/11340449?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/zealoushacker",
+        "avatar": "https://avatars.githubusercontent.com/u/346275?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/anthropics/claude-quickstarts",
+    "name": "anthropics/claude-quickstarts",
+    "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API  ",
+    "language": "Python",
+    "stars": "11733",
+    "forks": "2049",
+    "increased": "1158 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ijjk",
+        "avatar": "https://avatars.githubusercontent.com/u/22380829?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/timneutkens",
+        "avatar": "https://avatars.githubusercontent.com/u/6324199?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sokra",
+        "avatar": "https://avatars.githubusercontent.com/u/1365881?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/vercel-release-bot",
+        "avatar": "https://avatars.githubusercontent.com/u/88769842?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/huozhi",
+        "avatar": "https://avatars.githubusercontent.com/u/4800338?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/vercel/next.js",
+    "name": "vercel/next.js",
+    "description": "The React Framework  ",
+    "language": "JavaScript",
+    "stars": "136382",
+    "forks": "30005",
+    "increased": "442 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/dexhorthy",
+        "avatar": "https://avatars.githubusercontent.com/u/3730605?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/K-Mistele",
+        "avatar": "https://avatars.githubusercontent.com/u/18430555?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/balanceiskey",
+        "avatar": "https://avatars.githubusercontent.com/u/470240?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/samdickson22",
+        "avatar": "https://avatars.githubusercontent.com/u/217395086?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/humanlayer/humanlayer",
+    "name": "humanlayer/humanlayer",
+    "description": "The best way to get AI coding agents to solve hard problems in complex codebases.  ",
+    "language": "TypeScript",
+    "stars": "7618",
+    "forks": "628",
+    "increased": "574 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/nhsprite",
+        "avatar": "https://avatars.githubusercontent.com/u/6903976?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ShouruiSong",
+        "avatar": "https://avatars.githubusercontent.com/u/87088805?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/wqyfavor",
+        "avatar": "https://avatars.githubusercontent.com/u/113776?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/lybvinci",
+        "avatar": "https://avatars.githubusercontent.com/u/5656875?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/zhongyr",
+        "avatar": "https://avatars.githubusercontent.com/u/55507274?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/lynx-family/lynx",
+    "name": "lynx-family/lynx",
+    "description": "Empower the Web community and invite more to build across platforms.  ",
+    "language": "C++",
+    "stars": "13857",
+    "forks": "481",
+    "increased": "300 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/jakebailey",
+        "avatar": "https://avatars.githubusercontent.com/u/5341706?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ahejlsberg",
+        "avatar": "https://avatars.githubusercontent.com/u/4226954?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/andrewbranch",
+        "avatar": "https://avatars.githubusercontent.com/u/3277153?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/gabritto",
+        "avatar": "https://avatars.githubusercontent.com/u/19519347?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sandersn",
+        "avatar": "https://avatars.githubusercontent.com/u/293473?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/microsoft/typescript-go",
+    "name": "microsoft/typescript-go",
+    "description": "Staging repo for development of native port of TypeScript  ",
+    "language": "Go",
+    "stars": "23223",
+    "forks": "759",
+    "increased": "248 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/sensibleworld",
+        "avatar": "https://avatars.githubusercontent.com/u/529604?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/robmadole",
+        "avatar": "https://avatars.githubusercontent.com/u/132895?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/fontawesome-github-bot",
+        "avatar": "https://avatars.githubusercontent.com/u/138073465?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jabronus",
+        "avatar": "https://avatars.githubusercontent.com/u/8459349?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rogerogers",
+        "avatar": "https://avatars.githubusercontent.com/u/40619032?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/FortAwesome/Font-Awesome",
+    "name": "FortAwesome/Font-Awesome",
+    "description": "The iconic SVG, font, and CSS toolkit  ",
+    "language": "JavaScript",
+    "stars": "76002",
+    "forks": "12216",
+    "increased": "139 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/actions-user",
+        "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bcherny",
+        "avatar": "https://avatars.githubusercontent.com/u/1761758?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ashwin-ant",
+        "avatar": "https://avatars.githubusercontent.com/u/178951676?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ant-kurt",
+        "avatar": "https://avatars.githubusercontent.com/u/209710463?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/anthropics/claude-code",
+    "name": "anthropics/claude-code",
+    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.  ",
+    "language": "Shell",
+    "stars": "45200",
+    "forks": "3146",
+    "increased": "907 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/laktyushin",
+        "avatar": "https://avatars.githubusercontent.com/u/491013?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/overtake",
+        "avatar": "https://avatars.githubusercontent.com/u/1260850?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/smohantty",
+        "avatar": "https://avatars.githubusercontent.com/u/34466874?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/hermet",
+        "avatar": "https://avatars.githubusercontent.com/u/3711518?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/FrayxRulez",
+        "avatar": "https://avatars.githubusercontent.com/u/8152849?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/TelegramMessenger/Telegram-iOS",
+    "name": "TelegramMessenger/Telegram-iOS",
+    "description": "Telegram-iOS  ",
+    "language": "Swift",
+    "stars": "7725",
+    "forks": "2204",
+    "increased": "245 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/leejet",
+        "avatar": "https://avatars.githubusercontent.com/u/31925346?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/stduhpf",
+        "avatar": "https://avatars.githubusercontent.com/u/28208228?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/wbruna",
+        "avatar": "https://avatars.githubusercontent.com/u/734885?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Green-Sky",
+        "avatar": "https://avatars.githubusercontent.com/u/2938071?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/daniandtheweb",
+        "avatar": "https://avatars.githubusercontent.com/u/57776841?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/leejet/stable-diffusion.cpp",
+    "name": "leejet/stable-diffusion.cpp",
+    "description": "Diffusion model(SD,Flux,Wan,Qwen Image,Z-Image,...) inference in pure C/C++  ",
+    "language": "C++",
+    "stars": "4774",
+    "forks": "465",
+    "increased": "105 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/zpao",
+        "avatar": "https://avatars.githubusercontent.com/u/8445?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sebmarkbage",
+        "avatar": "https://avatars.githubusercontent.com/u/63648?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/gaearon",
+        "avatar": "https://avatars.githubusercontent.com/u/810438?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/acdlite",
+        "avatar": "https://avatars.githubusercontent.com/u/3624098?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sophiebits",
+        "avatar": "https://avatars.githubusercontent.com/u/6820?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/facebook/react",
+    "name": "facebook/react",
+    "description": "The library for web and native user interfaces.  ",
+    "language": "JavaScript",
+    "stars": "241456",
+    "forks": "50038",
+    "increased": "492 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/knqyf263",
+        "avatar": "https://avatars.githubusercontent.com/u/2253692?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/DmitriyLewen",
+        "avatar": "https://avatars.githubusercontent.com/u/91113035?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/nikpivkin",
+        "avatar": "https://avatars.githubusercontent.com/u/100182843?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/simar7",
+        "avatar": "https://avatars.githubusercontent.com/u/1254783?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/aquasecurity/trivy",
+    "name": "aquasecurity/trivy",
+    "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more  ",
+    "language": "Go",
+    "stars": "30351",
+    "forks": "2846",
+    "increased": "301 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/lfnovo",
+        "avatar": "https://avatars.githubusercontent.com/u/579178?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/troykelly",
+        "avatar": "https://avatars.githubusercontent.com/u/4564803?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pchuri",
+        "avatar": "https://avatars.githubusercontent.com/u/11848484?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/lfnovo/open-notebook",
+    "name": "lfnovo/open-notebook",
+    "description": "An Open Source implementation of Notebook LM with more flexibility and features  ",
+    "language": "TypeScript",
+    "stars": "13664",
+    "forks": "1369",
+    "increased": "1833 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/monorkin",
+        "avatar": "https://avatars.githubusercontent.com/u/1655218?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kevinmcconnell",
+        "avatar": "https://avatars.githubusercontent.com/u/1186763?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dhh",
+        "avatar": "https://avatars.githubusercontent.com/u/2741?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/DragonStuff",
+        "avatar": "https://avatars.githubusercontent.com/u/4584443?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jzimdars",
+        "avatar": "https://avatars.githubusercontent.com/u/107673?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/basecamp/once-campfire",
+    "name": "basecamp/once-campfire",
+    "language": "Ruby",
+    "stars": "3725",
+    "forks": "591",
+    "increased": "111 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/jaretburkett",
+        "avatar": "https://avatars.githubusercontent.com/u/195960?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/apolinario",
+        "avatar": "https://avatars.githubusercontent.com/u/788417?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/hameerabbasi",
+        "avatar": "https://avatars.githubusercontent.com/u/2190658?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/squewel",
+        "avatar": "https://avatars.githubusercontent.com/u/97603184?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/martintomov",
+        "avatar": "https://avatars.githubusercontent.com/u/101264514?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/ostris/ai-toolkit",
+    "name": "ostris/ai-toolkit",
+    "description": "The ultimate training toolkit for finetuning diffusion models   ",
+    "language": "Python",
+    "stars": "7930",
+    "forks": "949",
+    "increased": "516 stars this week"
+  }
+]
