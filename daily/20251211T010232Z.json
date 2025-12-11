@@ -1,0 +1,404 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/thedotmack",
+        "avatar": "https://avatars.githubusercontent.com/u/683968?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dreamiurg",
+        "avatar": "https://avatars.githubusercontent.com/u/369468?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/thedotmack/claude-mem",
+    "name": "thedotmack/claude-mem",
+    "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.  ",
+    "language": "JavaScript",
+    "stars": "2694",
+    "forks": "169",
+    "increased": "779 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/BrentFarris",
+        "avatar": "https://avatars.githubusercontent.com/u/1002223?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Crazy8ball",
+        "avatar": "https://avatars.githubusercontent.com/u/1581335?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/qwertyuu",
+        "avatar": "https://avatars.githubusercontent.com/u/3145639?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pato98115",
+        "avatar": "https://avatars.githubusercontent.com/u/44127015?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bshore",
+        "avatar": "https://avatars.githubusercontent.com/u/14914028?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/KaijuEngine/kaiju",
+    "name": "KaijuEngine/kaiju",
+    "description": "General purpose 3D and 2D game engine using Go (golang) and Vulkan with built in editor  ",
+    "language": "Go",
+    "stars": "2768",
+    "forks": "89",
+    "increased": "1480 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/romainhuet",
+        "avatar": "https://avatars.githubusercontent.com/u/27232?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dkundel-openai",
+        "avatar": "https://avatars.githubusercontent.com/u/200841172?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/digitarald",
+        "avatar": "https://avatars.githubusercontent.com/u/8599?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/andrewgcodes",
+        "avatar": "https://avatars.githubusercontent.com/u/24441720?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/radu-mocanu",
+        "avatar": "https://avatars.githubusercontent.com/u/180162817?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/agentsmd/agents.md",
+    "name": "agentsmd/agents.md",
+    "description": "AGENTS.md — a simple, open format for guiding coding agents  ",
+    "language": "TypeScript",
+    "stars": "9489",
+    "forks": "751",
+    "increased": "321 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/lfnovo",
+        "avatar": "https://avatars.githubusercontent.com/u/579178?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/troykelly",
+        "avatar": "https://avatars.githubusercontent.com/u/4564803?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pchuri",
+        "avatar": "https://avatars.githubusercontent.com/u/11848484?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/lfnovo/open-notebook",
+    "name": "lfnovo/open-notebook",
+    "description": "An Open Source implementation of Notebook LM with more flexibility and features  ",
+    "language": "TypeScript",
+    "stars": "14033",
+    "forks": "1412",
+    "increased": "314 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/wwwillchen",
+        "avatar": "https://avatars.githubusercontent.com/u/7344640?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/princeaden1",
+        "avatar": "https://avatars.githubusercontent.com/u/14006504?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/azizmejri1",
+        "avatar": "https://avatars.githubusercontent.com/u/125149796?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Olyno",
+        "avatar": "https://avatars.githubusercontent.com/u/25107942?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/dyad-sh/dyad",
+    "name": "dyad-sh/dyad",
+    "description": "Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it!  ",
+    "language": "TypeScript",
+    "stars": "18229",
+    "forks": "2007",
+    "increased": "258 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/jjyaoao",
+        "avatar": "https://avatars.githubusercontent.com/u/88936287?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/HeteroCat",
+        "avatar": "https://avatars.githubusercontent.com/u/111065724?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Tasselszcx",
+        "avatar": "https://avatars.githubusercontent.com/u/93756983?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Tsumugii24",
+        "avatar": "https://avatars.githubusercontent.com/u/124921491?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/fengju0213",
+        "avatar": "https://avatars.githubusercontent.com/u/168447269?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/datawhalechina/hello-agents",
+    "name": "datawhalechina/hello-agents",
+    "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程  ",
+    "language": "Python",
+    "stars": "7005",
+    "forks": "788",
+    "increased": "458 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/YaoyaoChang",
+        "avatar": "https://avatars.githubusercontent.com/u/20237658?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/wenhui0924",
+        "avatar": "https://avatars.githubusercontent.com/u/46838421?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/hydropix",
+        "avatar": "https://avatars.githubusercontent.com/u/5154373?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/RaihanulHaque",
+        "avatar": "https://avatars.githubusercontent.com/u/52377279?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/microsoft/VibeVoice",
+    "name": "microsoft/VibeVoice",
+    "description": "Open-Source Frontier Voice AI  ",
+    "language": "Python",
+    "stars": "17003",
+    "forks": "1853",
+    "increased": "966 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/angiejones",
+        "avatar": "https://avatars.githubusercontent.com/u/15972783?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/blackgirlbytes",
+        "avatar": "https://avatars.githubusercontent.com/u/22990146?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dianed-square",
+        "avatar": "https://avatars.githubusercontent.com/u/73617011?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/EbonyLouis",
+        "avatar": "https://avatars.githubusercontent.com/u/55366651?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/michaelneale",
+        "avatar": "https://avatars.githubusercontent.com/u/14976?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/block/goose",
+    "name": "block/goose",
+    "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM  ",
+    "language": "Rust",
+    "stars": "23374",
+    "forks": "2110",
+    "increased": "441 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/666ghj",
+        "avatar": "https://avatars.githubusercontent.com/u/110395318?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/MaYiding",
+        "avatar": "https://avatars.githubusercontent.com/u/77890939?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ghmark675",
+        "avatar": "https://avatars.githubusercontent.com/u/188834327?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/DoiiarX",
+        "avatar": "https://avatars.githubusercontent.com/u/25550075?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Qst137",
+        "avatar": "https://avatars.githubusercontent.com/u/139198328?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/666ghj/BettaFish",
+    "name": "666ghj/BettaFish",
+    "description": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。  ",
+    "language": "Python",
+    "stars": "32319",
+    "forks": "6211",
+    "increased": "326 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/AshishKumar4",
+        "avatar": "https://avatars.githubusercontent.com/u/10579975?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/palashgo",
+        "avatar": "https://avatars.githubusercontent.com/u/25306110?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dinasaur404",
+        "avatar": "https://avatars.githubusercontent.com/u/49571477?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/cloudflare/vibesdk",
+    "name": "cloudflare/vibesdk",
+    "description": "An open-source vibe coding platform that helps you build your own vibe-coding platform, built entirely on Cloudflare stack  ",
+    "language": "TypeScript",
+    "stars": "4126",
+    "forks": "961",
+    "increased": "101 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/koreyspace",
+        "avatar": "https://avatars.githubusercontent.com/u/7462909?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/leestott",
+        "avatar": "https://avatars.githubusercontent.com/u/2511341?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/john0isaac",
+        "avatar": "https://avatars.githubusercontent.com/u/64026625?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/yoshioterada",
+        "avatar": "https://avatars.githubusercontent.com/u/1871266?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/glaucia86",
+        "avatar": "https://avatars.githubusercontent.com/u/1631477?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/microsoft/generative-ai-for-beginners",
+    "name": "microsoft/generative-ai-for-beginners",
+    "description": "21 Lessons, Get Started Building with Generative AI  ",
+    "language": "Jupyter Notebook",
+    "stars": "103439",
+    "forks": "54907",
+    "increased": "404 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/KevinHuSh",
+        "avatar": "https://avatars.githubusercontent.com/u/12318111?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cike8899",
+        "avatar": "https://avatars.githubusercontent.com/u/8089971?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/writinwaters",
+        "avatar": "https://avatars.githubusercontent.com/u/93570324?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/yongtenglei",
+        "avatar": "https://avatars.githubusercontent.com/u/65058560?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/yuzhichang",
+        "avatar": "https://avatars.githubusercontent.com/u/153784?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/infiniflow/ragflow",
+    "name": "infiniflow/ragflow",
+    "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs  ",
+    "language": "Python",
+    "stars": "69396",
+    "forks": "7528",
+    "increased": "174 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/mstyer-google",
+        "avatar": "https://avatars.githubusercontent.com/u/50425771?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/eliasecchig",
+        "avatar": "https://avatars.githubusercontent.com/u/115624100?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/turanbulmus",
+        "avatar": "https://avatars.githubusercontent.com/u/124069046?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jackwotherspoon",
+        "avatar": "https://avatars.githubusercontent.com/u/32113413?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/google/adk-samples",
+    "name": "google/adk-samples",
+    "description": "A collection of sample agents built with Agent Development Kit (ADK)  ",
+    "language": "Python",
+    "stars": "7336",
+    "forks": "2026",
+    "increased": "282 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/jlooper",
+        "avatar": "https://avatars.githubusercontent.com/u/1450004?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/leestott",
+        "avatar": "https://avatars.githubusercontent.com/u/2511341?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/hereje",
+        "avatar": "https://avatars.githubusercontent.com/u/3022824?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Vidushi-Gupta",
+        "avatar": "https://avatars.githubusercontent.com/u/55969597?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/softchris",
+        "avatar": "https://avatars.githubusercontent.com/u/4598064?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/microsoft/ML-For-Beginners",
+    "name": "microsoft/ML-For-Beginners",
+    "description": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all  ",
+    "language": "Jupyter Notebook",
+    "stars": "81294",
+    "forks": "19058",
+    "increased": "141 stars today"
+  }
+]
