@@ -1,0 +1,424 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/YaoyaoChang",
+        "avatar": "https://avatars.githubusercontent.com/u/20237658?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/wenhui0924",
+        "avatar": "https://avatars.githubusercontent.com/u/46838421?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/hydropix",
+        "avatar": "https://avatars.githubusercontent.com/u/5154373?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/RaihanulHaque",
+        "avatar": "https://avatars.githubusercontent.com/u/52377279?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/microsoft/VibeVoice",
+    "name": "microsoft/VibeVoice",
+    "description": "Open-Source Frontier Voice AI  ",
+    "language": "Python",
+    "stars": "17922",
+    "forks": "1968",
+    "increased": "6492 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/romainhuet",
+        "avatar": "https://avatars.githubusercontent.com/u/27232?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dkundel-openai",
+        "avatar": "https://avatars.githubusercontent.com/u/200841172?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/digitarald",
+        "avatar": "https://avatars.githubusercontent.com/u/8599?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/andrewgcodes",
+        "avatar": "https://avatars.githubusercontent.com/u/24441720?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/radu-mocanu",
+        "avatar": "https://avatars.githubusercontent.com/u/180162817?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/agentsmd/agents.md",
+    "name": "agentsmd/agents.md",
+    "description": "AGENTS.md — a simple, open format for guiding coding agents  ",
+    "language": "TypeScript",
+    "stars": "11564",
+    "forks": "856",
+    "increased": "2658 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/DayuanJiang",
+        "avatar": "https://avatars.githubusercontent.com/u/34411969?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Biki-dev",
+        "avatar": "https://avatars.githubusercontent.com/u/86558912?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Twelveeee",
+        "avatar": "https://avatars.githubusercontent.com/u/48245733?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/broBinChen",
+        "avatar": "https://avatars.githubusercontent.com/u/139344558?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/try2love",
+        "avatar": "https://avatars.githubusercontent.com/u/161727775?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/DayuanJiang/next-ai-draw-io",
+    "name": "DayuanJiang/next-ai-draw-io",
+    "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.  ",
+    "language": "TypeScript",
+    "stars": "10260",
+    "forks": "1052",
+    "increased": "5461 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/haijieg",
+        "avatar": "https://avatars.githubusercontent.com/u/818855?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/gbonik",
+        "avatar": "https://avatars.githubusercontent.com/u/994786?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/xiaoqiqi177",
+        "avatar": "https://avatars.githubusercontent.com/u/8789013?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/camille-004",
+        "avatar": "https://avatars.githubusercontent.com/u/20608160?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/nvangelak",
+        "avatar": "https://avatars.githubusercontent.com/u/107583177?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/NVIDIA/cutile-python",
+    "name": "NVIDIA/cutile-python",
+    "description": "cuTile is a programming model for writing parallel kernels for NVIDIA GPUs  ",
+    "language": "Python",
+    "stars": "1489",
+    "forks": "75",
+    "increased": "869 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/angiejones",
+        "avatar": "https://avatars.githubusercontent.com/u/15972783?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/blackgirlbytes",
+        "avatar": "https://avatars.githubusercontent.com/u/22990146?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dianed-square",
+        "avatar": "https://avatars.githubusercontent.com/u/73617011?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/EbonyLouis",
+        "avatar": "https://avatars.githubusercontent.com/u/55366651?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/michaelneale",
+        "avatar": "https://avatars.githubusercontent.com/u/14976?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/block/goose",
+    "name": "block/goose",
+    "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM  ",
+    "language": "Rust",
+    "stars": "24349",
+    "forks": "2166",
+    "increased": "1616 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/x5a",
+        "avatar": "https://avatars.githubusercontent.com/u/4421754?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/alexalbertt",
+        "avatar": "https://avatars.githubusercontent.com/u/34638987?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/zealoushacker",
+        "avatar": "https://avatars.githubusercontent.com/u/346275?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/zckly",
+        "avatar": "https://avatars.githubusercontent.com/u/11340449?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/anthropics/claude-quickstarts",
+    "name": "anthropics/claude-quickstarts",
+    "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API  ",
+    "language": "Python",
+    "stars": "12209",
+    "forks": "2095",
+    "increased": "1189 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/lyingbug",
+        "avatar": "https://avatars.githubusercontent.com/u/11257935?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/begoniezhao",
+        "avatar": "https://avatars.githubusercontent.com/u/216642699?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Liwx1014",
+        "avatar": "https://avatars.githubusercontent.com/u/186271593?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/NannaOlympicBroadcast",
+        "avatar": "https://avatars.githubusercontent.com/u/111996670?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/comqx",
+        "avatar": "https://avatars.githubusercontent.com/u/30148386?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Tencent/WeKnora",
+    "name": "Tencent/WeKnora",
+    "description": "LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.  ",
+    "language": "Go",
+    "stars": "8755",
+    "forks": "953",
+    "increased": "896 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/jjyaoao",
+        "avatar": "https://avatars.githubusercontent.com/u/88936287?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/HeteroCat",
+        "avatar": "https://avatars.githubusercontent.com/u/111065724?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Tasselszcx",
+        "avatar": "https://avatars.githubusercontent.com/u/93756983?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Tsumugii24",
+        "avatar": "https://avatars.githubusercontent.com/u/124921491?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/fengju0213",
+        "avatar": "https://avatars.githubusercontent.com/u/168447269?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/datawhalechina/hello-agents",
+    "name": "datawhalechina/hello-agents",
+    "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程  ",
+    "language": "Python",
+    "stars": "9068",
+    "forks": "966",
+    "increased": "3163 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/srbhr",
+        "avatar": "https://avatars.githubusercontent.com/u/54472864?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rrvrs",
+        "avatar": "https://avatars.githubusercontent.com/u/47035684?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/elliotclee",
+        "avatar": "https://avatars.githubusercontent.com/u/39544852?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/SubramanyamChalla24",
+        "avatar": "https://avatars.githubusercontent.com/u/46422196?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/srbhr/Resume-Matcher",
+    "name": "srbhr/Resume-Matcher",
+    "description": "Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions.  ",
+    "language": "Python",
+    "stars": "24905",
+    "forks": "4559",
+    "increased": "849 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/penberg",
+        "avatar": "https://avatars.githubusercontent.com/u/81939?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jussisaurio",
+        "avatar": "https://avatars.githubusercontent.com/u/22619982?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/PThorpe92",
+        "avatar": "https://avatars.githubusercontent.com/u/121899304?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pereman2",
+        "avatar": "https://avatars.githubusercontent.com/u/30913090?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sivukhin",
+        "avatar": "https://avatars.githubusercontent.com/u/1395040?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/tursodatabase/turso",
+    "name": "tursodatabase/turso",
+    "description": "Turso is an in-process SQL database, compatible with SQLite.  ",
+    "language": "Rust",
+    "stars": "15496",
+    "forks": "634",
+    "increased": "498 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/houseme",
+        "avatar": "https://avatars.githubusercontent.com/u/4829346?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/weisd",
+        "avatar": "https://avatars.githubusercontent.com/u/2057561?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/overtrue",
+        "avatar": "https://avatars.githubusercontent.com/u/1472352?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/guojidan",
+        "avatar": "https://avatars.githubusercontent.com/u/63799833?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/loverustfs",
+        "avatar": "https://avatars.githubusercontent.com/u/155562731?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/rustfs/rustfs",
+    "name": "rustfs/rustfs",
+    "description": "🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.  ",
+    "language": "Rust",
+    "stars": "17100",
+    "forks": "744",
+    "increased": "1734 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/lfnovo",
+        "avatar": "https://avatars.githubusercontent.com/u/579178?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/troykelly",
+        "avatar": "https://avatars.githubusercontent.com/u/4564803?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pchuri",
+        "avatar": "https://avatars.githubusercontent.com/u/11848484?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/lfnovo/open-notebook",
+    "name": "lfnovo/open-notebook",
+    "description": "An Open Source implementation of Notebook LM with more flexibility and features  ",
+    "language": "TypeScript",
+    "stars": "14841",
+    "forks": "1495",
+    "increased": "2377 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/jlooper",
+        "avatar": "https://avatars.githubusercontent.com/u/1450004?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/leestott",
+        "avatar": "https://avatars.githubusercontent.com/u/2511341?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/hereje",
+        "avatar": "https://avatars.githubusercontent.com/u/3022824?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Vidushi-Gupta",
+        "avatar": "https://avatars.githubusercontent.com/u/55969597?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/softchris",
+        "avatar": "https://avatars.githubusercontent.com/u/4598064?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/microsoft/ML-For-Beginners",
+    "name": "microsoft/ML-For-Beginners",
+    "description": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all  ",
+    "language": "Jupyter Notebook",
+    "stars": "81896",
+    "forks": "19213",
+    "increased": "1652 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/pgrayy",
+        "avatar": "https://avatars.githubusercontent.com/u/204914194?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/zastrowm",
+        "avatar": "https://avatars.githubusercontent.com/u/3211021?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Unshure",
+        "avatar": "https://avatars.githubusercontent.com/u/9397007?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dbschmigelski",
+        "avatar": "https://avatars.githubusercontent.com/u/209921112?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/poshinchen",
+        "avatar": "https://avatars.githubusercontent.com/u/210082834?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/strands-agents/sdk-python",
+    "name": "strands-agents/sdk-python",
+    "description": "A model-driven approach to building AI agents in just a few lines of code.  ",
+    "language": "Python",
+    "stars": "4495",
+    "forks": "542",
+    "increased": "276 stars this week"
+  }
+]
