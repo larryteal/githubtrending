@@ -1,0 +1,442 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/waleedlatif1",
+        "avatar": "https://avatars.githubusercontent.com/u/40672544?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/emir-karabeg",
+        "avatar": "https://avatars.githubusercontent.com/u/78010029?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/icecrasher321",
+        "avatar": "https://avatars.githubusercontent.com/u/17950982?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Sg312",
+        "avatar": "https://avatars.githubusercontent.com/u/33737564?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/aadamgough",
+        "avatar": "https://avatars.githubusercontent.com/u/77861281?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/simstudioai/sim",
+    "name": "simstudioai/sim",
+    "description": "Open-source platform to build and deploy AI agent workflows.  ",
+    "language": "TypeScript",
+    "stars": "21757",
+    "forks": "2753",
+    "increased": "1451 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/wenyisir",
+        "avatar": "https://avatars.githubusercontent.com/u/65152684?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ZJU-LLMs",
+        "avatar": "https://avatars.githubusercontent.com/u/168156256?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/LJHzju",
+        "avatar": "https://avatars.githubusercontent.com/u/54147892?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/A11en0",
+        "avatar": "https://avatars.githubusercontent.com/u/33925232?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bigbigwatermalon",
+        "avatar": "https://avatars.githubusercontent.com/u/45568047?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/ZJU-LLMs/Foundations-of-LLMs",
+    "name": "ZJU-LLMs/Foundations-of-LLMs",
+    "description": "A book for Learning the Foundations of LLMs  ",
+    "stars": "14095",
+    "forks": "1304",
+    "increased": "475 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/tru",
+        "avatar": "https://avatars.githubusercontent.com/u/35614?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pcalves",
+        "avatar": "https://avatars.githubusercontent.com/u/919534?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/iwalton3",
+        "avatar": "https://avatars.githubusercontent.com/u/8078788?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/markus101",
+        "avatar": "https://avatars.githubusercontent.com/u/413544?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/andrewrabert",
+        "avatar": "https://avatars.githubusercontent.com/u/6550543?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/jellyfin/jellyfin-desktop",
+    "name": "jellyfin/jellyfin-desktop",
+    "description": "Jellyfin Desktop Client  ",
+    "language": "C++",
+    "stars": "4535",
+    "forks": "435",
+    "increased": "36 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/shadcn",
+        "avatar": "https://avatars.githubusercontent.com/u/124599?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/iaingymware",
+        "avatar": "https://avatars.githubusercontent.com/u/74924033?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Jacksonmills",
+        "avatar": "https://avatars.githubusercontent.com/u/19780885?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/shadcn-ui/ui",
+    "name": "shadcn-ui/ui",
+    "description": "A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.  ",
+    "language": "TypeScript",
+    "stars": "102668",
+    "forks": "7459",
+    "increased": "374 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ataibarkai",
+        "avatar": "https://avatars.githubusercontent.com/u/746397?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mme",
+        "avatar": "https://avatars.githubusercontent.com/u/247775?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/arielweinberger",
+        "avatar": "https://avatars.githubusercontent.com/u/4976416?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ranst91",
+        "avatar": "https://avatars.githubusercontent.com/u/11162004?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/CopilotKit/CopilotKit",
+    "name": "CopilotKit/CopilotKit",
+    "description": "React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic Frontend 🪁  ",
+    "language": "TypeScript",
+    "stars": "26754",
+    "forks": "3481",
+    "increased": "130 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/jp9000",
+        "avatar": "https://avatars.githubusercontent.com/u/2084112?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jpark37",
+        "avatar": "https://avatars.githubusercontent.com/u/10396506?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/derrod",
+        "avatar": "https://avatars.githubusercontent.com/u/3123295?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/PatTheMav",
+        "avatar": "https://avatars.githubusercontent.com/u/9436503?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/RytoEX",
+        "avatar": "https://avatars.githubusercontent.com/u/624931?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/obsproject/obs-studio",
+    "name": "obsproject/obs-studio",
+    "description": "OBS Studio - Free and open source software for live streaming and screen recording  ",
+    "language": "C",
+    "stars": "68903",
+    "forks": "8886",
+    "increased": "43 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Morganamilo",
+        "avatar": "https://avatars.githubusercontent.com/u/16593899?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/keysym",
+        "avatar": "https://avatars.githubusercontent.com/u/27740271?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/NextAlone",
+        "avatar": "https://avatars.githubusercontent.com/u/12210746?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/summoner001",
+        "avatar": "https://avatars.githubusercontent.com/u/11212632?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/flipflop97",
+        "avatar": "https://avatars.githubusercontent.com/u/13943260?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Morganamilo/paru",
+    "name": "Morganamilo/paru",
+    "description": "Feature packed AUR helper  ",
+    "language": "Rust",
+    "stars": "7902",
+    "forks": "292",
+    "increased": "91 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Zongwei9888",
+        "avatar": "https://avatars.githubusercontent.com/u/145887958?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/LarFii",
+        "avatar": "https://avatars.githubusercontent.com/u/49157727?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/LZH-YS1998",
+        "avatar": "https://avatars.githubusercontent.com/u/90381931?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/chaohuang-ai",
+        "avatar": "https://avatars.githubusercontent.com/u/204865953?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/HKUDS/DeepCode",
+    "name": "HKUDS/DeepCode",
+    "description": "\"DeepCode: Open Agentic Coding (Paper2Code &amp; Text2Web &amp; Text2Backend)\"  ",
+    "language": "Python",
+    "stars": "12385",
+    "forks": "1654",
+    "increased": "251 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Raphire",
+        "avatar": "https://avatars.githubusercontent.com/u/9938813?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tsumi",
+        "avatar": "https://avatars.githubusercontent.com/u/1663025?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/SashankBhamidi",
+        "avatar": "https://avatars.githubusercontent.com/u/66299104?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/N0tHorizon",
+        "avatar": "https://avatars.githubusercontent.com/u/100943586?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kapad",
+        "avatar": "https://avatars.githubusercontent.com/u/2017355?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Raphire/Win11Debloat",
+    "name": "Raphire/Win11Debloat",
+    "description": "A simple, lightweight PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.  ",
+    "language": "PowerShell",
+    "stars": "35386",
+    "forks": "1380",
+    "increased": "200 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/bolinfest",
+        "avatar": "https://avatars.githubusercontent.com/u/655869?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/aibrahim-oai",
+        "avatar": "https://avatars.githubusercontent.com/u/219906144?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pakrym-oai",
+        "avatar": "https://avatars.githubusercontent.com/u/204937752?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/nornagon-openai",
+        "avatar": "https://avatars.githubusercontent.com/u/172423086?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jif-oai",
+        "avatar": "https://avatars.githubusercontent.com/u/230027070?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/openai/codex",
+    "name": "openai/codex",
+    "description": "Lightweight coding agent that runs in your terminal  ",
+    "language": "Rust",
+    "stars": "53820",
+    "forks": "6805",
+    "increased": "1187 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/virattt",
+        "avatar": "https://avatars.githubusercontent.com/u/901795?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/arsaboo",
+        "avatar": "https://avatars.githubusercontent.com/u/18319734?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/KittatamSaisaard",
+        "avatar": "https://avatars.githubusercontent.com/u/50354903?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jsemldonado",
+        "avatar": "https://avatars.githubusercontent.com/u/172995042?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ak4631",
+        "avatar": "https://avatars.githubusercontent.com/u/132299371?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/virattt/ai-hedge-fund",
+    "name": "virattt/ai-hedge-fund",
+    "description": "An AI Hedge Fund Team  ",
+    "language": "Python",
+    "stars": "42925",
+    "forks": "7636",
+    "increased": "184 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/theOehrly",
+        "avatar": "https://avatars.githubusercontent.com/u/23384863?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Ax6",
+        "avatar": "https://avatars.githubusercontent.com/u/6977926?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Casper-Guo",
+        "avatar": "https://avatars.githubusercontent.com/u/89810860?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/oscr",
+        "avatar": "https://avatars.githubusercontent.com/u/1570691?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pesaventofilippo",
+        "avatar": "https://avatars.githubusercontent.com/u/32228386?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/theOehrly/Fast-F1",
+    "name": "theOehrly/Fast-F1",
+    "description": "FastF1 is a python package for accessing and analyzing Formula 1 results, schedules, timing data and telemetry  ",
+    "language": "Python",
+    "stars": "4029",
+    "forks": "378",
+    "increased": "19 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/C4illin",
+        "avatar": "https://avatars.githubusercontent.com/u/20753603?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Laertes87",
+        "avatar": "https://avatars.githubusercontent.com/u/132786928?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/fasonju",
+        "avatar": "https://avatars.githubusercontent.com/u/95495174?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/C4illin/ConvertX",
+    "name": "C4illin/ConvertX",
+    "description": "💾 Self-hosted online file converter. Supports 1000+ formats ⚙️  ",
+    "language": "TypeScript",
+    "stars": "10757",
+    "forks": "546",
+    "increased": "85 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Tpuljak",
+        "avatar": "https://avatars.githubusercontent.com/u/26512078?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/idagelic",
+        "avatar": "https://avatars.githubusercontent.com/u/25279767?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/lbrecic",
+        "avatar": "https://avatars.githubusercontent.com/u/116551028?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/fabjanvucina",
+        "avatar": "https://avatars.githubusercontent.com/u/65237084?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/MDzaja",
+        "avatar": "https://avatars.githubusercontent.com/u/59669062?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/daytonaio/daytona",
+    "name": "daytonaio/daytona",
+    "description": "Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code  ",
+    "language": "TypeScript",
+    "stars": "37520",
+    "forks": "2797",
+    "increased": "341 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/matheusfelipeog",
+        "avatar": "https://avatars.githubusercontent.com/u/50463866?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/davemachado",
+        "avatar": "https://avatars.githubusercontent.com/u/15134885?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pawelborkar",
+        "avatar": "https://avatars.githubusercontent.com/u/36134699?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jbrooksuk",
+        "avatar": "https://avatars.githubusercontent.com/u/246103?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/marekdano",
+        "avatar": "https://avatars.githubusercontent.com/u/1914165?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/public-apis/public-apis",
+    "name": "public-apis/public-apis",
+    "description": "A collective list of free APIs  ",
+    "language": "Python",
+    "stars": "384750",
+    "forks": "41061",
+    "increased": "321 stars today"
+  }
+]
