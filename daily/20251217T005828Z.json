@@ -1,0 +1,379 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/waleedlatif1",
+        "avatar": "https://avatars.githubusercontent.com/u/40672544?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/emir-karabeg",
+        "avatar": "https://avatars.githubusercontent.com/u/78010029?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/icecrasher321",
+        "avatar": "https://avatars.githubusercontent.com/u/17950982?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Sg312",
+        "avatar": "https://avatars.githubusercontent.com/u/33737564?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/aadamgough",
+        "avatar": "https://avatars.githubusercontent.com/u/77861281?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/simstudioai/sim",
+    "name": "simstudioai/sim",
+    "description": "Open-source platform to build and deploy AI agent workflows.  ",
+    "language": "TypeScript",
+    "stars": "22898",
+    "forks": "2864",
+    "increased": "1357 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/wenyisir",
+        "avatar": "https://avatars.githubusercontent.com/u/65152684?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ZJU-LLMs",
+        "avatar": "https://avatars.githubusercontent.com/u/168156256?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/LJHzju",
+        "avatar": "https://avatars.githubusercontent.com/u/54147892?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/A11en0",
+        "avatar": "https://avatars.githubusercontent.com/u/33925232?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bigbigwatermalon",
+        "avatar": "https://avatars.githubusercontent.com/u/45568047?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/ZJU-LLMs/Foundations-of-LLMs",
+    "name": "ZJU-LLMs/Foundations-of-LLMs",
+    "description": "A book for Learning the Foundations of LLMs  ",
+    "stars": "14427",
+    "forks": "1325",
+    "increased": "349 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/virattt",
+        "avatar": "https://avatars.githubusercontent.com/u/901795?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/arsaboo",
+        "avatar": "https://avatars.githubusercontent.com/u/18319734?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/KittatamSaisaard",
+        "avatar": "https://avatars.githubusercontent.com/u/50354903?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jsemldonado",
+        "avatar": "https://avatars.githubusercontent.com/u/172995042?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ak4631",
+        "avatar": "https://avatars.githubusercontent.com/u/132299371?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/virattt/ai-hedge-fund",
+    "name": "virattt/ai-hedge-fund",
+    "description": "An AI Hedge Fund Team  ",
+    "language": "Python",
+    "stars": "43119",
+    "forks": "7657",
+    "increased": "167 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/thedotmack",
+        "avatar": "https://avatars.githubusercontent.com/u/683968?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dreamiurg",
+        "avatar": "https://avatars.githubusercontent.com/u/369468?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/thedotmack/claude-mem",
+    "name": "thedotmack/claude-mem",
+    "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.  ",
+    "language": "TypeScript",
+    "stars": "7410",
+    "forks": "436",
+    "increased": "632 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Morganamilo",
+        "avatar": "https://avatars.githubusercontent.com/u/16593899?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/keysym",
+        "avatar": "https://avatars.githubusercontent.com/u/27740271?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/NextAlone",
+        "avatar": "https://avatars.githubusercontent.com/u/12210746?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/summoner001",
+        "avatar": "https://avatars.githubusercontent.com/u/11212632?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/flipflop97",
+        "avatar": "https://avatars.githubusercontent.com/u/13943260?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Morganamilo/paru",
+    "name": "Morganamilo/paru",
+    "description": "Feature packed AUR helper  ",
+    "language": "Rust",
+    "stars": "7959",
+    "forks": "295",
+    "increased": "83 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/tru",
+        "avatar": "https://avatars.githubusercontent.com/u/35614?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pcalves",
+        "avatar": "https://avatars.githubusercontent.com/u/919534?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/iwalton3",
+        "avatar": "https://avatars.githubusercontent.com/u/8078788?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/markus101",
+        "avatar": "https://avatars.githubusercontent.com/u/413544?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/andrewrabert",
+        "avatar": "https://avatars.githubusercontent.com/u/6550543?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/jellyfin/jellyfin-desktop",
+    "name": "jellyfin/jellyfin-desktop",
+    "description": "Jellyfin Desktop Client  ",
+    "language": "C++",
+    "stars": "4727",
+    "forks": "442",
+    "increased": "173 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/nicotsx",
+        "avatar": "https://avatars.githubusercontent.com/u/47644445?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tvarohohlavy",
+        "avatar": "https://avatars.githubusercontent.com/u/24362289?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/altendorfme",
+        "avatar": "https://avatars.githubusercontent.com/u/1530032?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/steveiliop56",
+        "avatar": "https://avatars.githubusercontent.com/u/106091011?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/fjordnode",
+        "avatar": "https://avatars.githubusercontent.com/u/108862898?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/nicotsx/zerobyte",
+    "name": "nicotsx/zerobyte",
+    "description": "Backup automation for self-hosters  ",
+    "language": "TypeScript",
+    "stars": "2788",
+    "forks": "53",
+    "increased": "402 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/eudoxia0",
+        "avatar": "https://avatars.githubusercontent.com/u/1612511?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cmf",
+        "avatar": "https://avatars.githubusercontent.com/u/173181?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/eudoxia0/hashcards",
+    "name": "eudoxia0/hashcards",
+    "description": "A plain text-based spaced repetition system.  ",
+    "language": "Rust",
+    "stars": "692",
+    "forks": "31",
+    "increased": "92 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/bolinfest",
+        "avatar": "https://avatars.githubusercontent.com/u/655869?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/aibrahim-oai",
+        "avatar": "https://avatars.githubusercontent.com/u/219906144?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pakrym-oai",
+        "avatar": "https://avatars.githubusercontent.com/u/204937752?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jif-oai",
+        "avatar": "https://avatars.githubusercontent.com/u/230027070?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/nornagon-openai",
+        "avatar": "https://avatars.githubusercontent.com/u/172423086?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/openai/codex",
+    "name": "openai/codex",
+    "description": "Lightweight coding agent that runs in your terminal   ",
+    "language": "Rust",
+    "stars": "54066",
+    "forks": "6834",
+    "increased": "268 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/C4illin",
+        "avatar": "https://avatars.githubusercontent.com/u/20753603?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Laertes87",
+        "avatar": "https://avatars.githubusercontent.com/u/132786928?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/fasonju",
+        "avatar": "https://avatars.githubusercontent.com/u/95495174?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/C4illin/ConvertX",
+    "name": "C4illin/ConvertX",
+    "description": "💾 Self-hosted online file converter. Supports 1000+ formats ⚙️  ",
+    "language": "TypeScript",
+    "stars": "11406",
+    "forks": "572",
+    "increased": "628 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Josh-Cena",
+        "avatar": "https://avatars.githubusercontent.com/u/55398995?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/teoli2003",
+        "avatar": "https://avatars.githubusercontent.com/u/1466293?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/hamishwillee",
+        "avatar": "https://avatars.githubusercontent.com/u/5368500?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/estelle",
+        "avatar": "https://avatars.githubusercontent.com/u/69888?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/wbamberg",
+        "avatar": "https://avatars.githubusercontent.com/u/432915?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/mdn/content",
+    "name": "mdn/content",
+    "description": "The official source for MDN Web Docs content. Home to over 14,000 pages of documentation about HTML, CSS, JS, HTTP, Web APIs, and more.  ",
+    "language": "Markdown",
+    "stars": "10264",
+    "forks": "23001",
+    "increased": "18 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Raphire",
+        "avatar": "https://avatars.githubusercontent.com/u/9938813?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tsumi",
+        "avatar": "https://avatars.githubusercontent.com/u/1663025?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/SashankBhamidi",
+        "avatar": "https://avatars.githubusercontent.com/u/66299104?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/N0tHorizon",
+        "avatar": "https://avatars.githubusercontent.com/u/100943586?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kapad",
+        "avatar": "https://avatars.githubusercontent.com/u/2017355?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Raphire/Win11Debloat",
+    "name": "Raphire/Win11Debloat",
+    "description": "A simple, lightweight PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.  ",
+    "language": "PowerShell",
+    "stars": "35743",
+    "forks": "1386",
+    "increased": "337 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/mnh-jansson",
+        "avatar": "https://avatars.githubusercontent.com/u/39061161?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cruwaller",
+        "avatar": "https://avatars.githubusercontent.com/u/24904289?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Topper69",
+        "avatar": "https://avatars.githubusercontent.com/u/39837040?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ropewo",
+        "avatar": "https://avatars.githubusercontent.com/u/45624394?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Slayterik",
+        "avatar": "https://avatars.githubusercontent.com/u/59745613?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/mnh-jansson/open-battery-information",
+    "name": "mnh-jansson/open-battery-information",
+    "language": "C++",
+    "stars": "880",
+    "forks": "153",
+    "increased": "24 stars today"
+  }
+]
