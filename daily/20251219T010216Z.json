@@ -1,0 +1,180 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/actions-user",
+        "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bcherny",
+        "avatar": "https://avatars.githubusercontent.com/u/1761758?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ashwin-ant",
+        "avatar": "https://avatars.githubusercontent.com/u/178951676?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ant-kurt",
+        "avatar": "https://avatars.githubusercontent.com/u/209710463?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/anthropics/claude-code",
+    "name": "anthropics/claude-code",
+    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.  ",
+    "language": "Shell",
+    "stars": "46698",
+    "forks": "3273",
+    "increased": "178 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/virattt",
+        "avatar": "https://avatars.githubusercontent.com/u/901795?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/arsaboo",
+        "avatar": "https://avatars.githubusercontent.com/u/18319734?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/KittatamSaisaard",
+        "avatar": "https://avatars.githubusercontent.com/u/50354903?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jsemldonado",
+        "avatar": "https://avatars.githubusercontent.com/u/172995042?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ak4631",
+        "avatar": "https://avatars.githubusercontent.com/u/132299371?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/virattt/ai-hedge-fund",
+    "name": "virattt/ai-hedge-fund",
+    "description": "An AI Hedge Fund Team  ",
+    "language": "Python",
+    "stars": "43608",
+    "forks": "7720",
+    "increased": "256 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/zanieb",
+        "avatar": "https://avatars.githubusercontent.com/u/2586601?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/MichaReiser",
+        "avatar": "https://avatars.githubusercontent.com/u/1203881?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sharkdp",
+        "avatar": "https://avatars.githubusercontent.com/u/4209276?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/AlexWaygood",
+        "avatar": "https://avatars.githubusercontent.com/u/66076021?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/astral-sh/ty",
+    "name": "astral-sh/ty",
+    "description": "An extremely fast Python type checker and language server, written in Rust.  ",
+    "language": "Python",
+    "stars": "14823",
+    "forks": "152",
+    "increased": "251 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/carenthomas",
+        "avatar": "https://avatars.githubusercontent.com/u/5600960?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mattzh72",
+        "avatar": "https://avatars.githubusercontent.com/u/16374343?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sarahwooders",
+        "avatar": "https://avatars.githubusercontent.com/u/8505980?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cpacker",
+        "avatar": "https://avatars.githubusercontent.com/u/5475622?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kianjones9",
+        "avatar": "https://avatars.githubusercontent.com/u/11655409?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/letta-ai/letta",
+    "name": "letta-ai/letta",
+    "description": "Letta is the platform for building stateful agents: open AI with advanced memory that can learn and self-improve over time.  ",
+    "language": "Python",
+    "stars": "19862",
+    "forks": "2083",
+    "increased": "102 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/schollz",
+        "avatar": "https://avatars.githubusercontent.com/u/6550035?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/TheQueasle",
+        "avatar": "https://avatars.githubusercontent.com/u/13701545?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/stefins",
+        "avatar": "https://avatars.githubusercontent.com/u/28928206?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/blu3berryys",
+        "avatar": "https://avatars.githubusercontent.com/u/193231467?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/schollz/croc",
+    "name": "schollz/croc",
+    "description": "Easily and securely send things from one computer to another 🐊 📦  ",
+    "language": "Go",
+    "stars": "32906",
+    "forks": "1294",
+    "increased": "130 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/fatchord",
+        "avatar": "https://avatars.githubusercontent.com/u/37295764?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/JeremyCCHsu",
+        "avatar": "https://avatars.githubusercontent.com/u/16027371?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/manmay-nakhashi",
+        "avatar": "https://avatars.githubusercontent.com/u/17176700?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ZohaibAhmed",
+        "avatar": "https://avatars.githubusercontent.com/u/660224?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/TediPapajorgji",
+        "avatar": "https://avatars.githubusercontent.com/u/5790075?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/resemble-ai/chatterbox",
+    "name": "resemble-ai/chatterbox",
+    "description": "SoTA open-source TTS  ",
+    "language": "Python",
+    "stars": "16231",
+    "forks": "2223",
+    "increased": "477 stars today"
+  }
+]
