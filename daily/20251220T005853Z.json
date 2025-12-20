@@ -1,0 +1,286 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/jaywcjlove",
+        "avatar": "https://avatars.githubusercontent.com/u/1680273?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/alichtman",
+        "avatar": "https://avatars.githubusercontent.com/u/20600565?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/xcv58",
+        "avatar": "https://avatars.githubusercontent.com/u/503123?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/heldev",
+        "avatar": "https://avatars.githubusercontent.com/u/16080436?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/jaywcjlove/awesome-mac",
+    "name": "jaywcjlove/awesome-mac",
+    "description": " Now we have become very big, Different from the original idea. Collect premium software in various categories.  ",
+    "language": "JavaScript",
+    "stars": "96328",
+    "forks": "7237",
+    "increased": "90 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/actions-user",
+        "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bcherny",
+        "avatar": "https://avatars.githubusercontent.com/u/1761758?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ashwin-ant",
+        "avatar": "https://avatars.githubusercontent.com/u/178951676?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ant-kurt",
+        "avatar": "https://avatars.githubusercontent.com/u/209710463?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/anthropics/claude-code",
+    "name": "anthropics/claude-code",
+    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.  ",
+    "language": "Shell",
+    "stars": "47145",
+    "forks": "3310",
+    "increased": "510 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/bxyu-nvidia",
+        "avatar": "https://avatars.githubusercontent.com/u/218853411?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/fsiino-nvidia",
+        "avatar": "https://avatars.githubusercontent.com/u/230631665?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cwing-nvidia",
+        "avatar": "https://avatars.githubusercontent.com/u/234519562?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/lbliii",
+        "avatar": "https://avatars.githubusercontent.com/u/25370251?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/chtruong814",
+        "avatar": "https://avatars.githubusercontent.com/u/195193376?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/NVIDIA-NeMo/Gym",
+    "name": "NVIDIA-NeMo/Gym",
+    "description": "Build RL environments for LLM training  ",
+    "language": "Python",
+    "stars": "454",
+    "forks": "30",
+    "increased": "27 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/GreyDGL",
+        "avatar": "https://avatars.githubusercontent.com/u/78410652?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/vmayoral",
+        "avatar": "https://avatars.githubusercontent.com/u/1375246?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/RiccardoRobb",
+        "avatar": "https://avatars.githubusercontent.com/u/48962040?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/keysaim",
+        "avatar": "https://avatars.githubusercontent.com/u/1351661?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/GreyDGL/PentestGPT",
+    "name": "GreyDGL/PentestGPT",
+    "description": "A GPT-empowered penetration testing tool  ",
+    "language": "Python",
+    "stars": "9604",
+    "forks": "1405",
+    "increased": "34 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/AlexCheema",
+        "avatar": "https://avatars.githubusercontent.com/u/41707476?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cadenmackenzie",
+        "avatar": "https://avatars.githubusercontent.com/u/14060736?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/blindcrone",
+        "avatar": "https://avatars.githubusercontent.com/u/114382923?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ToxicPine",
+        "avatar": "https://avatars.githubusercontent.com/u/99731180?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Evanev7",
+        "avatar": "https://avatars.githubusercontent.com/u/13599445?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/exo-explore/exo",
+    "name": "exo-explore/exo",
+    "description": "Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚  ",
+    "language": "Python",
+    "stars": "33656",
+    "forks": "2287",
+    "increased": "448 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/swisskyrepo",
+        "avatar": "https://avatars.githubusercontent.com/u/12152583?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/p0dalirius",
+        "avatar": "https://avatars.githubusercontent.com/u/79218792?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/noraj",
+        "avatar": "https://avatars.githubusercontent.com/u/16578570?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cyber-niz",
+        "avatar": "https://avatars.githubusercontent.com/u/25560738?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/swisskyrepo/PayloadsAllTheThings",
+    "name": "swisskyrepo/PayloadsAllTheThings",
+    "description": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF  ",
+    "language": "Python",
+    "stars": "72601",
+    "forks": "16348",
+    "increased": "38 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/DarkSharpness",
+        "avatar": "https://avatars.githubusercontent.com/u/76582120?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/MisakaVan",
+        "avatar": "https://avatars.githubusercontent.com/u/102937903?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/RuixiangMa",
+        "avatar": "https://avatars.githubusercontent.com/u/27672240?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Jazel-Z",
+        "avatar": "https://avatars.githubusercontent.com/u/29043714?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/SiriusNEO",
+        "avatar": "https://avatars.githubusercontent.com/u/41781658?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/sgl-project/mini-sglang",
+    "name": "sgl-project/mini-sglang",
+    "language": "Python",
+    "stars": "1457",
+    "forks": "103",
+    "increased": "504 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/kalenkevich",
+        "avatar": "https://avatars.githubusercontent.com/u/9913893?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cornellgit",
+        "avatar": "https://avatars.githubusercontent.com/u/3640670?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ScottMansfield",
+        "avatar": "https://avatars.githubusercontent.com/u/184105?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/KeijiBranshi",
+        "avatar": "https://avatars.githubusercontent.com/u/10525281?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/copybara-github",
+        "avatar": "https://avatars.githubusercontent.com/u/32201506?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/google/adk-js",
+    "name": "google/adk-js",
+    "description": "An open-source, code-first Typescript toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.  ",
+    "language": "TypeScript",
+    "stars": "397",
+    "forks": "29",
+    "increased": "52 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/afshinea",
+        "avatar": "https://avatars.githubusercontent.com/u/26204670?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/shervinea",
+        "avatar": "https://avatars.githubusercontent.com/u/26189723?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/afshinea/stanford-cs-229-machine-learning",
+    "name": "afshinea/stanford-cs-229-machine-learning",
+    "description": "VIP cheatsheets for Stanford's CS 229 Machine Learning  ",
+    "stars": "19009",
+    "forks": "4139",
+    "increased": "35 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/camsaul",
+        "avatar": "https://avatars.githubusercontent.com/u/1455846?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tlrobinson",
+        "avatar": "https://avatars.githubusercontent.com/u/18193?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/agilliland",
+        "avatar": "https://avatars.githubusercontent.com/u/1987787?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/nemanjaglumac",
+        "avatar": "https://avatars.githubusercontent.com/u/31325167?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kdoh",
+        "avatar": "https://avatars.githubusercontent.com/u/5248953?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/metabase/metabase",
+    "name": "metabase/metabase",
+    "description": "The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data 📊  ",
+    "language": "Clojure",
+    "stars": "45149",
+    "forks": "6096",
+    "increased": "21 stars today"
+  }
+]
