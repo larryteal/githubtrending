@@ -1,0 +1,416 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/waleedlatif1",
+        "avatar": "https://avatars.githubusercontent.com/u/40672544?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/emir-karabeg",
+        "avatar": "https://avatars.githubusercontent.com/u/78010029?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/icecrasher321",
+        "avatar": "https://avatars.githubusercontent.com/u/17950982?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Sg312",
+        "avatar": "https://avatars.githubusercontent.com/u/33737564?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/aadamgough",
+        "avatar": "https://avatars.githubusercontent.com/u/77861281?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/simstudioai/sim",
+    "name": "simstudioai/sim",
+    "description": "Open-source platform to build and deploy AI agent workflows.  ",
+    "language": "TypeScript",
+    "stars": "23809",
+    "forks": "2966",
+    "increased": "4494 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/thedotmack",
+        "avatar": "https://avatars.githubusercontent.com/u/683968?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dreamiurg",
+        "avatar": "https://avatars.githubusercontent.com/u/369468?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/thedotmack/claude-mem",
+    "name": "thedotmack/claude-mem",
+    "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.  ",
+    "language": "TypeScript",
+    "stars": "8405",
+    "forks": "501",
+    "increased": "3312 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/actions-user",
+        "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bcherny",
+        "avatar": "https://avatars.githubusercontent.com/u/1761758?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ashwin-ant",
+        "avatar": "https://avatars.githubusercontent.com/u/178951676?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ant-kurt",
+        "avatar": "https://avatars.githubusercontent.com/u/209710463?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/anthropics/claude-code",
+    "name": "anthropics/claude-code",
+    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.  ",
+    "language": "Shell",
+    "stars": "47430",
+    "forks": "3327",
+    "increased": "1635 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/DayuanJiang",
+        "avatar": "https://avatars.githubusercontent.com/u/34411969?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Biki-dev",
+        "avatar": "https://avatars.githubusercontent.com/u/86558912?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Twelveeee",
+        "avatar": "https://avatars.githubusercontent.com/u/48245733?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/broBinChen",
+        "avatar": "https://avatars.githubusercontent.com/u/139344558?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/DayuanJiang/next-ai-draw-io",
+    "name": "DayuanJiang/next-ai-draw-io",
+    "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.  ",
+    "language": "TypeScript",
+    "stars": "13878",
+    "forks": "1407",
+    "increased": "5255 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/AlexCheema",
+        "avatar": "https://avatars.githubusercontent.com/u/41707476?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cadenmackenzie",
+        "avatar": "https://avatars.githubusercontent.com/u/14060736?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/blindcrone",
+        "avatar": "https://avatars.githubusercontent.com/u/114382923?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ToxicPine",
+        "avatar": "https://avatars.githubusercontent.com/u/99731180?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Evanev7",
+        "avatar": "https://avatars.githubusercontent.com/u/13599445?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/exo-explore/exo",
+    "name": "exo-explore/exo",
+    "description": "Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚  ",
+    "language": "Python",
+    "stars": "34564",
+    "forks": "2338",
+    "increased": "1129 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/lyingbug",
+        "avatar": "https://avatars.githubusercontent.com/u/11257935?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/begoniezhao",
+        "avatar": "https://avatars.githubusercontent.com/u/216642699?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Liwx1014",
+        "avatar": "https://avatars.githubusercontent.com/u/186271593?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/NannaOlympicBroadcast",
+        "avatar": "https://avatars.githubusercontent.com/u/111996670?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/comqx",
+        "avatar": "https://avatars.githubusercontent.com/u/30148386?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Tencent/WeKnora",
+    "name": "Tencent/WeKnora",
+    "description": "LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.  ",
+    "language": "Go",
+    "stars": "9630",
+    "forks": "1044",
+    "increased": "1164 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/penberg",
+        "avatar": "https://avatars.githubusercontent.com/u/81939?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jussisaurio",
+        "avatar": "https://avatars.githubusercontent.com/u/22619982?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/PThorpe92",
+        "avatar": "https://avatars.githubusercontent.com/u/121899304?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sivukhin",
+        "avatar": "https://avatars.githubusercontent.com/u/1395040?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pereman2",
+        "avatar": "https://avatars.githubusercontent.com/u/30913090?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/tursodatabase/turso",
+    "name": "tursodatabase/turso",
+    "description": "Turso is an in-process SQL database, compatible with SQLite.  ",
+    "language": "Rust",
+    "stars": "15861",
+    "forks": "648",
+    "increased": "590 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/jjyaoao",
+        "avatar": "https://avatars.githubusercontent.com/u/88936287?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/HeteroCat",
+        "avatar": "https://avatars.githubusercontent.com/u/111065724?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Tasselszcx",
+        "avatar": "https://avatars.githubusercontent.com/u/93756983?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Tsumugii24",
+        "avatar": "https://avatars.githubusercontent.com/u/124921491?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/fengju0213",
+        "avatar": "https://avatars.githubusercontent.com/u/168447269?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/datawhalechina/hello-agents",
+    "name": "datawhalechina/hello-agents",
+    "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程  ",
+    "language": "Python",
+    "stars": "11255",
+    "forks": "1177",
+    "increased": "2647 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/mrcfps",
+        "avatar": "https://avatars.githubusercontent.com/u/23410977?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pftom",
+        "avatar": "https://avatars.githubusercontent.com/u/26423749?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/CH1111",
+        "avatar": "https://avatars.githubusercontent.com/u/23730556?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/anthhub",
+        "avatar": "https://avatars.githubusercontent.com/u/38548475?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Siri-Ray",
+        "avatar": "https://avatars.githubusercontent.com/u/109605599?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/refly-ai/refly",
+    "name": "refly-ai/refly",
+    "description": "Vibe Workflow Platform for Non-technical Creators.  ",
+    "language": "TypeScript",
+    "stars": "5586",
+    "forks": "521",
+    "increased": "270 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/fatchord",
+        "avatar": "https://avatars.githubusercontent.com/u/37295764?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/JeremyCCHsu",
+        "avatar": "https://avatars.githubusercontent.com/u/16027371?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/manmay-nakhashi",
+        "avatar": "https://avatars.githubusercontent.com/u/17176700?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ZohaibAhmed",
+        "avatar": "https://avatars.githubusercontent.com/u/660224?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/TediPapajorgji",
+        "avatar": "https://avatars.githubusercontent.com/u/5790075?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/resemble-ai/chatterbox",
+    "name": "resemble-ai/chatterbox",
+    "description": "SoTA open-source TTS  ",
+    "language": "Python",
+    "stars": "16510",
+    "forks": "2255",
+    "increased": "1498 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/romainhuet",
+        "avatar": "https://avatars.githubusercontent.com/u/27232?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dkundel-openai",
+        "avatar": "https://avatars.githubusercontent.com/u/200841172?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/digitarald",
+        "avatar": "https://avatars.githubusercontent.com/u/8599?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/andrewgcodes",
+        "avatar": "https://avatars.githubusercontent.com/u/24441720?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/radu-mocanu",
+        "avatar": "https://avatars.githubusercontent.com/u/180162817?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/agentsmd/agents.md",
+    "name": "agentsmd/agents.md",
+    "description": "AGENTS.md — a simple, open format for guiding coding agents  ",
+    "language": "TypeScript",
+    "stars": "12746",
+    "forks": "919",
+    "increased": "1682 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ataibarkai",
+        "avatar": "https://avatars.githubusercontent.com/u/746397?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mme",
+        "avatar": "https://avatars.githubusercontent.com/u/247775?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/arielweinberger",
+        "avatar": "https://avatars.githubusercontent.com/u/4976416?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ranst91",
+        "avatar": "https://avatars.githubusercontent.com/u/11162004?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/CopilotKit/CopilotKit",
+    "name": "CopilotKit/CopilotKit",
+    "description": "React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic Frontend 🪁  ",
+    "language": "TypeScript",
+    "stars": "27143",
+    "forks": "3522",
+    "increased": "1503 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/OrKoN",
+        "avatar": "https://avatars.githubusercontent.com/u/399150?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Lightning00Blade",
+        "avatar": "https://avatars.githubusercontent.com/u/34244704?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/browser-automation-bot",
+        "avatar": "https://avatars.githubusercontent.com/u/133232582?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sebastianbenz",
+        "avatar": "https://avatars.githubusercontent.com/u/380472?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+    "name": "ChromeDevTools/chrome-devtools-mcp",
+    "description": "Chrome DevTools for coding agents  ",
+    "language": "TypeScript",
+    "stars": "17402",
+    "forks": "1069",
+    "increased": "903 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Loyalsoldier",
+        "avatar": "https://avatars.githubusercontent.com/u/10487845?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/EpLiar",
+        "avatar": "https://avatars.githubusercontent.com/u/23559565?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rootmelo92118",
+        "avatar": "https://avatars.githubusercontent.com/u/32770959?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Robot-DaneelOlivaw",
+        "avatar": "https://avatars.githubusercontent.com/u/19835896?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/IceCodeNew",
+        "avatar": "https://avatars.githubusercontent.com/u/32576256?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/v2fly/domain-list-community",
+    "name": "v2fly/domain-list-community",
+    "description": "Community managed domain list. Generate geosite.dat for V2Ray.  ",
+    "language": "Go",
+    "stars": "7004",
+    "forks": "1160",
+    "increased": "73 stars this week"
+  }
+]
