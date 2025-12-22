@@ -1,0 +1,270 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/AlexCheema",
+        "avatar": "https://avatars.githubusercontent.com/u/41707476?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cadenmackenzie",
+        "avatar": "https://avatars.githubusercontent.com/u/14060736?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/blindcrone",
+        "avatar": "https://avatars.githubusercontent.com/u/114382923?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ToxicPine",
+        "avatar": "https://avatars.githubusercontent.com/u/99731180?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Evanev7",
+        "avatar": "https://avatars.githubusercontent.com/u/13599445?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/exo-explore/exo",
+    "name": "exo-explore/exo",
+    "description": "Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚  ",
+    "language": "Python",
+    "stars": "35651",
+    "forks": "2391",
+    "increased": "1150 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/GreyDGL",
+        "avatar": "https://avatars.githubusercontent.com/u/78410652?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/vmayoral",
+        "avatar": "https://avatars.githubusercontent.com/u/1375246?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/RiccardoRobb",
+        "avatar": "https://avatars.githubusercontent.com/u/48962040?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/keysaim",
+        "avatar": "https://avatars.githubusercontent.com/u/1351661?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/GreyDGL/PentestGPT",
+    "name": "GreyDGL/PentestGPT",
+    "description": "A GPT-empowered penetration testing tool  ",
+    "language": "Python",
+    "stars": "10035",
+    "forks": "1489",
+    "increased": "190 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/swisskyrepo",
+        "avatar": "https://avatars.githubusercontent.com/u/12152583?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/p0dalirius",
+        "avatar": "https://avatars.githubusercontent.com/u/79218792?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/noraj",
+        "avatar": "https://avatars.githubusercontent.com/u/16578570?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cyber-niz",
+        "avatar": "https://avatars.githubusercontent.com/u/25560738?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/swisskyrepo/PayloadsAllTheThings",
+    "name": "swisskyrepo/PayloadsAllTheThings",
+    "description": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF  ",
+    "language": "Python",
+    "stars": "73088",
+    "forks": "16377",
+    "increased": "235 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/DarkSharpness",
+        "avatar": "https://avatars.githubusercontent.com/u/76582120?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/MisakaVan",
+        "avatar": "https://avatars.githubusercontent.com/u/102937903?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/felixgao",
+        "avatar": "https://avatars.githubusercontent.com/u/1153820?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/RuixiangMa",
+        "avatar": "https://avatars.githubusercontent.com/u/27672240?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/louiswang524",
+        "avatar": "https://avatars.githubusercontent.com/u/28300264?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/sgl-project/mini-sglang",
+    "name": "sgl-project/mini-sglang",
+    "language": "Python",
+    "stars": "1910",
+    "forks": "155",
+    "increased": "202 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/pierre-rouanet",
+        "avatar": "https://avatars.githubusercontent.com/u/4290742?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/apirrone",
+        "avatar": "https://avatars.githubusercontent.com/u/6552564?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/FabienDanieau",
+        "avatar": "https://avatars.githubusercontent.com/u/1244753?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/RemiFabre",
+        "avatar": "https://avatars.githubusercontent.com/u/9042540?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/askuric",
+        "avatar": "https://avatars.githubusercontent.com/u/36178713?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/pollen-robotics/reachy_mini",
+    "name": "pollen-robotics/reachy_mini",
+    "description": "Reachy Mini's SDK  ",
+    "language": "Python",
+    "stars": "494",
+    "forks": "72",
+    "increased": "17 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/badmonster0",
+        "avatar": "https://avatars.githubusercontent.com/u/1772842?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/georgeh0",
+        "avatar": "https://avatars.githubusercontent.com/u/657722?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/lemorage",
+        "avatar": "https://avatars.githubusercontent.com/u/88943827?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cocoindex-dev",
+        "avatar": "https://avatars.githubusercontent.com/u/190809840?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/par4m",
+        "avatar": "https://avatars.githubusercontent.com/u/68808783?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/cocoindex-io/cocoindex",
+    "name": "cocoindex-io/cocoindex",
+    "description": "Data transformation framework for AI. Ultra performant, with incremental pr ocessing. 🌟 Star if you like it!  ",
+    "language": "Rust",
+    "stars": "4418",
+    "forks": "354",
+    "increased": "187 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/karentamrazyan",
+        "avatar": "https://avatars.githubusercontent.com/u/123498?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/CloudStudyNet",
+        "avatar": "https://avatars.githubusercontent.com/u/148721954?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/diogomurta",
+        "avatar": "https://avatars.githubusercontent.com/u/44232737?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sykezz",
+        "avatar": "https://avatars.githubusercontent.com/u/6332979?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/oldphones68",
+        "avatar": "https://avatars.githubusercontent.com/u/51379704?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/cloudcommunity/Free-Certifications",
+    "name": "cloudcommunity/Free-Certifications",
+    "description": "A curated list of free courses with certifications. Also available at  https://free-certifications.com/    ",
+    "stars": "47619",
+    "forks": "3189",
+    "increased": "436 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/actions-user",
+        "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bcherny",
+        "avatar": "https://avatars.githubusercontent.com/u/1761758?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ashwin-ant",
+        "avatar": "https://avatars.githubusercontent.com/u/178951676?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ant-kurt",
+        "avatar": "https://avatars.githubusercontent.com/u/209710463?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/anthropics/claude-code",
+    "name": "anthropics/claude-code",
+    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.  ",
+    "language": "Shell",
+    "stars": "47708",
+    "forks": "3339",
+    "increased": "293 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/trimstray",
+        "avatar": "https://avatars.githubusercontent.com/u/31127917?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/lbonanomi",
+        "avatar": "https://avatars.githubusercontent.com/u/5369016?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/loweryaustin",
+        "avatar": "https://avatars.githubusercontent.com/u/2003860?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/fabidick22",
+        "avatar": "https://avatars.githubusercontent.com/u/8176821?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/naeluh",
+        "avatar": "https://avatars.githubusercontent.com/u/477860?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/trimstray/the-book-of-secret-knowledge",
+    "name": "trimstray/the-book-of-secret-knowledge",
+    "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.  ",
+    "stars": "199116",
+    "forks": "12131",
+    "increased": "170 stars today"
+  }
+]
