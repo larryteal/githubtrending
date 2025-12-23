@@ -1,0 +1,476 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/AlexCheema",
+        "avatar": "https://avatars.githubusercontent.com/u/41707476?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cadenmackenzie",
+        "avatar": "https://avatars.githubusercontent.com/u/14060736?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/blindcrone",
+        "avatar": "https://avatars.githubusercontent.com/u/114382923?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ToxicPine",
+        "avatar": "https://avatars.githubusercontent.com/u/99731180?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Evanev7",
+        "avatar": "https://avatars.githubusercontent.com/u/13599445?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/exo-explore/exo",
+    "name": "exo-explore/exo",
+    "description": "Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚  ",
+    "language": "Python",
+    "stars": "37027",
+    "forks": "2482",
+    "increased": "1320 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/freearhey",
+        "avatar": "https://avatars.githubusercontent.com/u/7253922?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/BellezaEmporium",
+        "avatar": "https://avatars.githubusercontent.com/u/30985701?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Dum4G",
+        "avatar": "https://avatars.githubusercontent.com/u/5430116?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/UltraHDR",
+        "avatar": "https://avatars.githubusercontent.com/u/108294295?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/iptv-org/iptv",
+    "name": "iptv-org/iptv",
+    "description": "Collection of publicly available IPTV channels from all over the world  ",
+    "language": "TypeScript",
+    "stars": "106444",
+    "forks": "4930",
+    "increased": "248 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/swisskyrepo",
+        "avatar": "https://avatars.githubusercontent.com/u/12152583?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/p0dalirius",
+        "avatar": "https://avatars.githubusercontent.com/u/79218792?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/noraj",
+        "avatar": "https://avatars.githubusercontent.com/u/16578570?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cyber-niz",
+        "avatar": "https://avatars.githubusercontent.com/u/25560738?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/swisskyrepo/PayloadsAllTheThings",
+    "name": "swisskyrepo/PayloadsAllTheThings",
+    "description": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF  ",
+    "language": "Python",
+    "stars": "73375",
+    "forks": "16395",
+    "increased": "335 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/GreyDGL",
+        "avatar": "https://avatars.githubusercontent.com/u/78410652?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/vmayoral",
+        "avatar": "https://avatars.githubusercontent.com/u/1375246?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/RiccardoRobb",
+        "avatar": "https://avatars.githubusercontent.com/u/48962040?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/keysaim",
+        "avatar": "https://avatars.githubusercontent.com/u/1351661?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/GreyDGL/PentestGPT",
+    "name": "GreyDGL/PentestGPT",
+    "description": "A GPT-empowered penetration testing tool  ",
+    "language": "Python",
+    "stars": "10335",
+    "forks": "1543",
+    "increased": "327 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/klazuka",
+        "avatar": "https://avatars.githubusercontent.com/u/84525?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/maheshmurag",
+        "avatar": "https://avatars.githubusercontent.com/u/5667029?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mattpic-ant",
+        "avatar": "https://avatars.githubusercontent.com/u/227474486?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/camaris",
+        "avatar": "https://avatars.githubusercontent.com/u/1184736?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/anthropics/skills",
+    "name": "anthropics/skills",
+    "description": "Public repository for Agent Skills  ",
+    "language": "Python",
+    "stars": "25000",
+    "forks": "2338",
+    "increased": "928 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/badmonster0",
+        "avatar": "https://avatars.githubusercontent.com/u/1772842?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/georgeh0",
+        "avatar": "https://avatars.githubusercontent.com/u/657722?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/lemorage",
+        "avatar": "https://avatars.githubusercontent.com/u/88943827?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cocoindex-dev",
+        "avatar": "https://avatars.githubusercontent.com/u/190809840?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/par4m",
+        "avatar": "https://avatars.githubusercontent.com/u/68808783?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/cocoindex-io/cocoindex",
+    "name": "cocoindex-io/cocoindex",
+    "description": "Data transformation framework for AI. Ultra performant, with incremental processing. 🌟 Star if you like it!  ",
+    "language": "Rust",
+    "stars": "4776",
+    "forks": "367",
+    "increased": "407 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/danielmiessler",
+        "avatar": "https://avatars.githubusercontent.com/u/50654?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ksylvan",
+        "avatar": "https://avatars.githubusercontent.com/u/1226059?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/eugeis",
+        "avatar": "https://avatars.githubusercontent.com/u/609363?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/xssdoctor",
+        "avatar": "https://avatars.githubusercontent.com/u/9218431?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/danielmiessler/Fabric",
+    "name": "danielmiessler/Fabric",
+    "description": "Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.  ",
+    "language": "Go",
+    "stars": "36056",
+    "forks": "3654",
+    "increased": "341 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/tensorflower-gardener",
+        "avatar": "https://avatars.githubusercontent.com/u/17151892?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ezhulenev",
+        "avatar": "https://avatars.githubusercontent.com/u/1174378?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/akuegel",
+        "avatar": "https://avatars.githubusercontent.com/u/14309772?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mihaimaruseac",
+        "avatar": "https://avatars.githubusercontent.com/u/323199?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/hawkinsp",
+        "avatar": "https://avatars.githubusercontent.com/u/348932?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/tensorflow/tensorflow",
+    "name": "tensorflow/tensorflow",
+    "description": "An Open Source Machine Learning Framework for Everyone  ",
+    "language": "C++",
+    "stars": "192984",
+    "forks": "75143",
+    "increased": "28 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/sinaatalay",
+        "avatar": "https://avatars.githubusercontent.com/u/79940989?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/akib1689",
+        "avatar": "https://avatars.githubusercontent.com/u/54747148?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jpgoldberg",
+        "avatar": "https://avatars.githubusercontent.com/u/437217?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/TheColorDarkBlue",
+        "avatar": "https://avatars.githubusercontent.com/u/146706527?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/rendercv/rendercv",
+    "name": "rendercv/rendercv",
+    "description": "Typst-based CV/resume generator for academics and engineers  ",
+    "language": "Python",
+    "stars": "5094",
+    "forks": "419",
+    "increased": "368 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/bdraco",
+        "avatar": "https://avatars.githubusercontent.com/u/663432?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/balloob",
+        "avatar": "https://avatars.githubusercontent.com/u/1444314?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/epenet",
+        "avatar": "https://avatars.githubusercontent.com/u/6771947?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/frenck",
+        "avatar": "https://avatars.githubusercontent.com/u/195327?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/emontnemery",
+        "avatar": "https://avatars.githubusercontent.com/u/14281572?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/home-assistant/core",
+    "name": "home-assistant/core",
+    "description": "🏡 Open source ho me automation that puts local control and privacy first.  ",
+    "language": "Python",
+    "stars": "83473",
+    "forks": "36249",
+    "increased": "40 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/TomerNahumSec",
+        "avatar": "https://avatars.githubusercontent.com/u/100207463?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/JonathanElkabas",
+        "avatar": "https://avatars.githubusercontent.com/u/173346385?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Semperis/EntraGoat",
+    "name": "Semperis/EntraGoat",
+    "description": "A deliberately vulnerable Microsoft Entra ID environment. Learn identity security through hands-on, realistic attack challenges.  ",
+    "language": "PowerShell",
+    "stars": "801",
+    "forks": "80",
+    "increased": "26 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/aksg87",
+        "avatar": "https://avatars.githubusercontent.com/u/19271735?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kleeena",
+        "avatar": "https://avatars.githubusercontent.com/u/62442533?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mariano",
+        "avatar": "https://avatars.githubusercontent.com/u/18598?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tonebeta",
+        "avatar": "https://avatars.githubusercontent.com/u/4890246?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/google/langextract",
+    "name": "google/langextract",
+    "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.  ",
+    "language": "Python",
+    "stars": "18223",
+    "forks": "1301",
+    "increased": "299 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/tj",
+        "avatar": "https://avatars.githubusercontent.com/u/25254?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dougwilson",
+        "avatar": "https://avatars.githubusercontent.com/u/67512?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jonathanong",
+        "avatar": "https://avatars.githubusercontent.com/u/643505?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/defunctzombie",
+        "avatar": "https://avatars.githubusercontent.com/u/84792?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/UlisesGascon",
+        "avatar": "https://avatars.githubusercontent.com/u/5110813?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/expressjs/express",
+    "name": "expressjs/express",
+    "description": "Fast, unopinionated, minimalist web framework for node.  ",
+    "language": "JavaScript",
+    "stars": "68400",
+    "forks": "21863",
+    "increased": "13 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/lintsinghua",
+        "avatar": "https://avatars.githubusercontent.com/u/129816813?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/vinland100",
+        "avatar": "https://avatars.githubusercontent.com/u/85446046?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/lintsinghua/DeepAudit",
+    "name": "lintsinghua/DeepAudit",
+    "description": "DeepAudit：人人拥有的 AI 黑客战队，让漏洞挖掘触手可及。国内首个开源的代码漏洞挖掘多智能体系统。小白一键部署运行，自主协作审计 + 自动化沙箱 PoC 验证。支持 Ollama 私有部署 ，一键生成报告。支持中转站。​让安全不再昂贵，让审计不再复杂。  ",
+    "language": "Python",
+    "stars": "2402",
+    "forks": "245",
+    "increased": "140 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/karentamrazyan",
+        "avatar": "https://avatars.githubusercontent.com/u/123498?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/CloudStudyNet",
+        "avatar": "https://avatars.githubusercontent.com/u/148721954?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/diogomurta",
+        "avatar": "https://avatars.githubusercontent.com/u/44232737?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sykezz",
+        "avatar": "https://avatars.githubusercontent.com/u/6332979?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/oldphones68",
+        "avatar": "https://avatars.githubusercontent.com/u/51379704?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/cloudcommunity/Free-Certifications",
+    "name": "cloudcommunity/Free-Certifications",
+    "description": "A curated list of free courses with certifications. Also available at  https://free-certifications.com/    ",
+    "stars": "48077",
+    "forks": "3209",
+    "increased": "521 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/danistefanovic",
+        "avatar": "https://avatars.githubusercontent.com/u/1736595?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rohitpaulk",
+        "avatar": "https://avatars.githubusercontent.com/u/3893573?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sarupbanskota",
+        "avatar": "https://avatars.githubusercontent.com/u/3149580?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/fake-rookie",
+        "avatar": "https://avatars.githubusercontent.com/u/61480354?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bauripalash",
+        "avatar": "https://avatars.githubusercontent.com/u/16154204?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/codecrafters-io/build-your-own-x",
+    "name": "codecrafters-io/build-your-own-x",
+    "description": "Master programming by recreating your favorite technologies from scratch.  ",
+    "language": "Markdown",
+    "stars": "451171",
+    "forks": "42320",
+    "increased": "318 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/mudler",
+        "avatar": "https://avatars.githubusercontent.com/u/2420543?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/localai-bot",
+        "avatar": "https://avatars.githubusercontent.com/u/139863280?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dave-gray101",
+        "avatar": "https://avatars.githubusercontent.com/u/15875595?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/mudler/LocalAI",
+    "name": "mudler/LocalAI",
+    "description": "🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more. Features: Generate Text, MCP, Audio, Video, Images, Voice Cloning, Distributed, P2P and decentralized inference  ",
+    "language": "Go",
+    "stars": "40497",
+    "forks": "3261",
+    "increased": "63 stars today"
+  }
+]
