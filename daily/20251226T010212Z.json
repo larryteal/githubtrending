@@ -1,0 +1,265 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/sinaatalay",
+        "avatar": "https://avatars.githubusercontent.com/u/79940989?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/akib1689",
+        "avatar": "https://avatars.githubusercontent.com/u/54747148?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jpgoldberg",
+        "avatar": "https://avatars.githubusercontent.com/u/437217?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/TheColorDarkBlue",
+        "avatar": "https://avatars.githubusercontent.com/u/146706527?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/rendercv/rendercv",
+    "name": "rendercv/rendercv",
+    "description": "CV/resume generator for academics and engineers, YAML to PDF  ",
+    "language": "Python",
+    "stars": "10767",
+    "forks": "716",
+    "increased": "1818 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/xerrors",
+        "avatar": "https://avatars.githubusercontent.com/u/35524243?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/QiyiJiang",
+        "avatar": "https://avatars.githubusercontent.com/u/61721287?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ELK-milu",
+        "avatar": "https://avatars.githubusercontent.com/u/56761558?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/zhaoshibao",
+        "avatar": "https://avatars.githubusercontent.com/u/52303327?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/littlewwwhite",
+        "avatar": "https://avatars.githubusercontent.com/u/34784086?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/xerrors/Yuxi-Know",
+    "name": "xerrors/Yuxi-Know",
+    "description": "结合LightRAG 知识库的知识图谱智能体平台。 An agent platform that integrates a LightRAG knowledge base and knowledge graphs. Build with LangChain v1 + Vue + FastAPI, support DeepAgents、MinerU PDF、Neo4j 、MCP.  ",
+    "language": "Python",
+    "stars": "3176",
+    "forks": "387",
+    "increased": "55 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/dzhao",
+        "avatar": "https://avatars.githubusercontent.com/u/25687?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pouriya",
+        "avatar": "https://avatars.githubusercontent.com/u/20663776?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/anqueue",
+        "avatar": "https://avatars.githubusercontent.com/u/35087590?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/twitter/the-algorithm",
+    "name": "twitter/the-algorithm",
+    "description": "Source code for the X Recommendation Algorithm  ",
+    "language": "Scala",
+    "stars": "68779",
+    "forks": "12717",
+    "increased": "326 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/michaelbromley",
+        "avatar": "https://avatars.githubusercontent.com/u/6275952?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dlhck",
+        "avatar": "https://avatars.githubusercontent.com/u/24294584?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/martijnvdbrug",
+        "avatar": "https://avatars.githubusercontent.com/u/6604455?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Draykee",
+        "avatar": "https://avatars.githubusercontent.com/u/19676051?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/vendure-ecommerce/vendure",
+    "name": "vendure-ecommerce/vendure",
+    "description": "The most customizable commerce platform built with TypeScript, NestJS and GraphQL.  ",
+    "language": "TypeScript",
+    "stars": "7587",
+    "forks": "1282",
+    "increased": "272 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/yichuan-w",
+        "avatar": "https://avatars.githubusercontent.com/u/73766326?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/andylizf",
+        "avatar": "https://avatars.githubusercontent.com/u/28052536?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/actions-user",
+        "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ASuresh0524",
+        "avatar": "https://avatars.githubusercontent.com/u/135802079?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/yichuan-w/LEANN",
+    "name": "yichuan-w/LEANN",
+    "description": "RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.  ",
+    "language": "Python",
+    "stars": "6106",
+    "forks": "604",
+    "increased": "262 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/fatchord",
+        "avatar": "https://avatars.githubusercontent.com/u/37295764?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/JeremyCCHsu",
+        "avatar": "https://avatars.githubusercontent.com/u/16027371?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/manmay-nakhashi",
+        "avatar": "https://avatars.githubusercontent.com/u/17176700?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ZohaibAhmed",
+        "avatar": "https://avatars.githubusercontent.com/u/660224?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/TediPapajorgji",
+        "avatar": "https://avatars.githubusercontent.com/u/5790075?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/resemble-ai/chatterbox",
+    "name": "resemble-ai/chatterbox",
+    "description": "SoTA open-source TTS  ",
+    "language": "Python",
+    "stars": "17749",
+    "forks": "2370",
+    "increased": "472 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/anmolsinghbhatia",
+        "avatar": "https://avatars.githubusercontent.com/u/121005188?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/aaryan610",
+        "avatar": "https://avatars.githubusercontent.com/u/65252264?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pablohashescobar",
+        "avatar": "https://avatars.githubusercontent.com/u/118773738?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sriramveeraghanta",
+        "avatar": "https://avatars.githubusercontent.com/u/9498163?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/NarayanBavisetti",
+        "avatar": "https://avatars.githubusercontent.com/u/72156168?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/makeplane/plane",
+    "name": "makeplane/plane",
+    "description": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.  ",
+    "language": "TypeScript",
+    "stars": "41783",
+    "forks": "3071",
+    "increased": "303 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/hsliuustc0106",
+        "avatar": "https://avatars.githubusercontent.com/u/222337142?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tzhouam",
+        "avatar": "https://avatars.githubusercontent.com/u/78459970?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Gaohan123",
+        "avatar": "https://avatars.githubusercontent.com/u/20148503?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/SamitHuang",
+        "avatar": "https://avatars.githubusercontent.com/u/8156835?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ZJY0516",
+        "avatar": "https://avatars.githubusercontent.com/u/86695626?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/vllm-project/vllm-omni",
+    "name": "vllm-project/vllm-omni",
+    "description": "A framework for efficient model inference with omni-modality models  ",
+    "language": "Python",
+    "stars": "1702",
+    "forks": "214",
+    "increased": "121 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/helloyongyang",
+        "avatar": "https://avatars.githubusercontent.com/u/37302878?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/gushiqiao",
+        "avatar": "https://avatars.githubusercontent.com/u/77222802?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/wangshankun",
+        "avatar": "https://avatars.githubusercontent.com/u/3970271?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/GoatWu",
+        "avatar": "https://avatars.githubusercontent.com/u/48351820?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/GACLove",
+        "avatar": "https://avatars.githubusercontent.com/u/8307193?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/ModelTC/LightX2V",
+    "name": "ModelTC/LightX2V",
+    "description": "Light Video Generation Inference Framework  ",
+    "language": "Python",
+    "stars": "1425",
+    "forks": "94",
+    "increased": "43 stars today"
+  }
+]
