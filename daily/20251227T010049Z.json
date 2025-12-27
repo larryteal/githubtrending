@@ -1,0 +1,180 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/sinaatalay",
+        "avatar": "https://avatars.githubusercontent.com/u/79940989?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/akib1689",
+        "avatar": "https://avatars.githubusercontent.com/u/54747148?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jpgoldberg",
+        "avatar": "https://avatars.githubusercontent.com/u/437217?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/TheColorDarkBlue",
+        "avatar": "https://avatars.githubusercontent.com/u/146706527?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/rendercv/rendercv",
+    "name": "rendercv/rendercv",
+    "description": "CV/resume generator for academics and engineers, YAML to PDF  ",
+    "language": "Python",
+    "stars": "12170",
+    "forks": "797",
+    "increased": "1861 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/crazywoola",
+        "avatar": "https://avatars.githubusercontent.com/u/100913391?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/laipz8200",
+        "avatar": "https://avatars.githubusercontent.com/u/16485841?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/takatost",
+        "avatar": "https://avatars.githubusercontent.com/u/5485478?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/iamjoel",
+        "avatar": "https://avatars.githubusercontent.com/u/2120155?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/JohnJyong",
+        "avatar": "https://avatars.githubusercontent.com/u/76649700?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/langgenius/dify",
+    "name": "langgenius/dify",
+    "description": "Production-ready platform for agentic workflow development.  ",
+    "language": "TypeScript",
+    "stars": "123603",
+    "forks": "19211",
+    "increased": "283 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/NanmiCoder",
+        "avatar": "https://avatars.githubusercontent.com/u/47178017?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/2513502304",
+        "avatar": "https://avatars.githubusercontent.com/u/129171955?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/gaoxiaobei",
+        "avatar": "https://avatars.githubusercontent.com/u/99178334?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/persist-1",
+        "avatar": "https://avatars.githubusercontent.com/u/206997360?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/BaoZhuhan",
+        "avatar": "https://avatars.githubusercontent.com/u/140676370?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/NanmiCoder/MediaCrawler",
+    "name": "NanmiCoder/MediaCrawler",
+    "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫  ",
+    "language": "Python",
+    "stars": "40833",
+    "forks": "9159",
+    "increased": "93 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/akenshaw",
+        "avatar": "https://avatars.githubusercontent.com/u/63060680?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/toanngosy",
+        "avatar": "https://avatars.githubusercontent.com/u/6879194?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jose-donato",
+        "avatar": "https://avatars.githubusercontent.com/u/43375532?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/themorgantown",
+        "avatar": "https://avatars.githubusercontent.com/u/50146?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/flowsurface-rs/flowsurface",
+    "name": "flowsurface-rs/flowsurface",
+    "description": "A native desktop charting platform for crypto markets  ",
+    "language": "Rust",
+    "stars": "856",
+    "forks": "137",
+    "increased": "139 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/yichuan-w",
+        "avatar": "https://avatars.githubusercontent.com/u/73766326?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/andylizf",
+        "avatar": "https://avatars.githubusercontent.com/u/28052536?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/actions-user",
+        "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ASuresh0524",
+        "avatar": "https://avatars.githubusercontent.com/u/135802079?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/yichuan-w/LEANN",
+    "name": "yichuan-w/LEANN",
+    "description": "RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.  ",
+    "language": "Python",
+    "stars": "6425",
+    "forks": "622",
+    "increased": "352 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/apurvsinghgautam",
+        "avatar": "https://avatars.githubusercontent.com/u/20106707?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/aditya-dl",
+        "avatar": "https://avatars.githubusercontent.com/u/64709773?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Octozu",
+        "avatar": "https://avatars.githubusercontent.com/u/129053412?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/7kevin49",
+        "avatar": "https://avatars.githubusercontent.com/u/25989199?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/muneebwanee",
+        "avatar": "https://avatars.githubusercontent.com/u/43923614?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/apurvsinghgautam/robin",
+    "name": "apurvsinghgautam/robin",
+    "description": "AI-Powered Dark Web OSINT Tool  ",
+    "language": "Python",
+    "stars": "3014",
+    "forks": "598",
+    "increased": "125 stars today"
+  }
+]
