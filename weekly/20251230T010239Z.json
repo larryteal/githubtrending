@@ -1,0 +1,387 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/AlexCheema",
+        "avatar": "https://avatars.githubusercontent.com/u/41707476?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cadenmackenzie",
+        "avatar": "https://avatars.githubusercontent.com/u/14060736?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/blindcrone",
+        "avatar": "https://avatars.githubusercontent.com/u/114382923?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ToxicPine",
+        "avatar": "https://avatars.githubusercontent.com/u/99731180?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Evanev7",
+        "avatar": "https://avatars.githubusercontent.com/u/13599445?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/exo-explore/exo",
+    "name": "exo-explore/exo",
+    "description": "Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚  ",
+    "language": "Python",
+    "stars": "38894",
+    "forks": "2609",
+    "increased": "2513 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/klazuka",
+        "avatar": "https://avatars.githubusercontent.com/u/84525?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/maheshmurag",
+        "avatar": "https://avatars.githubusercontent.com/u/5667029?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mattpic-ant",
+        "avatar": "https://avatars.githubusercontent.com/u/227474486?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/camaris",
+        "avatar": "https://avatars.githubusercontent.com/u/1184736?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/anthropics/skills",
+    "name": "anthropics/skills",
+    "description": "Public repository for Agent Skills  ",
+    "language": "Python",
+    "stars": "29266",
+    "forks": "2681",
+    "increased": "4275 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/davila7",
+        "avatar": "https://avatars.githubusercontent.com/u/6216945?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/actions-user",
+        "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Ray0907",
+        "avatar": "https://avatars.githubusercontent.com/u/29456968?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/davila7/claude-code-templates",
+    "name": "davila7/claude-code-templates",
+    "description": "CLI tool for configuring and monitoring Claude Code  ",
+    "language": "Python",
+    "stars": "14086",
+    "forks": "1218",
+    "increased": "1117 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/fatchord",
+        "avatar": "https://avatars.githubusercontent.com/u/37295764?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/JeremyCCHsu",
+        "avatar": "https://avatars.githubusercontent.com/u/16027371?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/manmay-nakhashi",
+        "avatar": "https://avatars.githubusercontent.com/u/17176700?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ZohaibAhmed",
+        "avatar": "https://avatars.githubusercontent.com/u/660224?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/TediPapajorgji",
+        "avatar": "https://avatars.githubusercontent.com/u/5790075?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/resemble-ai/chatterbox",
+    "name": "resemble-ai/chatterbox",
+    "description": "SoTA open-source TTS  ",
+    "language": "Python",
+    "stars": "19194",
+    "forks": "2516",
+    "increased": "2249 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Flowseal",
+        "avatar": "https://avatars.githubusercontent.com/u/50780822?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/V3nilla",
+        "avatar": "https://avatars.githubusercontent.com/u/48512277?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/fridorin",
+        "avatar": "https://avatars.githubusercontent.com/u/93490920?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/amozebus",
+        "avatar": "https://avatars.githubusercontent.com/u/190386872?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ekungurov",
+        "avatar": "https://avatars.githubusercontent.com/u/8576664?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Flowseal/zapret-discord-youtube",
+    "name": "Flowseal/zapret-discord-youtube",
+    "language": "Batchfile",
+    "stars": "20315",
+    "forks": "1684",
+    "increased": "781 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/danielmiessler",
+        "avatar": "https://avatars.githubusercontent.com/u/50654?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ksylvan",
+        "avatar": "https://avatars.githubusercontent.com/u/1226059?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/eugeis",
+        "avatar": "https://avatars.githubusercontent.com/u/609363?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/xssdoctor",
+        "avatar": "https://avatars.githubusercontent.com/u/9218431?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/danielmiessler/Fabric",
+    "name": "danielmiessler/Fabric",
+    "description": "Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.  ",
+    "language": "Go",
+    "stars": "37276",
+    "forks": "3729",
+    "increased": "1389 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/actions-user",
+        "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bcherny",
+        "avatar": "https://avatars.githubusercontent.com/u/1761758?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ashwin-ant",
+        "avatar": "https://avatars.githubusercontent.com/u/178951676?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ant-kurt",
+        "avatar": "https://avatars.githubusercontent.com/u/209710463?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/anthropics/claude-code",
+    "name": "anthropics/claude-code",
+    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.  ",
+    "language": "Shell",
+    "stars": "49618",
+    "forks": "3516",
+    "increased": "1655 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/aksg87",
+        "avatar": "https://avatars.githubusercontent.com/u/19271735?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kleeena",
+        "avatar": "https://avatars.githubusercontent.com/u/62442533?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mariano",
+        "avatar": "https://avatars.githubusercontent.com/u/18598?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tonebeta",
+        "avatar": "https://avatars.githubusercontent.com/u/4890246?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/google/langextract",
+    "name": "google/langextract",
+    "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.  ",
+    "language": "Python",
+    "stars": "19782",
+    "forks": "1381",
+    "increased": "1735 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/thdxr",
+        "avatar": "https://avatars.githubusercontent.com/u/826656?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/adamdotdevin",
+        "avatar": "https://avatars.githubusercontent.com/u/2363879?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rekram1-node",
+        "avatar": "https://avatars.githubusercontent.com/u/63023139?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/actions-user",
+        "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jayair",
+        "avatar": "https://avatars.githubusercontent.com/u/53023?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/sst/opencode",
+    "name": "sst/opencode",
+    "description": "The open source coding agent.  ",
+    "language": "TypeScript",
+    "stars": "43832",
+    "forks": "3761",
+    "increased": "2607 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/paullewis",
+        "avatar": "https://avatars.githubusercontent.com/u/617438?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jacobsimionato",
+        "avatar": "https://avatars.githubusercontent.com/u/6869388?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/gspencergoog",
+        "avatar": "https://avatars.githubusercontent.com/u/8867023?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/crisbeto",
+        "avatar": "https://avatars.githubusercontent.com/u/4450522?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/holtskinner",
+        "avatar": "https://avatars.githubusercontent.com/u/13262395?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/google/A2UI",
+    "name": "google/A2UI",
+    "language": "TypeScript",
+    "stars": "8325",
+    "forks": "556",
+    "increased": "2033 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/stunningpixels",
+        "avatar": "https://avatars.githubusercontent.com/u/7957964?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/abcpro1",
+        "avatar": "https://avatars.githubusercontent.com/u/108011288?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/LSRCT",
+        "avatar": "https://avatars.githubusercontent.com/u/44728828?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ggordonhall",
+        "avatar": "https://avatars.githubusercontent.com/u/24595376?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/actions-user",
+        "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/BloopAI/vibe-kanban",
+    "name": "BloopAI/vibe-kanban",
+    "description": "Get 10X more out of Claude Code, Codex or any coding agent  ",
+    "language": "Rust",
+    "stars": "7997",
+    "forks": "785",
+    "increased": "1084 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/AUTOMATIC1111",
+        "avatar": "https://avatars.githubusercontent.com/u/20920490?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/w-e-w",
+        "avatar": "https://avatars.githubusercontent.com/u/40751091?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dfaker",
+        "avatar": "https://avatars.githubusercontent.com/u/35278260?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/akx",
+        "avatar": "https://avatars.githubusercontent.com/u/58669?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/catboxanon",
+        "avatar": "https://avatars.githubusercontent.com/u/122327233?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+    "name": "AUTOMATIC1111/stable-diffusion-webui",
+    "description": "Stable Diffusion web UI  ",
+    "language": "Python",
+    "stars": "159445",
+    "forks": "29659",
+    "increased": "343 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/sinelaw",
+        "avatar": "https://avatars.githubusercontent.com/u/84020?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/aymuos15",
+        "avatar": "https://avatars.githubusercontent.com/u/54958228?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Yousa-Mirage",
+        "avatar": "https://avatars.githubusercontent.com/u/117379168?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/sinelaw/fresh",
+    "name": "sinelaw/fresh",
+    "description": "Text editor for your terminal: easy, powerful and fast  ",
+    "language": "Rust",
+    "stars": "4111",
+    "forks": "133",
+    "increased": "1353 stars this week"
+  }
+]
