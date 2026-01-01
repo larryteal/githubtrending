@@ -1,0 +1,295 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/afkarxyz",
+        "avatar": "https://avatars.githubusercontent.com/u/173781715?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/exyezed",
+        "avatar": "https://avatars.githubusercontent.com/u/185352121?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/value1338",
+        "avatar": "https://avatars.githubusercontent.com/u/212730926?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Lukas200301",
+        "avatar": "https://avatars.githubusercontent.com/u/69511007?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/KyleARector",
+        "avatar": "https://avatars.githubusercontent.com/u/1421491?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/afkarxyz/SpotiFLAC",
+    "name": "afkarxyz/SpotiFLAC",
+    "description": "Get Spotify tracks in true FLAC from Tidal, Qobuz &amp; Amazon Music — no account required.  ",
+    "language": "TypeScript",
+    "stars": "1556",
+    "forks": "89",
+    "increased": "341 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/sammccauley117",
+        "avatar": "https://avatars.githubusercontent.com/u/23038858?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ericpts",
+        "avatar": "https://avatars.githubusercontent.com/u/5286719?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/lorenss-m",
+        "avatar": "https://avatars.githubusercontent.com/u/31991968?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/smsohan",
+        "avatar": "https://avatars.githubusercontent.com/u/121935?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/emilypitler",
+        "avatar": "https://avatars.githubusercontent.com/u/24372370?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/google-gemini/computer-use-preview",
+    "name": "google-gemini/computer-use-preview",
+    "language": "Python",
+    "stars": "2334",
+    "forks": "304",
+    "increased": "59 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/profvjreddi",
+        "avatar": "https://avatars.githubusercontent.com/u/6807956?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/hzeljko",
+        "avatar": "https://avatars.githubusercontent.com/u/36451783?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Mjrovai",
+        "avatar": "https://avatars.githubusercontent.com/u/17109416?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/harvard-edge/cs249r_book",
+    "name": "harvard-edge/cs249r_book",
+    "description": "Introduction to Machine Learning Systems  ",
+    "language": "JavaScript",
+    "stars": "13973",
+    "forks": "1586",
+    "increased": "1145 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/stunningpixels",
+        "avatar": "https://avatars.githubusercontent.com/u/7957964?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/abcpro1",
+        "avatar": "https://avatars.githubusercontent.com/u/108011288?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/LSRCT",
+        "avatar": "https://avatars.githubusercontent.com/u/44728828?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ggordonhall",
+        "avatar": "https://avatars.githubusercontent.com/u/24595376?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/actions-user",
+        "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/BloopAI/vibe-kanban",
+    "name": "BloopAI/vibe-kanban",
+    "description": "Get 10X more out of Claude Code, Codex or any coding agent  ",
+    "language": "Rust",
+    "stars": "10134",
+    "forks": "920",
+    "increased": "1546 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/murrayju",
+        "avatar": "https://avatars.githubusercontent.com/u/508461?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/MasterOdin",
+        "avatar": "https://avatars.githubusercontent.com/u/1845314?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cevian",
+        "avatar": "https://avatars.githubusercontent.com/u/112245?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jackyliang",
+        "avatar": "https://avatars.githubusercontent.com/u/4315746?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/timescale/pg-aiguide",
+    "name": "timescale/pg-aiguide",
+    "description": "MCP server and Claude plugin for Postgres skills and documentation. Helps AI coding tools generate better PostgreSQL code.  ",
+    "language": "Python",
+    "stars": "1022",
+    "forks": "52",
+    "increased": "314 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/actions-user",
+        "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sansan0",
+        "avatar": "https://avatars.githubusercontent.com/u/77180927?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/sansan0/TrendRadar",
+    "name": "sansan0/TrendRadar",
+    "description": "🎯 告别信息过载，AI 助你看懂新闻资讯热点，支持 RSS 订阅，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动 推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等20种工具）。支持企业微信/个人微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 推送，30秒快速部署，1分钟手机通知，无需编程。支持Docker部署，支持数据远程云存储⭐ 让算法为你服务，用AI理解热点  ",
+    "language": "Python",
+    "stars": "41775",
+    "forks": "21125",
+    "increased": "141 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ted-at-openai",
+        "avatar": "https://avatars.githubusercontent.com/u/95656834?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/simonpfish",
+        "avatar": "https://avatars.githubusercontent.com/u/8716950?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/colin-openai",
+        "avatar": "https://avatars.githubusercontent.com/u/119888926?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/logankilpatrick",
+        "avatar": "https://avatars.githubusercontent.com/u/35577566?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pap-openai",
+        "avatar": "https://avatars.githubusercontent.com/u/174109416?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/openai/openai-cookbook",
+    "name": "openai/openai-cookbook",
+    "description": "Examples and guides for using the OpenAI API  ",
+    "language": "Jupyter Notebook",
+    "stars": "70185",
+    "forks": "11795",
+    "increased": "44 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/biodranik",
+        "avatar": "https://avatars.githubusercontent.com/u/170263?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/vng",
+        "avatar": "https://avatars.githubusercontent.com/u/175612?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bykoianko",
+        "avatar": "https://avatars.githubusercontent.com/u/1768114?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/igrechuhin",
+        "avatar": "https://avatars.githubusercontent.com/u/2698571?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/alexzatsepin",
+        "avatar": "https://avatars.githubusercontent.com/u/8442156?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/organicmaps/organicmaps",
+    "name": "organicmaps/organicmaps",
+    "description": "🍃 Organic Maps is a free Android &amp; iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community. No ads, no tracking, no data collection, no crapware. Please donate to support the development!  ",
+    "language": "C++",
+    "stars": "12585",
+    "forks": "1265",
+    "increased": "52 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/fatchord",
+        "avatar": "https://avatars.githubusercontent.com/u/37295764?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/JeremyCCHsu",
+        "avatar": "https://avatars.githubusercontent.com/u/16027371?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/manmay-nakhashi",
+        "avatar": "https://avatars.githubusercontent.com/u/17176700?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ZohaibAhmed",
+        "avatar": "https://avatars.githubusercontent.com/u/660224?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/TediPapajorgji",
+        "avatar": "https://avatars.githubusercontent.com/u/5790075?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/resemble-ai/chatterbox",
+    "name": "resemble-ai/chatterbox",
+    "description": "SoTA open-source TTS  ",
+    "language": "Python",
+    "stars": "19960",
+    "forks": "2607",
+    "increased": "436 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/o1lab",
+        "avatar": "https://avatars.githubusercontent.com/u/5435402?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pranavxc",
+        "avatar": "https://avatars.githubusercontent.com/u/61551451?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/wingkwong",
+        "avatar": "https://avatars.githubusercontent.com/u/35857179?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rameshmane7218",
+        "avatar": "https://avatars.githubusercontent.com/u/101566080?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dstala",
+        "avatar": "https://avatars.githubusercontent.com/u/86527202?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/nocodb/nocodb",
+    "name": "nocodb/nocodb",
+    "description": "🔥 🔥 🔥 Open Source Airtable Alternative  ",
+    "language": "TypeScript",
+    "stars": "59594",
+    "forks": "4421",
+    "increased": "54 stars today"
+  }
+]
