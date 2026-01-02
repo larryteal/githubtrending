@@ -1,0 +1,350 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/rahullks",
+        "avatar": "https://avatars.githubusercontent.com/u/14796595?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/akshseh",
+        "avatar": "https://avatars.githubusercontent.com/u/20265183?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/EashanKaushik",
+        "avatar": "https://avatars.githubusercontent.com/u/50113394?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mttanke",
+        "avatar": "https://avatars.githubusercontent.com/u/102240958?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/awslabs/amazon-bedrock-agentcore-samples",
+    "name": "awslabs/amazon-bedrock-agentcore-samples",
+    "description": "Amazon Bedrock Agentcore accelerates AI agents into production with the scale, reliability, and security, critical to real-world deployment.  ",
+    "language": "Jupyter Notebook",
+    "stars": "1991",
+    "forks": "721",
+    "increased": "217 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/stunningpixels",
+        "avatar": "https://avatars.githubusercontent.com/u/7957964?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/abcpro1",
+        "avatar": "https://avatars.githubusercontent.com/u/108011288?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/LSRCT",
+        "avatar": "https://avatars.githubusercontent.com/u/44728828?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ggordonhall",
+        "avatar": "https://avatars.githubusercontent.com/u/24595376?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/actions-user",
+        "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/BloopAI/vibe-kanban",
+    "name": "BloopAI/vibe-kanban",
+    "description": "Get 10X more out of Claude Code, Codex or any coding agent  ",
+    "language": "Rust",
+    "stars": "10768",
+    "forks": "964",
+    "increased": "550 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/boojack",
+        "avatar": "https://avatars.githubusercontent.com/u/24653555?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/johnnyjoygh",
+        "avatar": "https://avatars.githubusercontent.com/u/172508201?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/athurg",
+        "avatar": "https://avatars.githubusercontent.com/u/126313?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/usememos/memos",
+    "name": "usememos/memos",
+    "description": "An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.  ",
+    "language": "Go",
+    "stars": "48074",
+    "forks": "3459",
+    "increased": "82 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/biodranik",
+        "avatar": "https://avatars.githubusercontent.com/u/170263?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/vng",
+        "avatar": "https://avatars.githubusercontent.com/u/175612?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bykoianko",
+        "avatar": "https://avatars.githubusercontent.com/u/1768114?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/igrechuhin",
+        "avatar": "https://avatars.githubusercontent.com/u/2698571?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/alexzatsepin",
+        "avatar": "https://avatars.githubusercontent.com/u/8442156?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/organicmaps/organicmaps",
+    "name": "organicmaps/organicmaps",
+    "description": "🍃 Organic Maps is a free Android &amp; iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community. No ads, no tracking, no data collection, no crapware. Please donate to support the development!  ",
+    "language": "C++",
+    "stars": "12805",
+    "forks": "1271",
+    "increased": "233 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/afkarxyz",
+        "avatar": "https://avatars.githubusercontent.com/u/173781715?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/exyezed",
+        "avatar": "https://avatars.githubusercontent.com/u/185352121?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/value1338",
+        "avatar": "https://avatars.githubusercontent.com/u/212730926?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Lukas200301",
+        "avatar": "https://avatars.githubusercontent.com/u/69511007?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/KyleARector",
+        "avatar": "https://avatars.githubusercontent.com/u/1421491?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/afkarxyz/SpotiFLAC",
+    "name": "afkarxyz/SpotiFLAC",
+    "description": "Get Spotify tracks in true FLAC from Tidal, Qobuz &amp; Amazon Music — no account required.  ",
+    "language": "TypeScript",
+    "stars": "1895",
+    "forks": "107",
+    "increased": "445 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/HQarroum",
+        "avatar": "https://avatars.githubusercontent.com/u/1384633?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/twocolors",
+        "avatar": "https://avatars.githubusercontent.com/u/207796?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/heralight",
+        "avatar": "https://avatars.githubusercontent.com/u/534840?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/miamimanni",
+        "avatar": "https://avatars.githubusercontent.com/u/4013912?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/HQarroum/docker-android",
+    "name": "HQarroum/docker-android",
+    "description": "🤖 A minimal and customizable Docker image running the Android emulator as a service.  ",
+    "language": "Shell",
+    "stars": "1207",
+    "forks": "71",
+    "increased": "296 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/profvjreddi",
+        "avatar": "https://avatars.githubusercontent.com/u/6807956?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/hzeljko",
+        "avatar": "https://avatars.githubusercontent.com/u/36451783?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Mjrovai",
+        "avatar": "https://avatars.githubusercontent.com/u/17109416?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/harvard-edge/cs249r_book",
+    "name": "harvard-edge/cs249r_book",
+    "description": "Introduction to Machine Learning Systems  ",
+    "language": "JavaScript",
+    "stars": "14477",
+    "forks": "1637",
+    "increased": "678 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/alexnicita",
+        "avatar": "https://avatars.githubusercontent.com/u/25799888?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bhalim44",
+        "avatar": "https://avatars.githubusercontent.com/u/26155517?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pinegreene",
+        "avatar": "https://avatars.githubusercontent.com/u/171260866?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/L-Kov",
+        "avatar": "https://avatars.githubusercontent.com/u/16859243?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/wakamex",
+        "avatar": "https://avatars.githubusercontent.com/u/16990562?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Polymarket/agents",
+    "name": "Polymarket/agents",
+    "description": "Trade autonomously on Polymarket using AI Agents  ",
+    "language": "Python",
+    "stars": "1426",
+    "forks": "362",
+    "increased": "65 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/MaartenGr",
+        "avatar": "https://avatars.githubusercontent.com/u/25746895?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/negativenagesh",
+        "avatar": "https://avatars.githubusercontent.com/u/148525245?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jalammar",
+        "avatar": "https://avatars.githubusercontent.com/u/1007956?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dkapitan",
+        "avatar": "https://avatars.githubusercontent.com/u/4090894?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dcarpintero",
+        "avatar": "https://avatars.githubusercontent.com/u/6709785?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/HandsOnLLM/Hands-On-Large-Language-Models",
+    "name": "HandsOnLLM/Hands-On-Large-Language-Models",
+    "description": "Official code repo for the O'Reilly Book - \"Hands-On Large Language Models\"  ",
+    "language": "Jupyter Notebook",
+    "stars": "19381",
+    "forks": "4597",
+    "increased": "74 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/yichuan-w",
+        "avatar": "https://avatars.githubusercontent.com/u/73766326?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/andylizf",
+        "avatar": "https://avatars.githubusercontent.com/u/28052536?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/actions-user",
+        "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ASuresh0524",
+        "avatar": "https://avatars.githubusercontent.com/u/135802079?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/yichuan-w/LEANN",
+    "name": "yichuan-w/LEANN",
+    "description": "RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.  ",
+    "language": "Python",
+    "stars": "7814",
+    "forks": "707",
+    "increased": "622 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/theomonnom",
+        "avatar": "https://avatars.githubusercontent.com/u/14841632?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/longcw",
+        "avatar": "https://avatars.githubusercontent.com/u/6198400?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/davidzhao",
+        "avatar": "https://avatars.githubusercontent.com/u/320582?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/keepingitneil",
+        "avatar": "https://avatars.githubusercontent.com/u/8453967?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jayeshp19",
+        "avatar": "https://avatars.githubusercontent.com/u/60539217?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/livekit/agents",
+    "name": "livekit/agents",
+    "description": "A powerful framework for building realtime voice AI agents 🤖🎙️📹  ",
+    "language": "Python",
+    "stars": "8797",
+    "forks": "2313",
+    "increased": "11 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/DayuanJiang",
+        "avatar": "https://avatars.githubusercontent.com/u/34411969?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Biki-dev",
+        "avatar": "https://avatars.githubusercontent.com/u/86558912?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/broBinChen",
+        "avatar": "https://avatars.githubusercontent.com/u/139344558?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/DayuanJiang/next-ai-draw-io",
+    "name": "DayuanJiang/next-ai-draw-io",
+    "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.  ",
+    "language": "TypeScript",
+    "stars": "16178",
+    "forks": "1673",
+    "increased": "97 stars today"
+  }
+]
