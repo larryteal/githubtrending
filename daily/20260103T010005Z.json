@@ -1,0 +1,264 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/HQarroum",
+        "avatar": "https://avatars.githubusercontent.com/u/1384633?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/twocolors",
+        "avatar": "https://avatars.githubusercontent.com/u/207796?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/heralight",
+        "avatar": "https://avatars.githubusercontent.com/u/534840?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/miamimanni",
+        "avatar": "https://avatars.githubusercontent.com/u/4013912?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/saksham-45",
+        "avatar": "https://avatars.githubusercontent.com/u/72103486?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/HQarroum/docker-android",
+    "name": "HQarroum/docker-android",
+    "description": "🤖 A minimal and customizable Docker image running the Android emulator as a service.  ",
+    "language": "Shell",
+    "stars": "1748",
+    "forks": "104",
+    "increased": "474 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/o1lab",
+        "avatar": "https://avatars.githubusercontent.com/u/5435402?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pranavxc",
+        "avatar": "https://avatars.githubusercontent.com/u/61551451?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/wingkwong",
+        "avatar": "https://avatars.githubusercontent.com/u/35857179?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rameshmane7218",
+        "avatar": "https://avatars.githubusercontent.com/u/101566080?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dstala",
+        "avatar": "https://avatars.githubusercontent.com/u/86527202?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/nocodb/nocodb",
+    "name": "nocodb/nocodb",
+    "description": "🔥 🔥 🔥 Open Source Airtable Alternative  ",
+    "language": "TypeScript",
+    "stars": "59915",
+    "forks": "4453",
+    "increased": "112 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ted-at-openai",
+        "avatar": "https://avatars.githubusercontent.com/u/95656834?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/simonpfish",
+        "avatar": "https://avatars.githubusercontent.com/u/8716950?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/colin-openai",
+        "avatar": "https://avatars.githubusercontent.com/u/119888926?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/logankilpatrick",
+        "avatar": "https://avatars.githubusercontent.com/u/35577566?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pap-openai",
+        "avatar": "https://avatars.githubusercontent.com/u/174109416?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/openai/openai-cookbook",
+    "name": "openai/openai-cookbook",
+    "description": "Examples and guides for using the OpenAI API  ",
+    "language": "Jupyter Notebook",
+    "stars": "70409",
+    "forks": "11815",
+    "increased": "30 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ourongxing",
+        "avatar": "https://avatars.githubusercontent.com/u/48356807?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bruceblink",
+        "avatar": "https://avatars.githubusercontent.com/u/14996214?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/d380025303",
+        "avatar": "https://avatars.githubusercontent.com/u/31104430?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/urlyy",
+        "avatar": "https://avatars.githubusercontent.com/u/61675635?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jianlingzhong",
+        "avatar": "https://avatars.githubusercontent.com/u/12853307?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/ourongxing/newsnow",
+    "name": "ourongxing/newsnow",
+    "description": "Elegant reading of real-time and hottest news  ",
+    "language": "TypeScript",
+    "stars": "16020",
+    "forks": "4706",
+    "increased": "220 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/rossant",
+        "avatar": "https://avatars.githubusercontent.com/u/1942359?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/davidleejy",
+        "avatar": "https://avatars.githubusercontent.com/u/1690072?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mostafatouny",
+        "avatar": "https://avatars.githubusercontent.com/u/56471405?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jackdolgin",
+        "avatar": "https://avatars.githubusercontent.com/u/29798528?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mdave16",
+        "avatar": "https://avatars.githubusercontent.com/u/15642321?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/rossant/awesome-math",
+    "name": "rossant/awesome-math",
+    "description": "A curated list of awesome mathematics resources  ",
+    "language": "Python",
+    "stars": "12964",
+    "forks": "1269",
+    "increased": "117 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/boojack",
+        "avatar": "https://avatars.githubusercontent.com/u/24653555?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/johnnyjoygh",
+        "avatar": "https://avatars.githubusercontent.com/u/172508201?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/athurg",
+        "avatar": "https://avatars.githubusercontent.com/u/126313?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/usememos/memos",
+    "name": "usememos/memos",
+    "description": "An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.  ",
+    "language": "Go",
+    "stars": "48883",
+    "forks": "3526",
+    "increased": "661 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Freelander",
+        "avatar": "https://avatars.githubusercontent.com/u/10611037?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/YSoer",
+        "avatar": "https://avatars.githubusercontent.com/u/42373389?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Azleal",
+        "avatar": "https://avatars.githubusercontent.com/u/7901126?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ElegantNorlin",
+        "avatar": "https://avatars.githubusercontent.com/u/66856403?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/GitHubDaily/GitHubDaily",
+    "name": "GitHubDaily/GitHubDaily",
+    "description": "坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.  ",
+    "stars": "43812",
+    "forks": "4417",
+    "increased": "53 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/guillaumekln",
+        "avatar": "https://avatars.githubusercontent.com/u/4805513?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/MahmoudAshraf97",
+        "avatar": "https://avatars.githubusercontent.com/u/32404268?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Purfview",
+        "avatar": "https://avatars.githubusercontent.com/u/69023953?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/trungkienbkhn",
+        "avatar": "https://avatars.githubusercontent.com/u/48075757?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jordimas",
+        "avatar": "https://avatars.githubusercontent.com/u/309265?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/SYSTRAN/faster-whisper",
+    "name": "SYSTRAN/faster-whisper",
+    "description": "Faster Whisper transcription with CTranslate2  ",
+    "language": "Python",
+    "stars": "20045",
+    "forks": "1676",
+    "increased": "107 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Koenkk",
+        "avatar": "https://avatars.githubusercontent.com/u/2892853?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/nurikk",
+        "avatar": "https://avatars.githubusercontent.com/u/1525421?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Nerivec",
+        "avatar": "https://avatars.githubusercontent.com/u/62446222?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Koenkk/zigbee2mqtt",
+    "name": "Koenkk/zigbee2mqtt",
+    "description": "Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨  ",
+    "language": "TypeScript",
+    "stars": "14510",
+    "forks": "1882",
+    "increased": "15 stars today"
+  }
+]

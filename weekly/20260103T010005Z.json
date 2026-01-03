@@ -1,0 +1,349 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/stunningpixels",
+        "avatar": "https://avatars.githubusercontent.com/u/7957964?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/abcpro1",
+        "avatar": "https://avatars.githubusercontent.com/u/108011288?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/LSRCT",
+        "avatar": "https://avatars.githubusercontent.com/u/44728828?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ggordonhall",
+        "avatar": "https://avatars.githubusercontent.com/u/24595376?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/actions-user",
+        "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/BloopAI/vibe-kanban",
+    "name": "BloopAI/vibe-kanban",
+    "description": "Get 10X more out of Claude Code, Codex or any coding agent  ",
+    "language": "Rust",
+    "stars": "11370",
+    "forks": "1022",
+    "increased": "4424 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/fatchord",
+        "avatar": "https://avatars.githubusercontent.com/u/37295764?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/JeremyCCHsu",
+        "avatar": "https://avatars.githubusercontent.com/u/16027371?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/manmay-nakhashi",
+        "avatar": "https://avatars.githubusercontent.com/u/17176700?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ZohaibAhmed",
+        "avatar": "https://avatars.githubusercontent.com/u/660224?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/TediPapajorgji",
+        "avatar": "https://avatars.githubusercontent.com/u/5790075?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/resemble-ai/chatterbox",
+    "name": "resemble-ai/chatterbox",
+    "description": "SoTA open-source TTS  ",
+    "language": "Python",
+    "stars": "20292",
+    "forks": "2647",
+    "increased": "2316 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/klazuka",
+        "avatar": "https://avatars.githubusercontent.com/u/84525?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/maheshmurag",
+        "avatar": "https://avatars.githubusercontent.com/u/5667029?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mattpic-ant",
+        "avatar": "https://avatars.githubusercontent.com/u/227474486?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/camaris",
+        "avatar": "https://avatars.githubusercontent.com/u/1184736?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/anthropics/skills",
+    "name": "anthropics/skills",
+    "description": "Public repository for Agent Skills  ",
+    "language": "Python",
+    "stars": "31825",
+    "forks": "2885",
+    "increased": "4277 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/profvjreddi",
+        "avatar": "https://avatars.githubusercontent.com/u/6807956?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/hzeljko",
+        "avatar": "https://avatars.githubusercontent.com/u/36451783?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Mjrovai",
+        "avatar": "https://avatars.githubusercontent.com/u/17109416?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/harvard-edge/cs249r_book",
+    "name": "harvard-edge/cs249r_book",
+    "description": "Introduction to Machine Learning Systems  ",
+    "language": "vaScript",
+    "stars": "14854",
+    "forks": "1683",
+    "increased": "3444 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Aarebecca",
+        "avatar": "https://avatars.githubusercontent.com/u/25787943?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/hustcc",
+        "avatar": "https://avatars.githubusercontent.com/u/7856674?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/lvisei",
+        "avatar": "https://avatars.githubusercontent.com/u/26923747?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/yvonneyx",
+        "avatar": "https://avatars.githubusercontent.com/u/55794321?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/antvis/Infographic",
+    "name": "antvis/Infographic",
+    "description": "🦋 An Infographic Generation and Rendering Framework, bring words to life with AI!  ",
+    "language": "TypeScript",
+    "stars": "2590",
+    "forks": "165",
+    "increased": "1391 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/afkarxyz",
+        "avatar": "https://avatars.githubusercontent.com/u/173781715?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/exyezed",
+        "avatar": "https://avatars.githubusercontent.com/u/185352121?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/value1338",
+        "avatar": "https://avatars.githubusercontent.com/u/212730926?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Lukas200301",
+        "avatar": "https://avatars.githubusercontent.com/u/69511007?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/KyleARector",
+        "avatar": "https://avatars.githubusercontent.com/u/1421491?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/afkarxyz/SpotiFLAC",
+    "name": "afkarxyz/SpotiFLAC",
+    "description": "Get Spotify tracks in true FLAC from Tidal, Qobuz &amp; Amazon Music — no account required.  ",
+    "language": "TypeScript",
+    "stars": "2085",
+    "forks": "120",
+    "increased": "1305 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/alexta69",
+        "avatar": "https://avatars.githubusercontent.com/u/7450369?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jwoglom",
+        "avatar": "https://avatars.githubusercontent.com/u/192620?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rdiaz738",
+        "avatar": "https://avatars.githubusercontent.com/u/76965799?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/asuyou",
+        "avatar": "https://avatars.githubusercontent.com/u/79045710?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/arabcoders",
+        "avatar": "https://avatars.githubusercontent.com/u/1621552?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/alexta69/metube",
+    "name": "alexta69/metube",
+    "description": "Self-hosted YouTube downloader (web UI for youtube-dl / yt-dlp)  ",
+    "language": "Python",
+    "stars": "11849",
+    "forks": "799",
+    "increased": "592 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ershad",
+        "avatar": "https://avatars.githubusercontent.com/u/106525?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/EmCousin",
+        "avatar": "https://avatars.githubusercontent.com/u/9846489?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/binary-koan",
+        "avatar": "https://avatars.githubusercontent.com/u/1077405?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/antiwork/gumroad",
+    "name": "antiwork/gumroad",
+    "description": "Sell stuff and see what sticks  ",
+    "language": "Ruby",
+    "stars": "8079",
+    "forks": "1555",
+    "increased": "251 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Flowseal",
+        "avatar": "https://avatars.githubusercontent.com/u/50780822?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/V3nilla",
+        "avatar": "https://avatars.githubusercontent.com/u/48512277?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/fridorin",
+        "avatar": "https://avatars.githubusercontent.com/u/93490920?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/amozebus",
+        "avatar": "https://avatars.githubusercontent.com/u/190386872?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ekungurov",
+        "avatar": "https://avatars.githubusercontent.com/u/8576664?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Flowseal/zapret-discord-youtube",
+    "name": "Flowseal/zapret-discord-youtube",
+    "language": "Batchfile",
+    "stars": "20522",
+    "forks": "1711",
+    "increased": "877 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/danielmiessler",
+        "avatar": "https://avatars.githubusercontent.com/u/50654?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mvoehringer",
+        "avatar": "https://avatars.githubusercontent.com/u/2719466?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/fayerman-source",
+        "avatar": "https://avatars.githubusercontent.com/u/234407473?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/emory",
+        "avatar": "https://avatars.githubusercontent.com/u/660055?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/danielmiessler/Personal_AI_Infrastructure",
+    "name": "danielmiessler/Personal_AI_Infrastructure",
+    "description": "Personal AI Infrastructure for upgrading humans.  ",
+    "language": "TypeScript",
+    "stars": "2926",
+    "forks": "540",
+    "increased": "740 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/sinaatalay",
+        "avatar": "https://avatars.githubusercontent.com/u/79940989?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/akib1689",
+        "avatar": "https://avatars.githubusercontent.com/u/54747148?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jpgoldberg",
+        "avatar": "https://avatars.githubusercontent.com/u/437217?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/TheColorDarkBlue",
+        "avatar": "https://avatars.githubusercontent.com/u/146706527?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/rendercv/rendercv",
+    "name": "rendercv/rendercv",
+    "description": "CV/resume generator for academics and engineers, YAML to PDF  ",
+    "language": "Python",
+    "stars": "13953",
+    "forks": "943",
+    "increased": "2071 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/freearhey",
+        "avatar": "https://avatars.githubusercontent.com/u/7253922?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/BellezaEmporium",
+        "avatar": "https://avatars.githubusercontent.com/u/30985701?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Dum4G",
+        "avatar": "https://avatars.githubusercontent.com/u/5430116?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/UltraHDR",
+        "avatar": "https://avatars.githubusercontent.com/u/108294295?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/iptv-org/iptv",
+    "name": "iptv-org/iptv",
+    "description": "Collection of publicly available IPTV channels from all over the world  ",
+    "language": "TypeScript",
+    "stars": "108261",
+    "forks": "5205",
+    "increased": "1195 stars this week"
+  }
+]
