@@ -1,0 +1,242 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/boojack",
+        "avatar": "https://avatars.githubusercontent.com/u/24653555?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/johnnyjoygh",
+        "avatar": "https://avatars.githubusercontent.com/u/172508201?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/athurg",
+        "avatar": "https://avatars.githubusercontent.com/u/126313?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/usememos/memos",
+    "name": "usememos/memos",
+    "description": "An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.  ",
+    "language": "Go",
+    "stars": "50145",
+    "forks": "3615",
+    "increased": "819 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ourongxing",
+        "avatar": "https://avatars.githubusercontent.com/u/48356807?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bruceblink",
+        "avatar": "https://avatars.githubusercontent.com/u/14996214?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/d380025303",
+        "avatar": "https://avatars.githubusercontent.com/u/31104430?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/urlyy",
+        "avatar": "https://avatars.githubusercontent.com/u/61675635?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jianlingzhong",
+        "avatar": "https://avatars.githubusercontent.com/u/12853307?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/ourongxing/newsnow",
+    "name": "ourongxing/newsnow",
+    "description": "Elegant reading of real-time and hottest news  ",
+    "language": "TypeScript",
+    "stars": "16293",
+    "forks": "4757",
+    "increased": "314 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Pathway-Dev",
+        "avatar": "https://avatars.githubusercontent.com/u/72749368?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/olruas",
+        "avatar": "https://avatars.githubusercontent.com/u/28102878?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/zxqfd555",
+        "avatar": "https://avatars.githubusercontent.com/u/104143901?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/KamilPiechowiak",
+        "avatar": "https://avatars.githubusercontent.com/u/32928185?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pw-ppodhajski",
+        "avatar": "https://avatars.githubusercontent.com/u/106311100?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/pathwaycom/pathway",
+    "name": "pathwaycom/pathway",
+    "description": "Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.  ",
+    "language": "Python",
+    "stars": "55953",
+    "forks": "1527",
+    "increased": "1219 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/jmaslek",
+        "avatar": "https://avatars.githubusercontent.com/u/18151143?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/deeleeramone",
+        "avatar": "https://avatars.githubusercontent.com/u/85772166?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/colin99d",
+        "avatar": "https://avatars.githubusercontent.com/u/72827203?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/DidierRLopes",
+        "avatar": "https://avatars.githubusercontent.com/u/25267873?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/montezdesousa",
+        "avatar": "https://avatars.githubusercontent.com/u/79287829?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/OpenBB-finance/OpenBB",
+    "name": "OpenBB-finance/OpenBB",
+    "description": "Financial data platform for analysts, quants and AI agents.  ",
+    "language": "Python",
+    "stars": "56441",
+    "forks": "5494",
+    "increased": "195 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/HQarroum",
+        "avatar": "https://avatars.githubusercontent.com/u/1384633?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/twocolors",
+        "avatar": "https://avatars.githubusercontent.com/u/207796?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/heralight",
+        "avatar": "https://avatars.githubusercontent.com/u/534840?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/miamimanni",
+        "avatar": "https://avatars.githubusercontent.com/u/4013912?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/saksham-45",
+        "avatar": "https://avatars.githubusercontent.com/u/72103486?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/HQarroum/docker-android",
+    "name": "HQarroum/docker-android",
+    "description": "🤖 A minimal and customizable Docker image running the Android emulator as a service.  ",
+    "language": "Shell",
+    "stars": "2135",
+    "forks": "131",
+    "increased": "518 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/blais",
+        "avatar": "https://avatars.githubusercontent.com/u/336019?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dnicolodi",
+        "avatar": "https://avatars.githubusercontent.com/u/987145?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/yagebu",
+        "avatar": "https://avatars.githubusercontent.com/u/2482259?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/trim21",
+        "avatar": "https://avatars.githubusercontent.com/u/13553903?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tbm",
+        "avatar": "https://avatars.githubusercontent.com/u/1556037?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/beancount/beancount",
+    "name": "beancount/beancount",
+    "description": "Beancount: Double-Entry Accounting from Text Files.  ",
+    "language": "Python",
+    "stars": "4961",
+    "forks": "385",
+    "increased": "111 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/HarelM",
+        "avatar": "https://avatars.githubusercontent.com/u/3269297?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jfirebaugh",
+        "avatar": "https://avatars.githubusercontent.com/u/98601?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ansis",
+        "avatar": "https://avatars.githubusercontent.com/u/1421652?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mourner",
+        "avatar": "https://avatars.githubusercontent.com/u/25395?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/maplibre/maplibre-gl-js",
+    "name": "maplibre/maplibre-gl-js",
+    "description": "MapLibre GL JS - Interactive vector tile maps in the browser  ",
+    "language": "TypeScript",
+    "stars": "9080",
+    "forks": "956",
+    "increased": "23 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/nukeop",
+        "avatar": "https://avatars.githubusercontent.com/u/12746779?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/trekiteasy",
+        "avatar": "https://avatars.githubusercontent.com/u/3041781?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/haidang666",
+        "avatar": "https://avatars.githubusercontent.com/u/12780733?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Lunarequest",
+        "avatar": "https://avatars.githubusercontent.com/u/30698906?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sferra",
+        "avatar": "https://avatars.githubusercontent.com/u/596554?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/nukeop/nuclear",
+    "name": "nukeop/nuclear",
+    "description": "Streaming music player that finds free music for you  ",
+    "language": "TypeScript",
+    "stars": "16781",
+    "forks": "1254",
+    "increased": "96 stars today"
+  }
+]
