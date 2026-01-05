@@ -1,0 +1,308 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/jmaslek",
+        "avatar": "https://avatars.githubusercontent.com/u/18151143?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/deeleeramone",
+        "avatar": "https://avatars.githubusercontent.com/u/85772166?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/colin99d",
+        "avatar": "https://avatars.githubusercontent.com/u/72827203?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/DidierRLopes",
+        "avatar": "https://avatars.githubusercontent.com/u/25267873?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/montezdesousa",
+        "avatar": "https://avatars.githubusercontent.com/u/79287829?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/OpenBB-finance/OpenBB",
+    "name": "OpenBB-finance/OpenBB",
+    "description": "Financial data platform for analysts, quants and AI agents.  ",
+    "language": "Python",
+    "stars": "56793",
+    "forks": "5521",
+    "increased": "436 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ted-at-openai",
+        "avatar": "https://avatars.githubusercontent.com/u/95656834?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/simonpfish",
+        "avatar": "https://avatars.githubusercontent.com/u/8716950?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/colin-openai",
+        "avatar": "https://avatars.githubusercontent.com/u/119888926?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/logankilpatrick",
+        "avatar": "https://avatars.githubusercontent.com/u/35577566?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pap-openai",
+        "avatar": "https://avatars.githubusercontent.com/u/174109416?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/openai/openai-cookbook",
+    "name": "openai/openai-cookbook",
+    "description": "Examples and guides for using the OpenAI API  ",
+    "language": "Jupyter Notebook",
+    "stars": "70637",
+    "forks": "11843",
+    "increased": "38 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/o1lab",
+        "avatar": "https://avatars.githubusercontent.com/u/5435402?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pranavxc",
+        "avatar": "https://avatars.githubusercontent.com/u/61551451?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/wingkwong",
+        "avatar": "https://avatars.githubusercontent.com/u/35857179?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rameshmane7218",
+        "avatar": "https://avatars.githubusercontent.com/u/101566080?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dstala",
+        "avatar": "https://avatars.githubusercontent.com/u/86527202?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/nocodb/nocodb",
+    "name": "nocodb/nocodb",
+    "description": "🔥 🔥 🔥 Open Source Airtable Alternative  ",
+    "language": "TypeScript",
+    "stars": "60609",
+    "forks": "4504",
+    "increased": "383 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/HQarroum",
+        "avatar": "https://avatars.githubusercontent.com/u/1384633?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/twocolors",
+        "avatar": "https://avatars.githubusercontent.com/u/207796?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/heralight",
+        "avatar": "https://avatars.githubusercontent.com/u/534840?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/miamimanni",
+        "avatar": "https://avatars.githubusercontent.com/u/4013912?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/saksham-45",
+        "avatar": "https://avatars.githubusercontent.com/u/72103486?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/HQarroum/docker-android",
+    "name": "HQarroum/docker-android",
+    "description": "🤖 A minimal and customizable Docker image running the Android emulator as a service.  ",
+    "language": "Shell",
+    "stars": "2467",
+    "forks": "145",
+    "increased": "397 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/boojack",
+        "avatar": "https://avatars.githubusercontent.com/u/24653555?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/johnnyjoygh",
+        "avatar": "https://avatars.githubusercontent.com/u/172508201?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/athurg",
+        "avatar": "https://avatars.githubusercontent.com/u/126313?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/usememos/memos",
+    "name": "usememos/memos",
+    "description": "An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.  ",
+    "language": "Go",
+    "stars": "51249",
+    "forks": "3697",
+    "increased": "1719 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/virattt",
+        "avatar": "https://avatars.githubusercontent.com/u/901795?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/arsaboo",
+        "avatar": "https://avatars.githubusercontent.com/u/18319734?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/KittatamSaisaard",
+        "avatar": "https://avatars.githubusercontent.com/u/50354903?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jsemldonado",
+        "avatar": "https://avatars.githubusercontent.com/u/172995042?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ak4631",
+        "avatar": "https://avatars.githubusercontent.com/u/132299371?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/virattt/ai-hedge-fund",
+    "name": "virattt/ai-hedge-fund",
+    "description": "An AI Hedge Fund Team  ",
+    "language": "Python",
+    "stars": "44511",
+    "forks": "7856",
+    "increased": "99 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ourongxing",
+        "avatar": "https://avatars.githubusercontent.com/u/48356807?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bruceblink",
+        "avatar": "https://avatars.githubusercontent.com/u/14996214?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/d380025303",
+        "avatar": "https://avatars.githubusercontent.com/u/31104430?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/urlyy",
+        "avatar": "https://avatars.githubusercontent.com/u/61675635?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jianlingzhong",
+        "avatar": "https://avatars.githubusercontent.com/u/12853307?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/ourongxing/newsnow",
+    "name": "ourongxing/newsnow",
+    "description": "Elegant reading of real-time and hottest news  ",
+    "language": "TypeScript",
+    "stars": "16560",
+    "forks": "4808",
+    "increased": "332 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/thdxr",
+        "avatar": "https://avatars.githubusercontent.com/u/826656?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/adamdotdevin",
+        "avatar": "https://avatars.githubusercontent.com/u/2363879?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rekram1-node",
+        "avatar": "https://avatars.githubusercontent.com/u/63023139?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/actions-user",
+        "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jayair",
+        "avatar": "https://avatars.githubusercontent.com/u/53023?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/anomalyco/opencode",
+    "name": "anomalyco/opencode",
+    "description": "The open source coding agent.  ",
+    "language": "TypeScript",
+    "stars": "47717",
+    "forks": "4082",
+    "increased": "1046 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/5rahim",
+        "avatar": "https://avatars.githubusercontent.com/u/44007774?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kyoruno",
+        "avatar": "https://avatars.githubusercontent.com/u/51477242?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/umag",
+        "avatar": "https://avatars.githubusercontent.com/u/2269529?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Ari-03",
+        "avatar": "https://avatars.githubusercontent.com/u/64171580?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/YoussefJarray",
+        "avatar": "https://avatars.githubusercontent.com/u/32774211?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/5rahim/seanime",
+    "name": "5rahim/seanime",
+    "description": "Open-source media server with a web interface and desktop app for anime and manga.  ",
+    "language": "Go",
+    "stars": "2114",
+    "forks": "134",
+    "increased": "380 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/gvanrossum",
+        "avatar": "https://avatars.githubusercontent.com/u/2894642?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/vstinner",
+        "avatar": "https://avatars.githubusercontent.com/u/194129?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/benjaminp",
+        "avatar": "https://avatars.githubusercontent.com/u/219470?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/birkenfeld",
+        "avatar": "https://avatars.githubusercontent.com/u/144359?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/freddrake",
+        "avatar": "https://avatars.githubusercontent.com/u/588792?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/python/cpython",
+    "name": "python/cpython",
+    "description": "The Python programming language  ",
+    "language": "Python",
+    "stars": "70700",
+    "forks": "33820",
+    "increased": "37 stars today"
+  }
+]
