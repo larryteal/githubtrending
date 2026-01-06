@@ -1,0 +1,335 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/stunningpixels",
+        "avatar": "https://avatars.githubusercontent.com/u/7957964?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/abcpro1",
+        "avatar": "https://avatars.githubusercontent.com/u/108011288?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/LSRCT",
+        "avatar": "https://avatars.githubusercontent.com/u/44728828?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ggordonhall",
+        "avatar": "https://avatars.githubusercontent.com/u/24595376?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/actions-user",
+        "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/BloopAI/vibe-kanban",
+    "name": "BloopAI/vibe-kanban",
+    "description": "Get 10X more out of Claude Code, Codex or any coding agent  ",
+    "language": "Rust",
+    "stars": "13023",
+    "forks": "1209",
+    "increased": "5066 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/boojack",
+        "avatar": "https://avatars.githubusercontent.com/u/24653555?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/johnnyjoygh",
+        "avatar": "https://avatars.githubusercontent.com/u/172508201?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/athurg",
+        "avatar": "https://avatars.githubusercontent.com/u/126313?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/usememos/memos",
+    "name": "usememos/memos",
+    "description": "An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.  ",
+    "language": "Go",
+    "stars": "51894",
+    "forks": "3730",
+    "increased": "4153 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/profvjreddi",
+        "avatar": "https://avatars.githubusercontent.com/u/6807956?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/hzeljko",
+        "avatar": "https://avatars.githubusercontent.com/u/36451783?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Mjrovai",
+        "avatar": "https://avatars.githubusercontent.com/u/17109416?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/harvard-edge/cs249r_book",
+    "name": "harvard-edge/cs249r_book",
+    "description": "Introduction to Machine Learning Systems  ",
+    "language": "JavaScript",
+    "stars": "15942",
+    "forks": "1828",
+    "increased": "3861 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/afkarxyz",
+        "avatar": "https://avatars.githubusercontent.com/u/173781715?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/exyezed",
+        "avatar": "https://avatars.githubusercontent.com/u/185352121?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/value1338",
+        "avatar": "https://avatars.githubusercontent.com/u/212730926?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Lukas200301",
+        "avatar": "https://avatars.githubusercontent.com/u/69511007?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/KyleARector",
+        "avatar": "https://avatars.githubusercontent.com/u/1421491?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/afkarxyz/SpotiFLAC",
+    "name": "afkarxyz/SpotiFLAC",
+    "description": "Get Spotify tracks in true FLAC from Tidal, Qobuz &amp; Amazon Music — no account required.  ",
+    "language": "TypeScript",
+    "stars": "2386",
+    "forks": "133",
+    "increased": "1590 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ourongxing",
+        "avatar": "https://avatars.githubusercontent.com/u/48356807?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bruceblink",
+        "avatar": "https://avatars.githubusercontent.com/u/14996214?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/d380025303",
+        "avatar": "https://avatars.githubusercontent.com/u/31104430?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/urlyy",
+        "avatar": "https://avatars.githubusercontent.com/u/61675635?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jianlingzhong",
+        "avatar": "https://avatars.githubusercontent.com/u/12853307?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/ourongxing/newsnow",
+    "name": "ourongxing/newsnow",
+    "description": "Elegant reading of real-time and hottest news  ",
+    "language": "TypeScript",
+    "stars": "16784",
+    "forks": "4832",
+    "increased": "1136 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/fatchord",
+        "avatar": "https://avatars.githubusercontent.com/u/37295764?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/JeremyCCHsu",
+        "avatar": "https://avatars.githubusercontent.com/u/16027371?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/manmay-nakhashi",
+        "avatar": "https://avatars.githubusercontent.com/u/17176700?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ZohaibAhmed",
+        "avatar": "https://avatars.githubusercontent.com/u/660224?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/TediPapajorgji",
+        "avatar": "https://avatars.githubusercontent.com/u/5790075?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/resemble-ai/chatterbox",
+    "name": "resemble-ai/chatterbox",
+    "description": "SoTA open-source TTS  ",
+    "language": "Python",
+    "stars": "20746",
+    "forks": "2690",
+    "increased": "1859 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/danielmiessler",
+        "avatar": "https://avatars.githubusercontent.com/u/50654?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mvoehringer",
+        "avatar": "https://avatars.githubusercontent.com/u/2719466?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sti0",
+        "avatar": "https://avatars.githubusercontent.com/u/18382402?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/fayerman-source",
+        "avatar": "https://avatars.githubusercontent.com/u/234407473?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/danielmiessler/Personal_AI_Infrastructure",
+    "name": "danielmiessler/Personal_AI_Infrastructure",
+    "description": "Personal AI Infrastructure for upgrading humans.  ",
+    "language": "TypeScript",
+    "stars": "3587",
+    "forks": "616",
+    "increased": "989 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/alexta69",
+        "avatar": "https://avatars.githubusercontent.com/u/7450369?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jwoglom",
+        "avatar": "https://avatars.githubusercontent.com/u/192620?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rdiaz738",
+        "avatar": "https://avatars.githubusercontent.com/u/76965799?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/asuyou",
+        "avatar": "https://avatars.githubusercontent.com/u/79045710?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/arabcoders",
+        "avatar": "https://avatars.githubusercontent.com/u/1621552?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/alexta69/metube",
+    "name": "alexta69/metube",
+    "description": "Self-hosted YouTube downloader (web UI for youtube-dl / yt-dlp)  ",
+    "language": "Python",
+    "stars": "12058",
+    "forks": "824",
+    "increased": "753 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/o1lab",
+        "avatar": "https://avatars.githubusercontent.com/u/5435402?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pranavxc",
+        "avatar": "https://avatars.githubusercontent.com/u/61551451?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/wingkwong",
+        "avatar": "https://avatars.githubusercontent.com/u/35857179?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rameshmane7218",
+        "avatar": "https://avatars.githubusercontent.com/u/101566080?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dstala",
+        "avatar": "https://avatars.githubusercontent.com/u/86527202?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/nocodb/nocodb",
+    "name": "nocodb/nocodb",
+    "description": "🔥 🔥 🔥 Open Source Airtable Alternative  ",
+    "language": "TypeScript",
+    "stars": "60924",
+    "forks": "4521",
+    "increased": "1517 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/jmaslek",
+        "avatar": "https://avatars.githubusercontent.com/u/18151143?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/deeleeramone",
+        "avatar": "https://avatars.githubusercontent.com/u/85772166?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/colin99d",
+        "avatar": "https://avatars.githubusercontent.com/u/72827203?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/DidierRLopes",
+        "avatar": "https://avatars.githubusercontent.com/u/25267873?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/montezdesousa",
+        "avatar": "https://avatars.githubusercontent.com/u/79287829?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/OpenBB-finance/OpenBB",
+    "name": "OpenBB-finance/OpenBB",
+    "description": "Financial data platform for analysts, quants and AI agents.  ",
+    "language": "Python",
+    "stars": "57165",
+    "forks": "5545",
+    "increased": "1166 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/thdxr",
+        "avatar": "https://avatars.githubusercontent.com/u/826656?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/adamdotdevin",
+        "avatar": "https://avatars.githubusercontent.com/u/2363879?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rekram1-node",
+        "avatar": "https://avatars.githubusercontent.com/u/63023139?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/actions-user",
+        "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jayair",
+        "avatar": "https://avatars.githubusercontent.com/u/53023?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/anomalyco/opencode",
+    "name": "anomalyco/opencode",
+    "description": "The open source coding agent.  ",
+    "language": "TypeScript",
+    "stars": "49749",
+    "forks": "4222",
+    "increased": "5430 stars this week"
+  }
+]

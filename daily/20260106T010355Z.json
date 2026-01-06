@@ -1,0 +1,300 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/thdxr",
+        "avatar": "https://avatars.githubusercontent.com/u/826656?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/adamdotdevin",
+        "avatar": "https://avatars.githubusercontent.com/u/2363879?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rekram1-node",
+        "avatar": "https://avatars.githubusercontent.com/u/63023139?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/actions-user",
+        "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jayair",
+        "avatar": "https://avatars.githubusercontent.com/u/53023?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/anomalyco/opencode",
+    "name": "anomalyco/opencode",
+    "description": "The open source coding agent.  ",
+    "language": "TypeScript",
+    "stars": "49749",
+    "forks": "4222",
+    "increased": "1852 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/boojack",
+        "avatar": "https://avatars.githubusercontent.com/u/24653555?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/johnnyjoygh",
+        "avatar": "https://avatars.githubusercontent.com/u/172508201?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/athurg",
+        "avatar": "https://avatars.githubusercontent.com/u/126313?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/usememos/memos",
+    "name": "usememos/memos",
+    "description": "An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.  ",
+    "language": "Go",
+    "stars": "51894",
+    "forks": "3730",
+    "increased": "658 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/jmaslek",
+        "avatar": "https://avatars.githubusercontent.com/u/18151143?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/deeleeramone",
+        "avatar": "https://avatars.githubusercontent.com/u/85772166?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/colin99d",
+        "avatar": "https://avatars.githubusercontent.com/u/72827203?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/DidierRLopes",
+        "avatar": "https://avatars.githubusercontent.com/u/25267873?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/montezdesousa",
+        "avatar": "https://avatars.githubusercontent.com/u/79287829?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/OpenBB-finance/OpenBB",
+    "name": "OpenBB-finance/OpenBB",
+    "description": "Financial data platform for analysts, quants and AI agents.  ",
+    "language": "Python",
+    "stars": "57165",
+    "forks": "5545",
+    "increased": "388 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ourongxing",
+        "avatar": "https://avatars.githubusercontent.com/u/48356807?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bruceblink",
+        "avatar": "https://avatars.githubusercontent.com/u/14996214?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/d380025303",
+        "avatar": "https://avatars.githubusercontent.com/u/31104430?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/urlyy",
+        "avatar": "https://avatars.githubusercontent.com/u/61675635?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jianlingzhong",
+        "avatar": "https://avatars.githubusercontent.com/u/12853307?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/ourongxing/newsnow",
+    "name": "ourongxing/newsnow",
+    "description": "Elegant reading of real-time and hottest news  ",
+    "language": "TypeScript",
+    "stars": "16784",
+    "forks": "4832",
+    "increased": "211 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/virattt",
+        "avatar": "https://avatars.githubusercontent.com/u/901795?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/arsaboo",
+        "avatar": "https://avatars.githubusercontent.com/u/18319734?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/KittatamSaisaard",
+        "avatar": "https://avatars.githubusercontent.com/u/50354903?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jsemldonado",
+        "avatar": "https://avatars.githubusercontent.com/u/172995042?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ak4631",
+        "avatar": "https://avatars.githubusercontent.com/u/132299371?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/virattt/ai-hedge-fund",
+    "name": "virattt/ai-hedge-fund",
+    "description": "An AI Hedge Fund Team  ",
+    "language": "Python",
+    "stars": "44749",
+    "forks": "7873",
+    "increased": "214 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/gvanrossum",
+        "avatar": "https://avatars.githubusercontent.com/u/2894642?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/vstinner",
+        "avatar": "https://avatars.githubusercontent.com/u/194129?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/benjaminp",
+        "avatar": "https://avatars.githubusercontent.com/u/219470?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/birkenfeld",
+        "avatar": "https://avatars.githubusercontent.com/u/144359?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/freddrake",
+        "avatar": "https://avatars.githubusercontent.com/u/588792?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/python/cpython",
+    "name": "python/cpython",
+    "description": "The Python programming language  ",
+    "language": "Python",
+    "stars": "70868",
+    "forks": "33831",
+    "increased": "171 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/YaoyaoChang",
+        "avatar": "https://avatars.githubusercontent.com/u/20237658?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/wenhui0924",
+        "avatar": "https://avatars.githubusercontent.com/u/46838421?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/hydropix",
+        "avatar": "https://avatars.githubusercontent.com/u/5154373?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/RaihanulHaque",
+        "avatar": "https://avatars.githubusercontent.com/u/52377279?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/microsoft/VibeVoice",
+    "name": "microsoft/VibeVoice",
+    "description": "Open-Source Frontier Voice AI  ",
+    "language": "Python",
+    "stars": "19764",
+    "forks": "2189",
+    "increased": "144 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/3b1b",
+        "avatar": "https://avatars.githubusercontent.com/u/11601040?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/TonyCrane",
+        "avatar": "https://avatars.githubusercontent.com/u/44120331?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bhbr",
+        "avatar": "https://avatars.githubusercontent.com/u/13440601?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/YishiMichael",
+        "avatar": "https://avatars.githubusercontent.com/u/50232075?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/eulertour",
+        "avatar": "https://avatars.githubusercontent.com/u/43117506?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/3b1b/manim",
+    "name": "3b1b/manim",
+    "description": "Animation engine for explanatory math videos  ",
+    "language": "Python",
+    "stars": "83199",
+    "forks": "7036",
+    "increased": "84 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/HarelM",
+        "avatar": "https://avatars.githubusercontent.com/u/3269297?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jfirebaugh",
+        "avatar": "https://avatars.githubusercontent.com/u/98601?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ansis",
+        "avatar": "https://avatars.githubusercontent.com/u/1421652?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mourner",
+        "avatar": "https://avatars.githubusercontent.com/u/25395?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/maplibre/maplibre-gl-js",
+    "name": "maplibre/maplibre-gl-js",
+    "description": "MapLibre GL JS - Interactive vector tile maps in the browser  ",
+    "language": "TypeScript",
+    "stars": "9385",
+    "forks": "968",
+    "increased": "39 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/actions-user",
+        "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bcherny",
+        "avatar": "https://avatars.githubusercontent.com/u/1761758?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ashwin-ant",
+        "avatar": "https://avatars.githubusercontent.com/u/178951676?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ant-kurt",
+        "avatar": "https://avatars.githubusercontent.com/u/209710463?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/anthropics/claude-code",
+    "name": "anthropics/claude-code",
+    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.  ",
+    "language": "Shell",
+    "stars": "51638",
+    "forks": "3709",
+    "increased": "405 stars today"
+  }
+]
