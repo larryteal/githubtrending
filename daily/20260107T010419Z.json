@@ -1,0 +1,294 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/protobuf-github-bot",
+        "avatar": "https://avatars.githubusercontent.com/u/106703886?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/haberman",
+        "avatar": "https://avatars.githubusercontent.com/u/1270?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/protobuf-team-bot",
+        "avatar": "https://avatars.githubusercontent.com/u/105450428?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mkruskal-google",
+        "avatar": "https://avatars.githubusercontent.com/u/62662355?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/xfxyjwf",
+        "avatar": "https://avatars.githubusercontent.com/u/8551050?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/protocolbuffers/protobuf",
+    "name": "protocolbuffers/protobuf",
+    "description": "Protocol Buffers - Google's data interchange format  ",
+    "language": "C++",
+    "stars": "70086",
+    "forks": "15982",
+    "increased": "14 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Lissy93",
+        "avatar": "https://avatars.githubusercontent.com/u/1862727?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/liss-bot",
+        "avatar": "https://avatars.githubusercontent.com/u/87835202?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tnga",
+        "avatar": "https://avatars.githubusercontent.com/u/12436411?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ChrisCarini",
+        "avatar": "https://avatars.githubusercontent.com/u/6374067?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/n0a",
+        "avatar": "https://avatars.githubusercontent.com/u/14150948?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Lissy93/web-check",
+    "name": "Lissy93/web-check",
+    "description": "🕵️‍♂️ All-in-one OSINT tool for analysing any website  ",
+    "language": "TypeScript",
+    "stars": "27790",
+    "forks": "2238",
+    "increased": "173 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/crutkas",
+        "avatar": "https://avatars.githubusercontent.com/u/1462282?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bao-qian",
+        "avatar": "https://avatars.githubusercontent.com/u/1169912?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/qianlifeng",
+        "avatar": "https://avatars.githubusercontent.com/u/1725475?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jaimecbernardo",
+        "avatar": "https://avatars.githubusercontent.com/u/26118718?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/stefansjfw",
+        "avatar": "https://avatars.githubusercontent.com/u/57057282?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/microsoft/PowerToys",
+    "name": "microsoft/PowerToys",
+    "description": "Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks  ",
+    "language": "C#",
+    "stars": "127274",
+    "forks": "7572",
+    "increased": "60 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/actions-user",
+        "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ashwin-ant",
+        "avatar": "https://avatars.githubusercontent.com/u/178951676?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ltawfik",
+        "avatar": "https://avatars.githubusercontent.com/u/11431944?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/anthropics/claude-code-action",
+    "name": "anthropics/claude-code-action",
+    "language": "TypeScript",
+    "stars": "4762",
+    "forks": "1338",
+    "increased": "32 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/potassiummmm",
+        "avatar": "https://avatars.githubusercontent.com/u/54800242?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/younesbelkada",
+        "avatar": "https://avatars.githubusercontent.com/u/49240599?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tsong-ms",
+        "avatar": "https://avatars.githubusercontent.com/u/84831885?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dawnmsg",
+        "avatar": "https://avatars.githubusercontent.com/u/23658399?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sd983527",
+        "avatar": "https://avatars.githubusercontent.com/u/59006636?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/microsoft/BitNet",
+    "name": "microsoft/BitNet",
+    "description": "Official inference framework for 1-bit LLMs  ",
+    "language": "Python",
+    "stars": "25372",
+    "forks": "2019",
+    "increased": "766 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/matheusfelipeog",
+        "avatar": "https://avatars.githubusercontent.com/u/50463866?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/davemachado",
+        "avatar": "https://avatars.githubusercontent.com/u/15134885?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/marcelscruz",
+        "avatar": "https://avatars.githubusercontent.com/u/12413903?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pawelborkar",
+        "avatar": "https://avatars.githubusercontent.com/u/36134699?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jbrooksuk",
+        "avatar": "https://avatars.githubusercontent.com/u/246103?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/marcelscruz/public-apis",
+    "name": "marcelscruz/public-apis",
+    "description": "A collaborative list of public APIs for developers  ",
+    "language": "JavaScript",
+    "stars": "6875",
+    "forks": "658",
+    "increased": "171 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/nadetastic",
+        "avatar": "https://avatars.githubusercontent.com/u/87148442?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ykethan",
+        "avatar": "https://avatars.githubusercontent.com/u/87995712?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/AnilMaktala",
+        "avatar": "https://avatars.githubusercontent.com/u/3206171?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/victorccccc",
+        "avatar": "https://avatars.githubusercontent.com/u/17761274?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jwdomb",
+        "avatar": "https://avatars.githubusercontent.com/u/875982?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/kirodotdev/Kiro",
+    "name": "kirodotdev/Kiro",
+    "description": "Kiro is an agentic IDE that works alongside you from prototype to production.  ",
+    "stars": "2672",
+    "forks": "120",
+    "increased": "25 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/LuckyOne7777",
+        "avatar": "https://avatars.githubusercontent.com/u/176624608?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mintyPT",
+        "avatar": "https://avatars.githubusercontent.com/u/1147911?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/console2002",
+        "avatar": "https://avatars.githubusercontent.com/u/118824206?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ChenyangLi4288",
+        "avatar": "https://avatars.githubusercontent.com/u/113459182?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/LuckyOne7777/ChatGPT-Micro-Cap-Experiment",
+    "name": "LuckyOne7777/ChatGPT-Micro-Cap-Experiment",
+    "description": "This repo powers my experiment where ChatGPT manages a real-money micro-cap stock portfolio.  ",
+    "language": "Python",
+    "stars": "7088",
+    "forks": "1530",
+    "increased": "67 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/rejojer",
+        "avatar": "https://avatars.githubusercontent.com/u/8255061?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/zmtomorrow",
+        "avatar": "https://avatars.githubusercontent.com/u/13518252?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/clarenceluo78",
+        "avatar": "https://avatars.githubusercontent.com/u/71917860?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/VectifyAI/PageIndex",
+    "name": "VectifyAI/PageIndex",
+    "description": "📑 PageIndex: Document Index for Reasoning-based RAG  ",
+    "language": "Jupyter Notebook",
+    "stars": "4714",
+    "forks": "366",
+    "increased": "41 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/bobbyiliev",
+        "avatar": "https://avatars.githubusercontent.com/u/21223421?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/marcelozarate",
+        "avatar": "https://avatars.githubusercontent.com/u/3013536?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ezerw",
+        "avatar": "https://avatars.githubusercontent.com/u/943396?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/shmick",
+        "avatar": "https://avatars.githubusercontent.com/u/1855990?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rgrangeiro",
+        "avatar": "https://avatars.githubusercontent.com/u/5529832?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/bobbyiliev/introduction-to-bash-scripting",
+    "name": "bobbyiliev/introduction-to-bash-scripting",
+    "description": "Free Introduction to Bash Scripting eBook  ",
+    "language": "HTML",
+    "stars": "5384",
+    "forks": "573",
+    "increased": "75 stars today"
+  }
+]
