@@ -1,0 +1,442 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/OrKoN",
+        "avatar": "https://avatars.githubusercontent.com/u/399150?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Lightning00Blade",
+        "avatar": "https://avatars.githubusercontent.com/u/34244704?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/browser-automation-bot",
+        "avatar": "https://avatars.githubusercontent.com/u/133232582?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sebastianbenz",
+        "avatar": "https://avatars.githubusercontent.com/u/380472?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+    "name": "ChromeDevTools/chrome-devtools-mcp",
+    "description": "Chrome DevTools for coding agents  ",
+    "language": "TypeScript",
+    "stars": "19345",
+    "forks": "1192",
+    "increased": "315 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/actions-user",
+        "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bcherny",
+        "avatar": "https://avatars.githubusercontent.com/u/1761758?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ashwin-ant",
+        "avatar": "https://avatars.githubusercontent.com/u/178951676?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ant-kurt",
+        "avatar": "https://avatars.githubusercontent.com/u/209710463?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/anthropics/claude-code",
+    "name": "anthropics/claude-code",
+    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.  ",
+    "language": "Shell",
+    "stars": "53387",
+    "forks": "3838",
+    "increased": "671 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/nothings",
+        "avatar": "https://avatars.githubusercontent.com/u/7525026?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rygorous",
+        "avatar": "https://avatars.githubusercontent.com/u/1077496?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/BSVino",
+        "avatar": "https://avatars.githubusercontent.com/u/815310?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ocornut",
+        "avatar": "https://avatars.githubusercontent.com/u/8225057?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rwhitworth",
+        "avatar": "https://avatars.githubusercontent.com/u/7214365?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/nothings/stb",
+    "name": "nothings/stb",
+    "description": "stb single-file public domain libraries for C/C++  ",
+    "language": "C",
+    "stars": "31645",
+    "forks": "7971",
+    "increased": "185 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/jenny-miromind",
+        "avatar": "https://avatars.githubusercontent.com/u/216834696?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/BinWang28",
+        "avatar": "https://avatars.githubusercontent.com/u/25280416?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/RogerChern",
+        "avatar": "https://avatars.githubusercontent.com/u/5038495?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/wuqiao",
+        "avatar": "https://avatars.githubusercontent.com/u/13794879?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/gali-leilei",
+        "avatar": "https://avatars.githubusercontent.com/u/165768992?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/MiroMindAI/MiroThinker",
+    "name": "MiroMindAI/MiroThinker",
+    "description": "MiroThinker is an open-source search agent suite, built for tool-augmented reasoning and real-world information seeking, aiming to match the deep research experience of OpenAI Deep Research and Gemini Deep Research.  ",
+    "language": "Python",
+    "stars": "3434",
+    "forks": "220",
+    "increased": "803 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/protobuf-github-bot",
+        "avatar": "https://avatars.githubusercontent.com/u/106703886?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/haberman",
+        "avatar": "https://avatars.githubusercontent.com/u/1270?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/protobuf-team-bot",
+        "avatar": "https://avatars.githubusercontent.com/u/105450428?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mkruskal-google",
+        "avatar": "https://avatars.githubusercontent.com/u/62662355?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/xfxyjwf",
+        "avatar": "https://avatars.githubusercontent.com/u/8551050?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/protocolbuffers/protobuf",
+    "name": "protocolbuffers/protobuf",
+    "description": "Protocol Buffers - Google's data interchange format  ",
+    "language": "C++",
+    "stars": "70234",
+    "forks": "15996",
+    "increased": "62 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/thedotmack",
+        "avatar": "https://avatars.githubusercontent.com/u/683968?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dreamiurg",
+        "avatar": "https://avatars.githubusercontent.com/u/369468?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/thedotmack/claude-mem",
+    "name": "thedotmack/claude-mem",
+    "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.  ",
+    "language": "TypeScript",
+    "stars": "12495",
+    "forks": "777",
+    "increased": "800 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/crschnick",
+        "avatar": "https://avatars.githubusercontent.com/u/72509152?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tolgaulas",
+        "avatar": "https://avatars.githubusercontent.com/u/1431106?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Quezaquo",
+        "avatar": "https://avatars.githubusercontent.com/u/94786353?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/nillpoe",
+        "avatar": "https://avatars.githubusercontent.com/u/98728918?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/muescha",
+        "avatar": "https://avatars.githubusercontent.com/u/184316?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/xpipe-io/xpipe",
+    "name": "xpipe-io/xpipe",
+    "description": "Access your entire server infrastructure from your local desktop  ",
+    "language": "Java",
+    "stars": "12852",
+    "forks": "501",
+    "increased": "172 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/mwatson-nvidia",
+        "avatar": "https://avatars.githubusercontent.com/u/157857377?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/maximilianigl",
+        "avatar": "https://avatars.githubusercontent.com/u/4333579?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/aarons-nv",
+        "avatar": "https://avatars.githubusercontent.com/u/232947330?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/wilsonCernWq",
+        "avatar": "https://avatars.githubusercontent.com/u/13118582?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/karkuspeter",
+        "avatar": "https://avatars.githubusercontent.com/u/10713926?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/NVlabs/alpasim",
+    "name": "NVlabs/alpasim",
+    "language": "Python",
+    "stars": "526",
+    "forks": "43",
+    "increased": "65 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Lissy93",
+        "avatar": "https://avatars.githubusercontent.com/u/1862727?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/liss-bot",
+        "avatar": "https://avatars.githubusercontent.com/u/87835202?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tnga",
+        "avatar": "https://avatars.githubusercontent.com/u/12436411?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ChrisCarini",
+        "avatar": "https://avatars.githubusercontent.com/u/6374067?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/n0a",
+        "avatar": "https://avatars.githubusercontent.com/u/14150948?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Lissy93/web-check",
+    "name": "Lissy93/web-check",
+    "description": "🕵️‍♂️ All-in-one OSINT tool for analysing any website  ",
+    "language": "TypeScript",
+    "stars": "28973",
+    "forks": "2327",
+    "increased": "642 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/gennadiycivil",
+        "avatar": "https://avatars.githubusercontent.com/u/12735026?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kuzkry",
+        "avatar": "https://avatars.githubusercontent.com/u/18310463?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/derekmauro",
+        "avatar": "https://avatars.githubusercontent.com/u/761129?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/copybara-github",
+        "avatar": "https://avatars.githubusercontent.com/u/32201506?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/google/googletest",
+    "name": "google/googletest",
+    "description": "GoogleTest - Google Testing and Mocking Framework  ",
+    "language": "C++",
+    "stars": "37857",
+    "forks": "10654",
+    "increased": "119 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/mistercrunch",
+        "avatar": "https://avatars.githubusercontent.com/u/487433?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/villebro",
+        "avatar": "https://avatars.githubusercontent.com/u/33317356?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/michael-s-molina",
+        "avatar": "https://avatars.githubusercontent.com/u/70410625?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kristw",
+        "avatar": "https://avatars.githubusercontent.com/u/1659771?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/apache/superset",
+    "name": "apache/superset",
+    "description": "Apache Superset is a Data Visualization and Data Exploration Platform  ",
+    "language": "TypeScript",
+    "stars": "69837",
+    "forks": "16457",
+    "increased": "40 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/sharafdin",
+        "avatar": "https://avatars.githubusercontent.com/u/83120892?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Olow304",
+        "avatar": "https://avatars.githubusercontent.com/u/7048571?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mo-omar-0197",
+        "avatar": "https://avatars.githubusercontent.com/u/155487369?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/TyJK",
+        "avatar": "https://avatars.githubusercontent.com/u/26332776?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/abhayKashyap03",
+        "avatar": "https://avatars.githubusercontent.com/u/24230808?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/memvid/memvid",
+    "name": "memvid/memvid",
+    "description": "Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.  ",
+    "language": "Rust",
+    "stars": "11734",
+    "forks": "974",
+    "increased": "465 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/michaellightricks",
+        "avatar": "https://avatars.githubusercontent.com/u/17297304?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kvochko",
+        "avatar": "https://avatars.githubusercontent.com/u/2308830?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pintza",
+        "avatar": "https://avatars.githubusercontent.com/u/21036388?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rluxemburg",
+        "avatar": "https://avatars.githubusercontent.com/u/39070516?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/gschreiber",
+        "avatar": "https://avatars.githubusercontent.com/u/52624251?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Lightricks/ComfyUI-LTXVideo",
+    "name": "Lightricks/ComfyUI-LTXVideo",
+    "description": "LTX-Video Support for ComfyUI  ",
+    "language": "Python",
+    "stars": "2648",
+    "forks": "264",
+    "increased": "48 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/sairin1202",
+        "avatar": "https://avatars.githubusercontent.com/u/5654879?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/evan-ak",
+        "avatar": "https://avatars.githubusercontent.com/u/33013709?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ankaisen",
+        "avatar": "https://avatars.githubusercontent.com/u/51148505?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/arnav-terex",
+        "avatar": "https://avatars.githubusercontent.com/u/183591086?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/NevaMind-AI/memU",
+    "name": "NevaMind-AI/memU",
+    "description": "Memory infrastructure for LLMs and AI agents  ",
+    "language": "Python",
+    "stars": "3796",
+    "forks": "253",
+    "increased": "112 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Re-bin",
+        "avatar": "https://avatars.githubusercontent.com/u/52506698?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/geraldthewes",
+        "avatar": "https://avatars.githubusercontent.com/u/1416309?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/xlrrrr",
+        "avatar": "https://avatars.githubusercontent.com/u/151314054?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/chaohuang-ai",
+        "avatar": "https://avatars.githubusercontent.com/u/204865953?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ZhangQL2824",
+        "avatar": "https://avatars.githubusercontent.com/u/132539273?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/HKUDS/VideoRAG",
+    "name": "HKUDS/VideoRAG",
+    "description": "[KDD'2026] \"VideoRAG: Chat with Your Videos\"  ",
+    "language": "Python",
+    "stars": "2038",
+    "forks": "286",
+    "increased": "127 stars today"
+  }
+]
