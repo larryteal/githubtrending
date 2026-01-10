@@ -1,0 +1,337 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/OrKoN",
+        "avatar": "https://avatars.githubusercontent.com/u/399150?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Lightning00Blade",
+        "avatar": "https://avatars.githubusercontent.com/u/34244704?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/browser-automation-bot",
+        "avatar": "https://avatars.githubusercontent.com/u/133232582?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sebastianbenz",
+        "avatar": "https://avatars.githubusercontent.com/u/380472?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+    "name": "ChromeDevTools/chrome-devtools-mcp",
+    "description": "Chrome DevTools for coding agents  ",
+    "language": "TypeScript",
+    "stars": "19748",
+    "forks": "1208",
+    "increased": "432 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/actions-user",
+        "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bcherny",
+        "avatar": "https://avatars.githubusercontent.com/u/1761758?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ashwin-ant",
+        "avatar": "https://avatars.githubusercontent.com/u/178951676?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ant-kurt",
+        "avatar": "https://avatars.githubusercontent.com/u/209710463?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/anthropics/claude-code",
+    "name": "anthropics/claude-code",
+    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.  ",
+    "language": "Shell",
+    "stars": "54141",
+    "forks": "3901",
+    "increased": "789 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/obra",
+        "avatar": "https://avatars.githubusercontent.com/u/45416?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jjshanks",
+        "avatar": "https://avatars.githubusercontent.com/u/62661?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sotte",
+        "avatar": "https://avatars.githubusercontent.com/u/79138?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rhuss",
+        "avatar": "https://avatars.githubusercontent.com/u/99080?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/obra/superpowers",
+    "name": "obra/superpowers",
+    "description": "Claude Code superpowers: core skills library  ",
+    "language": "Shell",
+    "stars": "15331",
+    "forks": "1233",
+    "increased": "381 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/adamwathan",
+        "avatar": "https://avatars.githubusercontent.com/u/4323180?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/RobinMalfait",
+        "avatar": "https://avatars.githubusercontent.com/u/1834413?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/thecrypticace",
+        "avatar": "https://avatars.githubusercontent.com/u/614993?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/philipp-spiess",
+        "avatar": "https://avatars.githubusercontent.com/u/458591?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/tailwindlabs/tailwindcss",
+    "name": "tailwindlabs/tailwindcss",
+    "description": "A utility-first CSS framework for rapid UI development.  ",
+    "language": "TypeScript",
+    "stars": "92471",
+    "forks": "4926",
+    "increased": "262 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/mlsmaycon",
+        "avatar": "https://avatars.githubusercontent.com/u/7747744?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pascal-fischer",
+        "avatar": "https://avatars.githubusercontent.com/u/32096965?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/braginini",
+        "avatar": "https://avatars.githubusercontent.com/u/700848?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/lixmal",
+        "avatar": "https://avatars.githubusercontent.com/u/17948409?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pappz",
+        "avatar": "https://avatars.githubusercontent.com/u/7756831?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/netbirdio/netbird",
+    "name": "netbirdio/netbird",
+    "description": "Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.  ",
+    "language": "Go",
+    "stars": "20848",
+    "forks": "1018",
+    "increased": "28 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/C4illin",
+        "avatar": "https://avatars.githubusercontent.com/u/20753603?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Laertes87",
+        "avatar": "https://avatars.githubusercontent.com/u/132786928?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/flrjrf",
+        "avatar": "https://avatars.githubusercontent.com/u/95495174?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/C4illin/ConvertX",
+    "name": "C4illin/ConvertX",
+    "description": "💾 Self-hosted online file converter. Supports 1000+ formats ⚙️  ",
+    "language": "TypeScript",
+    "stars": "13929",
+    "forks": "743",
+    "increased": "160 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/michaellightricks",
+        "avatar": "https://avatars.githubusercontent.com/u/17297304?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kvochko",
+        "avatar": "https://avatars.githubusercontent.com/u/2308830?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pintza",
+        "avatar": "https://avatars.githubusercontent.com/u/21036388?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rluxemburg",
+        "avatar": "https://avatars.githubusercontent.com/u/39070516?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/gschreiber",
+        "avatar": "https://avatars.githubusercontent.com/u/52624251?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Lightricks/ComfyUI-LTXVideo",
+    "name": "Lightricks/ComfyUI-LTXVideo",
+    "description": "LTX-Video Support for ComfyUI  ",
+    "language": "Python",
+    "stars": "2787",
+    "forks": "272",
+    "increased": "158 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/jenny-miromind",
+        "avatar": "https://avatars.githubusercontent.com/u/216834696?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/BinWang28",
+        "avatar": "https://avatars.githubusercontent.com/u/25280416?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/RogerChern",
+        "avatar": "https://avatars.githubusercontent.com/u/5038495?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/wuqiao",
+        "avatar": "https://avatars.githubusercontent.com/u/13794879?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/gali-leilei",
+        "avatar": "https://avatars.githubusercontent.com/u/165768992?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/MiroMindAI/MiroThinker",
+    "name": "MiroMindAI/MiroThinker",
+    "description": "MiroThinker is an open-source search agent model, built for tool-augmented reasoning and real-world information seeking, aiming to match the deep research experience of OpenAI Deep Research and Gemini Deep Research.  ",
+    "language": "Python",
+    "stars": "3943",
+    "forks": "248",
+    "increased": "619 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/gennadiycivil",
+        "avatar": "https://avatars.githubusercontent.com/u/12735026?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/derekmauro",
+        "avatar": "https://avatars.githubusercontent.com/u/761129?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kuzkry",
+        "avatar": "https://avatars.githubusercontent.com/u/18310463?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/copybara-github",
+        "avatar": "https://avatars.githubusercontent.com/u/32201506?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/google/googletest",
+    "name": "google/googletest",
+    "description": "GoogleTest - Google Testing and Mocking Framework  ",
+    "language": "C++",
+    "stars": "37940",
+    "forks": "10659",
+    "increased": "75 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ulivz",
+        "avatar": "https://avatars.githubusercontent.com/u/23133919?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ycjcl868",
+        "avatar": "https://avatars.githubusercontent.com/u/13595509?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ZhaoHeh",
+        "avatar": "https://avatars.githubusercontent.com/u/38528320?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cjraft",
+        "avatar": "https://avatars.githubusercontent.com/u/13687952?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/skychx",
+        "avatar": "https://avatars.githubusercontent.com/u/24872439?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/bytedance/UI-TARS-desktop",
+    "name": "bytedance/UI-TARS-desktop",
+    "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra  ",
+    "language": "TypeScript",
+    "stars": "21790",
+    "forks": "2094",
+    "increased": "831 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Johnshall",
+        "avatar": "https://avatars.githubusercontent.com/u/71166067?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever",
+    "name": "Johnshall/Shadowrocket-ADBlock-Rules-Forever",
+    "description": "提供多款 Shadowrocket 规则，拥有强劲的广告过滤功能。每日 8 时重新构建规则。  ",
+    "stars": "21505",
+    "forks": "1401",
+    "increased": "101 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/thdxr",
+        "avatar": "https://avatars.githubusercontent.com/u/826656?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/adamdotdevin",
+        "avatar": "https://avatars.githubusercontent.com/u/2363879?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rekram1-node",
+        "avatar": "https://avatars.githubusercontent.com/u/63023139?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/actions-user",
+        "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jayair",
+        "avatar": "https://avatars.githubusercontent.com/u/53023?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/anomalyco/opencode",
+    "name": "anomalyco/opencode",
+    "description": "The open source coding agent.  ",
+    "language": "TypeScript",
+    "stars": "57363",
+    "forks": "4897",
+    "increased": "1877 stars today"
+  }
+]

@@ -1,0 +1,304 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Lissy93",
+        "avatar": "https://avatars.githubusercontent.com/u/1862727?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/liss-bot",
+        "avatar": "https://avatars.githubusercontent.com/u/87835202?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tnga",
+        "avatar": "https://avatars.githubusercontent.com/u/12436411?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ChrisCarini",
+        "avatar": "https://avatars.githubusercontent.com/u/6374067?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/n0a",
+        "avatar": "https://avatars.githubusercontent.com/u/14150948?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Lissy93/web-check",
+    "name": "Lissy93/web-check",
+    "description": "🕵️‍♂️ All-in-one OSINT tool for analysing any website  ",
+    "language": "TypeScript",
+    "stars": "29173",
+    "forks": "2341",
+    "increased": "2050 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/boojack",
+        "avatar": "https://avatars.githubusercontent.com/u/24653555?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/johnnyjoygh",
+        "avatar": "https://avatars.githubusercontent.com/u/172508201?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/athurg",
+        "avatar": "https://avatars.githubusercontent.com/u/126313?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/usememos/memos",
+    "name": "usememos/memos",
+    "description": "An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.  ",
+    "language": "Go",
+    "stars": "52740",
+    "forks": "3782",
+    "increased": "4297 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/thdxr",
+        "avatar": "https://avatars.githubusercontent.com/u/826656?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/adamdotdevin",
+        "avatar": "https://avatars.githubusercontent.com/u/2363879?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rekram1-node",
+        "avatar": "https://avatars.githubusercontent.com/u/63023139?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/actions-user",
+        "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jayair",
+        "avatar": "https://avatars.githubusercontent.com/u/53023?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/anomalyco/opencode",
+    "name": "anomalyco/opencode",
+    "description": "The open source coding agent.  ",
+    "language": "TypeScript",
+    "stars": "57363",
+    "forks": "4897",
+    "increased": "11233 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/frankbria",
+        "avatar": "https://avatars.githubusercontent.com/u/136862992?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/epan",
+        "avatar": "https://avatars.githubusercontent.com/u/892749?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ikanc",
+        "avatar": "https://avatars.githubusercontent.com/u/4008383?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/frankbria/ralph-claude-code",
+    "name": "frankbria/ralph-claude-code",
+    "description": "Autonomous AI development loop for Claude Code with intelligent exit detection  ",
+    "language": "Shell",
+    "stars": "926",
+    "forks": "70",
+    "increased": "640 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/actions-user",
+        "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bcherny",
+        "avatar": "https://avatars.githubusercontent.com/u/1761758?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ashwin-ant",
+        "avatar": "https://avatars.githubusercontent.com/u/178951676?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ant-kurt",
+        "avatar": "https://avatars.githubusercontent.com/u/209710463?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/anthropics/claude-code",
+    "name": "anthropics/claude-code",
+    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.  ",
+    "language": "Shell",
+    "stars": "54141",
+    "forks": "3901",
+    "increased": "3452 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/HQarroum",
+        "avatar": "https://avatars.githubusercontent.com/u/1384633?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/twocolors",
+        "avatar": "https://avatars.githubusercontent.com/u/207796?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/heralight",
+        "avatar": "https://avatars.githubusercontent.com/u/534840?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/miamimanni",
+        "avatar": "https://avatars.githubusercontent.com/u/4013912?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/saksham-45",
+        "avatar": "https://avatars.githubusercontent.com/u/72103486?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/HQarroum/docker-android",
+    "name": "HQarroum/docker-android",
+    "description": "🤖 A minimal and customizable Docker image running the Android emulator as a service.  ",
+    "language": "Shell",
+    "stars": "2747",
+    "forks": "159",
+    "increased": "1293 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/jmaslek",
+        "avatar": "https://avatars.githubusercontent.com/u/18151143?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/deeleeramone",
+        "avatar": "https://avatars.githubusercontent.com/u/85772166?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/colin99d",
+        "avatar": "https://avatars.githubusercontent.com/u/72827203?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/DidierRLopes",
+        "avatar": "https://avatars.githubusercontent.com/u/25267873?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/montezdesousa",
+        "avatar": "https://avatars.githubusercontent.com/u/79287829?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/OpenBB-finance/OpenBB",
+    "name": "OpenBB-finance/OpenBB",
+    "description": "Financial data platform for analysts, quants and AI agents.  ",
+    "language": "Python",
+    "stars": "57821",
+    "forks": "5597",
+    "increased": "1802 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/stunningpixels",
+        "avatar": "https://avatars.githubusercontent.com/u/7957964?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/abcpro1",
+        "avatar": "https://avatars.githubusercontent.com/u/108011288?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/LSRCT",
+        "avatar": "https://avatars.githubusercontent.com/u/44728828?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ggordonhall",
+        "avatar": "https://avatars.githubusercontent.com/u/24595376?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/actions-user",
+        "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/BloopAI/vibe-kanban",
+    "name": "BloopAI/vibe-kanban",
+    "description": "Get 10X more out of Claude Code, Codex or any coding agent  ",
+    "language": "Rust",
+    "stars": "14385",
+    "forks": "1343",
+    "increased": "3205 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ourongxing",
+        "avatar": "https://avatars.githubusercontent.com/u/48356807?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bruceblink",
+        "avatar": "https://avatars.githubusercontent.com/u/14996214?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/d380025303",
+        "avatar": "https://avatars.githubusercontent.com/u/31104430?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/urlyy",
+        "avatar": "https://avatars.githubusercontent.com/u/61675635?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jianlingzhong",
+        "avatar": "https://avatars.githubusercontent.com/u/12853307?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/ourongxing/newsnow",
+    "name": "ourongxing/newsnow",
+    "description": "Elegant reading of real-time and hottest news  ",
+    "language": "TypeScript",
+    "stars": "17124",
+    "forks": "4897",
+    "increased": "1264 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/numman-ali",
+        "avatar": "https://avatars.githubusercontent.com/u/35879093?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cau1k",
+        "avatar": "https://avatars.githubusercontent.com/u/223908162?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ben-vargas",
+        "avatar": "https://avatars.githubusercontent.com/u/20713656?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ghoulr",
+        "avatar": "https://avatars.githubusercontent.com/u/552983?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/numman-ali/opencode-openai-codex-auth",
+    "name": "numman-ali/opencode-openai-codex-auth",
+    "description": "OAuth authentication plugin for personal coding assistance with ChatGPT Plus/Pro subscriptions - uses OpenAI's official authentication method  ",
+    "language": "TypeScript",
+    "stars": "1323",
+    "forks": "81",
+    "increased": "305 stars this week"
+  }
+]
