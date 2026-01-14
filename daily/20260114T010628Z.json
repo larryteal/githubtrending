@@ -1,0 +1,257 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/obra",
+        "avatar": "https://avatars.githubusercontent.com/u/45416?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jjshanks",
+        "avatar": "https://avatars.githubusercontent.com/u/62661?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sotte",
+        "avatar": "https://avatars.githubusercontent.com/u/79138?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rhuss",
+        "avatar": "https://avatars.githubusercontent.com/u/99080?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/obra/superpowers",
+    "name": "obra/superpowers",
+    "description": "Claude Code superpowers: core skills library  ",
+    "language": "Shell",
+    "stars": "20410",
+    "forks": "1545",
+    "increased": "1576 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/AndreyNikiforov",
+        "avatar": "https://avatars.githubusercontent.com/u/158558?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ndbroadbent",
+        "avatar": "https://avatars.githubusercontent.com/u/139536?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/menkej",
+        "avatar": "https://avatars.githubusercontent.com/u/12273047?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/icloud-photos-downloader/icloud_photos_downloader",
+    "name": "icloud-photos-downloader/icloud_photos_downloader",
+    "description": "A command-line tool to download photos from iCloud  ",
+    "language": "Python",
+    "stars": "10992",
+    "forks": "731",
+    "increased": "413 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/NickM-27",
+        "avatar": "https://avatars.githubusercontent.com/u/14866235?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/blakeblackshear",
+        "avatar": "https://avatars.githubusercontent.com/u/569905?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/hawkeye217",
+        "avatar": "https://avatars.githubusercontent.com/u/32435876?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/weblate",
+        "avatar": "https://avatars.githubusercontent.com/u/1607653?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/paularmstrong",
+        "avatar": "https://avatars.githubusercontent.com/u/33297?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/blakeblackshear/frigate",
+    "name": "blakeblackshear/frigate",
+    "description": "NVR with realtime local object detection for IP cameras  ",
+    "language": "TypeScript",
+    "stars": "28959",
+    "forks": "2706",
+    "increased": "51 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/dzhao",
+        "avatar": "https://avatars.githubusercontent.com/u/25687?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pouriya",
+        "avatar": "https://avatars.githubusercontent.com/u/20663776?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/anqueue",
+        "avatar": "https://avatars.githubusercontent.com/u/35087590?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/twitter/the-algorithm",
+    "name": "twitter/the-algorithm",
+    "description": "Source code for the X Recommendation Algorithm  ",
+    "language": "Scala",
+    "stars": "69537",
+    "forks": "12856",
+    "increased": "73 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/frenck",
+        "avatar": "https://avatars.githubusercontent.com/u/195327?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/fabaff",
+        "avatar": "https://avatars.githubusercontent.com/u/116184?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/balloob",
+        "avatar": "https://avatars.githubusercontent.com/u/1444314?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/c0ffeeca7",
+        "avatar": "https://avatars.githubusercontent.com/u/38767475?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/home-assistant/home-assistant.io",
+    "name": "home-assistant/home-assistant.io",
+    "description": "📘 Home Assistant User documentation  ",
+    "language": "HTML",
+    "stars": "8322",
+    "forks": "8115",
+    "increased": "185 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/chidiwilliams",
+        "avatar": "https://avatars.githubusercontent.com/u/17879672?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/raivisdejus",
+        "avatar": "https://avatars.githubusercontent.com/u/5319134?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Chenghao999",
+        "avatar": "https://avatars.githubusercontent.com/u/94270615?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/faveoled",
+        "avatar": "https://avatars.githubusercontent.com/u/85760289?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/albanobattistella",
+        "avatar": "https://avatars.githubusercontent.com/u/34811668?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/chidiwilliams/buzz",
+    "name": "chidiwilliams/buzz",
+    "description": "Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.  ",
+    "language": "Python",
+    "stars": "16767",
+    "forks": "1248",
+    "increased": "280 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/adam-maj",
+        "avatar": "https://avatars.githubusercontent.com/u/64697628?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ashaltu",
+        "avatar": "https://avatars.githubusercontent.com/u/10238372?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/eltociear",
+        "avatar": "https://avatars.githubusercontent.com/u/22633385?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/xianbaoqian",
+        "avatar": "https://avatars.githubusercontent.com/u/38108242?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/adam-maj/tiny-gpu",
+    "name": "adam-maj/tiny-gpu",
+    "description": "A minimal GPU design in Verilog to learn how GPUs work from the ground up  ",
+    "language": "SystemVerilog",
+    "stars": "9827",
+    "forks": "773",
+    "increased": "107 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/KAMI911",
+        "avatar": "https://avatars.githubusercontent.com/u/5292264?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/freetv332",
+        "avatar": "https://avatars.githubusercontent.com/u/82442641?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/NezbednikSK",
+        "avatar": "https://avatars.githubusercontent.com/u/47603275?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/TVKaista",
+        "avatar": "https://avatars.githubusercontent.com/u/103857112?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/infid0",
+        "avatar": "https://avatars.githubusercontent.com/u/17656192?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Free-TV/IPTV",
+    "name": "Free-TV/IPTV",
+    "description": "M3U Playlist for free TV channels  ",
+    "language": "Python",
+    "stars": "10596",
+    "forks": "1728",
+    "increased": "319 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Kitenite",
+        "avatar": "https://avatars.githubusercontent.com/u/31864905?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/drfarrell",
+        "avatar": "https://avatars.githubusercontent.com/u/14104075?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/spartan-vutrannguyen",
+        "avatar": "https://avatars.githubusercontent.com/u/134599728?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/iNerdStack",
+        "avatar": "https://avatars.githubusercontent.com/u/62861595?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/onlook-dev/onlook",
+    "name": "onlook-dev/onlook",
+    "description": "The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI  ",
+    "language": "TypeScript",
+    "stars": "24098",
+    "forks": "1779",
+    "increased": "54 stars today"
+  }
+]

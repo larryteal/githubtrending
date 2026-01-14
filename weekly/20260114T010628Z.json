@@ -1,0 +1,242 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/thdxr",
+        "avatar": "https://avatars.githubusercontent.com/u/826656?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/adamdotdevin",
+        "avatar": "https://avatars.githubusercontent.com/u/2363879?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rekram1-node",
+        "avatar": "https://avatars.githubusercontent.com/u/63023139?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/actions-user",
+        "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jayair",
+        "avatar": "https://avatars.githubusercontent.com/u/53023?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/anomalyco/opencode",
+    "name": "anomalyco/opencode",
+    "description": "The open source coding agent.  ",
+    "language": "TypeScript",
+    "stars": "67176",
+    "forks": "5806",
+    "increased": "15403 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/frankbria",
+        "avatar": "https://avatars.githubusercontent.com/u/136862992?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/epan",
+        "avatar": "https://avatars.githubusercontent.com/u/892749?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ikanc",
+        "avatar": "https://avatars.githubusercontent.com/u/4008383?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/frankbria/ralph-claude-code",
+    "name": "frankbria/ralph-claude-code",
+    "description": "Autonomous AI development loop for Claude Code with intelligent exit detection  ",
+    "language": "Shell",
+    "stars": "2602",
+    "forks": "173",
+    "increased": "1980 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Lissy93",
+        "avatar": "https://avatars.githubusercontent.com/u/1862727?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/liss-bot",
+        "avatar": "https://avatars.githubusercontent.com/u/87835202?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tnga",
+        "avatar": "https://avatars.githubusercontent.com/u/12436411?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ChrisCarini",
+        "avatar": "https://avatars.githubusercontent.com/u/6374067?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/n0a",
+        "avatar": "https://avatars.githubusercontent.com/u/14150948?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Lissy93/web-check",
+    "name": "Lissy93/web-check",
+    "description": "🕵️‍♂️ All-in-one OSINT tool for analysing any website  ",
+    "language": "TypeScript",
+    "stars": "29661",
+    "forks": "2366",
+    "increased": "2208 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ulivz",
+        "avatar": "https://avatars.githubusercontent.com/u/23133919?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ycjcl868",
+        "avatar": "https://avatars.githubusercontent.com/u/13595509?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ZhaoHeh",
+        "avatar": "https://avatars.githubusercontent.com/u/38528320?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cjraft",
+        "avatar": "https://avatars.githubusercontent.com/u/13687952?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/skychx",
+        "avatar": "https://avatars.githubusercontent.com/u/24872439?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/bytedance/UI-TARS-desktop",
+    "name": "bytedance/UI-TARS-desktop",
+    "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra  ",
+    "language": "TypeScript",
+    "stars": "23459",
+    "forks": "2277",
+    "increased": "3012 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/actions-user",
+        "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bcherny",
+        "avatar": "https://avatars.githubusercontent.com/u/1761758?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ant-kurt",
+        "avatar": "https://avatars.githubusercontent.com/u/209710463?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ashwin-ant",
+        "avatar": "https://avatars.githubusercontent.com/u/178951676?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/anthropics/claude-code",
+    "name": "anthropics/claude-code",
+    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.  ",
+    "language": "Shell",
+    "stars": "56146",
+    "forks": "4089",
+    "increased": "4096 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/obra",
+        "avatar": "https://avatars.githubusercontent.com/u/45416?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jjshanks",
+        "avatar": "https://avatars.githubusercontent.com/u/62661?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sotte",
+        "avatar": "https://avatars.githubusercontent.com/u/79138?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rhuss",
+        "avatar": "https://avatars.githubusercontent.com/u/99080?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/obra/superpowers",
+    "name": "obra/superpowers",
+    "description": "Claude Code superpowers: core skills library  ",
+    "language": "Shell",
+    "stars": "20410",
+    "forks": "1545",
+    "increased": "5547 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/OrKoN",
+        "avatar": "https://avatars.githubusercontent.com/u/399150?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Lightning00Blade",
+        "avatar": "https://avatars.githubusercontent.com/u/34244704?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/browser-automation-bot",
+        "avatar": "https://avatars.githubusercontent.com/u/133232582?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sebastianbenz",
+        "avatar": "https://avatars.githubusercontent.com/u/380472?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+    "name": "ChromeDevTools/chrome-devtools-mcp",
+    "description": "Chrome DevTools for coding agents  ",
+    "language": "TypeScript",
+    "stars": "20800",
+    "forks": "1251",
+    "increased": "1979 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/thinkwee",
+        "avatar": "https://avatars.githubusercontent.com/u/11889052?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Alphamasterliu",
+        "avatar": "https://avatars.githubusercontent.com/u/110011045?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/qianc62",
+        "avatar": "https://avatars.githubusercontent.com/u/48988402?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/NA-Wen",
+        "avatar": "https://avatars.githubusercontent.com/u/92134380?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/eltociear",
+        "avatar": "https://avatars.githubusercontent.com/u/22633385?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/OpenBMB/ChatDev",
+    "name": "OpenBMB/ChatDev",
+    "description": "ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration  ",
+    "language": "Python",
+    "stars": "28544",
+    "forks": "3604",
+    "increased": "501 stars this week"
+  }
+]
