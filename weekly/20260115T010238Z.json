@@ -1,0 +1,362 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/thdxr",
+        "avatar": "https://avatars.githubusercontent.com/u/826656?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/adamdotdevin",
+        "avatar": "https://avatars.githubusercontent.com/u/2363879?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rekram1-node",
+        "avatar": "https://avatars.githubusercontent.com/u/63023139?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/actions-user",
+        "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jayair",
+        "avatar": "https://avatars.githubusercontent.com/u/53023?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/anomalyco/opencode",
+    "name": "anomalyco/opencode",
+    "description": "The open source coding agent.  ",
+    "language": "TypeScript",
+    "stars": "69316",
+    "forks": "6015",
+    "increased": "15978 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/frankbria",
+        "avatar": "https://avatars.githubusercontent.com/u/136862992?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/epan",
+        "avatar": "https://avatars.githubusercontent.com/u/892749?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ikanc",
+        "avatar": "https://avatars.githubusercontent.com/u/4008383?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/frankbria/ralph-claude-code",
+    "name": "frankbria/ralph-claude-code",
+    "description": "Autonomous AI development loop for Claude Code with intelligent exit detection  ",
+    "language": "Shell",
+    "stars": "2884",
+    "forks": "193",
+    "increased": "2199 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/jenny-miromind",
+        "avatar": "https://avatars.githubusercontent.com/u/216834696?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/BinWang28",
+        "avatar": "https://avatars.githubusercontent.com/u/25280416?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/RogerChern",
+        "avatar": "https://avatars.githubusercontent.com/u/5038495?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/wuqiao",
+        "avatar": "https://avatars.githubusercontent.com/u/13794879?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/gali-leilei",
+        "avatar": "https://avatars.githubusercontent.com/u/165768992?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/MiroMindAI/MiroThinker",
+    "name": "MiroMindAI/MiroThinker",
+    "description": "MiroThinker is an open-source search agent model, built for tool-augmented reasoning and real-world information seeking, aiming to match the deep research experience of OpenAI Deep Research and Gemini Deep Research.  ",
+    "language": "Python",
+    "stars": "4867",
+    "forks": "327",
+    "increased": "2394 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ulivz",
+        "avatar": "https://avatars.githubusercontent.com/u/23133919?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ycjcl868",
+        "avatar": "https://avatars.githubusercontent.com/u/13595509?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ZhaoHeh",
+        "avatar": "https://avatars.githubusercontent.com/u/38528320?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cjraft",
+        "avatar": "https://avatars.githubusercontent.com/u/13687952?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/skychx",
+        "avatar": "https://avatars.githubusercontent.com/u/24872439?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/bytedance/UI-TARS-desktop",
+    "name": "bytedance/UI-TARS-desktop",
+    "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra  ",
+    "language": "TypeScript",
+    "stars": "23632",
+    "forks": "2292",
+    "increased": "3207 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/obra",
+        "avatar": "https://avatars.githubusercontent.com/u/45416?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jjshanks",
+        "avatar": "https://avatars.githubusercontent.com/u/62661?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sotte",
+        "avatar": "https://avatars.githubusercontent.com/u/79138?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rhuss",
+        "avatar": "https://avatars.githubusercontent.com/u/99080?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/obra/superpowers",
+    "name": "obra/superpowers",
+    "description": "Claude Code superpowers: core skills library  ",
+    "language": "Shell",
+    "stars": "22264",
+    "forks": "1677",
+    "increased": "7358 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/actions-user",
+        "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bcherny",
+        "avatar": "https://avatars.githubusercontent.com/u/1761758?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ant-kurt",
+        "avatar": "https://avatars.githubusercontent.com/u/209710463?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ashwin-ant",
+        "avatar": "https://avatars.githubusercontent.com/u/178951676?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/anthropics/claude-code",
+    "name": "anthropics/claude-code",
+    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.  ",
+    "language": "Shell",
+    "stars": "56530",
+    "forks": "4127",
+    "increased": "4087 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/thinkwee",
+        "avatar": "https://avatars.githubusercontent.com/u/11889052?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Alphamasterliu",
+        "avatar": "https://avatars.githubusercontent.com/u/110011045?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/qianc62",
+        "avatar": "https://avatars.githubusercontent.com/u/48988402?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/NA-Wen",
+        "avatar": "https://avatars.githubusercontent.com/u/92134380?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/eltociear",
+        "avatar": "https://avatars.githubusercontent.com/u/22633385?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/OpenBMB/ChatDev",
+    "name": "OpenBMB/ChatDev",
+    "description": "ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration  ",
+    "language": "Python",
+    "stars": "28633",
+    "forks": "3610",
+    "increased": "615 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Lissy93",
+        "avatar": "https://avatars.githubusercontent.com/u/1862727?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/liss-bot",
+        "avatar": "https://avatars.githubusercontent.com/u/87835202?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tnga",
+        "avatar": "https://avatars.githubusercontent.com/u/12436411?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ChrisCarini",
+        "avatar": "https://avatars.githubusercontent.com/u/6374067?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/n0a",
+        "avatar": "https://avatars.githubusercontent.com/u/14150948?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Lissy93/web-check",
+    "name": "Lissy93/web-check",
+    "description": "🕵️‍♂️ All-in-one OSINT tool for analysing any website  ",
+    "language": "TypeScript",
+    "stars": "29828",
+    "forks": "2368",
+    "increased": "1554 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/OrKoN",
+        "avatar": "https://avatars.githubusercontent.com/u/399150?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Lightning00Blade",
+        "avatar": "https://avatars.githubusercontent.com/u/34244704?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/browser-automation-bot",
+        "avatar": "https://avatars.githubusercontent.com/u/133232582?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sebastianbenz",
+        "avatar": "https://avatars.githubusercontent.com/u/380472?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+    "name": "ChromeDevTools/chrome-devtools-mcp",
+    "description": "Chrome DevTools for coding agents  ",
+    "language": "TypeScript",
+    "stars": "20956",
+    "forks": "1259",
+    "increased": "2037 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/hacksider",
+        "avatar": "https://avatars.githubusercontent.com/u/1267200?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/KRSHH",
+        "avatar": "https://avatars.githubusercontent.com/u/136873090?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/vic4key",
+        "avatar": "https://avatars.githubusercontent.com/u/5672864?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pereiraroland26",
+        "avatar": "https://avatars.githubusercontent.com/u/52257639?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kier007",
+        "avatar": "https://avatars.githubusercontent.com/u/8604601?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/hacksider/Deep-Live-Cam",
+    "name": "hacksider/Deep-Live-Cam",
+    "description": "real time face swap and one-click video deepfake with only a single image  ",
+    "language": "Python",
+    "stars": "77801",
+    "forks": "11350",
+    "increased": "1017 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/sairin1202",
+        "avatar": "https://avatars.githubusercontent.com/u/5654879?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/evan-ak",
+        "avatar": "https://avatars.githubusercontent.com/u/33013709?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ankaisen",
+        "avatar": "https://avatars.githubusercontent.com/u/51148505?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/arnav-terex",
+        "avatar": "https://avatars.githubusercontent.com/u/183591086?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/NevaMind-AI/memU",
+    "name": "NevaMind-AI/memU",
+    "description": "Memory infrastructure for LLMs and AI agents  ",
+    "language": "Python",
+    "stars": "4569",
+    "forks": "309",
+    "increased": "1077 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/sharafdin",
+        "avatar": "https://avatars.githubusercontent.com/u/83120892?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Olow304",
+        "avatar": "https://avatars.githubusercontent.com/u/7048571?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mo-omar-0197",
+        "avatar": "https://avatars.githubusercontent.com/u/155487369?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/TyJK",
+        "avatar": "https://avatars.githubusercontent.com/u/26332776?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/akash-R-A-J",
+        "avatar": "https://avatars.githubusercontent.com/u/103271263?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/memvid/memvid",
+    "name": "memvid/memvid",
+    "description": "Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.  ",
+    "language": "Rust",
+    "stars": "12294",
+    "forks": "1034",
+    "increased": "1052 stars this week"
+  }
+]

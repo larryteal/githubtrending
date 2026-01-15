@@ -1,0 +1,195 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/obra",
+        "avatar": "https://avatars.githubusercontent.com/u/45416?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jjshanks",
+        "avatar": "https://avatars.githubusercontent.com/u/62661?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sotte",
+        "avatar": "https://avatars.githubusercontent.com/u/79138?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rhuss",
+        "avatar": "https://avatars.githubusercontent.com/u/99080?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/obra/superpowers",
+    "name": "obra/superpowers",
+    "description": "Claude Code superpowers: core skills library  ",
+    "language": "Shell",
+    "stars": "22264",
+    "forks": "1677",
+    "increased": "1863 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/dzhao",
+        "avatar": "https://avatars.githubusercontent.com/u/25687?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pouriya",
+        "avatar": "https://avatars.githubusercontent.com/u/20663776?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/anqueue",
+        "avatar": "https://avatars.githubusercontent.com/u/35087590?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/twitter/the-algorithm",
+    "name": "twitter/the-algorithm",
+    "description": "Source code for the X Recommendation Algorithm  ",
+    "language": "Scala",
+    "stars": "69873",
+    "forks": "12899",
+    "increased": "366 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/schurzi",
+        "avatar": "https://avatars.githubusercontent.com/u/1736679?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rndmh3ro",
+        "avatar": "https://avatars.githubusercontent.com/u/3198961?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/chris-rock",
+        "avatar": "https://avatars.githubusercontent.com/u/1178413?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/fitz123",
+        "avatar": "https://avatars.githubusercontent.com/u/10243861?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/dev-sec/ansible-collection-hardening",
+    "name": "dev-sec/ansible-collection-hardening",
+    "description": "This Ansible collection provides battle tested hardening for Linux, SSH, nginx, MySQL  ",
+    "language": "Jinja",
+    "stars": "5009",
+    "forks": "798",
+    "increased": "23 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/mudler",
+        "avatar": "https://avatars.githubusercontent.com/u/2420543?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/localai-bot",
+        "avatar": "https://avatars.githubusercontent.com/u/139863280?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dave-gray101",
+        "avatar": "https://avatars.githubusercontent.com/u/15875595?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/mudler/LocalAI",
+    "name": "mudler/LocalAI",
+    "description": "🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more. Features: Generate Text, MCP, Audio, Video, Images, Voice Cloning, Distributed, P2P and decentralized inference  ",
+    "language": "Go",
+    "stars": "41563",
+    "forks": "3404",
+    "increased": "64 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/sonnylazuardi",
+        "avatar": "https://avatars.githubusercontent.com/u/856609?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dusskapark",
+        "avatar": "https://avatars.githubusercontent.com/u/4177529?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Kenrick-Zhou",
+        "avatar": "https://avatars.githubusercontent.com/u/973833?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/saleiva",
+        "avatar": "https://avatars.githubusercontent.com/u/132149?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/gregce",
+        "avatar": "https://avatars.githubusercontent.com/u/1565958?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/grab/cursor-talk-to-figma-mcp",
+    "name": "grab/cursor-talk-to-figma-mcp",
+    "description": "TalkToFigma: MCP integration between Cursor and Figma, allowing Cursor Agentic AI to communicate with Figma for reading designs and modifying them programmatically.  ",
+    "language": "JavaScript",
+    "stars": "5989",
+    "forks": "635",
+    "increased": "14 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/zoicware",
+        "avatar": "https://avatars.githubusercontent.com/u/118035521?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/adeel26in",
+        "avatar": "https://avatars.githubusercontent.com/u/205355955?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Daviid-P",
+        "avatar": "https://avatars.githubusercontent.com/u/7734808?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/csmit195",
+        "avatar": "https://avatars.githubusercontent.com/u/5733443?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/zoicware/RemoveWindowsAI",
+    "name": "zoicware/RemoveWindowsAI",
+    "description": "Force Remove Copilot, Recall and More in Windows 11  ",
+    "language": "PowerShell",
+    "stars": "8425",
+    "forks": "262",
+    "increased": "339 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ibuildthecloud",
+        "avatar": "https://avatars.githubusercontent.com/u/1754002?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kinarashah",
+        "avatar": "https://avatars.githubusercontent.com/u/16870565?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dramich",
+        "avatar": "https://avatars.githubusercontent.com/u/13897607?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jakefhyde",
+        "avatar": "https://avatars.githubusercontent.com/u/33796120?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rmweir",
+        "avatar": "https://avatars.githubusercontent.com/u/19376037?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/rancher/rancher",
+    "name": "rancher/rancher",
+    "description": "Complete container management platform  ",
+    "language": "Go",
+    "stars": "25140",
+    "forks": "3142",
+    "increased": "6 stars today"
+  }
+]
