@@ -1,0 +1,280 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Wendong-Fan",
+        "avatar": "https://avatars.githubusercontent.com/u/133094783?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/FooFindBar",
+        "avatar": "https://avatars.githubusercontent.com/u/64395240?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/fengju0213",
+        "avatar": "https://avatars.githubusercontent.com/u/168447269?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/a7m-1st",
+        "avatar": "https://avatars.githubusercontent.com/u/108264625?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/nitpicker55555",
+        "avatar": "https://avatars.githubusercontent.com/u/91596298?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/eigent-ai/eigent",
+    "name": "eigent-ai/eigent",
+    "description": "Eigent: The Open Source Cowork Desktop to Unlock Your Exceptional Productivity.  ",
+    "language": "TypeScript",
+    "stars": "6015",
+    "forks": "687",
+    "increased": "751 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/NickM-27",
+        "avatar": "https://avatars.githubusercontent.com/u/14866235?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/blakeblackshear",
+        "avatar": "https://avatars.githubusercontent.com/u/569905?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/hawkeye217",
+        "avatar": "https://avatars.githubusercontent.com/u/32435876?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/weblate",
+        "avatar": "https://avatars.githubusercontent.com/u/1607653?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/paularmstrong",
+        "avatar": "https://avatars.githubusercontent.com/u/33297?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/blakeblackshear/frigate",
+    "name": "blakeblackshear/frigate",
+    "description": "NVR with realtime local object detection for IP cameras  ",
+    "language": "TypeScript",
+    "stars": "29361",
+    "forks": "2739",
+    "increased": "96 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/obra",
+        "avatar": "https://avatars.githubusercontent.com/u/45416?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jjshanks",
+        "avatar": "https://avatars.githubusercontent.com/u/62661?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sotte",
+        "avatar": "https://avatars.githubusercontent.com/u/79138?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rhuss",
+        "avatar": "https://avatars.githubusercontent.com/u/99080?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/obra/superpowers",
+    "name": "obra/superpowers",
+    "description": "An agentic skills framework &amp; software development methodology that works.  ",
+    "language": "Shell",
+    "stars": "24306",
+    "forks": "1809",
+    "increased": "2053 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/aanm",
+        "avatar": "https://avatars.githubusercontent.com/u/5714066?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tgraf",
+        "avatar": "https://avatars.githubusercontent.com/u/1417913?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/joestringer",
+        "avatar": "https://avatars.githubusercontent.com/u/1243336?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tklauser",
+        "avatar": "https://avatars.githubusercontent.com/u/539708?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jrajahalme",
+        "avatar": "https://avatars.githubusercontent.com/u/6518235?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/cilium/cilium",
+    "name": "cilium/cilium",
+    "description": "eBPF-based Networking, Security, and Observability  ",
+    "language": "Go",
+    "stars": "23351",
+    "forks": "3537",
+    "increased": "20 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/sawka",
+        "avatar": "https://avatars.githubusercontent.com/u/2722291?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/esimkowitz",
+        "avatar": "https://avatars.githubusercontent.com/u/16651283?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/oneirocosm",
+        "avatar": "https://avatars.githubusercontent.com/u/107814465?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/wavetermdev/waveterm",
+    "name": "wavetermdev/waveterm",
+    "description": "An open-source, cross-platform terminal for seamless workflows  ",
+    "language": "Go",
+    "stars": "16440",
+    "forks": "708",
+    "increased": "88 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/glenn-jocher",
+        "avatar": "https://avatars.githubusercontent.com/u/26833433?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/UltralyticsAssistant",
+        "avatar": "https://avatars.githubusercontent.com/u/135830346?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Laughing-q",
+        "avatar": "https://avatars.githubusercontent.com/u/61612323?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/RizwanMunawar",
+        "avatar": "https://avatars.githubusercontent.com/u/62513924?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/ultralytics/ultralytics",
+    "name": "ultralytics/ultralytics",
+    "description": "Ultralytics YOLO 🚀  ",
+    "language": "Python",
+    "stars": "51416",
+    "forks": "9898",
+    "increased": "149 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/mudler",
+        "avatar": "https://avatars.githubusercontent.com/u/2420543?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/localai-bot",
+        "avatar": "https://avatars.githubusercontent.com/u/139863280?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dave-gray101",
+        "avatar": "https://avatars.githubusercontent.com/u/15875595?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/mudler/LocalAI",
+    "name": "mudler/LocalAI",
+    "description": "🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more. Features: Generate Text, MCP, Audio, Video, Images, Voice Cloning, Distributed, P2P and decentralized inference  ",
+    "language": "Go",
+    "stars": "41913",
+    "forks": "3432",
+    "increased": "390 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/priankakariat",
+        "avatar": "https://avatars.githubusercontent.com/u/42828735?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/schmidt-sebastian",
+        "avatar": "https://avatars.githubusercontent.com/u/19397744?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kinarr",
+        "avatar": "https://avatars.githubusercontent.com/u/42828719?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kuaashish",
+        "avatar": "https://avatars.githubusercontent.com/u/98159216?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/camillol",
+        "avatar": "https://avatars.githubusercontent.com/u/196272?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/google-ai-edge/mediapipe",
+    "name": "google-ai-edge/mediapipe",
+    "description": "Cross-platform, customizable ML solutions for live and streaming media.  ",
+    "language": "C++",
+    "stars": "33197",
+    "forks": "5735",
+    "increased": "48 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/chrisvxd",
+        "avatar": "https://avatars.githubusercontent.com/u/985961?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/FedericoBonel",
+        "avatar": "https://avatars.githubusercontent.com/u/57616024?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/monospaced",
+        "avatar": "https://avatars.githubusercontent.com/u/98794?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/xaviemirmon",
+        "avatar": "https://avatars.githubusercontent.com/u/5609840?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/puckeditor/puck",
+    "name": "puckeditor/puck",
+    "description": "The visual editor for React  ",
+    "language": "TypeScript",
+    "stars": "10638",
+    "forks": "749",
+    "increased": "53 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/dzhao",
+        "avatar": "https://avatars.githubusercontent.com/u/25687?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pouriya",
+        "avatar": "https://avatars.githubusercontent.com/u/20663776?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/anqueue",
+        "avatar": "https://avatars.githubusercontent.com/u/35087590?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/twitter/the-algorithm",
+    "name": "twitter/the-algorithm",
+    "description": "Source code for the X Recommendation Algorithm  ",
+    "language": "Scala",
+    "stars": "70227",
+    "forks": "12935",
+    "increased": "370 stars today"
+  }
+]
