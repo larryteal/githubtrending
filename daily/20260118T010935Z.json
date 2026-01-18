@@ -1,0 +1,149 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Wendong-Fan",
+        "avatar": "https://avatars.githubusercontent.com/u/133094783?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/FooFindBar",
+        "avatar": "https://avatars.githubusercontent.com/u/64395240?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/fengju0213",
+        "avatar": "https://avatars.githubusercontent.com/u/168447269?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/a7m-1st",
+        "avatar": "https://avatars.githubusercontent.com/u/108264625?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/nitpicker55555",
+        "avatar": "https://avatars.githubusercontent.com/u/91596298?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/eigent-ai/eigent",
+    "name": "eigent-ai/eigent",
+    "description": "Eigent: The Open Source Cowork Desktop to Unlock Your Exceptional Productivity.  ",
+    "language": "TypeScript",
+    "stars": "8640",
+    "forks": "912",
+    "increased": "760 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/obra",
+        "avatar": "https://avatars.githubusercontent.com/u/45416?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jjshanks",
+        "avatar": "https://avatars.githubusercontent.com/u/62661?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sotte",
+        "avatar": "https://avatars.githubusercontent.com/u/79138?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rhuss",
+        "avatar": "https://avatars.githubusercontent.com/u/99080?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/obra/superpowers",
+    "name": "obra/superpowers",
+    "description": "An agentic skills framework &amp; software development methodology that works.  ",
+    "language": "Shell",
+    "stars": "27399",
+    "forks": "2033",
+    "increased": "1422 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/chrisvxd",
+        "avatar": "https://avatars.githubusercontent.com/u/985961?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/FedericoBonel",
+        "avatar": "https://avatars.githubusercontent.com/u/57616024?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/monospaced",
+        "avatar": "https://avatars.githubusercontent.com/u/98794?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/xaviemirmon",
+        "avatar": "https://avatars.githubusercontent.com/u/5609840?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/puckeditor/puck",
+    "name": "puckeditor/puck",
+    "description": "The visual editor for React with AI superpowers  ",
+    "language": "TypeScript",
+    "stars": "11390",
+    "forks": "784",
+    "increased": "336 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/aksg87",
+        "avatar": "https://avatars.githubusercontent.com/u/19271735?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kleeena",
+        "avatar": "https://avatars.githubusercontent.com/u/62442533?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mariano",
+        "avatar": "https://avatars.githubusercontent.com/u/18598?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tonebeta",
+        "avatar": "https://avatars.githubusercontent.com/u/4890246?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/google/langextract",
+    "name": "google/langextract",
+    "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.  ",
+    "language": "Python",
+    "stars": "21595",
+    "forks": "1499",
+    "increased": "425 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/kuishou68",
+        "avatar": "https://avatars.githubusercontent.com/u/54054995?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/halvee-tech",
+        "avatar": "https://avatars.githubusercontent.com/u/224486645?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/IceyLiu",
+        "avatar": "https://avatars.githubusercontent.com/u/10683426?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/goworm",
+        "avatar": "https://avatars.githubusercontent.com/u/28083037?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/iOfficeAI/AionUi",
+    "name": "iOfficeAI/AionUi",
+    "description": "Free, local, open-source Cowork for Gemini CLI, Claude Code, Codex, Opencode, Qwen Code, Goose Cli, Auggie, and more | 🌟 Star if you like it!  ",
+    "language": "TypeScript",
+    "stars": "4909",
+    "forks": "388",
+    "increased": "605 stars today"
+  }
+]
