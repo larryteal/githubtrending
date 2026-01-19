@@ -1,0 +1,272 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/kuishou68",
+        "avatar": "https://avatars.githubusercontent.com/u/54054995?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/halvee-tech",
+        "avatar": "https://avatars.githubusercontent.com/u/224486645?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/IceyLiu",
+        "avatar": "https://avatars.githubusercontent.com/u/10683426?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/goworm",
+        "avatar": "https://avatars.githubusercontent.com/u/28083037?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/iOfficeAI/AionUi",
+    "name": "iOfficeAI/AionUi",
+    "description": "Free, local, open-source Cowork for Gemini CLI, Claude Code, Codex, Opencode, Qwen Code, Goose Cli, Auggie, and more | 🌟 Star if you like it!  ",
+    "language": "TypeScript",
+    "stars": "5617",
+    "forks": "436",
+    "increased": "651 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/dstftw",
+        "avatar": "https://avatars.githubusercontent.com/u/1908898?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/phihag",
+        "avatar": "https://avatars.githubusercontent.com/u/779568?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pukkandan",
+        "avatar": "https://avatars.githubusercontent.com/u/6623388?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/remitamine",
+        "avatar": "https://avatars.githubusercontent.com/u/10879694?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jaimeMF",
+        "avatar": "https://avatars.githubusercontent.com/u/1239727?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/yt-dlp/yt-dlp",
+    "name": "yt-dlp/yt-dlp",
+    "description": "A feature-rich command-line audio/video downloader  ",
+    "language": "Python",
+    "stars": "142480",
+    "forks": "11507",
+    "increased": "149 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/cjdsellers",
+        "avatar": "https://avatars.githubusercontent.com/u/22510164?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/limx0",
+        "avatar": "https://avatars.githubusercontent.com/u/4816153?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/filipmacek",
+        "avatar": "https://avatars.githubusercontent.com/u/16453976?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/faysou",
+        "avatar": "https://avatars.githubusercontent.com/u/893862?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/davidsblom",
+        "avatar": "https://avatars.githubusercontent.com/u/49148?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/nautechsystems/nautilus_trader",
+    "name": "nautechsystems/nautilus_trader",
+    "description": "A high-performance algorithmic trading platform and event-driven backtester  ",
+    "language": "Rust",
+    "stars": "17587",
+    "forks": "2096",
+    "increased": "46 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/aksg87",
+        "avatar": "https://avatars.githubusercontent.com/u/19271735?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kleeena",
+        "avatar": "https://avatars.githubusercontent.com/u/62442533?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mariano",
+        "avatar": "https://avatars.githubusercontent.com/u/18598?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tonebeta",
+        "avatar": "https://avatars.githubusercontent.com/u/4890246?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/google/langextract",
+    "name": "google/langextract",
+    "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.  ",
+    "language": "Python",
+    "stars": "22058",
+    "forks": "1527",
+    "increased": "395 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/VoxInstruct",
+        "avatar": "https://avatars.githubusercontent.com/u/167593451?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/a710128",
+        "avatar": "https://avatars.githubusercontent.com/u/8132992?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/liuxin99",
+        "avatar": "https://avatars.githubusercontent.com/u/33060143?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/AbrahamSanders",
+        "avatar": "https://avatars.githubusercontent.com/u/29312744?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/vytskalt",
+        "avatar": "https://avatars.githubusercontent.com/u/35194709?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/OpenBMB/VoxCPM",
+    "name": "OpenBMB/VoxCPM",
+    "description": "VoxCPM: Tokenizer-Free TTS for Context-Aware Speech Generation and True-to-Life Voice Cloning  ",
+    "language": "Python",
+    "stars": "4233",
+    "forks": "512",
+    "increased": "238 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/yichuan-w",
+        "avatar": "https://avatars.githubusercontent.com/u/73766326?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/andylizf",
+        "avatar": "https://avatars.githubusercontent.com/u/28052536?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/actions-user",
+        "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ASuresh0524",
+        "avatar": "https://avatars.githubusercontent.com/u/135802079?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/yichuan-w/LEANN",
+    "name": "yichuan-w/LEANN",
+    "description": "RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.  ",
+    "language": "Python",
+    "stars": "8975",
+    "forks": "784",
+    "increased": "144 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Flowseal",
+        "avatar": "https://avatars.githubusercontent.com/u/50780822?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/V3nilla",
+        "avatar": "https://avatars.githubusercontent.com/u/48512277?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/fridorin",
+        "avatar": "https://avatars.githubusercontent.com/u/93490920?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/amozebus",
+        "avatar": "https://avatars.githubusercontent.com/u/190386872?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ekungurov",
+        "avatar": "https://avatars.githubusercontent.com/u/8576664?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Flowseal/zapret-discord-youtube",
+    "name": "Flowseal/zapret-discord-youtube",
+    "language": "Batchfile",
+    "stars": "21236",
+    "forks": "1774",
+    "increased": "55 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/tobi",
+        "avatar": "https://avatars.githubusercontent.com/u/347?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pcasaretto",
+        "avatar": "https://avatars.githubusercontent.com/u/817039?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/burke",
+        "avatar": "https://avatars.githubusercontent.com/u/1284?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/tobi/try",
+    "name": "tobi/try",
+    "description": "fresh directories for every vibe  ",
+    "language": "Shell",
+    "stars": "2698",
+    "forks": "98",
+    "increased": "29 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Mebus",
+        "avatar": "https://avatars.githubusercontent.com/u/271557?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/quantumcore",
+        "avatar": "https://avatars.githubusercontent.com/u/34606382?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/herrBez",
+        "avatar": "https://avatars.githubusercontent.com/u/6976484?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/EdwardBetts",
+        "avatar": "https://avatars.githubusercontent.com/u/3818?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/plex3r",
+        "avatar": "https://avatars.githubusercontent.com/u/4057454?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Mebus/cupp",
+    "name": "Mebus/cupp",
+    "description": "Common User Passwords Profiler (CUPP)  ",
+    "language": "Python",
+    "stars": "5554",
+    "forks": "1757",
+    "increased": "31 stars today"
+  }
+]

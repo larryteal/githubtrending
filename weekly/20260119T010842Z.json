@@ -1,0 +1,296 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/obra",
+        "avatar": "https://avatars.githubusercontent.com/u/45416?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jjshanks",
+        "avatar": "https://avatars.githubusercontent.com/u/62661?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sotte",
+        "avatar": "https://avatars.githubusercontent.com/u/79138?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rhuss",
+        "avatar": "https://avatars.githubusercontent.com/u/99080?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/obra/superpowers",
+    "name": "obra/superpowers",
+    "description": "An agentic skills framework &amp; software development methodology that works.  ",
+    "language": "Shell",
+    "stars": "28445",
+    "forks": "2142",
+    "increased": "11567 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/thdxr",
+        "avatar": "https://avatars.githubusercontent.com/u/826656?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/adamdotdevin",
+        "avatar": "https://avatars.githubusercontent.com/u/2363879?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rekram1-node",
+        "avatar": "https://avatars.githubusercontent.com/u/63023139?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/actions-user",
+        "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jayair",
+        "avatar": "https://avatars.githubusercontent.com/u/53023?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/anomalyco/opencode",
+    "name": "anomalyco/opencode",
+    "description": "The open source coding agent.  ",
+    "language": "TypeScript",
+    "stars": "76699",
+    "forks": "6754",
+    "increased": "15456 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/frankbria",
+        "avatar": "https://avatars.githubusercontent.com/u/136862992?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/epan",
+        "avatar": "https://avatars.githubusercontent.com/u/892749?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ikanc",
+        "avatar": "https://avatars.githubusercontent.com/u/4008383?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/frankbria/ralph-claude-code",
+    "name": "frankbria/ralph-claude-code",
+    "description": "Autonomous AI development loop for Claude Code with intelligent exit detection  ",
+    "language": "Shell",
+    "stars": "3750",
+    "forks": "238",
+    "increased": "2372 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/alexeygrigorev",
+        "avatar": "https://avatars.githubusercontent.com/u/875246?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Victoriapm",
+        "avatar": "https://avatars.githubusercontent.com/u/4315804?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sejalv",
+        "avatar": "https://avatars.githubusercontent.com/u/9307691?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/AnkushKhanna",
+        "avatar": "https://avatars.githubusercontent.com/u/3662357?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/wrussell1999",
+        "avatar": "https://avatars.githubusercontent.com/u/34094921?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/DataTalksClub/data-engineering-zoomcamp",
+    "name": "DataTalksClub/data-engineering-zoomcamp",
+    "description": "Data Engineering Zoomcamp is a free 9-week course on building production-ready data pipelines. The next cohort starts in January 2026. Join the course here 👇🏼  ",
+    "language": "Jupyter Notebook",
+    "stars": "36506",
+    "forks": "7428",
+    "increased": "1885 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/hacksider",
+        "avatar": "https://avatars.githubusercontent.com/u/1267200?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/KRSHH",
+        "avatar": "https://avatars.githubusercontent.com/u/136873090?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/vic4key",
+        "avatar": "https://avatars.githubusercontent.com/u/5672864?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pereiraroland26",
+        "avatar": "https://avatars.githubusercontent.com/u/52257639?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kier007",
+        "avatar": "https://avatars.githubusercontent.com/u/8604601?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/hacksider/Deep-Live-Cam",
+    "name": "hacksider/Deep-Live-Cam",
+    "description": "real time face swap and one-click video deepfake with only a single image  ",
+    "language": "Python",
+    "stars": "78272",
+    "forks": "11413",
+    "increased": "1027 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ulivz",
+        "avatar": "https://avatars.githubusercontent.com/u/23133919?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ycjcl868",
+        "avatar": "https://avatars.githubusercontent.com/u/13595509?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ZhaoHeh",
+        "avatar": "https://avatars.githubusercontent.com/u/38528320?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cjraft",
+        "avatar": "https://avatars.githubusercontent.com/u/13687952?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/skychx",
+        "avatar": "https://avatars.githubusercontent.com/u/24872439?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/bytedance/UI-TARS-desktop",
+    "name": "bytedance/UI-TARS-desktop",
+    "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra  ",
+    "language": "TypeScript",
+    "stars": "24230",
+    "forks": "2346",
+    "increased": "1636 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/actions-user",
+        "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bcherny",
+        "avatar": "https://avatars.githubusercontent.com/u/1761758?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ant-kurt",
+        "avatar": "https://avatars.githubusercontent.com/u/209710463?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ashwin-ant",
+        "avatar": "https://avatars.githubusercontent.com/u/178951676?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/anthropics/claude-code",
+    "name": "anthropics/claude-code",
+    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.  ",
+    "language": "Shell",
+    "stars": "57912",
+    "forks": "4264",
+    "increased": "2830 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/frenck",
+        "avatar": "https://avatars.githubusercontent.com/u/195327?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/fabaff",
+        "avatar": "https://avatars.githubusercontent.com/u/116184?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/balloob",
+        "avatar": "https://avatars.githubusercontent.com/u/1444314?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/c0ffeeca7",
+        "avatar": "https://avatars.githubusercontent.com/u/38767475?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/home-assistant/home-assistant.io",
+    "name": "home-assistant/home-assistant.io",
+    "description": "📘 Home Assistant User documentation  ",
+    "language": "HTML",
+    "stars": "8597",
+    "forks": "8140",
+    "increased": "800 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/thinkwee",
+        "avatar": "https://avatars.githubusercontent.com/u/11889052?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Alphamasterliu",
+        "avatar": "https://avatars.githubusercontent.com/u/110011045?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/NA-Wen",
+        "avatar": "https://avatars.githubusercontent.com/u/92134380?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/qianc62",
+        "avatar": "https://avatars.githubusercontent.com/u/48988402?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/eltociear",
+        "avatar": "https://avatars.githubusercontent.com/u/22633385?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/OpenBMB/ChatDev",
+    "name": "OpenBMB/ChatDev",
+    "description": "ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration  ",
+    "language": "Python",
+    "stars": "28816",
+    "forks": "3625",
+    "increased": "638 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/dzhao",
+        "avatar": "https://avatars.githubusercontent.com/u/25687?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pouriya",
+        "avatar": "https://avatars.githubusercontent.com/u/20663776?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/anqueue",
+        "avatar": "https://avatars.githubusercontent.com/u/35087590?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/twitter/the-algorithm",
+    "name": "twitter/the-algorithm",
+    "description": "Source code for the X Recommendation Algorithm  ",
+    "language": "Scala",
+    "stars": "70504",
+    "forks": "12959",
+    "increased": "1236 stars this week"
+  }
+]
