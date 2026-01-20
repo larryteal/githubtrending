@@ -1,0 +1,349 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/obra",
+        "avatar": "https://avatars.githubusercontent.com/u/45416?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jjshanks",
+        "avatar": "https://avatars.githubusercontent.com/u/62661?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sotte",
+        "avatar": "https://avatars.githubusercontent.com/u/79138?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rhuss",
+        "avatar": "https://avatars.githubusercontent.com/u/99080?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/obra/superpowers",
+    "name": "obra/superpowers",
+    "description": "An agentic skills framework &amp; software development methodology that works.  ",
+    "language": "Shell",
+    "stars": "29787",
+    "forks": "2228",
+    "increased": "11341 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/thdxr",
+        "avatar": "https://avatars.githubusercontent.com/u/826656?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/adamdotdevin",
+        "avatar": "https://avatars.githubusercontent.com/u/2363879?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rekram1-node",
+        "avatar": "https://avatars.githubusercontent.com/u/63023139?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/actions-user",
+        "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jayair",
+        "avatar": "https://avatars.githubusercontent.com/u/53023?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/anomalyco/opencode",
+    "name": "anomalyco/opencode",
+    "description": "The open source coding agent.  ",
+    "language": "TypeScript",
+    "stars": "78678",
+    "forks": "6953",
+    "increased": "14182 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/alexeygrigorev",
+        "avatar": "https://avatars.githubusercontent.com/u/875246?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Victoriapm",
+        "avatar": "https://avatars.githubusercontent.com/u/4315804?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sejalv",
+        "avatar": "https://avatars.githubusercontent.com/u/9307691?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/AnkushKhanna",
+        "avatar": "https://avatars.githubusercontent.com/u/3662357?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/wrussell1999",
+        "avatar": "https://avatars.githubusercontent.com/u/34094921?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/DataTalksClub/data-engineering-zoomcamp",
+    "name": "DataTalksClub/data-engineering-zoomcamp",
+    "description": "Data Engineering Zoomcamp is a free 9-week course on building production-ready data pipelines. The next cohort starts in January 2026. Join the course here 👇🏼  ",
+    "language": "Jupyter Notebook",
+    "stars": "36620",
+    "forks": "7438",
+    "increased": "1897 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/kuishou68",
+        "avatar": "https://avatars.githubusercontent.com/u/54054995?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/halvee-tech",
+        "avatar": "https://avatars.githubusercontent.com/u/224486645?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/IceyLiu",
+        "avatar": "https://avatars.githubusercontent.com/u/10683426?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/goworm",
+        "avatar": "https://avatars.githubusercontent.com/u/28083037?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/iOfficeAI/AionUi",
+    "name": "iOfficeAI/AionUi",
+    "description": "Free, local, open-source Cowork for Gemini CLI, Claude Code, Codex, Opencode, Qwen Code, Goose Cli, Auggie, and more | 🌟 Star if you like it!  ",
+    "language": "TypeScript",
+    "stars": "6820",
+    "forks": "523",
+    "increased": "2994 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/frankbria",
+        "avatar": "https://avatars.githubusercontent.com/u/136862992?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/epan",
+        "avatar": "https://avatars.githubusercontent.com/u/892749?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ikanc",
+        "avatar": "https://avatars.githubusercontent.com/u/4008383?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/frankbria/ralph-claude-code",
+    "name": "frankbria/ralph-claude-code",
+    "description": "Autonomous AI development loop for Claude Code with intelligent exit detection  ",
+    "language": "Shell",
+    "stars": "3988",
+    "forks": "249",
+    "increased": "1933 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/hacksider",
+        "avatar": "https://avatars.githubusercontent.com/u/1267200?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/KRSHH",
+        "avatar": "https://avatars.githubusercontent.com/u/136873090?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/vic4key",
+        "avatar": "https://avatars.githubusercontent.com/u/5672864?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pereiraroland26",
+        "avatar": "https://avatars.githubusercontent.com/u/52257639?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kier007",
+        "avatar": "https://avatars.githubusercontent.com/u/8604601?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/hacksider/Deep-Live-Cam",
+    "name": "hacksider/Deep-Live-Cam",
+    "description": "real time face swap and one-click video deepfake with only a single image  ",
+    "language": "Python",
+    "stars": "78498",
+    "forks": "11453",
+    "increased": "1139 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/frenck",
+        "avatar": "https://avatars.githubusercontent.com/u/195327?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/fabaff",
+        "avatar": "https://avatars.githubusercontent.com/u/116184?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/balloob",
+        "avatar": "https://avatars.githubusercontent.com/u/1444314?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/c0ffeeca7",
+        "avatar": "https://avatars.githubusercontent.com/u/38767475?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/home-assistant/home-assistant.io",
+    "name": "home-assistant/home-assistant.io",
+    "description": "📘 Home Assistant User documentation  ",
+    "language": "HTML",
+    "stars": "8638",
+    "forks": "8141",
+    "increased": "579 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Prat011",
+        "avatar": "https://avatars.githubusercontent.com/u/67639393?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mellson",
+        "avatar": "https://avatars.githubusercontent.com/u/167574?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ykdojo",
+        "avatar": "https://avatars.githubusercontent.com/u/1811651?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/LeoVS09",
+        "avatar": "https://avatars.githubusercontent.com/u/11697794?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/ComposioHQ/awesome-claude-skills",
+    "name": "ComposioHQ/awesome-claude-skills",
+    "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows  ",
+    "language": "Python",
+    "stars": "21964",
+    "forks": "2203",
+    "increased": "3699 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ahujasid",
+        "avatar": "https://avatars.githubusercontent.com/u/11807284?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ElgoogUdiab",
+        "avatar": "https://avatars.githubusercontent.com/u/28426666?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/siddikisahil47",
+        "avatar": "https://avatars.githubusercontent.com/u/134954614?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/harrywang",
+        "avatar": "https://avatars.githubusercontent.com/u/595772?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/satishgoda",
+        "avatar": "https://avatars.githubusercontent.com/u/536008?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/ahujasid/blender-mcp",
+    "name": "ahujasid/blender-mcp",
+    "language": "Python",
+    "stars": "15915",
+    "forks": "1517",
+    "increased": "741 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/chrisvxd",
+        "avatar": "https://avatars.githubusercontent.com/u/985961?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/FedericoBonel",
+        "avatar": "https://avatars.githubusercontent.com/u/57616024?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/monospaced",
+        "avatar": "https://avatars.githubusercontent.com/u/98794?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/xaviemirmon",
+        "avatar": "https://avatars.githubusercontent.com/u/5609840?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/puckeditor/puck",
+    "name": "puckeditor/puck",
+    "description": "The visual editor for React with AI superpowers  ",
+    "language": "TypeScript",
+    "stars": "11658",
+    "forks": "798",
+    "increased": "1290 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/actions-user",
+        "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bcherny",
+        "avatar": "https://avatars.githubusercontent.com/u/1761758?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ant-kurt",
+        "avatar": "https://avatars.githubusercontent.com/u/209710463?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ashwin-ant",
+        "avatar": "https://avatars.githubusercontent.com/u/178951676?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/anthropics/claude-code",
+    "name": "anthropics/claude-code",
+    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.  ",
+    "language": "Shell",
+    "stars": "58278",
+    "forks": "4301",
+    "increased": "2636 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/alirezarezvani",
+        "avatar": "https://avatars.githubusercontent.com/u/5697919?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/alirezarezvani/claude-skills",
+    "name": "alirezarezvani/claude-skills",
+    "description": "A Collection of Skills for Claude Code and Claude AI for real-world Usage. Including Claude Code Subagents, Claude Code Commnads  ",
+    "language": "Python",
+    "stars": "890",
+    "forks": "139",
+    "increased": "272 stars this week"
+  }
+]
