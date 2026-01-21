@@ -1,0 +1,206 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/actions-user",
+        "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ultmaster",
+        "avatar": "https://avatars.githubusercontent.com/u/8463288?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/acured",
+        "avatar": "https://avatars.githubusercontent.com/u/10276763?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/wizardlancet",
+        "avatar": "https://avatars.githubusercontent.com/u/5806609?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/microsoft/agent-lightning",
+    "name": "microsoft/agent-lightning",
+    "description": "The absolute trainer to light up AI agents.  ",
+    "language": "Python",
+    "stars": "10750",
+    "forks": "882",
+    "increased": "98 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/kuishou68",
+        "avatar": "https://avatars.githubusercontent.com/u/54054995?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/halvee-tech",
+        "avatar": "https://avatars.githubusercontent.com/u/224486645?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/IceyLiu",
+        "avatar": "https://avatars.githubusercontent.com/u/10683426?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/goworm",
+        "avatar": "https://avatars.githubusercontent.com/u/28083037?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/iOfficeAI/AionUi",
+    "name": "iOfficeAI/AionUi",
+    "description": "Free, local, open-source Cowork for Gemini CLI, Claude Code, Codex, Opencode, Qwen Code, Goose Cli, Auggie, and more | 🌟 Star if you like it!  ",
+    "language": "TypeScript",
+    "stars": "7796",
+    "forks": "590",
+    "increased": "970 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/aksg87",
+        "avatar": "https://avatars.githubusercontent.com/u/19271735?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kleeena",
+        "avatar": "https://avatars.githubusercontent.com/u/62442533?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mariano",
+        "avatar": "https://avatars.githubusercontent.com/u/18598?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tonebeta",
+        "avatar": "https://avatars.githubusercontent.com/u/4890246?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/google/langextract",
+    "name": "google/langextract",
+    "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.  ",
+    "language": "Python",
+    "stars": "23184",
+    "forks": "1591",
+    "increased": "552 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/AlexxIT",
+        "avatar": "https://avatars.githubusercontent.com/u/511909?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/seydx",
+        "avatar": "https://avatars.githubusercontent.com/u/34152761?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/skrashevich",
+        "avatar": "https://avatars.githubusercontent.com/u/15078499?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/felipecrs",
+        "avatar": "https://avatars.githubusercontent.com/u/29582865?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/robvanoostenrijk",
+        "avatar": "https://avatars.githubusercontent.com/u/6480052?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/AlexxIT/go2rtc",
+    "name": "AlexxIT/go2rtc",
+    "description": "Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.  ",
+    "language": "Go",
+    "stars": "11523",
+    "forks": "874",
+    "increased": "69 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/lukasz-madon",
+        "avatar": "https://avatars.githubusercontent.com/u/1547923?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/RichardLitt",
+        "avatar": "https://avatars.githubusercontent.com/u/910753?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/waldyrious",
+        "avatar": "https://avatars.githubusercontent.com/u/478237?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/scottconnerly",
+        "avatar": "https://avatars.githubusercontent.com/u/1088240?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/eahefnawy",
+        "avatar": "https://avatars.githubusercontent.com/u/2312463?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/lukasz-madon/awesome-remote-job",
+    "name": "lukasz-madon/awesome-remote-job",
+    "description": "A curated list of awesome remote jobs and resources. Inspired by  https://github.com/vinta/awesome-python    ",
+    "stars": "42564",
+    "forks": "4420",
+    "increased": "262 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/tobi",
+        "avatar": "https://avatars.githubusercontent.com/u/347?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pcasaretto",
+        "avatar": "https://avatars.githubusercontent.com/u/817039?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/burke",
+        "avatar": "https://avatars.githubusercontent.com/u/1284?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/tobi/try",
+    "name": "tobi/try",
+    "description": "fresh directories for every vibe  ",
+    "language": "Shell",
+    "stars": "2941",
+    "forks": "110",
+    "increased": "43 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/DavidXanatos",
+        "avatar": "https://avatars.githubusercontent.com/u/3890945?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/love-code-yeyixiao",
+        "avatar": "https://avatars.githubusercontent.com/u/92030377?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bovirus",
+        "avatar": "https://avatars.githubusercontent.com/u/1262554?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/coolvitto",
+        "avatar": "https://avatars.githubusercontent.com/u/160416811?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/offhub",
+        "avatar": "https://avatars.githubusercontent.com/u/6871698?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/DavidXanatos/TaskExplorer",
+    "name": "DavidXanatos/TaskExplorer",
+    "description": "Power full Task Manager  ",
+    "language": "C",
+    "stars": "2754",
+    "forks": "226",
+    "increased": "328 stars today"
+  }
+]
