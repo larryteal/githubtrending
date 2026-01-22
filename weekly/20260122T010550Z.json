@@ -1,0 +1,346 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Wendong-Fan",
+        "avatar": "https://avatars.githubusercontent.com/u/133094783?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/FooFindBar",
+        "avatar": "https://avatars.githubusercontent.com/u/64395240?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/fengju0213",
+        "avatar": "https://avatars.githubusercontent.com/u/168447269?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/a7m-1st",
+        "avatar": "https://avatars.githubusercontent.com/u/108264625?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/nitpicker55555",
+        "avatar": "https://avatars.githubusercontent.com/u/91596298?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/eigent-ai/eigent",
+    "name": "eigent-ai/eigent",
+    "description": "Eigent: The Open Source Cowork Desktop to Unlock Your Exceptional Productivity.  ",
+    "language": "TypeScript",
+    "stars": "10448",
+    "forks": "1166",
+    "increased": "5834 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/obra",
+        "avatar": "https://avatars.githubusercontent.com/u/45416?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jjshanks",
+        "avatar": "https://avatars.githubusercontent.com/u/62661?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sotte",
+        "avatar": "https://avatars.githubusercontent.com/u/79138?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rhuss",
+        "avatar": "https://avatars.githubusercontent.com/u/99080?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/obra/superpowers",
+    "name": "obra/superpowers",
+    "description": "An agentic skills framework &amp; software development methodology that works.  ",
+    "language": "Shell",
+    "stars": "32291",
+    "forks": "2436",
+    "increased": "his week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/kuishou68",
+        "avatar": "https://avatars.githubusercontent.com/u/54054995?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/halvee-tech",
+        "avatar": "https://avatars.githubusercontent.com/u/224486645?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/IceyLiu",
+        "avatar": "https://avatars.githubusercontent.com/u/10683426?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/goworm",
+        "avatar": "https://avatars.githubusercontent.com/u/28083037?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/iOfficeAI/AionUi",
+    "name": "iOfficeAI/AionUi",
+    "description": "Free, local, open-source Cowork for Gemini CLI, Claude Code, Codex, Opencode, Qwen Code, Goose Cli, Auggie, and more | 🌟 Star if you like it!  ",
+    "language": "TypeScript",
+    "stars": "8685",
+    "forks": "668",
+    "increased": "4825 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/liyupi",
+        "avatar": "https://avatars.githubusercontent.com/u/26037703?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/chaseFunny",
+        "avatar": "https://avatars.githubusercontent.com/u/75657636?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cq2021-coder",
+        "avatar": "https://avatars.githubusercontent.com/u/87939797?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/gulihua10010",
+        "avatar": "https://avatars.githubusercontent.com/u/38686919?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/liyupi/ai-guide",
+    "name": "liyupi/ai-guide",
+    "description": "程序员鱼皮的 AI 资源大全 + Vibe Coding 零基础教程，分享大模型选择指南（DeepSeek / GPT / Gemini / Claude）、最新 AI 资讯、Prompt 提示词大全、AI 知识百科（RAG / MCP / A2A）、AI 编程技巧、AI 工具用法（Cursor / Claude Code / TRAE / Lovable / Agent Skills）、AI 开发框架教程（Spring AI / LangChain）、AI 产品变现指南，帮你快速掌握 AI 技术，走在时代前沿。本项目为开源文档版本，已升级为鱼皮 AI 导航网站  ",
+    "language": "JavaScript",
+    "stars": "4245",
+    "forks": "519",
+    "increased": "1975 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/thdxr",
+        "avatar": "https://avatars.githubusercontent.com/u/826656?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/adamdotdevin",
+        "avatar": "https://avatars.githubusercontent.com/u/2363879?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rekram1-node",
+        "avatar": "https://avatars.githubusercontent.com/u/63023139?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/actions-user",
+        "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jayair",
+        "avatar": "https://avatars.githubusercontent.com/u/53023?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/anomalyco/opencode",
+    "name": "anomalyco/opencode",
+    "description": "The open source coding agent.  ",
+    "language": "TypeScript",
+    "stars": "82256",
+    "forks": "7325",
+    "increased": "13360 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/jackjackbits",
+        "avatar": "https://avatars.githubusercontent.com/u/212554440?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/qalandarov",
+        "avatar": "https://avatars.githubusercontent.com/u/2553451?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/callebtc",
+        "avatar": "https://avatars.githubusercontent.com/u/93376500?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/nothankyou1",
+        "avatar": "https://avatars.githubusercontent.com/u/3178730?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/permissionlesstech/bitchat",
+    "name": "permissionlesstech/bitchat",
+    "description": "bluetooth mesh chat, IRC vibes  ",
+    "language": "Swift",
+    "stars": "24588",
+    "forks": "2293",
+    "increased": "639 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/MrCloudSec",
+        "avatar": "https://avatars.githubusercontent.com/u/38561120?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jfagoagas",
+        "avatar": "https://avatars.githubusercontent.com/u/16007882?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/toniblyx",
+        "avatar": "https://avatars.githubusercontent.com/u/3985464?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/paabloLC",
+        "avatar": "https://avatars.githubusercontent.com/u/13178577?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/prowler-cloud/prowler",
+    "name": "prowler-cloud/prowler",
+    "description": "Prowler is the world’s most widely used open-source cloud security platform that automates security and compliance across any cloud environment.  ",
+    "language": "Python",
+    "stars": "12745",
+    "forks": "1938",
+    "increased": "171 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/alirezarezvani",
+        "avatar": "https://avatars.githubusercontent.com/u/5697919?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/alirezarezvani/claude-skills",
+    "name": "alirezarezvani/claude-skills",
+    "description": "A Collection of Skills for Claude Code and Claude AI for real-world Usage. Including Claude Code Subagents, Claude Code Commnads  ",
+    "language": "Python",
+    "stars": "1115",
+    "forks": "148",
+    "increased": "486 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Johanna-Ulin",
+        "avatar": "https://avatars.githubusercontent.com/u/187625859?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jiamenguk",
+        "avatar": "https://avatars.githubusercontent.com/u/19616679?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/harryjulian",
+        "avatar": "https://avatars.githubusercontent.com/u/103032375?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/elijoe1",
+        "avatar": "https://avatars.githubusercontent.com/u/65260659?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/profrodai",
+        "avatar": "https://avatars.githubusercontent.com/u/101320?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/neuphonic/neutts",
+    "name": "neuphonic/neutts",
+    "description": "On-device TTS model by Neuphonic  ",
+    "language": "Python",
+    "stars": "4660",
+    "forks": "492",
+    "increased": "289 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/frankbria",
+        "avatar": "https://avatars.githubusercontent.com/u/136862992?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/epan",
+        "avatar": "https://avatars.githubusercontent.com/u/892749?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ikanc",
+        "avatar": "https://avatars.githubusercontent.com/u/4008383?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/frankbria/ralph-claude-code",
+    "name": "frankbria/ralph-claude-code",
+    "description": "Autonomous AI development loop for Claude Code with intelligent exit detection  ",
+    "language": "Shell",
+    "stars": "4885",
+    "forks": "319",
+    "increased": "1943 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/cjpais",
+        "avatar": "https://avatars.githubusercontent.com/u/1559480?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/vladstudio",
+        "avatar": "https://avatars.githubusercontent.com/u/914320?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/VirenMohindra",
+        "avatar": "https://avatars.githubusercontent.com/u/10460518?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jacksongoode",
+        "avatar": "https://avatars.githubusercontent.com/u/54308792?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Maicon-Moreira",
+        "avatar": "https://avatars.githubusercontent.com/u/50086618?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/cjpais/Handy",
+    "name": "cjpais/Handy",
+    "description": "A free, open source, and extensible speech-to-text application that works completely offline.  ",
+    "language": "TypeScript",
+    "stars": "12703",
+    "forks": "840",
+    "increased": "1829 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/glenn-jocher",
+        "avatar": "https://avatars.githubusercontent.com/u/26833433?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/UltralyticsAssistant",
+        "avatar": "https://avatars.githubusercontent.com/u/135830346?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Laughing-q",
+        "avatar": "https://avatars.githubusercontent.com/u/61612323?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/RizwanMunawar",
+        "avatar": "https://avatars.githubusercontent.com/u/62513924?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/ultralytics/ultralytics",
+    "name": "ultralytics/ultralytics",
+    "description": "Ultralytics YOLO 🚀  ",
+    "language": "Python",
+    "stars": "52214",
+    "forks": "9988",
+    "increased": "1077 stars this week"
+  }
+]
