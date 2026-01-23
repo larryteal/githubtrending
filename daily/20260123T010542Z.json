@@ -1,0 +1,311 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/JonnyBurger",
+        "avatar": "https://avatars.githubusercontent.com/u/1629785?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/patsalv",
+        "avatar": "https://avatars.githubusercontent.com/u/89481679?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/UmungoBungo",
+        "avatar": "https://avatars.githubusercontent.com/u/22192773?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/samohovets",
+        "avatar": "https://avatars.githubusercontent.com/u/24735429?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/alexfernandez803",
+        "avatar": "https://avatars.githubusercontent.com/u/7582277?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/remotion-dev/remotion",
+    "name": "remotion-dev/remotion",
+    "description": "🎥 Make videos programmatically with React  ",
+    "language": "TypeScript",
+    "stars": "26983",
+    "forks": "1587",
+    "increased": "537 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/angiejones",
+        "avatar": "https://avatars.githubusercontent.com/u/15972783?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/blackgirlbytes",
+        "avatar": "https://avatars.githubusercontent.com/u/22990146?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dianed-square",
+        "avatar": "https://avatars.githubusercontent.com/u/73617011?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/EbonyLouis",
+        "avatar": "https://avatars.githubusercontent.com/u/55366651?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/michaelneale",
+        "avatar": "https://avatars.githubusercontent.com/u/14976?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/block/goose",
+    "name": "block/goose",
+    "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM  ",
+    "language": "Rust",
+    "stars": "27149",
+    "forks": "2468",
+    "increased": "347 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/dzhao",
+        "avatar": "https://avatars.githubusercontent.com/u/25687?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pouriya",
+        "avatar": "https://avatars.githubusercontent.com/u/20663776?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/anqueue",
+        "avatar": "https://avatars.githubusercontent.com/u/35087590?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/twitter/the-algorithm",
+    "name": "twitter/the-algorithm",
+    "description": "Source code for the X Recommendation Algorithm  ",
+    "language": "Scala",
+    "stars": "71761",
+    "forks": "13140",
+    "increased": "473 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ibab",
+        "avatar": "https://avatars.githubusercontent.com/u/890531?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/TobyPDE",
+        "avatar": "https://avatars.githubusercontent.com/u/5664717?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/syzymon",
+        "avatar": "https://avatars.githubusercontent.com/u/44476995?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mane",
+        "avatar": "https://avatars.githubusercontent.com/u/402056?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/garethpaul",
+        "avatar": "https://avatars.githubusercontent.com/u/918117?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/xai-org/grok-1",
+    "name": "xai-org/grok-1",
+    "description": "Grok open release  ",
+    "language": "Python",
+    "stars": "51225",
+    "forks": "8455",
+    "increased": "348 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/beginlner",
+        "avatar": "https://avatars.githubusercontent.com/u/31004720?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/interestingLSY",
+        "avatar": "https://avatars.githubusercontent.com/u/30743214?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sijiac",
+        "avatar": "https://avatars.githubusercontent.com/u/16120401?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dianzhangchen",
+        "avatar": "https://avatars.githubusercontent.com/u/192296276?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/uchihatmtkinu",
+        "avatar": "https://avatars.githubusercontent.com/u/1755997?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/deepseek-ai/FlashMLA",
+    "name": "deepseek-ai/FlashMLA",
+    "description": "FlashMLA: Efficient Multi-head Latent Attention Kernels  ",
+    "language": "C++",
+    "stars": "12147",
+    "forks": "951",
+    "increased": "30 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/actions-user",
+        "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ultmaster",
+        "avatar": "https://avatars.githubusercontent.com/u/8463288?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/acured",
+        "avatar": "https://avatars.githubusercontent.com/u/10276763?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/wizardlancet",
+        "avatar": "https://avatars.githubusercontent.com/u/5806609?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/microsoft/agent-lightning",
+    "name": "microsoft/agent-lightning",
+    "description": "The absolute trainer to light up AI agents.  ",
+    "language": "Python",
+    "stars": "11465",
+    "forks": "932",
+    "increased": "327 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/kuishou68",
+        "avatar": "https://avatars.githubusercontent.com/u/54054995?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/halvee-tech",
+        "avatar": "https://avatars.githubusercontent.com/u/224486645?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/IceyLiu",
+        "avatar": "https://avatars.githubusercontent.com/u/10683426?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/goworm",
+        "avatar": "https://avatars.githubusercontent.com/u/28083037?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/iOfficeAI/AionUi",
+    "name": "iOfficeAI/AionUi",
+    "description": "Free, local, open-source Cowork for Gemini CLI, Claude Code, Codex, Opencode, Qwen Code, Goose Cli, Auggie, and more | 🌟 Star if you like it!  ",
+    "language": "TypeScript",
+    "stars": "8",
+    "forks": "718",
+    "increased": "554 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/abhiaiyer91",
+        "avatar": "https://avatars.githubusercontent.com/u/2359375?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/adeleke5140",
+        "avatar": "https://avatars.githubusercontent.com/u/32024147?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/TheIsrael1",
+        "avatar": "https://avatars.githubusercontent.com/u/65332951?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/wardpeet",
+        "avatar": "https://avatars.githubusercontent.com/u/1120926?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/mastra-ai/mastra",
+    "name": "mastra-ai/mastra",
+    "description": "From the team behind Gatsby, Mastra is a framework for building AI-powered applications and agents with a modern TypeScript stack.  ",
+    "language": "TypeScript",
+    "stars": "20158",
+    "forks": "1448",
+    "increased": "227 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/leestott",
+        "avatar": "https://avatars.githubusercontent.com/u/2511341?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/paladique",
+        "avatar": "https://avatars.githubusercontent.com/u/1414307?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jlooper",
+        "avatar": "https://avatars.githubusercontent.com/u/1450004?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/skytin1004",
+        "avatar": "https://avatars.githubusercontent.com/u/99078115?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/microsoft/Data-Science-For-Beginners",
+    "name": "microsoft/Data-Science-For-Beginners",
+    "description": "10 Weeks, 20 Lessons, Data Science for All!  ",
+    "language": "Jupyter Notebook",
+    "stars": "32857",
+    "forks": "6846",
+    "increased": "651 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/nexmoe",
+        "avatar": "https://avatars.githubusercontent.com/u/16796652?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/nexmoe/VidBee",
+    "name": "nexmoe/VidBee",
+    "description": "Download videos from almost any website worldwide  ",
+    "language": "TypeScript",
+    "stars": "4614",
+    "forks": "329",
+    "increased": "267 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/virattt",
+        "avatar": "https://avatars.githubusercontent.com/u/901795?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/gupta-8",
+        "avatar": "https://avatars.githubusercontent.com/u/215169640?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bittoby",
+        "avatar": "https://avatars.githubusercontent.com/u/218712309?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/axyr",
+        "avatar": "https://avatars.githubusercontent.com/u/345155?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dimaland1",
+        "avatar": "https://avatars.githubusercontent.com/u/75551760?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/virattt/dexter",
+    "name": "virattt/dexter",
+    "description": "An autonomous agent for deep financial research  ",
+    "language": "TypeScript",
+    "stars": "8399",
+    "forks": "1047",
+    "increased": "248 stars today"
+  }
+]
