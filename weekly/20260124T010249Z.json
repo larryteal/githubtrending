@@ -1,0 +1,211 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/kuishou68",
+        "avatar": "https://avatars.githubusercontent.com/u/54054995?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/halvee-tech",
+        "avatar": "https://avatars.githubusercontent.com/u/224486645?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/IceyLiu",
+        "avatar": "https://avatars.githubusercontent.com/u/10683426?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/goworm",
+        "avatar": "https://avatars.githubusercontent.com/u/28083037?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/iOfficeAI/AionUi",
+    "name": "iOfficeAI/AionUi",
+    "description": "Free, local, open-source Cowork for Gemini CLI, Claude Code, Codex, Opencode, Qwen Code, Goose Cli, Auggie, and more | 🌟 Star if you like it!  ",
+    "language": "TypeScript",
+    "stars": "9762",
+    "forks": "758",
+    "increased": "5688 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Wendong-Fan",
+        "avatar": "https://avatars.githubusercontent.com/u/133094783?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/FooFindBar",
+        "avatar": "https://avatars.githubusercontent.com/u/64395240?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/fengju0213",
+        "avatar": "https://avatars.githubusercontent.com/u/168447269?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/a7m-1st",
+        "avatar": "https://avatars.githubusercontent.com/u/108264625?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/nitpicker55555",
+        "avatar": "https://avatars.githubusercontent.com/u/91596298?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/eigent-ai/eigent",
+    "name": "eigent-ai/eigent",
+    "description": "Eigent: The Open Source Cowork Desktop to Unlock Your Exceptional Productivity.  ",
+    "language": "TypeScript",
+    "stars": "11029",
+    "forks": "1240",
+    "increased": "3739 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/obra",
+        "avatar": "https://avatars.githubusercontent.com/u/45416?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jjshanks",
+        "avatar": "https://avatars.githubusercontent.com/u/62661?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/oribarilan",
+        "avatar": "https://avatars.githubusercontent.com/u/8760762?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/vmotta8",
+        "avatar": "https://avatars.githubusercontent.com/u/60989975?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/obra/superpowers",
+    "name": "obra/superpowers",
+    "description": "An agentic skills framework &amp; software development methodology that works.  ",
+    "language": "Shell",
+    "stars": "34567",
+    "forks": "2617",
+    "increased": "8853 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/JonnyBurger",
+        "avatar": "https://avatars.githubusercontent.com/u/1629785?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/patsalv",
+        "avatar": "https://avatars.githubusercontent.com/u/89481679?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/UmungoBungo",
+        "avatar": "https://avatars.githubusercontent.com/u/22192773?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/samohovets",
+        "avatar": "https://avatars.githubusercontent.com/u/24735429?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/alexfernandez803",
+        "avatar": "https://avatars.githubusercontent.com/u/7582277?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/remotion-dev/remotion",
+    "name": "remotion-dev/remotion",
+    "description": "🎥 Make videos programmatically with React  ",
+    "language": "TypeScript",
+    "stars": "28441",
+    "forks": "1684",
+    "increased": "2532 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/frankbria",
+        "avatar": "https://avatars.githubusercontent.com/u/136862992?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/epan",
+        "avatar": "https://avatars.githubusercontent.com/u/892749?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ikanc",
+        "avatar": "https://avatars.githubusercontent.com/u/4008383?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/frankbria/ralph-claude-code",
+    "name": "frankbria/ralph-claude-code",
+    "description": "Autonomous AI development loop for Claude Code with intelligent exit detection  ",
+    "language": "Shell",
+    "stars": "5394",
+    "forks": "362",
+    "increased": "2111 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/jackjackbits",
+        "avatar": "https://avatars.githubusercontent.com/u/212554440?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/qalandarov",
+        "avatar": "https://avatars.githubusercontent.com/u/2553451?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/callebtc",
+        "avatar": "https://avatars.githubusercontent.com/u/93376500?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/nothankyou1",
+        "avatar": "https://avatars.githubusercontent.com/u/3178730?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/permissionlesstech/bitchat",
+    "name": "permissionlesstech/bitchat",
+    "description": "bluetooth mesh chat, IRC vibes  ",
+    "language": "Swift",
+    "stars": "24730",
+    "forks": "2305",
+    "increased": "682 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/alecf",
+        "avatar": "https://avatars.githubusercontent.com/u/135340?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/MichaelMilstead",
+        "avatar": "https://avatars.githubusercontent.com/u/8498335?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tambo-bot",
+        "avatar": "https://avatars.githubusercontent.com/u/230265268?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/akhileshrangani4",
+        "avatar": "https://avatars.githubusercontent.com/u/70284178?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/tambo-ai/tambo",
+    "name": "tambo-ai/tambo",
+    "description": "Generative UI SDK for React  ",
+    "language": "TypeScript",
+    "stars": "4657",
+    "forks": "228",
+    "increased": "2477 stars this week"
+  }
+]

@@ -1,0 +1,393 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/JonnyBurger",
+        "avatar": "https://avatars.githubusercontent.com/u/1629785?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/patsalv",
+        "avatar": "https://avatars.githubusercontent.com/u/89481679?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/UmungoBungo",
+        "avatar": "https://avatars.githubusercontent.com/u/22192773?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/samohovets",
+        "avatar": "https://avatars.githubusercontent.com/u/24735429?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/alexfernandez803",
+        "avatar": "https://avatars.githubusercontent.com/u/7582277?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/remotion-dev/remotion",
+    "name": "remotion-dev/remotion",
+    "description": "🎥 Make videos programmatically with React  ",
+    "language": "TypeScript",
+    "stars": "28441",
+    "forks": "1684",
+    "increased": "1618 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/YaoyaoChang",
+        "avatar": "https://avatars.githubusercontent.com/u/20237658?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pengzhiliang",
+        "avatar": "https://avatars.githubusercontent.com/u/26346329?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/wenhui0924",
+        "avatar": "https://avatars.githubusercontent.com/u/46838421?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/MSLDCherryPick",
+        "avatar": "https://avatars.githubusercontent.com/u/173002764?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/hydropix",
+        "avatar": "https://avatars.githubusercontent.com/u/5154373?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/microsoft/VibeVoice",
+    "name": "microsoft/VibeVoice",
+    "description": "Open-Source Frontier Voice AI  ",
+    "language": "Python",
+    "stars": "21263",
+    "forks": "2338",
+    "increased": "261 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/angiejones",
+        "avatar": "https://avatars.githubusercontent.com/u/15972783?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/blackgirlbytes",
+        "avatar": "https://avatars.githubusercontent.com/u/22990146?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dianed-square",
+        "avatar": "https://avatars.githubusercontent.com/u/73617011?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/EbonyLouis",
+        "avatar": "https://avatars.githubusercontent.com/u/55366651?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/michaelneale",
+        "avatar": "https://avatars.githubusercontent.com/u/14976?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/block/goose",
+    "name": "block/goose",
+    "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM  ",
+    "language": "Rust",
+    "stars": "27600",
+    "forks": "2491",
+    "increased": "491 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/grahamking",
+        "avatar": "https://avatars.githubusercontent.com/u/180418?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rmccorm4",
+        "avatar": "https://avatars.githubusercontent.com/u/21284872?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/nv-anants",
+        "avatar": "https://avatars.githubusercontent.com/u/181898173?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/PeaBrane",
+        "avatar": "https://avatars.githubusercontent.com/u/48601490?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tedzhouhk",
+        "avatar": "https://avatars.githubusercontent.com/u/6771308?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/ai-dynamo/dynamo",
+    "name": "ai-dynamo/dynamo",
+    "description": "A Datacenter Scale Distributed Inference Serving Framework  ",
+    "language": "Rust",
+    "stars": "5910",
+    "forks": "807",
+    "increased": "33 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/MagMueller",
+        "avatar": "https://avatars.githubusercontent.com/u/67061560?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pirate",
+        "avatar": "https://avatars.githubusercontent.com/u/511499?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mertunsall",
+        "avatar": "https://avatars.githubusercontent.com/u/22038471?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/gregpr07",
+        "avatar": "https://avatars.githubusercontent.com/u/36313686?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sauravpanda",
+        "avatar": "https://avatars.githubusercontent.com/u/12201824?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/browser-use/browser-use",
+    "name": "browser-use/browser-use",
+    "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.  ",
+    "language": "Python",
+    "stars": "76375",
+    "forks": "9102",
+    "increased": "205 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/devm33",
+        "avatar": "https://avatars.githubusercontent.com/u/1682753?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/RyanHecht",
+        "avatar": "https://avatars.githubusercontent.com/u/5344055?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tidy-dev",
+        "avatar": "https://avatars.githubusercontent.com/u/75402236?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/github/copilot-cli",
+    "name": "github/copilot-cli",
+    "description": "GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal.  ",
+    "language": "Shell",
+    "stars": "7233",
+    "forks": "954",
+    "increased": "125 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Asabeneh",
+        "avatar": "https://avatars.githubusercontent.com/u/9008063?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pkiczko",
+        "avatar": "https://avatars.githubusercontent.com/u/36337174?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kjs1019",
+        "avatar": "https://avatars.githubusercontent.com/u/68845945?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/thebigcicca",
+        "avatar": "https://avatars.githubusercontent.com/u/82242552?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jshyun1",
+        "avatar": "https://avatars.githubusercontent.com/u/41815728?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Asabeneh/30-Days-Of-Python",
+    "name": "Asabeneh/30-Days-Of-Python",
+    "description": "The 30 Days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than 100 days. Follow your own pace. These videos may help too:  https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw    ",
+    "language": "Python",
+    "stars": "56337",
+    "forks": "10787",
+    "increased": "91 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/actions-user",
+        "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bcherny",
+        "avatar": "https://avatars.githubusercontent.com/u/1761758?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ant-kurt",
+        "avatar": "https://avatars.githubusercontent.com/u/209710463?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ashwin-ant",
+        "avatar": "https://avatars.githubusercontent.com/u/178951676?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/anthropics/claude-code",
+    "name": "anthropics/claude-code",
+    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.  ",
+    "language": "Shell",
+    "stars": "59954",
+    "forks": "4461",
+    "increased": "393 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/beginlner",
+        "avatar": "https://avatars.githubusercontent.com/u/31004720?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/interestingLSY",
+        "avatar": "https://avatars.githubusercontent.com/u/30743214?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sijiac",
+        "avatar": "https://avatars.githubusercontent.com/u/16120401?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dianzhangchen",
+        "avatar": "https://avatars.githubusercontent.com/u/192296276?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/uchihatmtkinu",
+        "avatar": "https://avatars.githubusercontent.com/u/1755997?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/deepseek-ai/FlashMLA",
+    "name": "deepseek-ai/FlashMLA",
+    "description": "FlashMLA: Efficient Multi-head Latent Attention Kernels  ",
+    "language": "C++",
+    "stars": "12316",
+    "forks": "961",
+    "increased": "184 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/leestott",
+        "avatar": "https://avatars.githubusercontent.com/u/2511341?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/paladique",
+        "avatar": "https://avatars.githubusercontent.com/u/1414307?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jlooper",
+        "avatar": "https://avatars.githubusercontent.com/u/1450004?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/skytin1004",
+        "avatar": "https://avatars.githubusercontent.com/u/99078115?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/microsoft/Data-Science-For-Beginners",
+    "name": "microsoft/Data-Science-For-Beginners",
+    "description": "10 Weeks, 20 Lessons, Data Science for All!  ",
+    "language": "Jupyter Notebook",
+    "stars": "33364",
+    "forks": "6874",
+    "increased": "555 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/mssssss123",
+        "avatar": "https://avatars.githubusercontent.com/u/56372416?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/xhd0728",
+        "avatar": "https://avatars.githubusercontent.com/u/77320781?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/gdw439",
+        "avatar": "https://avatars.githubusercontent.com/u/23526166?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Kaguya-19",
+        "avatar": "https://avatars.githubusercontent.com/u/50143482?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ChenYX24",
+        "avatar": "https://avatars.githubusercontent.com/u/90974567?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/OpenBMB/UltraRAG",
+    "name": "OpenBMB/UltraRAG",
+    "description": "UltraRAG v3: A Low-Code MCP Framework for Building Complex and Innovative RAG Pipelines  ",
+    "language": "Python",
+    "stars": "2948",
+    "forks": "237",
+    "increased": "130 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/lyogavin",
+        "avatar": "https://avatars.githubusercontent.com/u/1113905?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/eltociear",
+        "avatar": "https://avatars.githubusercontent.com/u/22633385?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/NavodPeiris",
+        "avatar": "https://avatars.githubusercontent.com/u/69672640?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/hiemal",
+        "avatar": "https://avatars.githubusercontent.com/u/7684934?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Razikus",
+        "avatar": "https://avatars.githubusercontent.com/u/12664801?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/lyogavin/airllm",
+    "name": "lyogavin/airllm",
+    "description": "AirLLM 70B inference with single 4GB GPU  ",
+    "language": "Jupyter Notebook",
+    "stars": "8635",
+    "forks": "786",
+    "increased": "493 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/KellerJordan",
+        "avatar": "https://avatars.githubusercontent.com/u/18433116?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ClassicLarry",
+        "avatar": "https://avatars.githubusercontent.com/u/42926649?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/YouJiacheng",
+        "avatar": "https://avatars.githubusercontent.com/u/83971976?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/leloykun",
+        "avatar": "https://avatars.githubusercontent.com/u/14250344?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/varunneal",
+        "avatar": "https://avatars.githubusercontent.com/u/32204417?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/KellerJordan/modded-nanogpt",
+    "name": "KellerJordan/modded-nanogpt",
+    "description": "NanoGPT (124M) in 2 minutes  ",
+    "language": "Python",
+    "stars": "4382",
+    "forks": "582",
+    "increased": "54 stars today"
+  }
+]
