@@ -1,0 +1,300 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/JonnyBurger",
+        "avatar": "https://avatars.githubusercontent.com/u/1629785?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/patsalv",
+        "avatar": "https://avatars.githubusercontent.com/u/89481679?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/UmungoBungo",
+        "avatar": "https://avatars.githubusercontent.com/u/22192773?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/samohovets",
+        "avatar": "https://avatars.githubusercontent.com/u/24735429?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/alexfernandez803",
+        "avatar": "https://avatars.githubusercontent.com/u/7582277?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/remotion-dev/remotion",
+    "name": "remotion-dev/remotion",
+    "description": "🎥 Make videos programmatically with React  ",
+    "language": "TypeScript",
+    "stars": "29542",
+    "forks": "1776",
+    "increased": "1171 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/rejojer",
+        "avatar": "https://avatars.githubusercontent.com/u/8255061?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/zmtomorrow",
+        "avatar": "https://avatars.githubusercontent.com/u/13518252?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/clarenceluo78",
+        "avatar": "https://avatars.githubusercontent.com/u/71917860?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/VectifyAI/PageIndex",
+    "name": "VectifyAI/PageIndex",
+    "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG  ",
+    "language": "Python",
+    "stars": "8376",
+    "forks": "623",
+    "increased": "1374 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/mssssss123",
+        "avatar": "https://avatars.githubusercontent.com/u/56372416?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/xhd0728",
+        "avatar": "https://avatars.githubusercontent.com/u/77320781?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/gdw439",
+        "avatar": "https://avatars.githubusercontent.com/u/23526166?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Kaguya-19",
+        "avatar": "https://avatars.githubusercontent.com/u/50143482?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ChenYX24",
+        "avatar": "https://avatars.githubusercontent.com/u/90974567?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/OpenBMB/UltraRAG",
+    "name": "OpenBMB/UltraRAG",
+    "description": "UltraRAG v3: A Low-Code MCP Framework for Building Complex and Innovative RAG Pipelines  ",
+    "language": "Python",
+    "stars": "3460",
+    "forks": "261",
+    "increased": "585 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/MagMueller",
+        "avatar": "https://avatars.githubusercontent.com/u/67061560?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pirate",
+        "avatar": "https://avatars.githubusercontent.com/u/511499?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mertunsall",
+        "avatar": "https://avatars.githubusercontent.com/u/22038471?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/gregpr07",
+        "avatar": "https://avatars.githubusercontent.com/u/36313686?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sauravpanda",
+        "avatar": "https://avatars.githubusercontent.com/u/12201824?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/browser-use/browser-use",
+    "name": "browser-use/browser-use",
+    "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.  ",
+    "language": "Python",
+    "stars": "76785",
+    "forks": "9131",
+    "increased": "380 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/angiejones",
+        "avatar": "https://avatars.githubusercontent.com/u/15972783?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/blackgirlbytes",
+        "avatar": "https://avatars.githubusercontent.com/u/22990146?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dianed-square",
+        "avatar": "https://avatars.githubusercontent.com/u/73617011?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/EbonyLouis",
+        "avatar": "https://avatars.githubusercontent.com/u/55366651?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/michaelneale",
+        "avatar": "https://avatars.githubusercontent.com/u/14976?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/block/goose",
+    "name": "block/goose",
+    "description": "an open source, extensible AI agent that goes beyond code suggestions - inst all, execute, edit, and test with any LLM  ",
+    "language": "Rust",
+    "stars": "28361",
+    "forks": "2549",
+    "increased": "407 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Blaizzy",
+        "avatar": "https://avatars.githubusercontent.com/u/23445657?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/lucasnewman",
+        "avatar": "https://avatars.githubusercontent.com/u/30198451?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rudrankriyam",
+        "avatar": "https://avatars.githubusercontent.com/u/30552772?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/beshkenadze",
+        "avatar": "https://avatars.githubusercontent.com/u/167288?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ivanfioravanti",
+        "avatar": "https://avatars.githubusercontent.com/u/1069210?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Blaizzy/mlx-audio",
+    "name": "Blaizzy/mlx-audio",
+    "description": "A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library bui lt on Apple's MLX framework, providing efficient speech analysis on Apple Silicon.  ",
+    "language": "Python",
+    "stars": "3520",
+    "forks": "293",
+    "increased": "65 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/waleedlatif1",
+        "avatar": "https://avatars.githubusercontent.com/u/40672544?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/emir-karabeg",
+        "avatar": "https://avatars.githubusercontent.com/u/78010029?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/icecrasher321",
+        "avatar": "https://avatars.githubusercontent.com/u/17950982?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Sg312",
+        "avatar": "https://avatars.githubusercontent.com/u/33737564?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/aadamgough",
+        "avatar": "https://avatars.githubusercontent.com/u/77861281?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/simstudioai/sim",
+    "name": "simstudioai/sim",
+    "description": "Open-source platform to build and deploy AI agent workflows.  ",
+    "language": "TypeScript",
+    "stars": "26153",
+    "forks": "3262",
+    "increased": "65 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/YaoyaoChang",
+        "avatar": "https://avatars.githubusercontent.com/u/20237658?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/MSLDCherryPick",
+        "avatar": "https://avatars.githubusercontent.com/u/173002764?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pengzhiliang",
+        "avatar": "https://avatars.githubusercontent.com/u/26346329?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/wenhui0924",
+        "avatar": "https://avatars.githubusercontent.com/u/46838421?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Damon-Salvetore",
+        "avatar": "https://avatars.githubusercontent.com/u/103027390?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/microsoft/VibeVoice",
+    "name": "microsoft/VibeVoice",
+    "description": "Open-Source Frontier Voice AI  ",
+    "language": "Python",
+    "stars": "21650",
+    "forks": "2361",
+    "increased": "454 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/putyy",
+        "avatar": "https://avatars.githubusercontent.com/u/31536789?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/taotieren",
+        "avatar": "https://avatars.githubusercontent.com/u/13965460?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claviering",
+        "avatar": "https://avatars.githubusercontent.com/u/16227832?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/qiuzhiqian",
+        "avatar": "https://avatars.githubusercontent.com/u/19386888?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/putyy/res-downloader",
+    "name": "putyy/res-downloader",
+    "description": "视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!  ",
+    "language": "Go",
+    "stars": "14368",
+    "forks": "1786",
+    "increased": "211 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/BruceYanghy",
+        "avatar": "https://avatars.githubusercontent.com/u/31713746?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Noir97",
+        "avatar": "https://avatars.githubusercontent.com/u/37800725?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/PinqiaoWang",
+        "avatar": "https://avatars.githubusercontent.com/u/145395331?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/yilinwu123",
+        "avatar": "https://avatars.githubusercontent.com/u/59527986?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Athe-kunal",
+        "avatar": "https://avatars.githubusercontent.com/u/40949756?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/AI4Finance-Foundation/FinRobot",
+    "name": "AI4Finance-Foundation/FinRobot",
+    "description": "FinRobot: An Open-Source AI Agent Platform for Financial Analysis using LLMs 🚀 🚀 🚀  ",
+    "language": "Jupyter Notebook",
+    "stars": "5226",
+    "forks": "930",
+    "increased": "34 stars today"
+  }
+]
