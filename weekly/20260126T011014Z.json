@@ -1,0 +1,149 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/JonnyBurger",
+        "avatar": "https://avatars.githubusercontent.com/u/1629785?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/patsalv",
+        "avatar": "https://avatars.githubusercontent.com/u/89481679?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/UmungoBungo",
+        "avatar": "https://avatars.githubusercontent.com/u/22192773?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/samohovets",
+        "avatar": "https://avatars.githubusercontent.com/u/24735429?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/alexfernandez803",
+        "avatar": "https://avatars.githubusercontent.com/u/7582277?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/remotion-dev/remotion",
+    "name": "remotion-dev/remotion",
+    "description": "🎥 Make videos programmatically with React  ",
+    "language": "TypeScript",
+    "stars": "30628",
+    "forks": "1854",
+    "increased": "4795 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/kuishou68",
+        "avatar": "https://avatars.githubusercontent.com/u/54054995?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/halvee-tech",
+        "avatar": "https://avatars.githubusercontent.com/u/224486645?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/IceyLiu",
+        "avatar": "https://avatars.githubusercontent.com/u/10683426?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/goworm",
+        "avatar": "https://avatars.githubusercontent.com/u/28083037?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/iOfficeAI/AionUi",
+    "name": "iOfficeAI/AionUi",
+    "description": "Free, local, open-source Cowork for Gemini CLI, Claude Code, Codex, Opencode, Qwen Code, Goose Cli, Auggie, and more | 🌟 Star if you like it!  ",
+    "language": "TypeScript",
+    "stars": "10622",
+    "forks": "812",
+    "increased": "5288 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/rejojer",
+        "avatar": "https://avatars.githubusercontent.com/u/8255061?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/zmtomorrow",
+        "avatar": "https://avatars.githubusercontent.com/u/13518252?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/clarenceluo78",
+        "avatar": "https://avatars.githubusercontent.com/u/71917860?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/VectifyAI/PageIndex",
+    "name": "VectifyAI/PageIndex",
+    "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG  ",
+    "language": "Python",
+    "stars": "9054",
+    "forks": "665",
+    "increased": "3307 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/obra",
+        "avatar": "https://avatars.githubusercontent.com/u/45416?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jjshanks",
+        "avatar": "https://avatars.githubusercontent.com/u/62661?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/oribarilan",
+        "avatar": "https://avatars.githubusercontent.com/u/8760762?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/vmotta8",
+        "avatar": "https://avatars.githubusercontent.com/u/60989975?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/obra/superpowers",
+    "name": "obra/superpowers",
+    "description": "An agentic skills framework &amp; software development methodology that works.  ",
+    "language": "Shell",
+    "stars": "35966",
+    "forks": "2746",
+    "increased": "7732 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/mssssss123",
+        "avatar": "https://avatars.githubusercontent.com/u/56372416?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/xhd0728",
+        "avatar": "https://avatars.githubusercontent.com/u/77320781?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/gdw439",
+        "avatar": "https://avatars.githubusercontent.com/u/23526166?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Kaguya-19",
+        "avatar": "https://avatars.githubusercontent.com/u/50143482?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ChenYX24",
+        "avatar": "https://avatars.githubusercontent.com/u/90974567?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/OpenBMB/UltraRAG",
+    "name": "OpenBMB/UltraRAG",
+    "description": "UltraRAG v3: A Low-Code MCP Framework for Building Complex and Innovative RAG Pipelines  ",
+    "language": "Python",
+    "stars": "4045",
+    "forks": "285",
+    "increased": "1300 stars this week"
+  }
+]

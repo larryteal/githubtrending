@@ -1,0 +1,273 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Blaizzy",
+        "avatar": "https://avatars.githubusercontent.com/u/23445657?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/lucasnewman",
+        "avatar": "https://avatars.githubusercontent.com/u/30198451?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rudrankriyam",
+        "avatar": "https://avatars.githubusercontent.com/u/30552772?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/beshkenadze",
+        "avatar": "https://avatars.githubusercontent.com/u/167288?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ivanfioravanti",
+        "avatar": "https://avatars.githubusercontent.com/u/1069210?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Blaizzy/mlx-audio",
+    "name": "Blaizzy/mlx-audio",
+    "description": "A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Silicon.  ",
+    "language": "Python",
+    "stars": "4243",
+    "forks": "337",
+    "increased": "272 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/rejojer",
+        "avatar": "https://avatars.githubusercontent.com/u/8255061?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/zmtomorrow",
+        "avatar": "https://avatars.githubusercontent.com/u/13518252?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/clarenceluo78",
+        "avatar": "https://avatars.githubusercontent.com/u/71917860?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/VectifyAI/PageIndex",
+    "name": "VectifyAI/PageIndex",
+    "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG  ",
+    "language": "Python",
+    "stars": "9054",
+    "forks": "665",
+    "increased": "1004 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/JonnyBurger",
+        "avatar": "https://avatars.githubusercontent.com/u/1629785?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/patsalv",
+        "avatar": "https://avatars.githubusercontent.com/u/89481679?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/UmungoBungo",
+        "avatar": "https://avatars.githubusercontent.com/u/22192773?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/samohovets",
+        "avatar": "https://avatars.githubusercontent.com/u/24735429?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/alexfernandez803",
+        "avatar": "https://avatars.githubusercontent.com/u/7582277?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/remotion-dev/remotion",
+    "name": "remotion-dev/remotion",
+    "description": "🎥 Make videos programmatically with React  ",
+    "language": "TypeScript",
+    "stars": "30628",
+    "forks": "1854",
+    "increased": "1114 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/qarmin",
+        "avatar": "https://avatars.githubusercontent.com/u/41945903?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/alexislefebvre",
+        "avatar": "https://avatars.githubusercontent.com/u/2071331?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/blob79",
+        "avatar": "https://avatars.githubusercontent.com/u/2028476?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pczarn",
+        "avatar": "https://avatars.githubusercontent.com/u/3356767?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/TheEvilSkeleton",
+        "avatar": "https://avatars.githubusercontent.com/u/50847364?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/qarmin/czkawka",
+    "name": "qarmin/czkawka",
+    "description": "Multi functional app to find duplicates, empty folders, similar images etc.  ",
+    "language": "Rust",
+    "stars": "28562",
+    "forks": "933",
+    "increased": "65 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/mssssss123",
+        "avatar": "https://avatars.githubusercontent.com/u/56372416?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/xhd0728",
+        "avatar": "https://avatars.githubusercontent.com/u/77320781?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/gdw439",
+        "avatar": "https://avatars.githubusercontent.com/u/23526166?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Kaguya-19",
+        "avatar": "https://avatars.githubusercontent.com/u/50143482?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ChenYX24",
+        "avatar": "https://avatars.githubusercontent.com/u/90974567?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/OpenBMB/UltraRAG",
+    "name": "OpenBMB/UltraRAG",
+    "description": "UltraRAG v3: A Low-Code MCP Framework for Building Complex and Innovative RAG Pipelines  ",
+    "language": "Python",
+    "stars": "4045",
+    "forks": "285",
+    "increased": "437 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/YaoyaoChang",
+        "avatar": "https://avatars.githubusercontent.com/u/20237658?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/MSLDCherryPick",
+        "avatar": "https://avatars.githubusercontent.com/u/173002764?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pengzhiliang",
+        "avatar": "https://avatars.githubusercontent.com/u/26346329?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/wenhui0924",
+        "avatar": "https://avatars.githubusercontent.com/u/46838421?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Damon-Salvetore",
+        "avatar": "https://avatars.githubusercontent.com/u/103027390?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/microsoft/VibeVoice",
+    "name": "microsoft/VibeVoice",
+    "description": "Open-Source Frontier Voice AI  ",
+    "language": "Python",
+    "stars": "22033",
+    "forks": "2394",
+    "increased": "362 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/bolinfest",
+        "avatar": "https://avatars.githubusercontent.com/u/655869?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/aibrahim-oai",
+        "avatar": "https://avatars.githubusercontent.com/u/219906144?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jif-oai",
+        "avatar": "https://avatars.githubusercontent.com/u/230027070?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pakrym-oai",
+        "avatar": "https://avatars.githubusercontent.com/u/204937752?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/nornagon-openai",
+        "avatar": "https://avatars.githubusercontent.com/u/172423086?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/openai/codex",
+    "name": "openai/codex",
+    "description": "Lightweight coding agent that runs in your terminal  ",
+    "language": "Rust",
+    "stars": "57433",
+    "forks": "7444",
+    "increased": "170 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Dhravya",
+        "avatar": "https://avatars.githubusercontent.com/u/63950637?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/MaheshtheDev",
+        "avatar": "https://avatars.githubusercontent.com/u/38828053?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/yxshv",
+        "avatar": "https://avatars.githubusercontent.com/u/93475253?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/CodeTorso",
+        "avatar": "https://avatars.githubusercontent.com/u/129188028?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Kinfe123",
+        "avatar": "https://avatars.githubusercontent.com/u/65047246?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/supermemoryai/supermemory",
+    "name": "supermemoryai/supermemory",
+    "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.  ",
+    "language": "TypeScript",
+    "stars": "14693",
+    "forks": "1543",
+    "increased": "157 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/tmgrask",
+        "avatar": "https://avatars.githubusercontent.com/u/26747046?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/efryntov",
+        "avatar": "https://avatars.githubusercontent.com/u/9257715?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/adotkhan",
+        "avatar": "https://avatars.githubusercontent.com/u/61702862?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Enda-O",
+        "avatar": "https://avatars.githubusercontent.com/u/117767978?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/adamkruger",
+        "avatar": "https://avatars.githubusercontent.com/u/5760099?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Psiphon-Inc/conduit",
+    "name": "Psiphon-Inc/conduit",
+    "description": "Conduit React Native app  ",
+    "language": "TypeScript",
+    "stars": "86",
+    "forks": "39",
+    "increased": "17 stars today"
+  }
+]
