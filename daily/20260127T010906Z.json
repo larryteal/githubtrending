@@ -1,0 +1,230 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Blaizzy",
+        "avatar": "https://avatars.githubusercontent.com/u/23445657?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/lucasnewman",
+        "avatar": "https://avatars.githubusercontent.com/u/30198451?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rudrankriyam",
+        "avatar": "https://avatars.githubusercontent.com/u/30552772?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/beshkenadze",
+        "avatar": "https://avatars.githubusercontent.com/u/167288?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ivanfioravanti",
+        "avatar": "https://avatars.githubusercontent.com/u/1069210?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Blaizzy/mlx-audio",
+    "name": "Blaizzy/mlx-audio",
+    "description": "A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Silicon.  ",
+    "language": "Python",
+    "stars": "5096",
+    "forks": "379",
+    "increased": "1233 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/rejojer",
+        "avatar": "https://avatars.githubusercontent.com/u/8255061?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/zmtomorrow",
+        "avatar": "https://avatars.githubusercontent.com/u/13518252?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/clarenceluo78",
+        "avatar": "https://avatars.githubusercontent.com/u/71917860?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/VectifyAI/PageIndex",
+    "name": "VectifyAI/PageIndex",
+    "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG  ",
+    "language": "Python",
+    "stars": "9769",
+    "forks": "714",
+    "increased": "726 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Dhravya",
+        "avatar": "https://avatars.githubusercontent.com/u/63950637?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/MaheshtheDev",
+        "avatar": "https://avatars.githubusercontent.com/u/38828053?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/yxshv",
+        "avatar": "https://avatars.githubusercontent.com/u/93475253?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/CodeTorso",
+        "avatar": "https://avatars.githubusercontent.com/u/129188028?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Kinfe123",
+        "avatar": "https://avatars.githubusercontent.com/u/65047246?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/supermemoryai/supermemory",
+    "name": "supermemoryai/supermemory",
+    "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.  ",
+    "language": "TypeScript",
+    "stars": "15094",
+    "forks": "1569",
+    "increased": "420 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/angiejones",
+        "avatar": "https://avatars.githubusercontent.com/u/15972783?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/blackgirlbytes",
+        "avatar": "https://avatars.githubusercontent.com/u/22990146?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dianed-square",
+        "avatar": "https://avatars.githubusercontent.com/u/73617011?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/EbonyLouis",
+        "avatar": "https://avatars.githubusercontent.com/u/55366651?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/michaelneale",
+        "avatar": "https://avatars.githubusercontent.com/u/14976?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/block/goose",
+    "name": "block/goose",
+    "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM  ",
+    "language": "Rust",
+    "stars": "29151",
+    "forks": "2622",
+    "increased": "332 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/JonnyBurger",
+        "avatar": "https://avatars.githubusercontent.com/u/1629785?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/patsalv",
+        "avatar": "https://avatars.githubusercontent.com/u/89481679?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/UmungoBungo",
+        "avatar": "https://avatars.githubusercontent.com/u/22192773?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/samohovets",
+        "avatar": "https://avatars.githubusercontent.com/u/24735429?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/alexfernandez803",
+        "avatar": "https://avatars.githubusercontent.com/u/7582277?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/remotion-dev/remotion",
+    "name": "remotion-dev/remotion",
+    "description": "🎥 Make videos programmatically with React  ",
+    "language": "TypeScript",
+    "stars": "31968",
+    "forks": "1926",
+    "increased": "1374 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/BruceYanghy",
+        "avatar": "https://avatars.githubusercontent.com/u/31713746?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Noir97",
+        "avatar": "https://avatars.githubusercontent.com/u/37800725?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/PinqiaoWang",
+        "avatar": "https://avatars.githubusercontent.com/u/145395331?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/yilinwu123",
+        "avatar": "https://avatars.githubusercontent.com/u/59527986?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Athe-kunal",
+        "avatar": "https://avatars.githubusercontent.com/u/40949756?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/AI4Finance-Foundation/FinRobot",
+    "name": "AI4Finance-Foundation/FinRobot",
+    "description": "FinRobot: An Open-Source AI Agent Platform for Financial Analysis using LLMs 🚀 🚀 🚀  ",
+    "language": "Jupyter Notebook",
+    "stars": "5687",
+    "forks": "974",
+    "increased": "68 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/k4yt3x",
+        "avatar": "https://avatars.githubusercontent.com/u/21986859?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/BrianPetkovsek",
+        "avatar": "https://avatars.githubusercontent.com/u/16124109?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sat3ll",
+        "avatar": "https://avatars.githubusercontent.com/u/37741639?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Integral-Tech",
+        "avatar": "https://avatars.githubusercontent.com/u/71180087?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/snixon",
+        "avatar": "https://avatars.githubusercontent.com/u/1184344?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/k4yt3x/video2x",
+    "name": "k4yt3x/video2x",
+    "description": "A machine learning-based video super resolution and frame interpolation framework. Est. Hack the Valley II, 2018.  ",
+    "language": "C++",
+    "stars": "18030",
+    "forks": "1604",
+    "increased": "468 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/mdancho84",
+        "avatar": "https://avatars.githubusercontent.com/u/13734662?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Ehsaan08-ai",
+        "avatar": "https://avatars.githubusercontent.com/u/184815126?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/business-science/ai-data-science-team",
+    "name": "business-science/ai-data-science-team",
+    "description": "An AI-powered data science team of agents to help you perform common data science tasks 10X faster.  ",
+    "language": "Python",
+    "stars": "4169",
+    "forks": "771",
+    "increased": "80 stars today"
+  }
+]

@@ -1,0 +1,211 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/JonnyBurger",
+        "avatar": "https://avatars.githubusercontent.com/u/1629785?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/patsalv",
+        "avatar": "https://avatars.githubusercontent.com/u/89481679?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/UmungoBungo",
+        "avatar": "https://avatars.githubusercontent.com/u/22192773?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/samohovets",
+        "avatar": "https://avatars.githubusercontent.com/u/24735429?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/alexfernandez803",
+        "avatar": "https://avatars.githubusercontent.com/u/7582277?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/remotion-dev/remotion",
+    "name": "remotion-dev/remotion",
+    "description": "🎥 Make videos programmatically with React  ",
+    "language": "TypeScript",
+    "stars": "31968",
+    "forks": "1926",
+    "increased": "this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/kuishou68",
+        "avatar": "https://avatars.githubusercontent.com/u/54054995?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/halvee-tech",
+        "avatar": "https://avatars.githubusercontent.com/u/224486645?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/IceyLiu",
+        "avatar": "https://avatars.githubusercontent.com/u/10683426?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/goworm",
+        "avatar": "https://avatars.githubusercontent.com/u/28083037?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/iOfficeAI/AionUi",
+    "name": "iOfficeAI/AionUi",
+    "description": "Free, local, open-source 24/7 Cowork for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!  ",
+    "language": "TypeScript",
+    "stars": "11019",
+    "forks": "840",
+    "increased": "4571 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/rejojer",
+        "avatar": "https://avatars.githubusercontent.com/u/8255061?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/zmtomorrow",
+        "avatar": "https://avatars.githubusercontent.com/u/13518252?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/clarenceluo78",
+        "avatar": "https://avatars.githubusercontent.com/u/71917860?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/VectifyAI/PageIndex",
+    "name": "VectifyAI/PageIndex",
+    "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG  ",
+    "language": "Python",
+    "stars": "9769",
+    "forks": "714",
+    "increased": "3973 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/mssssss123",
+        "avatar": "https://avatars.githubusercontent.com/u/56372416?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/xhd0728",
+        "avatar": "https://avatars.githubusercontent.com/u/77320781?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/gdw439",
+        "avatar": "https://avatars.githubusercontent.com/u/23526166?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Kaguya-19",
+        "avatar": "https://avatars.githubusercontent.com/u/50143482?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ChenYX24",
+        "avatar": "https://avatars.githubusercontent.com/u/90974567?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/OpenBMB/UltraRAG",
+    "name": "OpenBMB/UltraRAG",
+    "description": "UltraRAG v3: A Low-Code MCP Framework for Building Complex and Innovative RAG Pipelines  ",
+    "language": "Python",
+    "stars": "4392",
+    "forks": "307",
+    "increased": "1961 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/obra",
+        "avatar": "https://avatars.githubusercontent.com/u/45416?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jjshanks",
+        "avatar": "https://avatars.githubusercontent.com/u/62661?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/oribarilan",
+        "avatar": "https://avatars.githubusercontent.com/u/8760762?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/vmotta8",
+        "avatar": "https://avatars.githubusercontent.com/u/60989975?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/obra/superpowers",
+    "name": "obra/superpowers",
+    "description": "An agentic skills framework &amp; software development methodology that works.  ",
+    "language": "Shell",
+    "stars": "36975",
+    "forks": "2833",
+    "increased": "7391 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/angiejones",
+        "avatar": "https://avatars.githubusercontent.com/u/15972783?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/blackgirlbytes",
+        "avatar": "https://avatars.githubusercontent.com/u/22990146?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dianed-square",
+        "avatar": "https://avatars.githubusercontent.com/u/73617011?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/EbonyLouis",
+        "avatar": "https://avatars.githubusercontent.com/u/55366651?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/michaelneale",
+        "avatar": "https://avatars.githubusercontent.com/u/14976?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/block/goose",
+    "name": "block/goose",
+    "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM  ",
+    "language": "Rust",
+    "stars": "29151",
+    "forks": "2622",
+    "increased": "2902 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/klazuka",
+        "avatar": "https://avatars.githubusercontent.com/u/84525?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/maheshmurag",
+        "avatar": "https://avatars.githubusercontent.com/u/5667029?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mattpic-ant",
+        "avatar": "https://avatars.githubusercontent.com/u/227474486?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/camaris",
+        "avatar": "https://avatars.githubusercontent.com/u/1184736?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/anthropics/skills",
+    "name": "anthropics/skills",
+    "description": "Public repository for Agent Skills  ",
+    "language": "Python",
+    "stars": "54256",
+    "forks": "5292",
+    "increased": "8586 stars this week"
+  }
+]
