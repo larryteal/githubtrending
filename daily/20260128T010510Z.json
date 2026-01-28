@@ -1,0 +1,188 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/badlogic",
+        "avatar": "https://avatars.githubusercontent.com/u/514052?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/hjanuschka",
+        "avatar": "https://avatars.githubusercontent.com/u/2891702?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/markusylisiurunen",
+        "avatar": "https://avatars.githubusercontent.com/u/8409947?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/nicobailon",
+        "avatar": "https://avatars.githubusercontent.com/u/2958133?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/aliou",
+        "avatar": "https://avatars.githubusercontent.com/u/980367?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/badlogic/pi-mono",
+    "name": "badlogic/pi-mono",
+    "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI &amp; web UI libraries, Slack bot, vLLM pods  ",
+    "language": "TypeScript",
+    "stars": "2716",
+    "forks": "337",
+    "increased": "118 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Dhravya",
+        "avatar": "https://avatars.githubusercontent.com/u/63950637?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/MaheshtheDev",
+        "avatar": "https://avatars.githubusercontent.com/u/38828053?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/yxshv",
+        "avatar": "https://avatars.githubusercontent.com/u/93475253?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/CodeTorso",
+        "avatar": "https://avatars.githubusercontent.com/u/129188028?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Kinfe123",
+        "avatar": "https://avatars.githubusercontent.com/u/65047246?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/supermemoryai/supermemory",
+    "name": "supermemoryai/supermemory",
+    "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.  ",
+    "language": "TypeScript",
+    "stars": "15563",
+    "forks": "1588",
+    "increased": "435 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Blaizzy",
+        "avatar": "https://avatars.githubusercontent.com/u/23445657?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/lucasnewman",
+        "avatar": "https://avatars.githubusercontent.com/u/30198451?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rudrankriyam",
+        "avatar": "https://avatars.githubusercontent.com/u/30552772?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/beshkenadze",
+        "avatar": "https://avatars.githubusercontent.com/u/167288?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ivanfioravanti",
+        "avatar": "https://avatars.githubusercontent.com/u/1069210?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Blaizzy/mlx-audio",
+    "name": "Blaizzy/mlx-audio",
+    "description": "A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Silicon.  ",
+    "language": "Python",
+    "stars": "5438",
+    "forks": "391",
+    "increased": "458 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/KAMI911",
+        "avatar": "https://avatars.githubusercontent.com/u/5292264?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/freetv332",
+        "avatar": "https://avatars.githubusercontent.com/u/82442641?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/NezbednikSK",
+        "avatar": "https://avatars.githubusercontent.com/u/47603275?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/TVKaista",
+        "avatar": "https://avatars.githubusercontent.com/u/103857112?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/infid0",
+        "avatar": "https://avatars.githubusercontent.com/u/17656192?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Free-TV/IPTV",
+    "name": "Free-TV/IPTV",
+    "description": "M3U Playlist for free TV channels  ",
+    "language": "Python",
+    "stars": "12558",
+    "forks": "1881",
+    "increased": "295 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/jefferai",
+        "avatar": "https://avatars.githubusercontent.com/u/28627?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/vishalnayak",
+        "avatar": "https://avatars.githubusercontent.com/u/3053672?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/hc-github-team-secure-vault-core",
+        "avatar": "https://avatars.githubusercontent.com/u/82990506?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/armon",
+        "avatar": "https://avatars.githubusercontent.com/u/592032?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ncabatoff",
+        "avatar": "https://avatars.githubusercontent.com/u/5587236?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/hashicorp/vault",
+    "name": "hashicorp/vault",
+    "description": "A tool for secrets management, encryption as a service, and privileged access management  ",
+    "language": "Go",
+    "stars": "34107",
+    "forks": "4523",
+    "increased": "13 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Shubhamsaboo",
+        "avatar": "https://avatars.githubusercontent.com/u/31396011?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Madhuvod",
+        "avatar": "https://avatars.githubusercontent.com/u/124294538?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/libw0430",
+        "avatar": "https://avatars.githubusercontent.com/u/102198332?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/AndrewHoh",
+        "avatar": "https://avatars.githubusercontent.com/u/774516?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ArkVex",
+        "avatar": "https://avatars.githubusercontent.com/u/159469387?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+    "name": "Shubhamsaboo/awesome-llm-apps",
+    "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.  ",
+    "language": "Python",
+    "stars": "90163",
+    "forks": "13017",
+    "increased": "294 stars today"
+  }
+]
