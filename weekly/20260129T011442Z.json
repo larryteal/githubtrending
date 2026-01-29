@@ -1,0 +1,265 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/steipete",
+        "avatar": "https://avatars.githubusercontent.com/u/58493?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/thewilloftheshadow",
+        "avatar": "https://avatars.githubusercontent.com/u/35580099?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/vignesh07",
+        "avatar": "https://avatars.githubusercontent.com/u/1436853?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tyler6204",
+        "avatar": "https://avatars.githubusercontent.com/u/64381258?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/moltbot/moltbot",
+    "name": "moltbot/moltbot",
+    "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  ",
+    "language": "TypeScript",
+    "stars": "88870",
+    "forks": "12097",
+    "increased": "83158 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/JonnyBurger",
+        "avatar": "https://avatars.githubusercontent.com/u/1629785?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/patsalv",
+        "avatar": "https://avatars.githubusercontent.com/u/89481679?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/UmungoBungo",
+        "avatar": "https://avatars.githubusercontent.com/u/22192773?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/samohovets",
+        "avatar": "https://avatars.githubusercontent.com/u/24735429?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/alexfernandez803",
+        "avatar": "https://avatars.githubusercontent.com/u/7582277?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/remotion-dev/remotion",
+    "name": "remotion-dev/remotion",
+    "description": "🎥 Make videos programmatically with React  ",
+    "language": "TypeScript",
+    "stars": "33329",
+    "forks": "2001",
+    "increased": "7553 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/rejojer",
+        "avatar": "https://avatars.githubusercontent.com/u/8255061?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/zmtomorrow",
+        "avatar": "https://avatars.githubusercontent.com/u/13518252?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/clarenceluo78",
+        "avatar": "https://avatars.githubusercontent.com/u/71917860?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/VectifyAI/PageIndex",
+    "name": "VectifyAI/PageIndex",
+    "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG  ",
+    "language": "Python",
+    "stars": "10401",
+    "forks": "757",
+    "increased": "4408 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/mssssss123",
+        "avatar": "https://avatars.githubusercontent.com/u/56372416?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/xhd0728",
+        "avatar": "https://avatars.githubusercontent.com/u/77320781?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/gdw439",
+        "avatar": "https://avatars.githubusercontent.com/u/23526166?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Kaguya-19",
+        "avatar": "https://avatars.githubusercontent.com/u/50143482?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ChenYX24",
+        "avatar": "https://avatars.githubusercontent.com/u/90974567?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/OpenBMB/UltraRAG",
+    "name": "OpenBMB/UltraRAG",
+    "description": "UltraRAG v3: A Low-Code MCP Framework for Building Complex and Innovative RAG Pipelines  ",
+    "language": "Python",
+    "stars": "4574",
+    "forks": "322",
+    "increased": "2060 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/kuishou68",
+        "avatar": "https://avatars.githubusercontent.com/u/54054995?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/halvee-tech",
+        "avatar": "https://avatars.githubusercontent.com/u/224486645?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/IceyLiu",
+        "avatar": "https://avatars.githubusercontent.com/u/10683426?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/goworm",
+        "avatar": "https://avatars.githubusercontent.com/u/28083037?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/iOfficeAI/AionUi",
+    "name": "iOfficeAI/AionUi",
+    "description": "Free, local, open-source 24/7 Cowork and Clawdbot for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!  ",
+    "language": "TypeScript",
+    "stars": "11615",
+    "forks": "878",
+    "increased": "3144 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/hellodigua",
+        "avatar": "https://avatars.githubusercontent.com/u/9943164?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/JiQingzhe2004",
+        "avatar": "https://avatars.githubusercontent.com/u/128445439?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/binbin1213",
+        "avatar": "https://avatars.githubusercontent.com/u/32067712?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/hellodigua/ChatLab",
+    "name": "hellodigua/ChatLab",
+    "description": "本地化的聊天记录分析工具，通过 SQL 和 AI Agent 回顾你的社交记忆。local-first chat analysis tool: Relive your social memories powered by SQL and AI Agents.  ",
+    "language": "TypeScript",
+    "stars": "3786",
+    "forks": "1019",
+    "increased": "1094 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/obra",
+        "avatar": "https://avatars.githubusercontent.com/u/45416?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jjshanks",
+        "avatar": "https://avatars.githubusercontent.com/u/62661?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/oribarilan",
+        "avatar": "https://avatars.githubusercontent.com/u/8760762?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/vmotta8",
+        "avatar": "https://avatars.githubusercontent.com/u/60989975?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/obra/superpowers",
+    "name": "obra/superpowers",
+    "description": "An agentic skills framework &amp; software development methodology that works.  ",
+    "language": "Shell",
+    "stars": "39018",
+    "forks": "2972",
+    "increased": "6908 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/angiejones",
+        "avatar": "https://avatars.githubusercontent.com/u/15972783?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/blackgirlbytes",
+        "avatar": "https://avatars.githubusercontent.com/u/22990146?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dianed-square",
+        "avatar": "https://avatars.githubusercontent.com/u/73617011?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/EbonyLouis",
+        "avatar": "https://avatars.githubusercontent.com/u/55366651?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/michaelneale",
+        "avatar": "https://avatars.githubusercontent.com/u/14976?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/block/goose",
+    "name": "block/goose",
+    "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM  ",
+    "language": "Rust",
+    "stars": "29474",
+    "forks": "2658",
+    "increased": "2875 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/beginlner",
+        "avatar": "https://avatars.githubusercontent.com/u/31004720?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/interestingLSY",
+        "avatar": "https://avatars.githubusercontent.com/u/30743214?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sijiac",
+        "avatar": "https://avatars.githubusercontent.com/u/16120401?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dianzhangchen",
+        "avatar": "https://avatars.githubusercontent.com/u/192296276?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/uchihatmtkinu",
+        "avatar": "https://avatars.githubusercontent.com/u/1755997?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/deepseek-ai/FlashMLA",
+    "name": "deepseek-ai/FlashMLA",
+    "description": "FlashMLA: Efficient Multi-head Latent Attention Kernels  ",
+    "language": "C++",
+    "stars": "12409",
+    "forks": "972",
+    "increased": "375 stars this week"
+  }
+]

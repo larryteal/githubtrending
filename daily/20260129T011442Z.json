@@ -1,0 +1,381 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/steipete",
+        "avatar": "https://avatars.githubusercontent.com/u/58493?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/thewilloftheshadow",
+        "avatar": "https://avatars.githubusercontent.com/u/35580099?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/vignesh07",
+        "avatar": "https://avatars.githubusercontent.com/u/1436853?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tyler6204",
+        "avatar": "https://avatars.githubusercontent.com/u/64381258?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/moltbot/moltbot",
+    "name": "moltbot/moltbot",
+    "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  ",
+    "language": "TypeScript",
+    "stars": "88870",
+    "forks": "12097",
+    "increased": "17830 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/badlogic",
+        "avatar": "https://avatars.githubusercontent.com/u/514052?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/hjanuschka",
+        "avatar": "https://avatars.githubusercontent.com/u/2891702?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/markusylisiurunen",
+        "avatar": "https://avatars.githubusercontent.com/u/8409947?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/nicobailon",
+        "avatar": "https://avatars.githubusercontent.com/u/2958133?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/aliou",
+        "avatar": "https://avatars.githubusercontent.com/u/980367?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/badlogic/pi-mono",
+    "name": "badlogic/pi-mono",
+    "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI &amp; web UI libraries, Slack bot, vLLM pods  ",
+    "language": "TypeScript",
+    "stars": "3138",
+    "forks": "383",
+    "increased": "467 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/jefferai",
+        "avatar": "https://avatars.githubusercontent.com/u/28627?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/vishalnayak",
+        "avatar": "https://avatars.githubusercontent.com/u/3053672?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/hc-github-team-secure-vault-core",
+        "avatar": "https://avatars.githubusercontent.com/u/82990506?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/armon",
+        "avatar": "https://avatars.githubusercontent.com/u/592032?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ncabatoff",
+        "avatar": "https://avatars.githubusercontent.com/u/5587236?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/hashicorp/vault",
+    "name": "hashicorp/vault",
+    "description": "A tool for secrets management, encryption as a service, and privileged access management  ",
+    "language": "Go",
+    "stars": "34379",
+    "forks": "4540",
+    "increased": "352 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/asgeirtj",
+        "avatar": "https://avatars.githubusercontent.com/u/27446620?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/awrreny",
+        "avatar": "https://avatars.githubusercontent.com/u/46632417?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bgauryy",
+        "avatar": "https://avatars.githubusercontent.com/u/4633839?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/MaloneFreak",
+        "avatar": "https://avatars.githubusercontent.com/u/21204817?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/xu-chris",
+        "avatar": "https://avatars.githubusercontent.com/u/980778?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/asgeirtj/system_prompts_leaks",
+    "name": "asgeirtj/system_prompts_leaks",
+    "description": "Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude &amp; Gemini  ",
+    "language": "JavaScript",
+    "stars": "26592",
+    "forks": "4241",
+    "increased": "216 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/sairin1202",
+        "avatar": "https://avatars.githubusercontent.com/u/5654879?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/evan-ak",
+        "avatar": "https://avatars.githubusercontent.com/u/33013709?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ankaisen",
+        "avatar": "https://avatars.githubusercontent.com/u/51148505?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/arnav-terex",
+        "avatar": "https://avatars.githubusercontent.com/u/183591086?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/NevaMind-AI/memU",
+    "name": "NevaMind-AI/memU",
+    "description": "Memory for 24/7 proactive agents like moltbot (clawdbot).  ",
+    "language": "Python",
+    "stars": "5532",
+    "forks": "89",
+    "increased": "239 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ochafik",
+        "avatar": "https://avatars.githubusercontent.com/u/273860?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jonathanhefner",
+        "avatar": "https://avatars.githubusercontent.com/u/771968?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/antonpk1",
+        "avatar": "https://avatars.githubusercontent.com/u/105124934?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/martinalong",
+        "avatar": "https://avatars.githubusercontent.com/u/33686587?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/modelcontextprotocol/ext-apps",
+    "name": "modelcontextprotocol/ext-apps",
+    "description": "Official repo for spec &amp; SDK of MCP Apps protocol - standard for UIs embedded AI chatbots, served by MCP servers  ",
+    "language": "TypeScript",
+    "stars": "663",
+    "forks": "94",
+    "increased": "73 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/stdrc",
+        "avatar": "https://avatars.githubusercontent.com/u/5317095?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/xxchan",
+        "avatar": "https://avatars.githubusercontent.com/u/37948597?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Epsirom",
+        "avatar": "https://avatars.githubusercontent.com/u/3744223?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/yihong0618",
+        "avatar": "https://avatars.githubusercontent.com/u/15976103?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/MoonshotAI/kimi-cli",
+    "name": "MoonshotAI/kimi-cli",
+    "description": "Kimi Code CLI is your next CLI agent.  ",
+    "language": "Python",
+    "stars": "4556",
+    "forks": "445",
+    "increased": "298 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/aledbf",
+        "avatar": "https://avatars.githubusercontent.com/u/161571?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/k8s-ci-robot",
+        "avatar": "https://avatars.githubusercontent.com/u/20407524?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Gacko",
+        "avatar": "https://avatars.githubusercontent.com/u/935479?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ElvinEfendi",
+        "avatar": "https://avatars.githubusercontent.com/u/1150042?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/kubernetes/ingress-nginx",
+    "name": "kubernetes/ingress-nginx",
+    "description": "Ingress NGINX Controller for Kubernetes  ",
+    "language": "Go",
+    "stars": "19353",
+    "forks": "8512",
+    "increased": "29 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/protobuf-github-bot",
+        "avatar": "https://avatars.githubusercontent.com/u/106703886?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/haberman",
+        "avatar": "https://avatars.githubusercontent.com/u/1270?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/protobuf-team-bot",
+        "avatar": "https://avatars.githubusercontent.com/u/105450428?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mkruskal-google",
+        "avatar": "https://avatars.githubusercontent.com/u/62662355?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/xfxyjwf",
+        "avatar": "https://avatars.githubusercontent.com/u/8551050?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/protocolbuffers/protobuf",
+    "name": "protocolbuffers/protobuf",
+    "description": "Protocol Buffers - Google's data interchange format  ",
+    "language": "C++",
+    "stars": "70449",
+    "forks": "16018",
+    "increased": "16 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/semantic-release-bot",
+        "avatar": "https://avatars.githubusercontent.com/u/32174276?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/arvinxx",
+        "avatar": "https://avatars.githubusercontent.com/u/28616219?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/lobehubbot",
+        "avatar": "https://avatars.githubusercontent.com/u/134299653?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/canisminor1990",
+        "avatar": "https://avatars.githubusercontent.com/u/17870709?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tjx666",
+        "avatar": "https://avatars.githubusercontent.com/u/41773861?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/lobehub/lobehub",
+    "name": "lobehub/lobehub",
+    "description": "The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction.  ",
+    "language": "TypeScript",
+    "stars": "70898",
+    "forks": "14495",
+    "increased": "144 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ran-j",
+        "avatar": "https://avatars.githubusercontent.com/u/17410205?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/playmer",
+        "avatar": "https://avatars.githubusercontent.com/u/1740806?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/ran-j/PS2Recomp",
+    "name": "ran-j/PS2Recomp",
+    "description": "Playstation 2 Static Recompiler &amp; Runtime Tool to make native PC ports  ",
+    "language": "C++",
+    "stars": "1463",
+    "forks": "28",
+    "increased": "458 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Haidiye00",
+        "avatar": "https://avatars.githubusercontent.com/u/132528822?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bambu123",
+        "avatar": "https://avatars.githubusercontent.com/u/112537880?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/walterwongbbl",
+        "avatar": "https://avatars.githubusercontent.com/u/120699126?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/zhimin-zeng-bambulab",
+        "avatar": "https://avatars.githubusercontent.com/u/120697589?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/XunZhangBambu",
+        "avatar": "https://avatars.githubusercontent.com/u/139755545?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/bambulab/BambuStudio",
+    "name": "bambulab/BambuStudio",
+    "description": "PC Software for BambuLab and other 3D printers  ",
+    "language": "C++",
+    "stars": "3831",
+    "forks": "585",
+    "increased": "33 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/tschellenbach",
+        "avatar": "https://avatars.githubusercontent.com/u/265409?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Nash0x7E2",
+        "avatar": "https://avatars.githubusercontent.com/u/25674767?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/maxkahan",
+        "avatar": "https://avatars.githubusercontent.com/u/28460373?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/yarikdevcom",
+        "avatar": "https://avatars.githubusercontent.com/u/43354956?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/d3xvn",
+        "avatar": "https://avatars.githubusercontent.com/u/26357843?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/GetStream/Vision-Agents",
+    "name": "GetStream/Vision-Agents",
+    "description": "Open Vision Agents by Stream. Build Vision Agents quickly with any model or video provider. Uses Stream's edge network for ultra-low latency.  ",
+    "language": "Python",
+    "stars": "4191",
+    "forks": "363",
+    "increased": "109 stars today"
+  }
+]
