@@ -1,0 +1,358 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ThePrimeagen",
+        "avatar": "https://avatars.githubusercontent.com/u/4458174?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/SearidangPa",
+        "avatar": "https://avatars.githubusercontent.com/u/40446468?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ramonasuncion",
+        "avatar": "https://avatars.githubusercontent.com/u/40077628?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/aleDsz",
+        "avatar": "https://avatars.githubusercontent.com/u/6402997?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/codegirl-007",
+        "avatar": "https://avatars.githubusercontent.com/u/7044310?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/ThePrimeagen/99",
+    "name": "ThePrimeagen/99",
+    "description": "Neovim AI agent done right  ",
+    "language": "Lua",
+    "stars": "2272",
+    "forks": "104",
+    "increased": "542 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/potassiummmm",
+        "avatar": "https://avatars.githubusercontent.com/u/54800242?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/younesbelkada",
+        "avatar": "https://avatars.githubusercontent.com/u/49240599?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tsong-ms",
+        "avatar": "https://avatars.githubusercontent.com/u/84831885?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dawnmsg",
+        "avatar": "https://avatars.githubusercontent.com/u/23658399?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sd983527",
+        "avatar": "https://avatars.githubusercontent.com/u/59006636?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/microsoft/BitNet",
+    "name": "microsoft/BitNet",
+    "description": "Official inference framework for 1-bit LLMs  ",
+    "language": "Python",
+    "stars": "27272",
+    "forks": "2207",
+    "increased": "137 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/actions-user",
+        "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ultmaster",
+        "avatar": "https://avatars.githubusercontent.com/u/8463288?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/acured",
+        "avatar": "https://avatars.githubusercontent.com/u/10276763?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/wizardlancet",
+        "avatar": "https://avatars.githubusercontent.com/u/5806609?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/microsoft/agent-lightning",
+    "name": "microsoft/agent-lightning",
+    "description": "The absolute trainer to light up AI agents.  ",
+    "language": "Python",
+    "stars": "12627",
+    "forks": "1040",
+    "increased": "516 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/LDOUBLEV",
+        "avatar": "https://avatars.githubusercontent.com/u/26592129?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/WenmuZhou",
+        "avatar": "https://avatars.githubusercontent.com/u/12406017?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/MissPenguin",
+        "avatar": "https://avatars.githubusercontent.com/u/25809855?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tink2123",
+        "avatar": "https://avatars.githubusercontent.com/u/31891223?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/PaddlePaddle/PaddleOCR",
+    "name": "PaddlePaddle/PaddleOCR",
+    "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.  ",
+    "language": "Python",
+    "stars": "69596",
+    "forks": "9753",
+    "increased": "171 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/noahzweben",
+        "avatar": "https://avatars.githubusercontent.com/u/12701358?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ThariqS",
+        "avatar": "https://avatars.githubusercontent.com/u/140827?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/isabella-anthropic",
+        "avatar": "https://avatars.githubusercontent.com/u/247469474?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dhollman",
+        "avatar": "https://avatars.githubusercontent.com/u/100382?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/anthropics/claude-plugins-official",
+    "name": "anthropics/claude-plugins-official",
+    "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.  ",
+    "language": "Shell",
+    "stars": "5861",
+    "forks": "579",
+    "increased": "237 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/crutkas",
+        "avatar": "https://avatars.githubusercontent.com/u/1462282?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bao-qian",
+        "avatar": "https://avatars.githubusercontent.com/u/1169912?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/qianlifeng",
+        "avatar": "https://avatars.githubusercontent.com/u/1725475?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jaimecbernardo",
+        "avatar": "https://avatars.githubusercontent.com/u/26118718?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/niels9001",
+        "avatar": "https://avatars.githubusercontent.com/u/9866362?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/microsoft/PowerToys",
+    "name": "microsoft/PowerToys",
+    "description": "Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks  ",
+    "language": "C#",
+    "stars": "128748",
+    "forks": "7658",
+    "increased": "46 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/agnostic-apollo",
+        "avatar": "https://avatars.githubusercontent.com/u/31106828?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/fornwall",
+        "avatar": "https://avatars.githubusercontent.com/u/277251?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Grimler91",
+        "avatar": "https://avatars.githubusercontent.com/u/18900601?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/maoabc",
+        "avatar": "https://avatars.githubusercontent.com/u/3536343?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/termux/termux-app",
+    "name": "termux/termux-app",
+    "description": "Termux - a terminal emulator application for Android OS extendible by variety of packages.  ",
+    "language": "Java",
+    "stars": "49521",
+    "forks": "5915",
+    "increased": "41 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/steipete",
+        "avatar": "https://avatars.githubusercontent.com/u/58493?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/thewilloftheshadow",
+        "avatar": "https://avatars.githubusercontent.com/u/35580099?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/vignesh07",
+        "avatar": "https://avatars.githubusercontent.com/u/1436853?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tyler6204",
+        "avatar": "https://avatars.githubusercontent.com/u/64381258?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/openclaw/openclaw",
+    "name": "openclaw/openclaw",
+    "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  ",
+    "language": "TypeScript",
+    "stars": "132730",
+    "forks": "19239",
+    "increased": "14780 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/pedroslopez",
+        "avatar": "https://avatars.githubusercontent.com/u/4368928?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/alechkos",
+        "avatar": "https://avatars.githubusercontent.com/u/93551621?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/wwebjs-bot",
+        "avatar": "https://avatars.githubusercontent.com/u/111271321?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/purpshell",
+        "avatar": "https://avatars.githubusercontent.com/u/52720753?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/shirser121",
+        "avatar": "https://avatars.githubusercontent.com/u/70711723?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/pedroslopez/whatsapp-web.js",
+    "name": "pedroslopez/whatsapp-web.js",
+    "description": "A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app  ",
+    "language": "JavaScript",
+    "stars": "20997",
+    "forks": "4829",
+    "increased": "137 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/AlexanderGrooff",
+        "avatar": "https://avatars.githubusercontent.com/u/4996020?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Andonome",
+        "avatar": "https://avatars.githubusercontent.com/u/52453904?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/justrhysism",
+        "avatar": "https://avatars.githubusercontent.com/u/1326759?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kpenfound",
+        "avatar": "https://avatars.githubusercontent.com/u/1865460?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/AlexanderGrooff/mermaid-ascii",
+    "name": "AlexanderGrooff/mermaid-ascii",
+    "description": "Render Mermaid graphs inside your terminal  ",
+    "language": "Go",
+    "stars": "843",
+    "forks": "37",
+    "increased": "74 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/dextmorgn",
+        "avatar": "https://avatars.githubusercontent.com/u/64375473?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/nicocti",
+        "avatar": "https://avatars.githubusercontent.com/u/15033773?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/xhzeem",
+        "avatar": "https://avatars.githubusercontent.com/u/34074156?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/AlexanderLueftl",
+        "avatar": "https://avatars.githubusercontent.com/u/93484410?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/reconurge/flowsint",
+    "name": "reconurge/flowsint",
+    "description": "A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.  ",
+    "language": "TypeScript",
+    "stars": "2134",
+    "forks": "260",
+    "increased": "120 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/saoudrizwan",
+        "avatar": "https://avatars.githubusercontent.com/u/7799382?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/celestial-vault",
+        "avatar": "https://avatars.githubusercontent.com/u/58194240?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/abeatrix",
+        "avatar": "https://avatars.githubusercontent.com/u/68532117?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sjf",
+        "avatar": "https://avatars.githubusercontent.com/u/153992?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pashpashpash",
+        "avatar": "https://avatars.githubusercontent.com/u/20898225?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/cline/cline",
+    "name": "cline/cline",
+    "description": "Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.  ",
+    "language": "TypeScript",
+    "stars": "57372",
+    "forks": "5688",
+    "increased": "44 stars today"
+  }
+]
