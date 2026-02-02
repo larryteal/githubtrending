@@ -1,0 +1,307 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/steipete",
+        "avatar": "https://avatars.githubusercontent.com/u/58493?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/thewilloftheshadow",
+        "avatar": "https://avatars.githubusercontent.com/u/35580099?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/vignesh07",
+        "avatar": "https://avatars.githubusercontent.com/u/1436853?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tyler6204",
+        "avatar": "https://avatars.githubusercontent.com/u/64381258?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/openclaw/openclaw",
+    "name": "openclaw/openclaw",
+    "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  ",
+    "language": "TypeScript",
+    "stars": "141980",
+    "forks": "21183",
+    "increased": "10794 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ThePrimeagen",
+        "avatar": "https://avatars.githubusercontent.com/u/4458174?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/SearidangPa",
+        "avatar": "https://avatars.githubusercontent.com/u/40446468?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ramonasuncion",
+        "avatar": "https://avatars.githubusercontent.com/u/40077628?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/aleDsz",
+        "avatar": "https://avatars.githubusercontent.com/u/6402997?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/codegirl-007",
+        "avatar": "https://avatars.githubusercontent.com/u/7044310?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/ThePrimeagen/99",
+    "name": "ThePrimeagen/99",
+    "description": "Neovim AI agent done right  ",
+    "language": "Lua",
+    "stars": "2745",
+    "forks": "122",
+    "increased": "781 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/pedramamini",
+        "avatar": "https://avatars.githubusercontent.com/u/1253573?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/reachraza",
+        "avatar": "https://avatars.githubusercontent.com/u/64740326?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/denniswebb",
+        "avatar": "https://avatars.githubusercontent.com/u/16431200?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/pedramamini/Maestro",
+    "name": "pedramamini/Maestro",
+    "description": "Agent Orchestration Command Center  ",
+    "language": "TypeScript",
+    "stars": "963",
+    "forks": "121",
+    "increased": "49 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/kovidgoyal",
+        "avatar": "https://avatars.githubusercontent.com/u/1308621?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/user-none",
+        "avatar": "https://avatars.githubusercontent.com/u/10814?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cbhaley",
+        "avatar": "https://avatars.githubusercontent.com/u/4585927?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/GRiker",
+        "avatar": "https://avatars.githubusercontent.com/u/2371016?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/unkn0w7n",
+        "avatar": "https://avatars.githubusercontent.com/u/51942695?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/kovidgoyal/calibre",
+    "name": "kovidgoyal/calibre",
+    "description": "The official source code repository for the calibre ebook manager  ",
+    "language": "Python",
+    "stars": "23626",
+    "forks": "2534",
+    "increased": "37 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/badlogic",
+        "avatar": "https://avatars.githubusercontent.com/u/514052?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/hjanuschka",
+        "avatar": "https://avatars.githubusercontent.com/u/2891702?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/markusylisiurunen",
+        "avatar": "https://avatars.githubusercontent.com/u/8409947?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/nicobailon",
+        "avatar": "https://avatars.githubusercontent.com/u/2958133?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Perlence",
+        "avatar": "https://avatars.githubusercontent.com/u/1044300?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/badlogic/pi-mono",
+    "name": "badlogic/pi-mono",
+    "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI &amp; web UI libraries, Slack bot, vLLM pods  ",
+    "language": "TypeScript",
+    "stars": "4931",
+    "forks": "533",
+    "increased": "613 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/thedotmack",
+        "avatar": "https://avatars.githubusercontent.com/u/683968?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dreamiurg",
+        "avatar": "https://avatars.githubusercontent.com/u/369468?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/thedotmack/claude-mem",
+    "name": "thedotmack/claude-mem",
+    "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.  ",
+    "language": "TypeScript",
+    "stars": "16392",
+    "forks": "1147",
+    "increased": "196 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/actions-user",
+        "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ultmaster",
+        "avatar": "https://avatars.githubusercontent.com/u/8463288?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/acured",
+        "avatar": "https://avatars.githubusercontent.com/u/10276763?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/wizardlancet",
+        "avatar": "https://avatars.githubusercontent.com/u/5806609?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/microsoft/agent-lightning",
+    "name": "microsoft/agent-lightning",
+    "description": "The absolute trainer to light up AI agents.  ",
+    "language": "Python",
+    "stars": "12959",
+    "forks": "1068",
+    "increased": "406 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/steipete",
+        "avatar": "https://avatars.githubusercontent.com/u/58493?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/badlogic",
+        "avatar": "https://avatars.githubusercontent.com/u/514052?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mitsuhiko",
+        "avatar": "https://avatars.githubusercontent.com/u/7396?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/hjanuschka",
+        "avatar": "https://avatars.githubusercontent.com/u/2891702?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/amantus-ai/vibetunnel",
+    "name": "amantus-ai/vibetunnel",
+    "description": "Turn any browser into your terminal &amp; command your agents on the go.  ",
+    "language": "TypeScript",
+    "stars": "3527",
+    "forks": "229",
+    "increased": "43 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/steipete",
+        "avatar": "https://avatars.githubusercontent.com/u/58493?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bcharleson",
+        "avatar": "https://avatars.githubusercontent.com/u/170791?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bahag-chaurasiak",
+        "avatar": "https://avatars.githubusercontent.com/u/98406377?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ibehnam",
+        "avatar": "https://avatars.githubusercontent.com/u/58621210?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/steipete/CodexBar",
+    "name": "steipete/CodexBar",
+    "description": "Show usage stats for OpenAI Codex and Claude Code, without having to login.  ",
+    "language": "Swift",
+    "stars": "3908",
+    "forks": "260",
+    "increased": "99 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/j178",
+        "avatar": "https://avatars.githubusercontent.com/u/10510431?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/shaanmajid",
+        "avatar": "https://avatars.githubusercontent.com/u/70789625?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/lmmx",
+        "avatar": "https://avatars.githubusercontent.com/u/2979452?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/j178/prek",
+    "name": "j178/prek",
+    "description": "⚡ Better `pre-commit`, re-engineered in Rust  ",
+    "language": "Rust",
+    "stars": "4248",
+    "forks": "126",
+    "increased": "61 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/wymanCV",
+        "avatar": "https://avatars.githubusercontent.com/u/93365573?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/WinterPan2017",
+        "avatar": "https://avatars.githubusercontent.com/u/47842846?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/vita-epfl/Stable-Video-Infinity",
+    "name": "vita-epfl/Stable-Video-Infinity",
+    "description": "[ICLR 26] Stable Video Infinity: Infinite-Length Video Generation with Error Recycling  ",
+    "language": "Python",
+    "stars": "1721",
+    "forks": "135",
+    "increased": "45 stars today"
+  }
+]
