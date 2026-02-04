@@ -1,0 +1,331 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/thedotmack",
+        "avatar": "https://avatars.githubusercontent.com/u/683968?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dreamiurg",
+        "avatar": "https://avatars.githubusercontent.com/u/369468?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/thedotmack/claude-mem",
+    "name": "thedotmack/claude-mem",
+    "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.  ",
+    "language": "TypeScript",
+    "stars": "20303",
+    "forks": "1368",
+    "increased": "1730 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/masoncl",
+        "avatar": "https://avatars.githubusercontent.com/u/3902556?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/yghannam",
+        "avatar": "https://avatars.githubusercontent.com/u/1633702?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/chucklever",
+        "avatar": "https://avatars.githubusercontent.com/u/2586432?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/brauner",
+        "avatar": "https://avatars.githubusercontent.com/u/7353573?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jlelli",
+        "avatar": "https://avatars.githubusercontent.com/u/1210679?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/masoncl/review-prompts",
+    "name": "masoncl/review-prompts",
+    "description": "AI review prompts  ",
+    "language": "Python",
+    "stars": "350",
+    "forks": "34",
+    "increased": "54 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/gverma-openai",
+        "avatar": "https://avatars.githubusercontent.com/u/235382312?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dkundel-openai",
+        "avatar": "https://avatars.githubusercontent.com/u/200841172?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/vb-openai",
+        "avatar": "https://avatars.githubusercontent.com/u/250380837?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ae-openai",
+        "avatar": "https://avatars.githubusercontent.com/u/173195103?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/lukeqin-oai",
+        "avatar": "https://avatars.githubusercontent.com/u/247480705?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/openai/skills",
+    "name": "openai/skills",
+    "description": "Skills Catalog for Codex  ",
+    "language": "Python",
+    "stars": "3022",
+    "forks": "179",
+    "increased": "377 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ranaroussi",
+        "avatar": "https://avatars.githubusercontent.com/u/1185458?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/flyingrobots",
+        "avatar": "https://avatars.githubusercontent.com/u/1207477?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tseven",
+        "avatar": "https://avatars.githubusercontent.com/u/311287?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/stefanlegg",
+        "avatar": "https://avatars.githubusercontent.com/u/510085?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/automazeio/ccpm",
+    "name": "automazeio/ccpm",
+    "description": "Project management system for Claude Code using GitHub Issues and Git worktrees for parallel agent execution.  ",
+    "language": "Shell",
+    "stars": "6710",
+    "forks": "699",
+    "increased": "123 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/obra",
+        "avatar": "https://avatars.githubusercontent.com/u/45416?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/clkao",
+        "avatar": "https://avatars.githubusercontent.com/u/69736?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jjshanks",
+        "avatar": "https://avatars.githubusercontent.com/u/62661?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/oribarilan",
+        "avatar": "https://avatars.githubusercontent.com/u/8760762?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/obra/superpowers",
+    "name": "obra/superpowers",
+    "description": "An agentic skills framework &amp; software development methodology that works.  ",
+    "language": "Shell",
+    "stars": "43526",
+    "forks": "3300",
+    "increased": "817 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/virattt",
+        "avatar": "https://avatars.githubusercontent.com/u/901795?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/gupta-8",
+        "avatar": "https://avatars.githubusercontent.com/u/215169640?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sjhddh",
+        "avatar": "https://avatars.githubusercontent.com/u/5778228?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bittoby",
+        "avatar": "https://avatars.githubusercontent.com/u/218712309?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/axyr",
+        "avatar": "https://avatars.githubusercontent.com/u/345155?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/virattt/dexter",
+    "name": "virattt/dexter",
+    "description": "An autonomous agent for deep financial research  ",
+    "language": "TypeScript",
+    "stars": "10086",
+    "forks": "1228",
+    "increased": "222 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/karpathy",
+        "avatar": "https://avatars.githubusercontent.com/u/241138?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/svlandeg",
+        "avatar": "https://avatars.githubusercontent.com/u/8796347?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/lukestanley",
+        "avatar": "https://avatars.githubusercontent.com/u/306671?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ericsilberstein",
+        "avatar": "https://avatars.githubusercontent.com/u/10590453?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/karpathy/nanochat",
+    "name": "karpathy/nanochat",
+    "description": "The best ChatGPT that $100 can buy.  ",
+    "language": "Python",
+    "stars": "42019",
+    "forks": "5429",
+    "increased": "447 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/kovidgoyal",
+        "avatar": "https://avatars.githubusercontent.com/u/1308621?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/user-none",
+        "avatar": "https://avatars.githubusercontent.com/u/10814?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cbhaley",
+        "avatar": "https://avatars.githubusercontent.com/u/4585927?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/GRiker",
+        "avatar": "https://avatars.githubusercontent.com/u/2371016?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/unkn0w7n",
+        "avatar": "https://avatars.githubusercontent.com/u/51942695?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/kovidgoyal/calibre",
+    "name": "kovidgoyal/calibre",
+    "description": "The official source code repository for the calibre ebook manager  ",
+    "language": "Python",
+    "stars": "23929",
+    "forks": "2549",
+    "increased": "141 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/thinkwee",
+        "avatar": "https://avatars.githubusercontent.com/u/11889052?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Alphamasterliu",
+        "avatar": "https://avatars.githubusercontent.com/u/110011045?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/NA-Wen",
+        "avatar": "https://avatars.githubusercontent.com/u/92134380?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/qianc62",
+        "avatar": "https://avatars.githubusercontent.com/u/48988402?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/zxrys",
+        "avatar": "https://avatars.githubusercontent.com/u/115414113?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/OpenBMB/ChatDev",
+    "name": "OpenBMB/ChatDev",
+    "description": "ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration  ",
+    "language": "Python",
+    "stars": "29784",
+    "forks": "3687",
+    "increased": "476 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/pedramamini",
+        "avatar": "https://avatars.githubusercontent.com/u/1253573?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/reachraza",
+        "avatar": "https://avatars.githubusercontent.com/u/64740326?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/chr1syy",
+        "avatar": "https://avatars.githubusercontent.com/u/24278827?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/denniswebb",
+        "avatar": "https://avatars.githubusercontent.com/u/16431200?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/pedramamini/Maestro",
+    "name": "pedramamini/Maestro",
+    "description": "Agent Orchestration Command Center  ",
+    "language": "TypeScript",
+    "stars": "1501",
+    "forks": "157",
+    "increased": "269 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/lancy",
+        "avatar": "https://avatars.githubusercontent.com/u/1206841?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/e7h4n",
+        "avatar": "https://avatars.githubusercontent.com/u/813596?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/seven332",
+        "avatar": "https://avatars.githubusercontent.com/u/4018618?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/vm0-ai/vm0",
+    "name": "vm0-ai/vm0",
+    "description": "the easiest way to run natural language-described workflows automatically  ",
+    "language": "TypeScript",
+    "stars": "703",
+    "forks": "25",
+    "increased": "62 stars today"
+  }
+]
