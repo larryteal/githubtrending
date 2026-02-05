@@ -1,0 +1,334 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/thedotmack",
+        "avatar": "https://avatars.githubusercontent.com/u/683968?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dreamiurg",
+        "avatar": "https://avatars.githubusercontent.com/u/369468?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/thedotmack/claude-mem",
+    "name": "thedotmack/claude-mem",
+    "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.  ",
+    "language": "TypeScript",
+    "stars": "22521",
+    "forks": "1493",
+    "increased": "2638 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/gverma-openai",
+        "avatar": "https://avatars.githubusercontent.com/u/235382312?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dkundel-openai",
+        "avatar": "https://avatars.githubusercontent.com/u/200841172?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/vb-openai",
+        "avatar": "https://avatars.githubusercontent.com/u/250380837?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ae-openai",
+        "avatar": "https://avatars.githubusercontent.com/u/173195103?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/lukeqin-oai",
+        "avatar": "https://avatars.githubusercontent.com/u/247480705?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/openai/skills",
+    "name": "openai/skills",
+    "description": "Skills Catalog for Codex  ",
+    "language": "Python",
+    "stars": "3686",
+    "forks": "212",
+    "increased": "746 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/disler",
+        "avatar": "https://avatars.githubusercontent.com/u/7570811?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/disler/claude-code-hooks-mastery",
+    "name": "disler/claude-code-hooks-mastery",
+    "description": "Master Claude Code Hooks  ",
+    "language": "Python",
+    "stars": "2363",
+    "forks": "504",
+    "increased": "47 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/thinkwee",
+        "avatar": "https://avatars.githubusercontent.com/u/11889052?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Alphamasterliu",
+        "avatar": "https://avatars.githubusercontent.com/u/110011045?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/NA-Wen",
+        "avatar": "https://avatars.githubusercontent.com/u/92134380?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/qianc62",
+        "avatar": "https://avatars.githubusercontent.com/u/48988402?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/zxrys",
+        "avatar": "https://avatars.githubusercontent.com/u/115414113?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/OpenBMB/ChatDev",
+    "name": "OpenBMB/ChatDev",
+    "description": "ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration  ",
+    "language": "Python",
+    "stars": "29969",
+    "forks": "3705",
+    "increased": "227 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/dae",
+        "avatar": "https://avatars.githubusercontent.com/u/180542?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/hgiesel",
+        "avatar": "https://avatars.githubusercontent.com/u/7188844?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/RumovZ",
+        "avatar": "https://avatars.githubusercontent.com/u/48286681?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/abdnh",
+        "avatar": "https://avatars.githubusercontent.com/u/41397710?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Arthur-Milchior",
+        "avatar": "https://avatars.githubusercontent.com/u/357361?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/ankitects/anki",
+    "name": "ankitects/anki",
+    "description": "Anki is a smart spaced repetition flashcard program  ",
+    "language": "Rust",
+    "stars": "26161",
+    "forks": "2785",
+    "increased": "28 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/bogdandrutu",
+        "avatar": "https://avatars.githubusercontent.com/u/1373887?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/opentelemetrybot",
+        "avatar": "https://avatars.githubusercontent.com/u/107717825?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/atoulme",
+        "avatar": "https://avatars.githubusercontent.com/u/16758?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/open-telemetry/opentelemetry-collector-contrib",
+    "name": "open-telemetry/opentelemetry-collector-contrib",
+    "description": "Contrib repository for the OpenTelemetry Collector  ",
+    "language": "Go",
+    "stars": "4349",
+    "forks": "3299",
+    "increased": "3 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/cyyeh",
+        "avatar": "https://avatars.githubusercontent.com/u/11023068?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/onlyjackfrost",
+        "avatar": "https://avatars.githubusercontent.com/u/38731840?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/wwwy3y3",
+        "avatar": "https://avatars.githubusercontent.com/u/1208829?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/andreashimin",
+        "avatar": "https://avatars.githubusercontent.com/u/9657305?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/paopa",
+        "avatar": "https://avatars.githubusercontent.com/u/52045032?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Canner/WrenAI",
+    "name": "Canner/WrenAI",
+    "description": "⚡️ GenBI (Generative BI) queries any database in natural language, generates accurate SQL (Text-to-SQL), charts (Text-to-Chart), and AI-powered business intelligence in seconds.  ",
+    "language": "TypeScript",
+    "stars": "13917",
+    "forks": "1507",
+    "increased": "89 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/pedramamini",
+        "avatar": "https://avatars.githubusercontent.com/u/1253573?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/reachraza",
+        "avatar": "https://avatars.githubusercontent.com/u/64740326?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/chr1syy",
+        "avatar": "https://avatars.githubusercontent.com/u/24278827?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/denniswebb",
+        "avatar": "https://avatars.githubusercontent.com/u/16431200?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/pedramamini/Maestro",
+    "name": "pedramamini/Maestro",
+    "description": "Agent Orchestration Command Center  ",
+    "language": "TypeScript",
+    "stars": "1657",
+    "forks": "165",
+    "increased": "187 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ljharb",
+        "avatar": "https://avatars.githubusercontent.com/u/45469?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/PeterDaveHello",
+        "avatar": "https://avatars.githubusercontent.com/u/3691490?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/creationix",
+        "avatar": "https://avatars.githubusercontent.com/u/89353?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/koenpunt",
+        "avatar": "https://avatars.githubusercontent.com/u/351038?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/lukechilds",
+        "avatar": "https://avatars.githubusercontent.com/u/2123375?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/nvm-sh/nvm",
+    "name": "nvm-sh/nvm",
+    "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions  ",
+    "language": "Shell",
+    "stars": "91250",
+    "forks": "9820",
+    "increased": "35 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/you-n-g",
+        "avatar": "https://avatars.githubusercontent.com/u/465606?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bxdd",
+        "avatar": "https://avatars.githubusercontent.com/u/45119470?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Derek-Wds",
+        "avatar": "https://avatars.githubusercontent.com/u/26081991?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/zhupr",
+        "avatar": "https://avatars.githubusercontent.com/u/18660661?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/SunsetWolf",
+        "avatar": "https://avatars.githubusercontent.com/u/30293408?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/microsoft/qlib",
+    "name": "microsoft/qlib",
+    "description": "Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped with  https://github.com/microsoft/RD-Agent  to automate R&amp;D process.  ",
+    "language": "Python",
+    "stars": "36532",
+    "forks": "5687",
+    "increased": "83 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/awesomekling",
+        "avatar": "https://avatars.githubusercontent.com/u/5954907?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/trflynn89",
+        "avatar": "https://avatars.githubusercontent.com/u/5600524?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/AtkinsSJ",
+        "avatar": "https://avatars.githubusercontent.com/u/222642?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/linusg",
+        "avatar": "https://avatars.githubusercontent.com/u/19366641?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/alimpfard",
+        "avatar": "https://avatars.githubusercontent.com/u/14001776?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/LadybirdBrowser/ladybird",
+    "name": "LadybirdBrowser/ladybird",
+    "description": "Truly independent web browser  ",
+    "language": "C++",
+    "stars": "58272",
+    "forks": "2644",
+    "increased": "68 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/davydkov",
+        "avatar": "https://avatars.githubusercontent.com/u/824903?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pavelpykhtin",
+        "avatar": "https://avatars.githubusercontent.com/u/14885777?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/likec4/likec4",
+    "name": "likec4/likec4",
+    "description": "Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code  ",
+    "language": "TypeScript",
+    "stars": "1435",
+    "forks": "119",
+    "increased": "29 stars today"
+  }
+]
