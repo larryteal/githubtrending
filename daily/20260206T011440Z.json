@@ -1,0 +1,311 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ulivz",
+        "avatar": "https://avatars.githubusercontent.com/u/23133919?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ycjcl868",
+        "avatar": "https://avatars.githubusercontent.com/u/13595509?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ZhaoHeh",
+        "avatar": "https://avatars.githubusercontent.com/u/38528320?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cjraft",
+        "avatar": "https://avatars.githubusercontent.com/u/13687952?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/skychx",
+        "avatar": "https://avatars.githubusercontent.com/u/24872439?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/bytedance/UI-TARS-desktop",
+    "name": "bytedance/UI-TARS-desktop",
+    "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra  ",
+    "language": "TypeScript",
+    "stars": "26706",
+    "forks": "2615",
+    "increased": "566 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/gverma-openai",
+        "avatar": "https://avatars.githubusercontent.com/u/235382312?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dkundel-openai",
+        "avatar": "https://avatars.githubusercontent.com/u/200841172?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/vb-openai",
+        "avatar": "https://avatars.githubusercontent.com/u/250380837?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ae-openai",
+        "avatar": "https://avatars.githubusercontent.com/u/173195103?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/quuu",
+        "avatar": "https://avatars.githubusercontent.com/u/32676955?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/openai/skills",
+    "name": "openai/skills",
+    "description": "Skills Catalog for Codex  ",
+    "language": "Python",
+    "stars": "4278",
+    "forks": "245",
+    "increased": "621 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/thedotmack",
+        "avatar": "https://avatars.githubusercontent.com/u/683968?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bigph00t",
+        "avatar": "https://avatars.githubusercontent.com/u/166455923?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/thedotmack/claude-mem",
+    "name": "thedotmack/claude-mem",
+    "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.  ",
+    "language": "TypeScript",
+    "stars": "23716",
+    "forks": "1569",
+    "increased": "1930 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/j178",
+        "avatar": "https://avatars.githubusercontent.com/u/10510431?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/shaanmajid",
+        "avatar": "https://avatars.githubusercontent.com/u/70789625?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/lmmx",
+        "avatar": "https://avatars.githubusercontent.com/u/2979452?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/j178/prek",
+    "name": "j178/prek",
+    "description": "⚡ Better `pre-commit`, re-engineered in Rust  ",
+    "language": "Rust",
+    "stars": "5515",
+    "forks": "146",
+    "increased": "258 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Vasilije1990",
+        "avatar": "https://avatars.githubusercontent.com/u/8619304?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dexters1",
+        "avatar": "https://avatars.githubusercontent.com/u/30923996?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/hajdul88",
+        "avatar": "https://avatars.githubusercontent.com/u/52442977?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/borisarzentar",
+        "avatar": "https://avatars.githubusercontent.com/u/5081379?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/daukadolt",
+        "avatar": "https://avatars.githubusercontent.com/u/26189247?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/topoteretes/cognee",
+    "name": "topoteretes/cognee",
+    "description": "Memory for AI Agents in 6 lines of code  ",
+    "language": "Python",
+    "stars": "11837",
+    "forks": "1158",
+    "increased": "74 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/obra",
+        "avatar": "https://avatars.githubusercontent.com/u/45416?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/clkao",
+        "avatar": "https://avatars.githubusercontent.com/u/69736?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jjshanks",
+        "avatar": "https://avatars.githubusercontent.com/u/62661?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/oribarilan",
+        "avatar": "https://avatars.githubusercontent.com/u/8760762?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/obra/superpowers",
+    "name": "obra/superpowers",
+    "description": "An agentic skills framework &amp; software development methodology that works.  ",
+    "language": "Shell",
+    "stars": "45365",
+    "forks": "3431",
+    "increased": "887 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/knqyf263",
+        "avatar": "https://avatars.githubusercontent.com/u/2253692?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/DmitriyLewen",
+        "avatar": "https://avatars.githubusercontent.com/u/91113035?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/nikpivkin",
+        "avatar": "https://avatars.githubusercontent.com/u/100182843?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/simar7",
+        "avatar": "https://avatars.githubusercontent.com/u/1254783?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/aquasecurity/trivy",
+    "name": "aquasecurity/trivy",
+    "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more  ",
+    "language": "Go",
+    "stars": "31368",
+    "forks": "2910",
+    "increased": "25 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ridiculousfish",
+        "avatar": "https://avatars.githubusercontent.com/u/920838?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/faho",
+        "avatar": "https://avatars.githubusercontent.com/u/5185367?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/krobelus",
+        "avatar": "https://avatars.githubusercontent.com/u/6853872?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/liljencrantz",
+        "avatar": "https://avatars.githubusercontent.com/u/212675?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mqudsi",
+        "avatar": "https://avatars.githubusercontent.com/u/606923?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/fish-shell/fish-shell",
+    "name": "fish-shell/fish-shell",
+    "description": "The user-friendly command line shell.  ",
+    "language": "Rust",
+    "stars": "32386",
+    "forks": "2214",
+    "increased": "28 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ljharb",
+        "avatar": "https://avatars.githubusercontent.com/u/45469?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/PeterDaveHello",
+        "avatar": "https://avatars.githubusercontent.com/u/3691490?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/creationix",
+        "avatar": "https://avatars.githubusercontent.com/u/89353?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/koenpunt",
+        "avatar": "https://avatars.githubusercontent.com/u/351038?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/lukechilds",
+        "avatar": "https://avatars.githubusercontent.com/u/2123375?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/nvm-sh/nvm",
+    "name": "nvm-sh/nvm",
+    "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions  ",
+    "language": "Shell",
+    "stars": "91374",
+    "forks": "9828",
+    "increased": "101 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/linshenkx",
+        "avatar": "https://avatars.githubusercontent.com/u/32978552?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/hexart",
+        "avatar": "https://avatars.githubusercontent.com/u/5528016?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/lanyuanxiaoyao",
+        "avatar": "https://avatars.githubusercontent.com/u/15119304?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/prazjain",
+        "avatar": "https://avatars.githubusercontent.com/u/1950036?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/linshenkx/prompt-optimizer",
+    "name": "linshenkx/prompt-optimizer",
+    "description": "一款提示词优化器，助力于编写高质量的提示词  ",
+    "language": "TypeScript",
+    "stars": "19354",
+    "forks": "2397",
+    "increased": "51 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ZeroTworu",
+        "avatar": "https://avatars.githubusercontent.com/u/17995677?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Fitna",
+        "avatar": "https://avatars.githubusercontent.com/u/20244649?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/ZeroTworu/anet",
+    "name": "ZeroTworu/anet",
+    "description": "Simple Rust VPN Client / Server  ",
+    "language": "Rust",
+    "stars": "359",
+    "forks": "29",
+    "increased": "81 stars today"
+  }
+]
