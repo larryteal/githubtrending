@@ -1,0 +1,350 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ajmallesh",
+        "avatar": "https://avatars.githubusercontent.com/u/178829317?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/keygraphVarun",
+        "avatar": "https://avatars.githubusercontent.com/u/182007681?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Khaushik-keygraph",
+        "avatar": "https://avatars.githubusercontent.com/u/197124057?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/nelliekeygraph",
+        "avatar": "https://avatars.githubusercontent.com/u/212406850?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/KeygraphHQ/shannon",
+    "name": "KeygraphHQ/shannon",
+    "description": "Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.  ",
+    "language": "TypeScript",
+    "stars": "10066",
+    "forks": "1272",
+    "increased": "3139 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/gverma-openai",
+        "avatar": "https://avatars.githubusercontent.com/u/235382312?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dkundel-openai",
+        "avatar": "https://avatars.githubusercontent.com/u/200841172?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/vb-openai",
+        "avatar": "https://avatars.githubusercontent.com/u/250380837?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ae-openai",
+        "avatar": "https://avatars.githubusercontent.com/u/173195103?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/quuu",
+        "avatar": "https://avatars.githubusercontent.com/u/32676955?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/openai/skills",
+    "name": "openai/skills",
+    "description": "Skills Catalog for Codex  ",
+    "language": "Python",
+    "stars": "6038",
+    "forks": "331",
+    "increased": "592 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/jaybosamiya-ms",
+        "avatar": "https://avatars.githubusercontent.com/u/171180729?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/CvvT",
+        "avatar": "https://avatars.githubusercontent.com/u/11675863?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jstarks",
+        "avatar": "https://avatars.githubusercontent.com/u/9548354?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sangho2",
+        "avatar": "https://avatars.githubusercontent.com/u/3938640?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Icegrave0391",
+        "avatar": "https://avatars.githubusercontent.com/u/31272993?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/microsoft/litebox",
+    "name": "microsoft/litebox",
+    "description": "A security-focused library OS supporting kernel- and user-mode execution  ",
+    "language": "Rust",
+    "stars": "1142",
+    "forks": "48",
+    "increased": "584 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/p-e-w",
+        "avatar": "https://avatars.githubusercontent.com/u/2702526?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/anrp",
+        "avatar": "https://avatars.githubusercontent.com/u/1325515?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/spikymoth",
+        "avatar": "https://avatars.githubusercontent.com/u/133602907?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/red40maxxer",
+        "avatar": "https://avatars.githubusercontent.com/u/113548315?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kldzj",
+        "avatar": "https://avatars.githubusercontent.com/u/7687617?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/p-e-w/heretic",
+    "name": "p-e-w/heretic",
+    "description": "Fully automatic censorship removal for language models  ",
+    "language": "Python",
+    "stars": "4746",
+    "forks": "453",
+    "increased": "69 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/obra",
+        "avatar": "https://avatars.githubusercontent.com/u/45416?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/arittr",
+        "avatar": "https://avatars.githubusercontent.com/u/5742859?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/clkao",
+        "avatar": "https://avatars.githubusercontent.com/u/69736?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jjshanks",
+        "avatar": "https://avatars.githubusercontent.com/u/62661?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/obra/superpowers",
+    "name": "obra/superpowers",
+    "description": "An agentic skills framework &amp; software development methodology that works.  ",
+    "language": "Shell",
+    "stars": "46997",
+    "forks": "3568",
+    "increased": "686 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/yiranyyu",
+        "avatar": "https://avatars.githubusercontent.com/u/28106858?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/iceflame89",
+        "avatar": "https://avatars.githubusercontent.com/u/5380770?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/yaoyuanTHU",
+        "avatar": "https://avatars.githubusercontent.com/u/19372848?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tc-mb",
+        "avatar": "https://avatars.githubusercontent.com/u/157115220?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/YuzaChongyi",
+        "avatar": "https://avatars.githubusercontent.com/u/18023954?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/OpenBMB/MiniCPM-o",
+    "name": "OpenBMB/MiniCPM-o",
+    "description": "A Gemini 2.5 Flash Level MLLM for Vision, Speech, and Full-Duplex Multimodal Live Streaming on Your Phone  ",
+    "language": "Python",
+    "stars": "23164",
+    "forks": "1763",
+    "increased": "44 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/knqyf263",
+        "avatar": "https://avatars.githubusercontent.com/u/2253692?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/DmitriyLewen",
+        "avatar": "https://avatars.githubusercontent.com/u/91113035?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/nikpivkin",
+        "avatar": "https://avatars.githubusercontent.com/u/100182843?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/simar7",
+        "avatar": "https://avatars.githubusercontent.com/u/1254783?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/aquasecurity/trivy",
+    "name": "aquasecurity/trivy",
+    "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more  ",
+    "language": "Go",
+    "stars": "31688",
+    "forks": "2928",
+    "increased": "rs today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/sawka",
+        "avatar": "https://avatars.githubusercontent.com/u/2722291?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/esimkowitz",
+        "avatar": "https://avatars.githubusercontent.com/u/16651283?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/oneirocosm",
+        "avatar": "https://avatars.githubusercontent.com/u/107814465?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/wavetermdev/waveterm",
+    "name": "wavetermdev/waveterm",
+    "description": "An open-source, cross-platform terminal for seamless workflows  ",
+    "language": "Go",
+    "stars": "17148",
+    "forks": "762",
+    "increased": "25 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/viarotel",
+        "avatar": "https://avatars.githubusercontent.com/u/38282758?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/reindex-ot",
+        "avatar": "https://avatars.githubusercontent.com/u/32851879?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dainamiter",
+        "avatar": "https://avatars.githubusercontent.com/u/189065486?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ahmed-0011",
+        "avatar": "https://avatars.githubusercontent.com/u/74181508?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/PeterDaveHello",
+        "avatar": "https://avatars.githubusercontent.com/u/3691490?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/viarotel-org/escrcpy",
+    "name": "viarotel-org/escrcpy",
+    "description": "📱 Display and control your Android device graphically with scrcpy.  ",
+    "language": "JavaScript",
+    "stars": "7845",
+    "forks": "569",
+    "increased": "27 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Prat011",
+        "avatar": "https://avatars.githubusercontent.com/u/67639393?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sohamganatra",
+        "avatar": "https://avatars.githubusercontent.com/u/7982102?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sanjay3290",
+        "avatar": "https://avatars.githubusercontent.com/u/24948667?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mellson",
+        "avatar": "https://avatars.githubusercontent.com/u/167574?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/ComposioHQ/awesome-claude-skills",
+    "name": "ComposioHQ/awesome-claude-skills",
+    "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows  ",
+    "language": "Python",
+    "stars": "32028",
+    "forks": "3064",
+    "increased": "443 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/davydkov",
+        "avatar": "https://avatars.githubusercontent.com/u/824903?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pavelpykhtin",
+        "avatar": "https://avatars.githubusercontent.com/u/14885777?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/likec4/likec4",
+    "name": "likec4/likec4",
+    "description": "Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code  ",
+    "language": "TypeScript",
+    "stars": "2082",
+    "forks": "145",
+    "increased": "274 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/krlvi",
+        "avatar": "https://avatars.githubusercontent.com/u/4030927?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/estib-vega",
+        "avatar": "https://avatars.githubusercontent.com/u/35891811?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mtsgrd",
+        "avatar": "https://avatars.githubusercontent.com/u/1300356?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ngalaiko",
+        "avatar": "https://avatars.githubusercontent.com/u/15010292?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Caleb-T-Owens",
+        "avatar": "https://avatars.githubusercontent.com/u/13354155?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/gitbutlerapp/gitbutler",
+    "name": "gitbutlerapp/gitbutler",
+    "description": "The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte  ",
+    "language": "Rust",
+    "stars": "18003",
+    "forks": "774",
+    "increased": "85 stars today"
+  }
+]
