@@ -1,0 +1,393 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ajmallesh",
+        "avatar": "https://avatars.githubusercontent.com/u/178829317?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/keygraphVarun",
+        "avatar": "https://avatars.githubusercontent.com/u/182007681?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Khaushik-keygraph",
+        "avatar": "https://avatars.githubusercontent.com/u/197124057?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/nelliekeygraph",
+        "avatar": "https://avatars.githubusercontent.com/u/212406850?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/KeygraphHQ/shannon",
+    "name": "KeygraphHQ/shannon",
+    "description": "Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.  ",
+    "language": "TypeScript",
+    "stars": "17346",
+    "forks": "1823",
+    "increased": "4144 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/virattt",
+        "avatar": "https://avatars.githubusercontent.com/u/901795?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/MkDev11",
+        "avatar": "https://avatars.githubusercontent.com/u/94194147?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/gupta-8",
+        "avatar": "https://avatars.githubusercontent.com/u/215169640?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sjhddh",
+        "avatar": "https://avatars.githubusercontent.com/u/5778228?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bittoby",
+        "avatar": "https://avatars.githubusercontent.com/u/218712309?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/virattt/dexter",
+    "name": "virattt/dexter",
+    "description": "An autonomous agent for deep financial research  ",
+    "language": "TypeScript",
+    "stars": "13557",
+    "forks": "1623",
+    "increased": "1115 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/samuelcolvin",
+        "avatar": "https://avatars.githubusercontent.com/u/4039449?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/davidhewitt",
+        "avatar": "https://avatars.githubusercontent.com/u/1939362?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/petyosi",
+        "avatar": "https://avatars.githubusercontent.com/u/13347?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/DouweM",
+        "avatar": "https://avatars.githubusercontent.com/u/159434?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/pydantic/monty",
+    "name": "pydantic/monty",
+    "description": "A minimal, secure Python interpreter written in Rust for use by AI  ",
+    "language": "Rust",
+    "stars": "3965",
+    "forks": "145",
+    "increased": "1291 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/hsliuping",
+        "avatar": "https://avatars.githubusercontent.com/u/128790537?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Yijia-Xiao",
+        "avatar": "https://avatars.githubusercontent.com/u/48253104?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/EdwardoSunny",
+        "avatar": "https://avatars.githubusercontent.com/u/68405458?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ZeroAct",
+        "avatar": "https://avatars.githubusercontent.com/u/46982469?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/BG8CFB",
+        "avatar": "https://avatars.githubusercontent.com/u/50827102?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/hsliuping/TradingAgents-CN",
+    "name": "hsliuping/TradingAgents-CN",
+    "description": "基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版  ",
+    "language": "Python",
+    "stars": "16230",
+    "forks": "3573",
+    "increased": "149 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/kuishou68",
+        "avatar": "https://avatars.githubusercontent.com/u/54054995?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/halvee-tech",
+        "avatar": "https://avatars.githubusercontent.com/u/224486645?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/IceyLiu",
+        "avatar": "https://avatars.githubusercontent.com/u/10683426?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/goworm",
+        "avatar": "https://avatars.githubusercontent.com/u/28083037?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/iOfficeAI/AionUi",
+    "name": "iOfficeAI/AionUi",
+    "description": "Free, local, open-source 24/7 Cowork and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!  ",
+    "language": "TypeScript",
+    "stars": "13824",
+    "forks": "1061",
+    "increased": "673 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/matheusfelipeog",
+        "avatar": "https://avatars.githubusercontent.com/u/50463866?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/davemachado",
+        "avatar": "https://avatars.githubusercontent.com/u/15134885?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pawelborkar",
+        "avatar": "https://avatars.githubusercontent.com/u/36134699?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jbrooksuk",
+        "avatar": "https://avatars.githubusercontent.com/u/246103?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/marekdano",
+        "avatar": "https://avatars.githubusercontent.com/u/1914165?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/public-apis/public-apis",
+    "name": "public-apis/public-apis",
+    "description": "A collective list of free APIs  ",
+    "language": "Python",
+    "stars": "397216",
+    "forks": "42494",
+    "increased": "410 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/pelikhan",
+        "avatar": "https://avatars.githubusercontent.com/u/4175913?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dsyme",
+        "avatar": "https://avatars.githubusercontent.com/u/7204669?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mnkiefer",
+        "avatar": "https://avatars.githubusercontent.com/u/8320933?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/github/gh-aw",
+    "name": "github/gh-aw",
+    "description": "GitHub Agentic Workflows  ",
+    "language": "Go",
+    "stars": "917",
+    "forks": "79",
+    "increased": "260 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Shubhamsaboo",
+        "avatar": "https://avatars.githubusercontent.com/u/31396011?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Madhuvod",
+        "avatar": "https://avatars.githubusercontent.com/u/124294538?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/libw0430",
+        "avatar": "https://avatars.githubusercontent.com/u/102198332?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/awesomekoder",
+        "avatar": "https://avatars.githubusercontent.com/u/258367783?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/AndrewHoh",
+        "avatar": "https://avatars.githubusercontent.com/u/774516?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+    "name": "Shubhamsaboo/awesome-llm-apps",
+    "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.  ",
+    "language": "Python",
+    "stars": "93155",
+    "forks": "13515",
+    "increased": "227 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/krlvi",
+        "avatar": "https://avatars.githubusercontent.com/u/4030927?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/estib-vega",
+        "avatar": "https://avatars.githubusercontent.com/u/35891811?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mtsgrd",
+        "avatar": "https://avatars.githubusercontent.com/u/1300356?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ngalaiko",
+        "avatar": "https://avatars.githubusercontent.com/u/15010292?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Caleb-T-Owens",
+        "avatar": "https://avatars.githubusercontent.com/u/13354155?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/gitbutlerapp/gitbutler",
+    "name": "gitbutlerapp/gitbutler",
+    "description": "The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte  ",
+    "language": "Rust",
+    "stars": "18654",
+    "forks": "806",
+    "increased": "376 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/jaybosamiya-ms",
+        "avatar": "https://avatars.githubusercontent.com/u/171180729?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/CvvT",
+        "avatar": "https://avatars.githubusercontent.com/u/11675863?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jstarks",
+        "avatar": "https://avatars.githubusercontent.com/u/9548354?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sangho2",
+        "avatar": "https://avatars.githubusercontent.com/u/3938640?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Icegrave0391",
+        "avatar": "https://avatars.githubusercontent.com/u/31272993?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/microsoft/litebox",
+    "name": "microsoft/litebox",
+    "description": "A security-focused library OS supporting kernel- and user-mode execution  ",
+    "language": "Rust",
+    "stars": "1724",
+    "forks": "73",
+    "increased": "354 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/gverma-openai",
+        "avatar": "https://avatars.githubusercontent.com/u/235382312?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dkundel-openai",
+        "avatar": "https://avatars.githubusercontent.com/u/200841172?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/vb-openai",
+        "avatar": "https://avatars.githubusercontent.com/u/250380837?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ae-openai",
+        "avatar": "https://avatars.githubusercontent.com/u/173195103?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/quuu",
+        "avatar": "https://avatars.githubusercontent.com/u/32676955?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/openai/skills",
+    "name": "openai/skills",
+    "description": "Skills Catalog for Codex  ",
+    "language": "Python",
+    "stars": "7544",
+    "forks": "429",
+    "increased": "707 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/kieranklaassen",
+        "avatar": "https://avatars.githubusercontent.com/u/209089?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tmchow",
+        "avatar": "https://avatars.githubusercontent.com/u/517103?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/julik",
+        "avatar": "https://avatars.githubusercontent.com/u/16446?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dshipper",
+        "avatar": "https://avatars.githubusercontent.com/u/263564?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/EveryInc/compound-engineering-plugin",
+    "name": "EveryInc/compound-engineering-plugin",
+    "description": "Official Claude Code compound engineering plugin  ",
+    "language": "TypeScript",
+    "stars": "7868",
+    "forks": "627",
+    "increased": "185 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ROBERT-MCDOWELL",
+        "avatar": "https://avatars.githubusercontent.com/u/2649072?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/DrewThomasson",
+        "avatar": "https://avatars.githubusercontent.com/u/126999465?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mahdi155000",
+        "avatar": "https://avatars.githubusercontent.com/u/72710302?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Wesam-1110111",
+        "avatar": "https://avatars.githubusercontent.com/u/108031419?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/DrewThomasson/ebook2audiobook",
+    "name": "DrewThomasson/ebook2audiobook",
+    "description": "Generate audiobooks from e-books, voice cloning &amp; 1158+ languages!  ",
+    "language": "Python",
+    "stars": "17848",
+    "forks": "1440",
+    "increased": "147 stars today"
+  }
+]
