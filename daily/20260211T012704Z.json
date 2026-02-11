@@ -1,0 +1,404 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/aksg87",
+        "avatar": "https://avatars.githubusercontent.com/u/19271735?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kleeena",
+        "avatar": "https://avatars.githubusercontent.com/u/62442533?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mariano",
+        "avatar": "https://avatars.githubusercontent.com/u/18598?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tonebeta",
+        "avatar": "https://avatars.githubusercontent.com/u/4890246?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/google/langextract",
+    "name": "google/langextract",
+    "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.  ",
+    "language": "Python",
+    "stars": "28482",
+    "forks": "1922",
+    "increased": "1654 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/kuishou68",
+        "avatar": "https://avatars.githubusercontent.com/u/54054995?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/halvee-tech",
+        "avatar": "https://avatars.githubusercontent.com/u/224486645?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/IceyLiu",
+        "avatar": "https://avatars.githubusercontent.com/u/10683426?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/goworm",
+        "avatar": "https://avatars.githubusercontent.com/u/28083037?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/iOfficeAI/AionUi",
+    "name": "iOfficeAI/AionUi",
+    "description": "Free, local, open-source 24/7 Cowork and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!  ",
+    "language": "TypeScript",
+    "stars": "14450",
+    "forks": "1102",
+    "increased": "629 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ajmallesh",
+        "avatar": "https://avatars.githubusercontent.com/u/178829317?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/keygraphVarun",
+        "avatar": "https://avatars.githubusercontent.com/u/182007681?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Khaushik-keygraph",
+        "avatar": "https://avatars.githubusercontent.com/u/197124057?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/nelliekeygraph",
+        "avatar": "https://avatars.githubusercontent.com/u/212406850?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/KeygraphHQ/shannon",
+    "name": "KeygraphHQ/shannon",
+    "description": "Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.  ",
+    "language": "TypeScript",
+    "stars": "19764",
+    "forks": "2017",
+    "increased": "3619 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/pelikhan",
+        "avatar": "https://avatars.githubusercontent.com/u/4175913?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dsyme",
+        "avatar": "https://avatars.githubusercontent.com/u/7204669?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mnkiefer",
+        "avatar": "https://avatars.githubusercontent.com/u/8320933?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/github/gh-aw",
+    "name": "github/gh-aw",
+    "description": "GitHub Agentic Workflows  ",
+    "language": "Go",
+    "stars": "1347",
+    "forks": "106",
+    "increased": "496 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/kieranklaassen",
+        "avatar": "https://avatars.githubusercontent.com/u/209089?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tmchow",
+        "avatar": "https://avatars.githubusercontent.com/u/517103?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/julik",
+        "avatar": "https://avatars.githubusercontent.com/u/16446?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dshipper",
+        "avatar": "https://avatars.githubusercontent.com/u/263564?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/EveryInc/compound-engineering-plugin",
+    "name": "EveryInc/compound-engineering-plugin",
+    "description": "Official Claude Code compound engineering plugin  ",
+    "language": "TypeScript",
+    "stars": "8174",
+    "forks": "642",
+    "increased": "406 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/hsliuping",
+        "avatar": "https://avatars.githubusercontent.com/u/128790537?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Yijia-Xiao",
+        "avatar": "https://avatars.githubusercontent.com/u/48253104?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/EdwardoSunny",
+        "avatar": "https://avatars.githubusercontent.com/u/68405458?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ZeroAct",
+        "avatar": "https://avatars.githubusercontent.com/u/46982469?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/BG8CFB",
+        "avatar": "https://avatars.githubusercontent.com/u/50827102?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/hsliuping/TradingAgents-CN",
+    "name": "hsliuping/TradingAgents-CN",
+    "description": "基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版  ",
+    "language": "Python",
+    "stars": "16677",
+    "forks": "3617",
+    "increased": "498 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/krlvi",
+        "avatar": "https://avatars.githubusercontent.com/u/4030927?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/estib-vega",
+        "avatar": "https://avatars.githubusercontent.com/u/35891811?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mtsgrd",
+        "avatar": "https://avatars.githubusercontent.com/u/1300356?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ngalaiko",
+        "avatar": "https://avatars.githubusercontent.com/u/15010292?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Caleb-T-Owens",
+        "avatar": "https://avatars.githubusercontent.com/u/13354155?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/gitbutlerapp/gitbutler",
+    "name": "gitbutlerapp/gitbutler",
+    "description": "The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte  ",
+    "language": "Rust",
+    "stars": "19034",
+    "forks": "820",
+    "increased": "260 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/carlvellotti",
+        "avatar": "https://avatars.githubusercontent.com/u/7491317?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/carlvellotti/claude-code-pm-course",
+    "name": "carlvellotti/claude-code-pm-course",
+    "description": "Interactive course teaching Product Managers how to use Claude Code effectively  ",
+    "language": "MDX",
+    "stars": "820",
+    "forks": "145",
+    "increased": "24 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Shubhamsaboo",
+        "avatar": "https://avatars.githubusercontent.com/u/31396011?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Madhuvod",
+        "avatar": "https://avatars.githubusercontent.com/u/124294538?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/libw0430",
+        "avatar": "https://avatars.githubusercontent.com/u/102198332?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/awesomekoder",
+        "avatar": "https://avatars.githubusercontent.com/u/258367783?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/AndrewHoh",
+        "avatar": "https://avatars.githubusercontent.com/u/774516?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+    "name": "Shubhamsaboo/awesome-llm-apps",
+    "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.  ",
+    "language": "Python",
+    "stars": "93629",
+    "forks": "13580",
+    "increased": "443 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/1ilit",
+        "avatar": "https://avatars.githubusercontent.com/u/96800776?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/picimako",
+        "avatar": "https://avatars.githubusercontent.com/u/5739987?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/haecheonlee",
+        "avatar": "https://avatars.githubusercontent.com/u/16802605?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/KARM99",
+        "avatar": "https://avatars.githubusercontent.com/u/21248684?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/drawdb-io/drawdb",
+    "name": "drawdb-io/drawdb",
+    "description": "Free, simple, and intuitive online database diagram editor and SQL generator.  ",
+    "language": "JavaScript",
+    "stars": "36321",
+    "forks": "2838",
+    "increased": "95 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/samuelcolvin",
+        "avatar": "https://avatars.githubusercontent.com/u/4039449?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/davidhewitt",
+        "avatar": "https://avatars.githubusercontent.com/u/1939362?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/petyosi",
+        "avatar": "https://avatars.githubusercontent.com/u/13347?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/DouweM",
+        "avatar": "https://avatars.githubusercontent.com/u/159434?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/pydantic/monty",
+    "name": "pydantic/monty",
+    "description": "A minimal, secure Python interpreter written in Rust for use by AI  ",
+    "language": "Rust",
+    "stars": "4537",
+    "forks": "161",
+    "increased": "858 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/cheahjs",
+        "avatar": "https://avatars.githubusercontent.com/u/818368?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/themacexpert",
+        "avatar": "https://avatars.githubusercontent.com/u/5834262?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/justmarkham",
+        "avatar": "https://avatars.githubusercontent.com/u/6509492?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/k-bose",
+        "avatar": "https://avatars.githubusercontent.com/u/131641639?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/cheahjs/free-llm-api-resources",
+    "name": "cheahjs/free-llm-api-resources",
+    "description": "A list of free LLM inference resources accessible via API.  ",
+    "language": "Python",
+    "stars": "8702",
+    "forks": "852",
+    "increased": "115 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Jeffallan",
+        "avatar": "https://avatars.githubusercontent.com/u/23423962?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/liyin2015",
+        "avatar": "https://avatars.githubusercontent.com/u/14322677?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/thomassamoul",
+        "avatar": "https://avatars.githubusercontent.com/u/50757446?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/hesreallyhim",
+        "avatar": "https://avatars.githubusercontent.com/u/172150522?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Jeffallan/claude-skills",
+    "name": "Jeffallan/claude-skills",
+    "description": "65 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.  ",
+    "language": "Python",
+    "stars": "790",
+    "forks": "69",
+    "increased": "45 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/virattt",
+        "avatar": "https://avatars.githubusercontent.com/u/901795?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/MkDev11",
+        "avatar": "https://avatars.githubusercontent.com/u/94194147?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/gupta-8",
+        "avatar": "https://avatars.githubusercontent.com/u/215169640?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sjhddh",
+        "avatar": "https://avatars.githubusercontent.com/u/5778228?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bittoby",
+        "avatar": "https://avatars.githubusercontent.com/u/218712309?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/virattt/dexter",
+    "name": "virattt/dexter",
+    "description": "An autonomous agent for deep financial research  ",
+    "language": "TypeScript",
+    "stars": "14147",
+    "forks": "1699",
+    "increased": "757 stars today"
+  }
+]

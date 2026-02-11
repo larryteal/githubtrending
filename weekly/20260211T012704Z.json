@@ -1,0 +1,431 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ajmallesh",
+        "avatar": "https://avatars.githubusercontent.com/u/178829317?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/keygraphVarun",
+        "avatar": "https://avatars.githubusercontent.com/u/182007681?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Khaushik-keygraph",
+        "avatar": "https://avatars.githubusercontent.com/u/197124057?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/nelliekeygraph",
+        "avatar": "https://avatars.githubusercontent.com/u/212406850?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/KeygraphHQ/shannon",
+    "name": "KeygraphHQ/shannon",
+    "description": "Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.  ",
+    "language": "TypeScript",
+    "stars": "19764",
+    "forks": "2017",
+    "increased": "14952 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/gverma-openai",
+        "avatar": "https://avatars.githubusercontent.com/u/235382312?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dkundel-openai",
+        "avatar": "https://avatars.githubusercontent.com/u/200841172?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/vb-openai",
+        "avatar": "https://avatars.githubusercontent.com/u/250380837?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ae-openai",
+        "avatar": "https://avatars.githubusercontent.com/u/173195103?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/edward-bayes",
+        "avatar": "https://avatars.githubusercontent.com/u/191618473?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/openai/skills",
+    "name": "openai/skills",
+    "description": "Skills Catalog for Codex  ",
+    "language": "Python",
+    "stars": "7831",
+    "forks": "444",
+    "increased": "5111 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/thedotmack",
+        "avatar": "https://avatars.githubusercontent.com/u/683968?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rodboev",
+        "avatar": "https://avatars.githubusercontent.com/u/106971?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/thedotmack/claude-mem",
+    "name": "thedotmack/claude-mem",
+    "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.  ",
+    "language": "TypeScript",
+    "stars": "26870",
+    "forks": "1796",
+    "increased": "7739 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/badlogic",
+        "avatar": "https://avatars.githubusercontent.com/u/514052?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/hjanuschka",
+        "avatar": "https://avatars.githubusercontent.com/u/2891702?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/markusylisiurunen",
+        "avatar": "https://avatars.githubusercontent.com/u/8409947?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/aliou",
+        "avatar": "https://avatars.githubusercontent.com/u/980367?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/badlogic/pi-mono",
+    "name": "badlogic/pi-mono",
+    "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI &amp; web UI libraries, Slack bot, vLLM pods  ",
+    "language": "TypeScript",
+    "stars": "10131",
+    "forks": "1006",
+    "increased": "3847 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/virattt",
+        "avatar": "https://avatars.githubusercontent.com/u/901795?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/MkDev11",
+        "avatar": "https://avatars.githubusercontent.com/u/94194147?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/gupta-8",
+        "avatar": "https://avatars.githubusercontent.com/u/215169640?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sjhddh",
+        "avatar": "https://avatars.githubusercontent.com/u/5778228?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bittoby",
+        "avatar": "https://avatars.githubusercontent.com/u/218712309?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/virattt/dexter",
+    "name": "virattt/dexter",
+    "description": "An autonomous agent for deep financial research  ",
+    "language": "TypeScript",
+    "stars": "14147",
+    "forks": "1699",
+    "increased": "4024 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/disler",
+        "avatar": "https://avatars.githubusercontent.com/u/7570811?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/disler/claude-code-hooks-mastery",
+    "name": "disler/claude-code-hooks-mastery",
+    "description": "Master Claude Code Hooks  ",
+    "language": "Python",
+    "stars": "2891",
+    "forks": "541",
+    "increased": "611 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/pelikhan",
+        "avatar": "https://avatars.githubusercontent.com/u/4175913?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dsyme",
+        "avatar": "https://avatars.githubusercontent.com/u/7204669?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mnkiefer",
+        "avatar": "https://avatars.githubusercontent.com/u/8320933?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/github/gh-aw",
+    "name": "github/gh-aw",
+    "description": "GitHub Agentic Workflows  ",
+    "language": "Go",
+    "stars": "1347",
+    "forks": "106",
+    "increased": "811 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/tobi",
+        "avatar": "https://avatars.githubusercontent.com/u/347?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/burke",
+        "avatar": "https://avatars.githubusercontent.com/u/1284?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mbrendan",
+        "avatar": "https://avatars.githubusercontent.com/u/25271154?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sh54",
+        "avatar": "https://avatars.githubusercontent.com/u/906180?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/tobi/qmd",
+    "name": "tobi/qmd",
+    "description": "mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local  ",
+    "language": "TypeScript",
+    "stars": "7803",
+    "forks": "403",
+    "increased": "1836 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/thinkwee",
+        "avatar": "https://avatars.githubusercontent.com/u/11889052?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Alphamasterliu",
+        "avatar": "https://avatars.githubusercontent.com/u/110011045?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/NA-Wen",
+        "avatar": "https://avatars.githubusercontent.com/u/92134380?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/qianc62",
+        "avatar": "https://avatars.githubusercontent.com/u/48988402?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/zxrys",
+        "avatar": "https://avatars.githubusercontent.com/u/115414113?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/OpenBMB/ChatDev",
+    "name": "OpenBMB/ChatDev",
+    "description": "ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration  ",
+    "language": "Python",
+    "stars": "30779",
+    "forks": "3799",
+    "increased": "1078 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ulivz",
+        "avatar": "https://avatars.githubusercontent.com/u/23133919?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ycjcl868",
+        "avatar": "https://avatars.githubusercontent.com/u/13595509?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ZhaoHeh",
+        "avatar": "https://avatars.githubusercontent.com/u/38528320?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cjraft",
+        "avatar": "https://avatars.githubusercontent.com/u/13687952?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/skychx",
+        "avatar": "https://avatars.githubusercontent.com/u/24872439?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/bytedance/UI-TARS-desktop",
+    "name": "bytedance/UI-TARS-desktop",
+    "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra  ",
+    "language": "TypeScript",
+    "stars": "27679",
+    "forks": "2708",
+    "increased": "2470 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/pooruss",
+        "avatar": "https://avatars.githubusercontent.com/u/57995076?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mingcomplex",
+        "avatar": "https://avatars.githubusercontent.com/u/195769464?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ycjcl868",
+        "avatar": "https://avatars.githubusercontent.com/u/13595509?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/AHEADer",
+        "avatar": "https://avatars.githubusercontent.com/u/10228507?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/li-plus",
+        "avatar": "https://avatars.githubusercontent.com/u/39846316?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/bytedance/UI-TARS",
+    "name": "bytedance/UI-TARS",
+    "description": "Pioneering Automated GUI Interaction with Native Agents  ",
+    "language": "Python",
+    "stars": "9487",
+    "forks": "689",
+    "increased": "320 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/cyyeh",
+        "avatar": "https://avatars.githubusercontent.com/u/11023068?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/onlyjackfrost",
+        "avatar": "https://avatars.githubusercontent.com/u/38731840?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/wwwy3y3",
+        "avatar": "https://avatars.githubusercontent.com/u/1208829?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/andreashimin",
+        "avatar": "https://avatars.githubusercontent.com/u/9657305?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/paopa",
+        "avatar": "https://avatars.githubusercontent.com/u/52045032?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Canner/WrenAI",
+    "name": "Canner/WrenAI",
+    "description": "⚡️ GenBI (Generative BI) queries any database in natural language, generates accurate SQL (Text-to-SQL), charts (Text-to-Chart), and AI-powered business intelligence in seconds.  ",
+    "language": "TypeScript",
+    "stars": "14338",
+    "forks": "1532",
+    "increased": "559 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/you-n-g",
+        "avatar": "https://avatars.githubusercontent.com/u/465606?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/peteryang1",
+        "avatar": "https://avatars.githubusercontent.com/u/25981102?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/XianBW",
+        "avatar": "https://avatars.githubusercontent.com/u/36835909?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/WinstonLiyt",
+        "avatar": "https://avatars.githubusercontent.com/u/104308117?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/qew21",
+        "avatar": "https://avatars.githubusercontent.com/u/25722332?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/microsoft/RD-Agent",
+    "name": "microsoft/RD-Agent",
+    "description": "Research and development (R&amp;D) is crucial for the enhancement of industrial productivity, espe cially in the AI era, where the core aspects of R&amp;D are mainly focused on data and models. We are committed to automating these high-value generic R&amp;D processes through R&amp;D-Agent, which lets AI drive data-driven AI. 🔗  https://aka.ms/RD-Agent-Tech-Report    ",
+    "language": "Python",
+    "stars": "10981",
+    "forks": "1264",
+    "increased": "397 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ThePrimeagen",
+        "avatar": "https://avatars.githubusercontent.com/u/4458174?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/SearidangPa",
+        "avatar": "https://avatars.githubusercontent.com/u/40446468?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/codegirl-007",
+        "avatar": "https://avatars.githubusercontent.com/u/7044310?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ramonasuncion",
+        "avatar": "https://avatars.githubusercontent.com/u/40077628?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/aleDsz",
+        "avatar": "https://avatars.githubusercontent.com/u/6402997?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/ThePrimeagen/99",
+    "name": "ThePrimeagen/99",
+    "description": "Neovim AI agent done right  ",
+    "language": "Lua",
+    "stars": "3644",
+    "forks": "173",
+    "increased": "523 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/sairin1202",
+        "avatar": "https://avatars.githubusercontent.com/u/5654879?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/evan-ak",
+        "avatar": "https://avatars.githubusercontent.com/u/33013709?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ankaisen",
+        "avatar": "https://avatars.githubusercontent.com/u/51148505?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Koimiao-zz",
+        "avatar": "https://avatars.githubusercontent.com/u/224523934?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/NevaMind-AI/memU",
+    "name": "NevaMind-AI/memU",
+    "description": "Memory for 24/7 proactive agents like openclaw (moltbot, clawdbot).  ",
+    "language": "Python",
+    "stars": "8833",
+    "forks": "669",
+    "increased": "1555 stars this week"
+  }
+]
