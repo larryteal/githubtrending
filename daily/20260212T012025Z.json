@@ -1,0 +1,199 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/aksg87",
+        "avatar": "https://avatars.githubusercontent.com/u/19271735?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kleeena",
+        "avatar": "https://avatars.githubusercontent.com/u/62442533?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mariano",
+        "avatar": "https://avatars.githubusercontent.com/u/18598?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tonebeta",
+        "avatar": "https://avatars.githubusercontent.com/u/4890246?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/google/langextract",
+    "name": "google/langextract",
+    "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.  ",
+    "language": "Python",
+    "stars": "30481",
+    "forks": "2035",
+    "increased": "3186 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/pelikhan",
+        "avatar": "https://avatars.githubusercontent.com/u/4175913?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dsyme",
+        "avatar": "https://avatars.githubusercontent.com/u/7204669?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mnkiefer",
+        "avatar": "https://avatars.githubusercontent.com/u/8320933?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/github/gh-aw",
+    "name": "github/gh-aw",
+    "description": "GitHub Agentic Workflows  ",
+    "language": "Go",
+    "stars": "1727",
+    "forks": "124",
+    "increased": "390 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/crutkas",
+        "avatar": "https://avatars.githubusercontent.com/u/1462282?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bao-qian",
+        "avatar": "https://avatars.githubusercontent.com/u/1169912?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/qianlifeng",
+        "avatar": "https://avatars.githubusercontent.com/u/1725475?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jaimecbernardo",
+        "avatar": "https://avatars.githubusercontent.com/u/26118718?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/niels9001",
+        "avatar": "https://avatars.githubusercontent.com/u/9866362?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/microsoft/PowerToys",
+    "name": "microsoft/PowerToys",
+    "description": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows  ",
+    "language": "C#",
+    "stars": "129404",
+    "forks": "7695",
+    "increased": "67 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/OrKoN",
+        "avatar": "https://avatars.githubusercontent.com/u/399150?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Lightning00Blade",
+        "avatar": "https://avatars.githubusercontent.com/u/34244704?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/browser-automation-bot",
+        "avatar": "https://avatars.githubusercontent.com/u/133232582?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/szuend",
+        "avatar": "https://avatars.githubusercontent.com/u/325588?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+    "name": "ChromeDevTools/chrome-devtools-mcp",
+    "description": "Chrome DevTools for coding agents  ",
+    "language": "TypeScript",
+    "stars": "23986",
+    "forks": "1419",
+    "increased": "120 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/kieranklaassen",
+        "avatar": "https://avatars.githubusercontent.com/u/209089?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tmchow",
+        "avatar": "https://avatars.githubusercontent.com/u/517103?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/julik",
+        "avatar": "https://avatars.githubusercontent.com/u/16446?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dshipper",
+        "avatar": "https://avatars.githubusercontent.com/u/263564?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/EveryInc/compound-engineering-plugin",
+    "name": "EveryInc/compound-engineering-plugin",
+    "description": "Official Claude Code compound engineering plugin  ",
+    "language": "TypeScript",
+    "stars": "8477",
+    "forks": "661",
+    "increased": "272 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/patchy631",
+        "avatar": "https://avatars.githubusercontent.com/u/38653995?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sitammeur",
+        "avatar": "https://avatars.githubusercontent.com/u/103279526?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ChawlaAvi",
+        "avatar": "https://avatars.githubusercontent.com/u/36801774?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/nikhil-1e9",
+        "avatar": "https://avatars.githubusercontent.com/u/84204563?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/namanvirk18",
+        "avatar": "https://avatars.githubusercontent.com/u/109527422?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/patchy631/ai-engineering-hub",
+    "name": "patchy631/ai-engineering-hub",
+    "description": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.  ",
+    "language": "Jupyter Notebook",
+    "stars": "28625",
+    "forks": "4676",
+    "increased": "154 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/cheahjs",
+        "avatar": "https://avatars.githubusercontent.com/u/818368?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/themacexpert",
+        "avatar": "https://avatars.githubusercontent.com/u/5834262?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/justmarkham",
+        "avatar": "https://avatars.githubusercontent.com/u/6509492?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/k-bose",
+        "avatar": "https://avatars.githubusercontent.com/u/131641639?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/cheahjs/free-llm-api-resources",
+    "name": "cheahjs/free-llm-api-resources",
+    "description": "A list of free LLM inference resources accessible via API.  ",
+    "language": "Python",
+    "stars": "9513",
+    "forks": "924",
+    "increased": "440 stars today"
+  }
+]
