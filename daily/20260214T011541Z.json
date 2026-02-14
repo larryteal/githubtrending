@@ -1,0 +1,290 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Pedrovaleriolopez",
+        "avatar": "https://avatars.githubusercontent.com/u/124090200?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/oalanicolas",
+        "avatar": "https://avatars.githubusercontent.com/u/895889?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/semantic-release-bot",
+        "avatar": "https://avatars.githubusercontent.com/u/32174276?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/SynkraAI/aios-core",
+    "name": "SynkraAI/aios-core",
+    "description": "Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0  ",
+    "language": "JavaScript",
+    "stars": "428",
+    "forks": "214",
+    "increased": "106 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/OrKoN",
+        "avatar": "https://avatars.githubusercontent.com/u/399150?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Lightning00Blade",
+        "avatar": "https://avatars.githubusercontent.com/u/34244704?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/browser-automation-bot",
+        "avatar": "https://avatars.githubusercontent.com/u/133232582?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/szuend",
+        "avatar": "https://avatars.githubusercontent.com/u/325588?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+    "name": "ChromeDevTools/chrome-devtools-mcp",
+    "description": "Chrome DevTools for coding agents  ",
+    "language": "TypeScript",
+    "stars": "24725",
+    "forks": "1463",
+    "increased": "363 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/danielmiessler",
+        "avatar": "https://avatars.githubusercontent.com/u/50654?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ksylvan",
+        "avatar": "https://avatars.githubusercontent.com/u/1226059?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mvoehringer",
+        "avatar": "https://avatars.githubusercontent.com/u/2719466?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/m4nt0de4",
+        "avatar": "https://avatars.githubusercontent.com/u/176330864?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/danielmiessler/Personal_AI_Infrastructure",
+    "name": "danielmiessler/Personal_AI_Infrastructure",
+    "description": "Agentic AI Infrastructure for magnifying HUMAN capabilities.  ",
+    "language": "TypeScript",
+    "stars": "8050",
+    "forks": "1135",
+    "increased": "595 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/patchy631",
+        "avatar": "https://avatars.githubusercontent.com/u/38653995?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sitammeur",
+        "avatar": "https://avatars.githubusercontent.com/u/103279526?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ChawlaAvi",
+        "avatar": "https://avatars.githubusercontent.com/u/36801774?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/nikhil-1e9",
+        "avatar": "https://avatars.githubusercontent.com/u/84204563?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/namanvirk18",
+        "avatar": "https://avatars.githubusercontent.com/u/109527422?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/patchy631/ai-engineering-hub",
+    "name": "patchy631/ai-engineering-hub",
+    "description": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.  ",
+    "language": "Jupyter Notebook",
+    "stars": "29306",
+    "forks": "4752",
+    "increased": "84 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/levlam",
+        "avatar": "https://avatars.githubusercontent.com/u/22669599?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/stek29",
+        "avatar": "https://avatars.githubusercontent.com/u/11808223?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/vysheng",
+        "avatar": "https://avatars.githubusercontent.com/u/1647536?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/savely-krasovsky",
+        "avatar": "https://avatars.githubusercontent.com/u/5345489?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dfedin",
+        "avatar": "https://avatars.githubusercontent.com/u/6404829?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/TelegramMessenger/MTProxy",
+    "name": "TelegramMessenger/MTProxy",
+    "language": "C",
+    "stars": "5883",
+    "forks": "997",
+    "increased": "35 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ychervonyi",
+        "avatar": "https://avatars.githubusercontent.com/u/25130217?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dawsenhwang",
+        "avatar": "https://avatars.githubusercontent.com/u/233163904?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/nurijunsu",
+        "avatar": "https://avatars.githubusercontent.com/u/41418083?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/lmthang",
+        "avatar": "https://avatars.githubusercontent.com/u/396613?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/google-deepmind/superhuman",
+    "name": "google-deepmind/superhuman",
+    "language": "TeX",
+    "stars": "75",
+    "forks": "26",
+    "increased": "49 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/cheahjs",
+        "avatar": "https://avatars.githubusercontent.com/u/818368?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/themacexpert",
+        "avatar": "https://avatars.githubusercontent.com/u/5834262?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/justmarkham",
+        "avatar": "https://avatars.githubusercontent.com/u/6509492?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/k-bose",
+        "avatar": "https://avatars.githubusercontent.com/u/131641639?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/cheahjs/free-llm-api-resources",
+    "name": "cheahjs/free-llm-api-resources",
+    "description": "A list of free LLM inference resources accessible via API.  ",
+    "language": "Python",
+    "stars": "10646",
+    "forks": "1034",
+    "increased": "392 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/MaartenGr",
+        "avatar": "https://avatars.githubusercontent.com/u/25746895?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/negativenagesh",
+        "avatar": "https://avatars.githubusercontent.com/u/148525245?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jalammar",
+        "avatar": "https://avatars.githubusercontent.com/u/1007956?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dkapitan",
+        "avatar": "https://avatars.githubusercontent.com/u/4090894?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dcarpintero",
+        "avatar": "https://avatars.githubusercontent.com/u/6709785?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/HandsOnLLM/Hands-On-Large-Language-Models",
+    "name": "HandsOnLLM/Hands-On-Large-Language-Models",
+    "description": "Official code repo for the O'Reilly Book - \"Hands-On Large Language Models\"  ",
+    "language": "Jupyter Notebook",
+    "stars": "21155",
+    "forks": "4995",
+    "increased": "329 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/zhuzilin",
+        "avatar": "https://avatars.githubusercontent.com/u/10428324?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/fzyzcjy",
+        "avatar": "https://avatars.githubusercontent.com/u/5236035?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/yitianlian",
+        "avatar": "https://avatars.githubusercontent.com/u/91449279?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/lilei199908",
+        "avatar": "https://avatars.githubusercontent.com/u/77353389?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/lancerts",
+        "avatar": "https://avatars.githubusercontent.com/u/7495155?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/THUDM/slime",
+    "name": "THUDM/slime",
+    "description": "slime is an LLM post-training framework for RL Scaling.  ",
+    "language": "Python",
+    "stars": "4083",
+    "forks": "528",
+    "increased": "85 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/MaatheusGois",
+        "avatar": "https://avatars.githubusercontent.com/u/31082311?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/maatheusgois-dd",
+        "avatar": "https://avatars.githubusercontent.com/u/199827342?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/fenli",
+        "avatar": "https://avatars.githubusercontent.com/u/5110285?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/murilogteixeira",
+        "avatar": "https://avatars.githubusercontent.com/u/38084757?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/DebugSwift/DebugSwift",
+    "name": "DebugSwift/DebugSwift",
+    "description": "A toolkit to make debugging iOS applications easier 🚀  ",
+    "language": "Swift",
+    "stars": "1430",
+    "forks": "126",
+    "increased": "today"
+  }
+]
