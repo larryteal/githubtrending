@@ -1,0 +1,299 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/alecf",
+        "avatar": "https://avatars.githubusercontent.com/u/135340?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/MichaelMilstead",
+        "avatar": "https://avatars.githubusercontent.com/u/8498335?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tambo-bot",
+        "avatar": "https://avatars.githubusercontent.com/u/230265268?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/akhileshrangani4",
+        "avatar": "https://avatars.githubusercontent.com/u/70284178?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/tambo-ai/tambo",
+    "name": "tambo-ai/tambo",
+    "description": "Ge nerative UI SDK for Reac t  ",
+    "language": "TypeScript",
+    "stars": "9623",
+    "forks": "464",
+    "increased": "127 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Pedrovaleriolopez",
+        "avatar": "https://avatars.githubusercontent.com/u/124090200?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/oalanicolas",
+        "avatar": "https://avatars.githubusercontent.com/u/895889?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/semantic-release-bot",
+        "avatar": "https://avatars.githubusercontent.com/u/32174276?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/SynkraAI/aios-core",
+    "name": "SynkraAI/aios-core",
+    "description": "Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0  ",
+    "language": "JavaScript",
+    "stars": "609",
+    "forks": "242",
+    "increased": "209 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ramnique",
+        "avatar": "https://avatars.githubusercontent.com/u/30795890?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/akhisud3195",
+        "avatar": "https://avatars.githubusercontent.com/u/55130408?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/arkml",
+        "avatar": "https://avatars.githubusercontent.com/u/6592213?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tusharmagar",
+        "avatar": "https://avatars.githubusercontent.com/u/47842976?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/rowboatlabs/rowboat",
+    "name": "rowboatlabs/rowboat",
+    "description": "Open-source AI coworker, with memory  ",
+    "language": "TypeScript",
+    "stars": "6071",
+    "forks": "498",
+    "increased": "217 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/harshavardhana",
+        "avatar": "https://avatars.githubusercontent.com/u/622699?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/vadmeste",
+        "avatar": "https://avatars.githubusercontent.com/u/283197?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/klauspost",
+        "avatar": "https://avatars.githubusercontent.com/u/5663952?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/minio-trusted",
+        "avatar": "https://avatars.githubusercontent.com/u/21070888?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/poornas",
+        "avatar": "https://avatars.githubusercontent.com/u/791968?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/minio/minio",
+    "name": "minio/minio",
+    "description": "MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.  ",
+    "language": "Go",
+    "stars": "60280",
+    "forks": "7009",
+    "increased": "29 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/OrKoN",
+        "avatar": "https://avatars.githubusercontent.com/u/399150?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Lightning00Blade",
+        "avatar": "https://avatars.githubusercontent.com/u/34244704?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/browser-automation-bot",
+        "avatar": "https://avatars.githubusercontent.com/u/133232582?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/szuend",
+        "avatar": "https://avatars.githubusercontent.com/u/325588?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+    "name": "ChromeDevTools/chrome-devtools-mcp",
+    "description": "Chrome DevTools for coding agents  ",
+    "language": "TypeScript",
+    "stars": "25097",
+    "forks": "1479",
+    "increased": "331 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/iaojnh",
+        "avatar": "https://avatars.githubusercontent.com/u/38692278?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/feihongxu0824",
+        "avatar": "https://avatars.githubusercontent.com/u/237691413?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/egolearner",
+        "avatar": "https://avatars.githubusercontent.com/u/45122959?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Cuiyus",
+        "avatar": "https://avatars.githubusercontent.com/u/42903451?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/zhourrr",
+        "avatar": "https://avatars.githubusercontent.com/u/78126249?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/alibaba/zvec",
+    "name": "alibaba/zvec",
+    "description": "A lightweight, lightning-fast, in-process vector database  ",
+    "language": "C++",
+    "stars": "1266",
+    "forks": "68",
+    "increased": "172 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ruvnet",
+        "avatar": "https://avatars.githubusercontent.com/u/2934394?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/ruvnet/wifi-densepose",
+    "name": "ruvnet/wifi-densepose",
+    "description": "Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers  ",
+    "language": "Python",
+    "stars": "6165",
+    "forks": "551",
+    "increased": "98 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/chandrasekharan-zipstack",
+        "avatar": "https://avatars.githubusercontent.com/u/117059509?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/muhammad-ali-e",
+        "avatar": "https://avatars.githubusercontent.com/u/117142933?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Deepak-Kesavan",
+        "avatar": "https://avatars.githubusercontent.com/u/89829542?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/gaya3-zipstack",
+        "avatar": "https://avatars.githubusercontent.com/u/142381512?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Zipstack/unstract",
+    "name": "Zipstack/unstract",
+    "description": "No-code LLM Platform to launch APIs and ETL Pipelines to structure unstructured documents  ",
+    "language": "Python",
+    "stars": "6318",
+    "forks": "600",
+    "increased": "40 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/cpacker",
+        "avatar": "https://avatars.githubusercontent.com/u/5475622?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/letta-code",
+        "avatar": "https://avatars.githubusercontent.com/u/248085862?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jnjpng",
+        "avatar": "https://avatars.githubusercontent.com/u/13899997?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kl2806",
+        "avatar": "https://avatars.githubusercontent.com/u/9100255?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/letta-ai/letta-code",
+    "name": "letta-ai/letta-code",
+    "description": "The memory-first coding agent  ",
+    "language": "TypeScript",
+    "stars": "1215",
+    "forks": "135",
+    "increased": "55 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/nobu",
+        "avatar": "https://avatars.githubusercontent.com/u/16700?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/matzbot",
+        "avatar": "https://avatars.githubusercontent.com/u/29403229?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/akr",
+        "avatar": "https://avatars.githubusercontent.com/u/10538?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/hsbt",
+        "avatar": "https://avatars.githubusercontent.com/u/12301?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/k0kubun",
+        "avatar": "https://avatars.githubusercontent.com/u/3138447?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/ruby/ruby",
+    "name": "ruby/ruby",
+    "description": "The Ruby Programming Language  ",
+    "language": "Ruby",
+    "stars": "23370",
+    "forks": "5563",
+    "increased": "15 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ajbura",
+        "avatar": "https://avatars.githubusercontent.com/u/32841439?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kfiven",
+        "avatar": "https://avatars.githubusercontent.com/u/33421343?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ginnyTheCat",
+        "avatar": "https://avatars.githubusercontent.com/u/35173023?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/cinnyapp/cinny",
+    "name": "cinnyapp/cinny",
+    "description": "Yet another matrix client  ",
+    "language": "TypeScript",
+    "stars": "3048",
+    "forks": "410",
+    "increased": "41 stars today"
+  }
+]
