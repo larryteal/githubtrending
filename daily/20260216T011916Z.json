@@ -1,0 +1,310 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/cjdsellers",
+        "avatar": "https://avatars.githubusercontent.com/u/22510164?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/limx0",
+        "avatar": "https://avatars.githubusercontent.com/u/4816153?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/filipmacek",
+        "avatar": "https://avatars.githubusercontent.com/u/16453976?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/faysou",
+        "avatar": "https://avatars.githubusercontent.com/u/893862?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/davidsblom",
+        "avatar": "https://avatars.githubusercontent.com/u/49148?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/nautechsystems/nautilus_trader",
+    "name": "nautechsystems/nautilus_trader",
+    "description": "A high-performance algorithmic trading platform and event-driven backtester  ",
+    "language": "Rust",
+    "stars": "19312",
+    "forks": "2295",
+    "increased": "68 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/steipete",
+        "avatar": "https://avatars.githubusercontent.com/u/58493?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/salmonumbrella",
+        "avatar": "https://avatars.githubusercontent.com/u/182032677?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jeanregisser",
+        "avatar": "https://avatars.githubusercontent.com/u/57791?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/antons",
+        "avatar": "https://avatars.githubusercontent.com/u/129705?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/steipete/gogcli",
+    "name": "steipete/gogcli",
+    "description": "Google Suite CLI: Gmai l, GCal, GDrive, GContac ts.  ",
+    "language": "Go",
+    "stars": "2981",
+    "forks": "258",
+    "increased": "630 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ramnique",
+        "avatar": "https://avatars.githubusercontent.com/u/30795890?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/akhisud3195",
+        "avatar": "https://avatars.githubusercontent.com/u/55130408?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/arkml",
+        "avatar": "https://avatars.githubusercontent.com/u/6592213?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tusharmagar",
+        "avatar": "https://avatars.githubusercontent.com/u/47842976?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/rowboatlabs/rowboat",
+    "name": "rowboatlabs/rowboat",
+    "description": "Open-source AI coworker, with memory  ",
+    "language": "TypeScript",
+    "stars": "6819",
+    "forks": "577",
+    "increased": "803 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/pelikhan",
+        "avatar": "https://avatars.githubusercontent.com/u/4175913?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dsyme",
+        "avatar": "https://avatars.githubusercontent.com/u/7204669?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mnkiefer",
+        "avatar": "https://avatars.githubusercontent.com/u/8320933?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/github/gh-aw",
+    "name": "github/gh-aw",
+    "description": "GitHub Agentic Workflows  ",
+    "language": "Go",
+    "stars": "2711",
+    "forks": "200",
+    "increased": "213 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/OrKoN",
+        "avatar": "https://avatars.githubusercontent.com/u/399150?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Lightning00Blade",
+        "avatar": "https://avatars.githubusercontent.com/u/34244704?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/browser-automation-bot",
+        "avatar": "https://avatars.githubusercontent.com/u/133232582?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/szuend",
+        "avatar": "https://avatars.githubusercontent.com/u/325588?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+    "name": "ChromeDevTools/chrome-devtools-mcp",
+    "description": "Chrome DevTools for coding agents  ",
+    "language": "TypeScript",
+    "stars": "25426",
+    "forks": "1501",
+    "increased": "357 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/iaojnh",
+        "avatar": "https://avatars.githubusercontent.com/u/38692278?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/feihongxu0824",
+        "avatar": "https://avatars.githubusercontent.com/u/237691413?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/egolearner",
+        "avatar": "https://avatars.githubusercontent.com/u/45122959?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Cuiyus",
+        "avatar": "https://avatars.githubusercontent.com/u/42903451?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/zhourrr",
+        "avatar": "https://avatars.githubusercontent.com/u/78126249?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/alibaba/zvec",
+    "name": "alibaba/zvec",
+    "description": "A lightweight, lightning-fast, in-process vector database  ",
+    "language": "C++",
+    "stars": "2340",
+    "forks": "118",
+    "increased": "673 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/steipete",
+        "avatar": "https://avatars.githubusercontent.com/u/58493?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/vignesh07",
+        "avatar": "https://avatars.githubusercontent.com/u/1436853?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/thewilloftheshadow",
+        "avatar": "https://avatars.githubusercontent.com/u/35580099?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/gumadeiras",
+        "avatar": "https://avatars.githubusercontent.com/u/5599352?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/openclaw/openclaw",
+    "name": "openclaw/openclaw",
+    "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  ",
+    "language": "TypeScript",
+    "stars": "197325",
+    "forks": "34370",
+    "increased": "2380 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/evmaki",
+        "avatar": "https://avatars.githubusercontent.com/u/15764776?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/keveman",
+        "avatar": "https://avatars.githubusercontent.com/u/229914?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/petewarden",
+        "avatar": "https://avatars.githubusercontent.com/u/161459?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/andimarafioti",
+        "avatar": "https://avatars.githubusercontent.com/u/9143109?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/guynich",
+        "avatar": "https://avatars.githubusercontent.com/u/35084975?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/moonshine-ai/moonshine",
+    "name": "moonshine-ai/moonshine",
+    "description": "Fast and accurate automatic speech recognition (ASR) for edge devices  ",
+    "language": "C",
+    "stars": "3827",
+    "forks": "179",
+    "increased": "157 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/brave-browser-releases",
+        "avatar": "https://avatars.githubusercontent.com/u/39539223?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/brave-builds",
+        "avatar": "https://avatars.githubusercontent.com/u/45370463?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kjozwiak",
+        "avatar": "https://avatars.githubusercontent.com/u/2602313?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/LaurenWags",
+        "avatar": "https://avatars.githubusercontent.com/u/28145373?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mihaiplesa",
+        "avatar": "https://avatars.githubusercontent.com/u/907672?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/brave/brave-browser",
+    "name": "brave/brave-browser",
+    "description": "Brave browser for Android, iOS, Linux, macOS, Windows.  ",
+    "stars": "21548",
+    "forks": "2973",
+    "increased": "27 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Pedrovaleriolopez",
+        "avatar": "https://avatars.githubusercontent.com/u/124090200?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/oalanicolas",
+        "avatar": "https://avatars.githubusercontent.com/u/895889?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/semantic-release-bot",
+        "avatar": "https://avatars.githubusercontent.com/u/32174276?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/SynkraAI/aios-core",
+    "name": "SynkraAI/aios-core",
+    "description": "Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0  ",
+    "language": "JavaScript",
+    "stars": "794",
+    "forks": "287",
+    "increased": "163 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ruvnet",
+        "avatar": "https://avatars.githubusercontent.com/u/2934394?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/ruvnet/wifi-densepose",
+    "name": "ruvnet/wifi-densepose",
+    "description": "Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers  ",
+    "language": "Python",
+    "stars": "6493",
+    "forks": "573",
+    "increased": "352 stars today"
+  }
+]
