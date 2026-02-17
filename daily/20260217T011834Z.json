@@ -1,0 +1,284 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/iaojnh",
+        "avatar": "https://avatars.githubusercontent.com/u/38692278?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/feihongxu0824",
+        "avatar": "https://avatars.githubusercontent.com/u/237691413?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/egolearner",
+        "avatar": "https://avatars.githubusercontent.com/u/45122959?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Cuiyus",
+        "avatar": "https://avatars.githubusercontent.com/u/42903451?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/zhourrr",
+        "avatar": "https://avatars.githubusercontent.com/u/78126249?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/alibaba/zvec",
+    "name": "alibaba/zvec",
+    "description": "A lightweight, lightning-fast, in-process vector database  ",
+    "language": "C++",
+    "stars": "3613",
+    "forks": "189",
+    "increased": "1094 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/cjdsellers",
+        "avatar": "https://avatars.githubusercontent.com/u/22510164?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/limx0",
+        "avatar": "https://avatars.githubusercontent.com/u/4816153?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/filipmacek",
+        "avatar": "https://avatars.githubusercontent.com/u/16453976?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/faysou",
+        "avatar": "https://avatars.githubusercontent.com/u/893862?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/davidsblom",
+        "avatar": "https://avatars.githubusercontent.com/u/49148?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/nautechsystems/nautilus_trader",
+    "name": "nautechsystems/nautilus_trader",
+    "description": "A high-performance algorithmic trading platform and event-driven backtester  ",
+    "language": "Rust",
+    "stars": "19783",
+    "forks": "2321",
+    "increased": "546 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ramnique",
+        "avatar": "https://avatars.githubusercontent.com/u/30795890?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/akhisud3195",
+        "avatar": "https://avatars.githubusercontent.com/u/55130408?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/arkml",
+        "avatar": "https://avatars.githubusercontent.com/u/6592213?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tusharmagar",
+        "avatar": "https://avatars.githubusercontent.com/u/47842976?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/rowboatlabs/rowboat",
+    "name": "rowboatlabs/rowboat",
+    "description": "Open-source AI coworker, with memory  ",
+    "language": "TypeScript",
+    "stars": "7329",
+    "forks": "621",
+    "increased": "700 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/steipete",
+        "avatar": "https://avatars.githubusercontent.com/u/58493?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/salmonumbrella",
+        "avatar": "https://avatars.githubusercontent.com/u/182032677?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jeanregisser",
+        "avatar": "https://avatars.githubusercontent.com/u/57791?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/antons",
+        "avatar": "https://avatars.githubusercontent.com/u/129705?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/steipete/gogcli",
+    "name": "steipete/gogcli",
+    "description": "Google Suite CLI: Gmail, GCal, GDrive, GContacts.  ",
+    "language": "Go",
+    "stars": "3502",
+    "forks": "298",
+    "increased": "637 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/steipete",
+        "avatar": "https://avatars.githubusercontent.com/u/58493?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/vignesh07",
+        "avatar": "https://avatars.githubusercontent.com/u/1436853?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/thewilloftheshadow",
+        "avatar": "https://avatars.githubusercontent.com/u/35580099?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/gumadeiras",
+        "avatar": "https://avatars.githubusercontent.com/u/5599352?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/openclaw/openclaw",
+    "name": "openclaw/openclaw",
+    "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  ",
+    "language": "TypeScript",
+    "stars": "201702",
+    "forks": "36162",
+    "increased": "3873 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Pedrovaleriolopez",
+        "avatar": "https://avatars.githubusercontent.com/u/124090200?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/oalanicolas",
+        "avatar": "https://avatars.githubusercontent.com/u/895889?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/semantic-release-bot",
+        "avatar": "https://avatars.githubusercontent.com/u/32174276?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/SynkraAI/aios-core",
+    "name": "SynkraAI/aios-core",
+    "description": "Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0  ",
+    "language": "JavaScript",
+    "stars": "991",
+    "forks": "353",
+    "increased": "205 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/cpacker",
+        "avatar": "https://avatars.githubusercontent.com/u/5475622?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/letta-code",
+        "avatar": "https://avatars.githubusercontent.com/u/248085862?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jnjpng",
+        "avatar": "https://avatars.githubusercontent.com/u/13899997?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kl2806",
+        "avatar": "https://avatars.githubusercontent.com/u/9100255?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/letta-ai/letta-code",
+    "name": "letta-ai/letta-code",
+    "description": "The memory-first coding agent  ",
+    "language": "TypeScript",
+    "stars": "1452",
+    "forks": "156",
+    "increased": "22 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ruvnet",
+        "avatar": "https://avatars.githubusercontent.com/u/2934394?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/ruvnet/wifi-densepose",
+    "name": "ruvnet/wifi-densepose",
+    "description": " Production-ready implem entation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers  ",
+    "language": "Python",
+    "stars": "6803",
+    "forks": "585",
+    "increased": "344 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/fallenbagel",
+        "avatar": "https://avatars.githubusercontent.com/u/98979876?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sct",
+        "avatar": "https://avatars.githubusercontent.com/u/234213?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/TheCatLady",
+        "avatar": "https://avatars.githubusercontent.com/u/52870424?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/gauthier-th",
+        "avatar": "https://avatars.githubusercontent.com/u/37781713?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/seerr-team/seerr",
+    "name": "seerr-team/seerr",
+    "description": "Open-source media request and discovery manager for Jellyfin, Plex, and Emby.  ",
+    "language": "TypeScript",
+    "stars": "9072",
+    "forks": "601",
+    "increased": "182 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/cardosofede",
+        "avatar": "https://avatars.githubusercontent.com/u/36869960?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Nullably",
+        "avatar": "https://avatars.githubusercontent.com/u/37262506?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/vic-en",
+        "avatar": "https://avatars.githubusercontent.com/u/31972210?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/yzhang1994",
+        "avatar": "https://avatars.githubusercontent.com/u/25759483?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/aarmoa",
+        "avatar": "https://avatars.githubusercontent.com/u/30988000?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/hummingbot/hummingbot",
+    "name": "hummingbot/hummingbot",
+    "description": "Open source software that helps you create and deploy high-frequency crypto trading bots  ",
+    "language": "Python",
+    "stars": "16565",
+    "forks": "4386",
+    "increased": "339 stars today"
+  }
+]
