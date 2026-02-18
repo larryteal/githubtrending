@@ -1,0 +1,385 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/p-e-w",
+        "avatar": "https://avatars.githubusercontent.com/u/2702526?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/anrp",
+        "avatar": "https://avatars.githubusercontent.com/u/1325515?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/spikymoth",
+        "avatar": "https://avatars.githubusercontent.com/u/133602907?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/red40maxxer",
+        "avatar": "https://avatars.githubusercontent.com/u/113548315?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kldzj",
+        "avatar": "https://avatars.githubusercontent.com/u/7687617?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/p-e-w/heretic",
+    "name": "p-e-w/heretic",
+    "description": "Fully automatic censorship removal for language models  ",
+    "language": "Python",
+    "stars": "7222",
+    "forks": "727",
+    "increased": "656 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/fallenbagel",
+        "avatar": "https://avatars.githubusercontent.com/u/98979876?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sct",
+        "avatar": "https://avatars.githubusercontent.com/u/234213?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/TheCatLady",
+        "avatar": "https://avatars.githubusercontent.com/u/52870424?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/gauthier-th",
+        "avatar": "https://avatars.githubusercontent.com/u/37781713?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/seerr-team/seerr",
+    "name": "seerr-team/seerr",
+    "description": "Open-source media request and discovery manager for Jellyfin, Plex, and Emby.  ",
+    "language": "TypeScript",
+    "stars": "9330",
+    "forks": "612",
+    "increased": "282 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/obra",
+        "avatar": "https://avatars.githubusercontent.com/u/45416?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/arittr",
+        "avatar": "https://avatars.githubusercontent.com/u/5742859?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/clkao",
+        "avatar": "https://avatars.githubusercontent.com/u/69736?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jjshanks",
+        "avatar": "https://avatars.githubusercontent.com/u/62661?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/obra/superpowers",
+    "name": "obra/superpowers",
+    "description": "An agentic skills framework &amp; software development methodology that works.  ",
+    "language": "Shell",
+    "stars": "53613",
+    "forks": "4068",
+    "increased": "569 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/steipete",
+        "avatar": "https://avatars.githubusercontent.com/u/58493?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/salmonumbrella",
+        "avatar": "https://avatars.githubusercontent.com/u/182032677?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jeanregisser",
+        "avatar": "https://avatars.githubusercontent.com/u/57791?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/antons",
+        "avatar": "https://avatars.githubusercontent.com/u/129705?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/steipete/gogcli",
+    "name": "steipete/gogcli",
+    "description": "Google Suite CLI: Gmail, GCal, GDrive, GContacts.  ",
+    "language": "Go",
+    "stars": "3871",
+    "forks": "319",
+    "increased": "469 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/iaojnh",
+        "avatar": "https://avatars.githubusercontent.com/u/38692278?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/feihongxu0824",
+        "avatar": "https://avatars.githubusercontent.com/u/237691413?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/egolearner",
+        "avatar": "https://avatars.githubusercontent.com/u/45122959?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Cuiyus",
+        "avatar": "https://avatars.githubusercontent.com/u/42903451?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/zhourrr",
+        "avatar": "https://avatars.githubusercontent.com/u/78126249?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/alibaba/zvec",
+    "name": "alibaba/zvec",
+    "description": "A lightweight, lightning-fast, in-process vector database  ",
+    "language": "C++",
+    "stars": "4493",
+    "forks": "239",
+    "increased": "1473 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/steipete",
+        "avatar": "https://avatars.githubusercontent.com/u/58493?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/vignesh07",
+        "avatar": "https://avatars.githubusercontent.com/u/1436853?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/thewilloftheshadow",
+        "avatar": "https://avatars.githubusercontent.com/u/35580099?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sebslight",
+        "avatar": "https://avatars.githubusercontent.com/u/19554889?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/openclaw/openclaw",
+    "name": "openclaw/openclaw",
+    "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  ",
+    "language": "TypeScript",
+    "stars": "205430",
+    "forks": "37452",
+    "increased": "4201 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Pedrovaleriolopez",
+        "avatar": "https://avatars.githubusercontent.com/u/124090200?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/oalanicolas",
+        "avatar": "https://avatars.githubusercontent.com/u/895889?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/semantic-release-bot",
+        "avatar": "https://avatars.githubusercontent.com/u/32174276?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/SynkraAI/aios-core",
+    "name": "SynkraAI/aios-core",
+    "description": "Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0  ",
+    "language": "JavaScript",
+    "stars": "1200",
+    "forks": "404",
+    "increased": "194 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ashishps1",
+        "avatar": "https://avatars.githubusercontent.com/u/8646889?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/systemdesign42",
+        "avatar": "https://avatars.githubusercontent.com/u/118598641?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ajitzero",
+        "avatar": "https://avatars.githubusercontent.com/u/19947758?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/abdulrahim2002",
+        "avatar": "https://avatars.githubusercontent.com/u/89011337?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/ashishps1/awesome-system-design-resources",
+    "name": "ashishps1/awesome-system-design-resources",
+    "description": "Learn System Design concepts and prepare for interviews using free resources.  ",
+    "language": "Java",
+    "stars": "32820",
+    "forks": "7300",
+    "increased": "510 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/steipete",
+        "avatar": "https://avatars.githubusercontent.com/u/58493?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mvance",
+        "avatar": "https://avatars.githubusercontent.com/u/82473?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/vlnd0",
+        "avatar": "https://avatars.githubusercontent.com/u/42946292?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/philippb",
+        "avatar": "https://avatars.githubusercontent.com/u/374326?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/steipete/summarize",
+    "name": "steipete/summarize",
+    "description": "Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension.  ",
+    "language": "TypeScript",
+    "stars": "3445",
+    "forks": "217",
+    "increased": "119 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/cardosofede",
+        "avatar": "https://avatars.githubusercontent.com/u/36869960?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Nullably",
+        "avatar": "https://avatars.githubusercontent.com/u/37262506?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/vic-en",
+        "avatar": "https://avatars.githubusercontent.com/u/31972210?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/yzhang1994",
+        "avatar": "https://avatars.githubusercontent.com/u/25759483?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/aarmoa",
+        "avatar": "https://avatars.githubusercontent.com/u/30988000?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/hummingbot/hummingbot",
+    "name": "hummingbot/hummingbot",
+    "description": "Open source software that helps you create and deploy high-frequency crypto trading bots  ",
+    "language": "Python",
+    "stars": "17045",
+    "forks": "4416",
+    "increased": "568 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/x5a",
+        "avatar": "https://avatars.githubusercontent.com/u/4421754?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/alexalbertt",
+        "avatar": "https://avatars.githubusercontent.com/u/34638987?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/zealoushacker",
+        "avatar": "https://avatars.githubusercontent.com/u/346275?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/zckly",
+        "avatar": "https://avatars.githubusercontent.com/u/11340449?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/anthropics/claude-quickstarts",
+    "name": "anthropics/claude-quickstarts",
+    "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API  ",
+    "language": "Python",
+    "stars": "14488",
+    "forks": "2427",
+    "increased": "87 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/davila7",
+        "avatar": "https://avatars.githubusercontent.com/u/6216945?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/actions-user",
+        "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/odoldotol",
+        "avatar": "https://avatars.githubusercontent.com/u/90089610?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/davila7/claude-code-templates",
+    "name": "davila7/claude-code-templates",
+    "description": "CLI tool for configuring and monitoring Claude Code  ",
+    "language": "Python",
+    "stars": "20725",
+    "forks": "1935",
+    "increased": "111 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/SamuelHassine",
+        "avatar": "https://avatars.githubusercontent.com/u/1334279?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/richard-julien",
+        "avatar": "https://avatars.githubusercontent.com/u/285555?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Archidoit",
+        "avatar": "https://avatars.githubusercontent.com/u/75783086?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Filigran-Automation",
+        "avatar": "https://avatars.githubusercontent.com/u/130652934?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/OpenCTI-Platform/opencti",
+    "name": "OpenCTI-Platform/opencti",
+    "description": "Open Cyber Threat Intelligence Platform  ",
+    "language": "TypeScript",
+    "stars": "8411",
+    "forks": "1227",
+    "increased": "16 stars today"
+  }
+]
