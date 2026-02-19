@@ -1,0 +1,331 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/iaojnh",
+        "avatar": "https://avatars.githubusercontent.com/u/38692278?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/feihongxu0824",
+        "avatar": "https://avatars.githubusercontent.com/u/237691413?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/egolearner",
+        "avatar": "https://avatars.githubusercontent.com/u/45122959?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Cuiyus",
+        "avatar": "https://avatars.githubusercontent.com/u/42903451?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/zhourrr",
+        "avatar": "https://avatars.githubusercontent.com/u/78126249?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/alibaba/zvec",
+    "name": "alibaba/zvec",
+    "description": "A lightweight, lightning-fast, in-process vector database  ",
+    "language": "C++",
+    "stars": "4914",
+    "forks": "269",
+    "increased": "502 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/p-e-w",
+        "avatar": "https://avatars.githubusercontent.com/u/2702526?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/anrp",
+        "avatar": "https://avatars.githubusercontent.com/u/1325515?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/spikymoth",
+        "avatar": "https://avatars.githubusercontent.com/u/133602907?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/red40maxxer",
+        "avatar": "https://avatars.githubusercontent.com/u/113548315?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kldzj",
+        "avatar": "https://avatars.githubusercontent.com/u/7687617?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/p-e-w/heretic",
+    "name": "p-e-w/heretic",
+    "description": "Fully automatic censorship removal for language models  ",
+    "language": "Python",
+    "stars": "8039",
+    "forks": "810",
+    "increased": "946 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/SamuelHassine",
+        "avatar": "https://avatars.githubusercontent.com/u/1334279?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/richard-julien",
+        "avatar": "https://avatars.githubusercontent.com/u/285555?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Archidoit",
+        "avatar": "https://avatars.githubusercontent.com/u/75783086?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Filigran-Automation",
+        "avatar": "https://avatars.githubusercontent.com/u/130652934?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/OpenCTI-Platform/opencti",
+    "name": "OpenCTI-Platform/opencti",
+    "description": "Open Cyber Threat Intelligence Platform  ",
+    "language": "TypeScript",
+    "stars": "8698",
+    "forks": "1241",
+    "increased": "281 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/tanzhenxin",
+        "avatar": "https://avatars.githubusercontent.com/u/480123?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/yiliang114",
+        "avatar": "https://avatars.githubusercontent.com/u/11473889?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Mingholy",
+        "avatar": "https://avatars.githubusercontent.com/u/14246397?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pomelo-nwu",
+        "avatar": "https://avatars.githubusercontent.com/u/10703060?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jacob314",
+        "avatar": "https://avatars.githubusercontent.com/u/1226812?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/QwenLM/qwen-code",
+    "name": "QwenLM/qwen-code",
+    "description": "An open-source AI agent that lives in your terminal.  ",
+    "language": "TypeScript",
+    "stars": "18845",
+    "forks": "1637",
+    "increased": "95 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/NirDiamant",
+        "avatar": "https://avatars.githubusercontent.com/u/28316913?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tevfikcagridural",
+        "avatar": "https://avatars.githubusercontent.com/u/39863822?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/lzytitan494",
+        "avatar": "https://avatars.githubusercontent.com/u/97222085?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Ori226",
+        "avatar": "https://avatars.githubusercontent.com/u/5808240?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/zmccormick7",
+        "avatar": "https://avatars.githubusercontent.com/u/6549202?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/NirDiamant/RAG_Techniques",
+    "name": "NirDiamant/RAG_Techniques",
+    "description": "This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. RAG systems combine information retrieval with generative models to provide accurate and contextually rich responses.  ",
+    "language": "Jupyter Notebook",
+    "stars": "25258",
+    "forks": "2968",
+    "increased": "292 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/profvjreddi",
+        "avatar": "https://avatars.githubusercontent.com/u/6807956?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/hzeljko",
+        "avatar": "https://avatars.githubusercontent.com/u/36451783?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Mjrovai",
+        "avatar": "https://avatars.githubusercontent.com/u/17109416?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/harvard-edge/cs249r_book",
+    "name": "harvard-edge/cs249r_book",
+    "description": "Introduction to Machine Learning Systems  ",
+    "language": "JavaScript",
+    "stars": "19681",
+    "forks": "2297",
+    "increased": "690 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/obra",
+        "avatar": "https://avatars.githubusercontent.com/u/45416?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/arittr",
+        "avatar": "https://avatars.githubusercontent.com/u/5742859?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/clkao",
+        "avatar": "https://avatars.githubusercontent.com/u/69736?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jjshanks",
+        "avatar": "https://avatars.githubusercontent.com/u/62661?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/obra/superpowers",
+    "name": "obra/superpowers",
+    "description": "An agentic skills framework &amp; software development methodology that works.  ",
+    "language": "Shell",
+    "stars": "54473",
+    "forks": "4133",
+    "increased": "868 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/HailToDodongo",
+        "avatar": "https://avatars.githubusercontent.com/u/29900530?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Byterset",
+        "avatar": "https://avatars.githubusercontent.com/u/23340789?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/LauraWebdev",
+        "avatar": "https://avatars.githubusercontent.com/u/7365286?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/thekovic",
+        "avatar": "https://avatars.githubusercontent.com/u/72971433?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/HailToDodongo/pyrite64",
+    "name": "HailToDodongo/pyrite64",
+    "description": "N64 Game-Engine and Editor using libdragon &amp; tiny3d  ",
+    "language": "C++",
+    "stars": "1290",
+    "forks": "43",
+    "increased": "419 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Sushmithamallesh",
+        "avatar": "https://avatars.githubusercontent.com/u/19796925?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/haxzie",
+        "avatar": "https://avatars.githubusercontent.com/u/53584487?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jkomyno",
+        "avatar": "https://avatars.githubusercontent.com/u/12381818?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/alt-glitch",
+        "avatar": "https://avatars.githubusercontent.com/u/52913345?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/ComposioHQ/composio",
+    "name": "ComposioHQ/composio",
+    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action.  ",
+    "language": "TypeScript",
+    "stars": "26768",
+    "forks": "4420",
+    "increased": "17 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/p2r3",
+        "avatar": "https://avatars.githubusercontent.com/u/41925384?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/BoBkiNN",
+        "avatar": "https://avatars.githubusercontent.com/u/78136575?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mdev34-lab",
+        "avatar": "https://avatars.githubusercontent.com/u/117395510?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/millennIumAMbiguity",
+        "avatar": "https://avatars.githubusercontent.com/u/37588844?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/matan-h",
+        "avatar": "https://avatars.githubusercontent.com/u/56131718?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/p2r3/convert",
+    "name": "p2r3/convert",
+    "description": "Truly universal online file converter  ",
+    "language": "TypeScript",
+    "stars": "1452",
+    "forks": "131",
+    "increased": "391 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/steipete",
+        "avatar": "https://avatars.githubusercontent.com/u/58493?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/vignesh07",
+        "avatar": "https://avatars.githubusercontent.com/u/1436853?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/thewilloftheshadow",
+        "avatar": "https://avatars.githubusercontent.com/u/35580099?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sebslight",
+        "avatar": "https://avatars.githubusercontent.com/u/19554889?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/openclaw/openclaw",
+    "name": "openclaw/openclaw",
+    "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  ",
+    "language": "TypeScript",
+    "stars": "208874",
+    "forks": "38491",
+    "increased": "3805 stars today"
+  }
+]
