@@ -1,0 +1,242 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/obra",
+        "avatar": "https://avatars.githubusercontent.com/u/45416?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/arittr",
+        "avatar": "https://avatars.githubusercontent.com/u/5742859?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/clkao",
+        "avatar": "https://avatars.githubusercontent.com/u/69736?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jjshanks",
+        "avatar": "https://avatars.githubusercontent.com/u/62661?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/obra/superpowers",
+    "name": "obra/superpowers",
+    "description": "An agentic skills framework &amp; software development methodology that works.  ",
+    "language": "Shell",
+    "stars": "55399",
+    "forks": "4194",
+    "increased": "889 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/RichardAtCT",
+        "avatar": "https://avatars.githubusercontent.com/u/29794543?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/alexx-ftw",
+        "avatar": "https://avatars.githubusercontent.com/u/22500633?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/michaelansel",
+        "avatar": "https://avatars.githubusercontent.com/u/85195?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/drugoi",
+        "avatar": "https://avatars.githubusercontent.com/u/1858708?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/RichardAtCT/claude-code-telegram",
+    "name": "RichardAtCT/claude-code-telegram",
+    "description": "A powerful Telegram bot that provides remote access to Claude Code, enabling developers to interact with their projects from anywhere with full AI assistance and session persistence.  ",
+    "language": "Python",
+    "stars": "964",
+    "forks": "128",
+    "increased": "174 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/pkarw",
+        "avatar": "https://avatars.githubusercontent.com/u/211899?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/MStaniaszek1998",
+        "avatar": "https://avatars.githubusercontent.com/u/36333115?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/andrzejewsky",
+        "avatar": "https://avatars.githubusercontent.com/u/7943292?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pat-lewczuk",
+        "avatar": "https://avatars.githubusercontent.com/u/173491928?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/open-mercato/open-mercato",
+    "name": "open-mercato/open-mercato",
+    "description": "AI‑supportive CRM / ERP foundation framework — built to power R&amp;D, new processes, operations, and growth. It’s modular, extensible, and designed for teams that want strong defaults with room to customize everything. Better than Django, Retool and other alternatives - and Enterprise Grade!  ",
+    "language": "TypeScript",
+    "stars": "725",
+    "forks": "113",
+    "increased": "56 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/profvjreddi",
+        "avatar": "https://avatars.githubusercontent.com/u/6807956?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/hzeljko",
+        "avatar": "https://avatars.githubusercontent.com/u/36451783?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Mjrovai",
+        "avatar": "https://avatars.githubusercontent.com/u/17109416?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/harvard-edge/cs249r_book",
+    "name": "harvard-edge/cs249r_book",
+    "description": "Introduction to Machine Learning Systems  ",
+    "language": "JavaScript",
+    "stars": "20204",
+    "forks": "2329",
+    "increased": "663 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/HailToDodongo",
+        "avatar": "https://avatars.githubusercontent.com/u/29900530?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Byterset",
+        "avatar": "https://avatars.githubusercontent.com/u/23340789?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/thekovic",
+        "avatar": "https://avatars.githubusercontent.com/u/72971433?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rasky",
+        "avatar": "https://avatars.githubusercontent.com/u/1014109?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/LauraWebdev",
+        "avatar": "https://avatars.githubusercontent.com/u/7365286?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/HailToDodongo/pyrite64",
+    "name": "HailToDodongo/pyrite64",
+    "description": "N64 Game-Engine and Editor using libdragon &amp; tiny3d  ",
+    "language": "C++",
+    "stars": "1754",
+    "forks": "62",
+    "increased": "608 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/steipete",
+        "avatar": "https://avatars.githubusercontent.com/u/58493?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/vignesh07",
+        "avatar": "https://avatars.githubusercontent.com/u/1436853?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/thewilloftheshadow",
+        "avatar": "https://avatars.githubusercontent.com/u/35580099?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sebslight",
+        "avatar": "https://avatars.githubusercontent.com/u/19554889?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/openclaw/openclaw",
+    "name": "openclaw/openclaw",
+    "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  ",
+    "language": "TypeScript",
+    "stars": "211907",
+    "forks": "39314",
+    "increased": "3390 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/jonmatthis",
+        "avatar": "https://avatars.githubusercontent.com/u/15314521?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/aaroncherian",
+        "avatar": "https://avatars.githubusercontent.com/u/17153275?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/endurance",
+        "avatar": "https://avatars.githubusercontent.com/u/872355?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/philipqueen",
+        "avatar": "https://avatars.githubusercontent.com/u/24758117?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/trentwirth",
+        "avatar": "https://avatars.githubusercontent.com/u/62706609?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/freemocap/freemocap",
+    "name": "freemocap/freemocap",
+    "description": "Free Motion Capture for Everyone 💀✨  ",
+    "language": "Python",
+    "stars": "5205",
+    "forks": "418",
+    "increased": "141 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/p-e-w",
+        "avatar": "https://avatars.githubusercontent.com/u/2702526?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/anrp",
+        "avatar": "https://avatars.githubusercontent.com/u/1325515?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/spikymoth",
+        "avatar": "https://avatars.githubusercontent.com/u/133602907?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/red40maxxer",
+        "avatar": "https://avatars.githubusercontent.com/u/113548315?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kldzj",
+        "avatar": "https://avatars.githubusercontent.com/u/7687617?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/p-e-w/heretic",
+    "name": "p-e-w/heretic",
+    "description": "Fully automatic censorship removal for language models  ",
+    "language": "Python",
+    "stars": "8496",
+    "forks": "850",
+    "increased": "652 stars today"
+  }
+]
