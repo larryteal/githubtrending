@@ -1,0 +1,392 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/asdek",
+        "avatar": "https://avatars.githubusercontent.com/u/4257336?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sirozha",
+        "avatar": "https://avatars.githubusercontent.com/u/7765123?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/zavgorodnii",
+        "avatar": "https://avatars.githubusercontent.com/u/6124982?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/hhktony",
+        "avatar": "https://avatars.githubusercontent.com/u/1276702?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/vxcontrol/pentagi",
+    "name": "vxcontrol/pentagi",
+    "description": "✨ Fully autonomous AI Agents system capable of performing complex penetration testing tasks  ",
+    "language": "Go",
+    "stars": "5577",
+    "forks": "716",
+    "increased": "2118 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/abhigyanpatwari",
+        "avatar": "https://avatars.githubusercontent.com/u/126312502?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cursoragent",
+        "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/abhigyantrumio",
+        "avatar": "https://avatars.githubusercontent.com/u/170458303?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/abhigyanpatwari/GitNexus",
+    "name": "abhigyanpatwari/GitNexus",
+    "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration  ",
+    "language": "TypeScript",
+    "stars": "1043",
+    "forks": "94",
+    "increased": "132 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/obra",
+        "avatar": "https://avatars.githubusercontent.com/u/45416?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/arittr",
+        "avatar": "https://avatars.githubusercontent.com/u/5742859?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/clkao",
+        "avatar": "https://avatars.githubusercontent.com/u/69736?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jjshanks",
+        "avatar": "https://avatars.githubusercontent.com/u/62661?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/obra/superpowers",
+    "name": "obra/superpowers",
+    "description": "An agentic skills framework &amp; software development methodology that works.  ",
+    "language": "Shell",
+    "stars": "57011",
+    "forks": "4317",
+    "increased": "772 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/burtenshaw",
+        "avatar": "https://avatars.githubusercontent.com/u/19620375?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/evalstate",
+        "avatar": "https://avatars.githubusercontent.com/u/1936278?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Madhu3456",
+        "avatar": "https://avatars.githubusercontent.com/u/108209860?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/gary149",
+        "avatar": "https://avatars.githubusercontent.com/u/3841370?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/huggingface/skills",
+    "name": "huggingface/skills",
+    "language": "Python",
+    "stars": "1683",
+    "forks": "148",
+    "increased": "247 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/andyleejordan",
+        "avatar": "https://avatars.githubusercontent.com/u/2226434?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/TravisEz13",
+        "avatar": "https://avatars.githubusercontent.com/u/10873629?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/daxian-dbw",
+        "avatar": "https://avatars.githubusercontent.com/u/127450?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/adityapatwardhan",
+        "avatar": "https://avatars.githubusercontent.com/u/12820925?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/xtqqczze",
+        "avatar": "https://avatars.githubusercontent.com/u/45661989?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/PowerShell/PowerShell",
+    "name": "PowerShell/PowerShell",
+    "description": "PowerShell for every system!  ",
+    "language": "C#",
+    "stars": "51547",
+    "forks": "8182",
+    "increased": "13 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/actions-user",
+        "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bcherny",
+        "avatar": "https://avatars.githubusercontent.com/u/1761758?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ant-kurt",
+        "avatar": "https://avatars.githubusercontent.com/u/209710463?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ashwin-ant",
+        "avatar": "https://avatars.githubusercontent.com/u/178951676?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/anthropics/claude-code",
+    "name": "anthropics/claude-code",
+    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.  ",
+    "language": "Shell",
+    "stars": "68418",
+    "forks": "5365",
+    "increased": "222 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/markmanx",
+        "avatar": "https://avatars.githubusercontent.com/u/1769678?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/stan-smith",
+        "avatar": "https://avatars.githubusercontent.com/u/37673863?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/semantic-release-bot",
+        "avatar": "https://avatars.githubusercontent.com/u/32174276?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/abhinav-1305",
+        "avatar": "https://avatars.githubusercontent.com/u/113254225?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Abrar74774",
+        "avatar": "https://avatars.githubusercontent.com/u/52873468?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/stan-smith/FossFLOW",
+    "name": "stan-smith/FossFLOW",
+    "description": "Make beautiful isometric infrastructure diagrams  ",
+    "language": "TypeScript",
+    "stars": "17784",
+    "forks": "1161",
+    "increased": "74 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ggerganov",
+        "avatar": "https://avatars.githubusercontent.com/u/1991296?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jeffbolznv",
+        "avatar": "https://avatars.githubusercontent.com/u/8260565?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/JohannesGaessler",
+        "avatar": "https://avatars.githubusercontent.com/u/18492268?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/slaren",
+        "avatar": "https://avatars.githubusercontent.com/u/2141330?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/0cc4m",
+        "avatar": "https://avatars.githubusercontent.com/u/11707594?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/ggml-org/ggml",
+    "name": "ggml-org/ggml",
+    "description": "Tensor library for machine learning  ",
+    "language": "C++",
+    "stars": "14064",
+    "forks": "1475",
+    "increased": "47 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/nklhtv",
+        "avatar": "https://avatars.githubusercontent.com/u/5950722?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tymmesyde",
+        "avatar": "https://avatars.githubusercontent.com/u/7889816?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kKaskak",
+        "avatar": "https://avatars.githubusercontent.com/u/117831817?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/swetlasg",
+        "avatar": "https://avatars.githubusercontent.com/u/15102316?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Botsy",
+        "avatar": "https://avatars.githubusercontent.com/u/10400528?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Stremio/stremio-web",
+    "name": "Stremio/stremio-web",
+    "description": "Stremio - Freedom to Stream  ",
+    "language": "JavaScript",
+    "stars": "9456",
+    "forks": "1053",
+    "increased": "301 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/MaartenGr",
+        "avatar": "https://avatars.githubusercontent.com/u/25746895?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/negativenagesh",
+        "avatar": "https://avatars.githubusercontent.com/u/148525245?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jalammar",
+        "avatar": "https://avatars.githubusercontent.com/u/1007956?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dkapitan",
+        "avatar": "https://avatars.githubusercontent.com/u/4090894?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dcarpintero",
+        "avatar": "https://avatars.githubusercontent.com/u/6709785?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/HandsOnLLM/Hands-On-Large-Language-Models",
+    "name": "HandsOnLLM/Hands-On-Large-Language-Models",
+    "description": "Official code repo for the O'Reilly Book - \"Hands-On Large Language Models\"  ",
+    "language": "Jupyter Notebook",
+    "stars": "22562",
+    "forks": "5246",
+    "increased": "355 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/RichardAtCT",
+        "avatar": "https://avatars.githubusercontent.com/u/29794543?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/alexx-ftw",
+        "avatar": "https://avatars.githubusercontent.com/u/22500633?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/michaelansel",
+        "avatar": "https://avatars.githubusercontent.com/u/85195?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/drugoi",
+        "avatar": "https://avatars.githubusercontent.com/u/1858708?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/RichardAtCT/claude-code-telegram",
+    "name": "RichardAtCT/claude-code-telegram",
+    "description": "A powerful Telegram bot that provides remote access to Claude Code, enabling developers to interact with their projects from anywhere with full AI assistance and session persistence.  ",
+    "language": "Python",
+    "stars": "1388",
+    "forks": "170",
+    "increased": "109 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/threepointone",
+        "avatar": "https://avatars.githubusercontent.com/u/18808?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/whoiskatrin",
+        "avatar": "https://avatars.githubusercontent.com/u/8017908?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mattzcarey",
+        "avatar": "https://avatars.githubusercontent.com/u/77928207?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/deathbyknowledge",
+        "avatar": "https://avatars.githubusercontent.com/u/37671466?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/cloudflare/agents",
+    "name": "cloudflare/agents",
+    "description": "Build and deploy AI Agents on Cloudflare  ",
+    "language": "TypeScript",
+    "stars": "3435",
+    "forks": "388",
+    "increased": "65 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/hiddify-com",
+        "avatar": "https://avatars.githubusercontent.com/u/114227601?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/0xConsumer",
+        "avatar": "https://avatars.githubusercontent.com/u/132705824?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/veto9292",
+        "avatar": "https://avatars.githubusercontent.com/u/186375489?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/lymanjre",
+        "avatar": "https://avatars.githubusercontent.com/u/125398461?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/HiddifyOfficial",
+        "avatar": "https://avatars.githubusercontent.com/u/129010482?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/hiddify/hiddify-app",
+    "name": "hiddify/hiddify-app",
+    "description": "Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free.  ",
+    "language": "Dart",
+    "stars": "26407",
+    "forks": "2280",
+    "increased": "132 stars today"
+  }
+]
