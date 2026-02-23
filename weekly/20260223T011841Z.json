@@ -1,0 +1,261 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/iaojnh",
+        "avatar": "https://avatars.githubusercontent.com/u/38692278?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/feihongxu0824",
+        "avatar": "https://avatars.githubusercontent.com/u/237691413?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/egolearner",
+        "avatar": "https://avatars.githubusercontent.com/u/45122959?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Cuiyus",
+        "avatar": "https://avatars.githubusercontent.com/u/42903451?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/zhourrr",
+        "avatar": "https://avatars.githubusercontent.com/u/78126249?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/alibaba/zvec",
+    "name": "alibaba/zvec",
+    "description": "A lightweight, lightning-fast, in-process vector database  ",
+    "language": "C++",
+    "stars": "6987",
+    "forks": "383",
+    "increased": "4957 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/p-e-w",
+        "avatar": "https://avatars.githubusercontent.com/u/2702526?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/anrp",
+        "avatar": "https://avatars.githubusercontent.com/u/1325515?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/spikymoth",
+        "avatar": "https://avatars.githubusercontent.com/u/133602907?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/red40maxxer",
+        "avatar": "https://avatars.githubusercontent.com/u/113548315?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kldzj",
+        "avatar": "https://avatars.githubusercontent.com/u/7687617?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/p-e-w/heretic",
+    "name": "p-e-w/heretic",
+    "description": "Fully automatic censorship removal for language models  ",
+    "language": "Python",
+    "stars": "9185",
+    "forks": "911",
+    "increased": "3948 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Pedrovaleriolopez",
+        "avatar": "https://avatars.githubusercontent.com/u/124090200?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/oalanicolas",
+        "avatar": "https://avatars.githubusercontent.com/u/895889?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/semantic-release-bot",
+        "avatar": "https://avatars.githubusercontent.com/u/32174276?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/SynkraAI/aios-core",
+    "name": "SynkraAI/aios-core",
+    "description": "Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0  ",
+    "language": "JavaScript",
+    "stars": "1667",
+    "forks": "592",
+    "increased": "953 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/fallenbagel",
+        "avatar": "https://avatars.githubusercontent.com/u/98979876?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sct",
+        "avatar": "https://avatars.githubusercontent.com/u/234213?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/TheCatLady",
+        "avatar": "https://avatars.githubusercontent.com/u/52870424?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/gauthier-th",
+        "avatar": "https://avatars.githubusercontent.com/u/37781713?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/seerr-team/seerr",
+    "name": "seerr-team/seerr",
+    "description": "Open-source media request and discovery manager for Jellyfin, Plex, and Emby.  ",
+    "language": "TypeScript",
+    "stars": "9646",
+    "forks": "631",
+    "increased": "875 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ramnique",
+        "avatar": "https://avatars.githubusercontent.com/u/30795890?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/akhisud3195",
+        "avatar": "https://avatars.githubusercontent.com/u/55130408?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/arkml",
+        "avatar": "https://avatars.githubusercontent.com/u/6592213?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tusharmagar",
+        "avatar": "https://avatars.githubusercontent.com/u/47842976?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/rowboatlabs/rowboat",
+    "name": "rowboatlabs/rowboat",
+    "description": "Open-source AI coworker, with memory  ",
+    "language": "TypeScript",
+    "stars": "8378",
+    "forks": "718",
+    "increased": "1866 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/rajatsen91",
+        "avatar": "https://avatars.githubusercontent.com/u/8039264?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/siriuz42",
+        "avatar": "https://avatars.githubusercontent.com/u/5073569?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/misha-chertushkin",
+        "avatar": "https://avatars.githubusercontent.com/u/151166456?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/JustinGuese",
+        "avatar": "https://avatars.githubusercontent.com/u/9588843?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kashif",
+        "avatar": "https://avatars.githubusercontent.com/u/8100?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/google-research/timesfm",
+    "name": "google-research/timesfm",
+    "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.  ",
+    "language": "Python",
+    "stars": "9435",
+    "forks": "784",
+    "increased": "1593 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/steipete",
+        "avatar": "https://avatars.githubusercontent.com/u/58493?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mvance",
+        "avatar": "https://avatars.githubusercontent.com/u/82473?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/vlnd0",
+        "avatar": "https://avatars.githubusercontent.com/u/42946292?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/philippb",
+        "avatar": "https://avatars.githubusercontent.com/u/374326?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/steipete/summarize",
+    "name": "steipete/summarize",
+    "description": "Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension.  ",
+    "language": "TypeScript",
+    "stars": "4127",
+    "forks": "251",
+    "increased": "1831 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/steipete",
+        "avatar": "https://avatars.githubusercontent.com/u/58493?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/salmonumbrella",
+        "avatar": "https://avatars.githubusercontent.com/u/182032677?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jeanregisser",
+        "avatar": "https://avatars.githubusercontent.com/u/57791?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/antons",
+        "avatar": "https://avatars.githubusercontent.com/u/129705?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/steipete/gogcli",
+    "name": "steipete/gogcli",
+    "description": "Google Suite CLI: Gmail, GCal, GDrive, GContacts.  ",
+    "language": "Go",
+    "stars": "4651",
+    "forks": "365",
+    "increased": "1951 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/pelikhan",
+        "avatar": "https://avatars.githubusercontent.com/u/4175913?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dsyme",
+        "avatar": "https://avatars.githubusercontent.com/u/7204669?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mnkiefer",
+        "avatar": "https://avatars.githubusercontent.com/u/8320933?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/github/gh-aw",
+    "name": "github/gh-aw",
+    "description": "GitHub Agentic Workflows  ",
+    "language": "Go",
+    "stars": "3494",
+    "forks": "242",
+    "increased": "980 stars this week"
+  }
+]
