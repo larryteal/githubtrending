@@ -1,0 +1,340 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/burtenshaw",
+        "avatar": "https://avatars.githubusercontent.com/u/19620375?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/evalstate",
+        "avatar": "https://avatars.githubusercontent.com/u/1936278?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Madhu3456",
+        "avatar": "https://avatars.githubusercontent.com/u/108209860?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/gary149",
+        "avatar": "https://avatars.githubusercontent.com/u/3841370?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/huggingface/skills",
+    "name": "huggingface/skills",
+    "language": "Python",
+    "stars": "5326",
+    "forks": "337",
+    "increased": "oday"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/muratcankoylan",
+        "avatar": "https://avatars.githubusercontent.com/u/132029956?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/erikpr1994",
+        "avatar": "https://avatars.githubusercontent.com/u/6299331?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/stephenthedev",
+        "avatar": "https://avatars.githubusercontent.com/u/7767618?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/xue1213888",
+        "avatar": "https://avatars.githubusercontent.com/u/66778523?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering",
+    "name": "muratcankoylan/Agent-Skills-for-Context-Engineering",
+    "description": "A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management.  ",
+    "language": "Python",
+    "stars": "9903",
+    "forks": "781",
+    "increased": "722 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/jmaslek",
+        "avatar": "https://avatars.githubusercontent.com/u/18151143?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/deeleeramone",
+        "avatar": "https://avatars.githubusercontent.com/u/85772166?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/colin99d",
+        "avatar": "https://avatars.githubusercontent.com/u/72827203?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/DidierRLopes",
+        "avatar": "https://avatars.githubusercontent.com/u/25267873?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/montezdesousa",
+        "avatar": "https://avatars.githubusercontent.com/u/79287829?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/OpenBB-finance/OpenBB",
+    "name": "OpenBB-finance/OpenBB",
+    "description": "Financial data platform for analysts, quants and AI agents.  ",
+    "language": "Python",
+    "stars": "61886",
+    "forks": "6029",
+    "increased": "504 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/awesomekling",
+        "avatar": "https://avatars.githubusercontent.com/u/5954907?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/trflynn89",
+        "avatar": "https://avatars.githubusercontent.com/u/5600524?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/AtkinsSJ",
+        "avatar": "https://avatars.githubusercontent.com/u/222642?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/linusg",
+        "avatar": "https://avatars.githubusercontent.com/u/19366641?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/alimpfard",
+        "avatar": "https://avatars.githubusercontent.com/u/14001776?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/LadybirdBrowser/ladybird",
+    "name": "LadybirdBrowser/ladybird",
+    "description": "Truly independent web browser  ",
+    "language": "C++",
+    "stars": "59098",
+    "forks": "2698",
+    "increased": "236 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/x1xhlol",
+        "avatar": "https://avatars.githubusercontent.com/u/185671340?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pricisTrail",
+        "avatar": "https://avatars.githubusercontent.com/u/214582138?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/benja",
+        "avatar": "https://avatars.githubusercontent.com/u/16625915?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/paulacavero",
+        "avatar": "https://avatars.githubusercontent.com/u/147257979?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/4regab",
+        "avatar": "https://avatars.githubusercontent.com/u/178603515?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+    "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+    "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro , Leap.new, Lovable, Man us, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia &amp; v0. (And other Open Sourced) System Prompts, Internal Tools &amp; AI Models  ",
+    "stars": "123081",
+    "forks": "31730",
+    "increased": "3804 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/obra",
+        "avatar": "https://avatars.githubusercontent.com/u/45416?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/arittr",
+        "avatar": "https://avatars.githubusercontent.com/u/5742859?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/clkao",
+        "avatar": "https://avatars.githubusercontent.com/u/69736?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jjshanks",
+        "avatar": "https://avatars.githubusercontent.com/u/62661?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/obra/superpowers",
+    "name": "obra/superpowers",
+    "description": "An agentic skills framework &am p; software development methodology that works.  ",
+    "language": "Shell",
+    "stars": "60478",
+    "forks": "4613",
+    "increased": "1195 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ruvnet",
+        "avatar": "https://avatars.githubusercontent.com/u/2934394?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Wirasm",
+        "avatar": "https://avatars.githubusercontent.com/u/152263317?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/ruvnet/ruvector",
+    "name": "ruvnet/ruvector",
+    "description": "RuVector is a high performance vector and graph database built in Rust for AI, agentic systems, and real time analytics. It combines HNSW search, dynamic minimum cut coherence, graph intelligence, and self learning memory into one unified engine for scalable, low latency reasoning and structured retrieval.  ",
+    "language": "Rust",
+    "stars": "732",
+    "forks": "125",
+    "increased": "41 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/D4Vinci",
+        "avatar": "https://avatars.githubusercontent.com/u/20604835?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/marksmayo",
+        "avatar": "https://avatars.githubusercontent.com/u/14829262?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ImgBotApp",
+        "avatar": "https://avatars.githubusercontent.com/u/31427850?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/andyfcx",
+        "avatar": "https://avatars.githubusercontent.com/u/11717383?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/AbdullahY36",
+        "avatar": "https://avatars.githubusercontent.com/u/52079299?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/D4Vinci/Scrapling",
+    "name": "D4Vinci/Scrapling",
+    "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!  ",
+    "language": "Python",
+    "stars": "12631",
+    "forks": "854",
+    "increased": "1970 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/huai-chang",
+        "avatar": "https://avatars.githubusercontent.com/u/71637017?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/vinthony",
+        "avatar": "https://avatars.githubusercontent.com/u/4397546?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/MaraScott",
+        "avatar": "https://avatars.githubusercontent.com/u/482210?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/suruoxi",
+        "avatar": "https://avatars.githubusercontent.com/u/7591860?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/GVCLab/PersonaLive",
+    "name": "GVCLab/PersonaLive",
+    "description": "[CVPR 2026] Perso naLive! : Expressive Por trait Image Animation for Live Streaming  ",
+    "language": "Python",
+    "stars": "1977",
+    "forks": "290",
+    "increased": "73 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/HunxByts",
+        "avatar": "https://avatars.githubusercontent.com/u/130666567?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bakaemon",
+        "avatar": "https://avatars.githubusercontent.com/u/69375806?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/HunxByts/GhostTrack",
+    "name": "HunxByts/GhostTrack",
+    "description": "Useful tool to track location or mobile number  ",
+    "language": "Python",
+    "stars": "7457",
+    "forks": "985",
+    "increased": "145 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/rejojer",
+        "avatar": "https://avatars.githubusercontent.com/u/8255061?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/zmtomorrow",
+        "avatar": "https://avatars.githubusercontent.com/u/13518252?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/clarenceluo78",
+        "avatar": "https://avatars.githubusercontent.com/u/71917860?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/VectifyAI/PageIndex",
+    "name": "VectifyAI/PageIndex",
+    "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG  ",
+    "language": "Python",
+    "stars": "17249",
+    "forks": "1228",
+    "increased": "714 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/bradymiller",
+        "avatar": "https://avatars.githubusercontent.com/u/278968?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sjpadgett",
+        "avatar": "https://avatars.githubusercontent.com/u/1859985?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/stephenwaite",
+        "avatar": "https://avatars.githubusercontent.com/u/5618372?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kojiromike",
+        "avatar": "https://avatars.githubusercontent.com/u/1566303?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/adunsulag",
+        "avatar": "https://avatars.githubusercontent.com/u/228117?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/openemr/openemr",
+    "name": "openemr/openemr",
+    "description": "The most popular open source electronic health records and medical practice management solution.  ",
+    "language": "PHP",
+    "stars": "4848",
+    "forks": "2755",
+    "increased": "13 stars today"
+  }
+]
