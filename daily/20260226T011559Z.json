@@ -1,0 +1,468 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/D4Vinci",
+        "avatar": "https://avatars.githubusercontent.com/u/20604835?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/marksmayo",
+        "avatar": "https://avatars.githubusercontent.com/u/14829262?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ImgBotApp",
+        "avatar": "https://avatars.githubusercontent.com/u/31427850?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/andyfcx",
+        "avatar": "https://avatars.githubusercontent.com/u/11717383?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/AbdullahY36",
+        "avatar": "https://avatars.githubusercontent.com/u/52079299?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/D4Vinci/Scrapling",
+    "name": "D4Vinci/Scrapling",
+    "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!  ",
+    "language": "Python",
+    "stars": "15064",
+    "forks": "988",
+    "increased": "1656 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/burtenshaw",
+        "avatar": "https://avatars.githubusercontent.com/u/19620375?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/evalstate",
+        "avatar": "https://avatars.githubusercontent.com/u/1936278?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/abidlabs",
+        "avatar": "https://avatars.githubusercontent.com/u/1778297?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Madhu3456",
+        "avatar": "https://avatars.githubusercontent.com/u/108209860?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cursoragent",
+        "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/huggingface/skills",
+    "name": "huggingface/skills",
+    "language": "Python",
+    "stars": "6394",
+    "forks": "382",
+    "increased": "1538 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/abhigyanpatwari",
+        "avatar": "https://avatars.githubusercontent.com/u/126312502?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/paulrobello",
+        "avatar": "https://avatars.githubusercontent.com/u/955011?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cursoragent",
+        "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/abhigyanpatwari/GitNexus",
+    "name": "abhigyanpatwari/GitNexus",
+    "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration  ",
+    "language": "TypeScript",
+    "stars": "3716",
+    "forks": "309",
+    "increased": "894 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/obra",
+        "avatar": "https://avatars.githubusercontent.com/u/45416?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/arittr",
+        "avatar": "https://avatars.githubusercontent.com/u/5742859?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/clkao",
+        "avatar": "https://avatars.githubusercontent.com/u/69736?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jjshanks",
+        "avatar": "https://avatars.githubusercontent.com/u/62661?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/obra/superpowers",
+    "name": "obra/superpowers",
+    "description": "An agentic skills framework &amp; software development methodology that works.  ",
+    "language": "Shell",
+    "stars": "61842",
+    "forks": "4726",
+    "increased": "1250 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/muratcankoylan",
+        "avatar": "https://avatars.githubusercontent.com/u/132029956?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/erikpr1994",
+        "avatar": "https://avatars.githubusercontent.com/u/6299331?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/stephenthedev",
+        "avatar": "https://avatars.githubusercontent.com/u/7767618?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/xue1213888",
+        "avatar": "https://avatars.githubusercontent.com/u/66778523?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering",
+    "name": "muratcankoylan/Agent-Skills-for-Context-Engineering",
+    "description": "A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management.  ",
+    "language": "Python",
+    "stars": "10725",
+    "forks": "836",
+    "increased": "1042 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/jjyaoao",
+        "avatar": "https://avatars.githubusercontent.com/u/88936287?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/HeteroCat",
+        "avatar": "https://avatars.githubusercontent.com/u/111065724?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/fengju0213",
+        "avatar": "https://avatars.githubusercontent.com/u/168447269?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Tasselszcx",
+        "avatar": "https://avatars.githubusercontent.com/u/93756983?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Tsumugii24",
+        "avatar": "https://avatars.githubusercontent.com/u/124921491?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/datawhalechina/hello-agents",
+    "name": "datawhalechina/hello-agents",
+    "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程  ",
+    "language": "Python",
+    "stars": "21956",
+    "forks": "2528",
+    "increased": "222 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/MagicCube",
+        "avatar": "https://avatars.githubusercontent.com/u/1003147?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/hetaoBackend",
+        "avatar": "https://avatars.githubusercontent.com/u/45447813?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/henry-byted",
+        "avatar": "https://avatars.githubusercontent.com/u/209858577?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/WillemJiang",
+        "avatar": "https://avatars.githubusercontent.com/u/219644?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/bytedance/deer-flow",
+    "name": "bytedance/deer-flow",
+    "description": "An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handles different levels of tasks that could take minutes to hours.  ",
+    "language": "TypeScript",
+    "stars": "20453",
+    "forks": "2558",
+    "increased": "59 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/rejojer",
+        "avatar": "https://avatars.githubusercontent.com/u/8255061?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/zmtomorrow",
+        "avatar": "https://avatars.githubusercontent.com/u/13518252?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/clarenceluo78",
+        "avatar": "https://avatars.githubusercontent.com/u/71917860?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/VectifyAI/PageIndex",
+    "name": "VectifyAI/PageIndex",
+    "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG  ",
+    "language": "Python",
+    "stars": "17713",
+    "forks": "1261",
+    "increased": "378 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/sairin1202",
+        "avatar": "https://avatars.githubusercontent.com/u/5654879?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/evan-ak",
+        "avatar": "https://avatars.githubusercontent.com/u/33013709?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ankaisen",
+        "avatar": "https://avatars.githubusercontent.com/u/51148505?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Koimiao-zz",
+        "avatar": "https://avatars.githubusercontent.com/u/224523934?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/NevaMind-AI/memU",
+    "name": "NevaMind-AI/memU",
+    "description": "Memory for 24/7 proactive agents like openclaw (moltbot, clawdbot).  ",
+    "language": "Python",
+    "stars": "10801",
+    "forks": "791",
+    "increased": "187 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ruvnet",
+        "avatar": "https://avatars.githubusercontent.com/u/2934394?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Wirasm",
+        "avatar": "https://avatars.githubusercontent.com/u/152263317?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/ruvnet/ruvector",
+    "name": "ruvnet/ruvector",
+    "description": "RuVector is a High Performance, Real-Time, Self-Learning, Vector Graph Neural Network, and Database built in Rust.  ",
+    "language": "Rust",
+    "stars": "1185",
+    "forks": "151",
+    "increased": "437 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ko3n1g",
+        "avatar": "https://avatars.githubusercontent.com/u/16716991?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jaredcasper",
+        "avatar": "https://avatars.githubusercontent.com/u/155158?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/lmcafee-nvidia",
+        "avatar": "https://avatars.githubusercontent.com/u/85179052?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/shanmugamr1992",
+        "avatar": "https://avatars.githubusercontent.com/u/111910568?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/shoeybi",
+        "avatar": "https://avatars.githubusercontent.com/u/1205686?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/NVIDIA/Megatron-LM",
+    "name": "NVIDIA/Megatron-LM",
+    "description": "Ongoing research training transformer models at scale  ",
+    "language": "Python",
+    "stars": "15350",
+    "forks": "3628",
+    "increased": "10 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/CrazyBoyM",
+        "avatar": "https://avatars.githubusercontent.com/u/35400185?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bansalkanav",
+        "avatar": "https://avatars.githubusercontent.com/u/13186335?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Octane0411",
+        "avatar": "https://avatars.githubusercontent.com/u/88922959?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/synix",
+        "avatar": "https://avatars.githubusercontent.com/u/3198234?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/shareAI-lab/learn-claude-code",
+    "name": "shareAI-lab/learn-claude-code",
+    "description": "Bash is all you need - A nano Claude Code–like agent, built from 0 to 1  ",
+    "language": "TypeScript",
+    "stars": "17973",
+    "forks": "3770",
+    "increased": "175 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/x1xhlol",
+        "avatar": "https://avatars.githubusercontent.com/u/185671340?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pricisTrail",
+        "avatar": "https://avatars.githubusercontent.com/u/214582138?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/benja",
+        "avatar": "https://avatars.githubusercontent.com/u/16625915?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/paulacavero",
+        "avatar": "https://avatars.githubusercontent.com/u/147257979?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/4regab",
+        "avatar": "https://avatars.githubusercontent.com/u/178603515?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+    "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+    "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Pok e, Qoder, Replit, Same.d ev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia &amp; v0. (And other Open Sourced) System Prompts, Internal Tools &amp; AI Models  ",
+    "stars": "124134",
+    "forks": "31945",
+    "increased": "1241 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/adilhafeez",
+        "avatar": "https://avatars.githubusercontent.com/u/13196462?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/salmanap",
+        "avatar": "https://avatars.githubusercontent.com/u/327050?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/junr03",
+        "avatar": "https://avatars.githubusercontent.com/u/6007532?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cotran2",
+        "avatar": "https://avatars.githubusercontent.com/u/18072023?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/aayushwhiz",
+        "avatar": "https://avatars.githubusercontent.com/u/82300923?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/katanemo/plano",
+    "name": "katanemo/plano",
+    "description": "Delivery infrastructure for agentic apps - Plano is an AI-native proxy and data plane that offloads plumbing work, so you stay focused on your agent's core logic (via any AI framework).  ",
+    "language": "Rust",
+    "stars": "5569",
+    "forks": "330",
+    "increased": "205 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/liyupi",
+        "avatar": "https://avatars.githubusercontent.com/u/26037703?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/chaseFunny",
+        "avatar": "https://avatars.githubusercontent.com/u/75657636?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cq2021-coder",
+        "avatar": "https://avatars.githubusercontent.com/u/87939797?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/gulihua10010",
+        "avatar": "https://avatars.githubusercontent.com/u/38686919?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/liyupi/ai-guide",
+    "name": "liyupi/ai-guide",
+    "description": "程序员鱼皮的 AI 资源大全 + Vibe Coding 零基础教程，分享大模型选择指南（DeepSeek / GPT / Gemini / Claude）、最新 AI 资讯、Prompt 提示词大全、AI 知识百科（RAG / MCP / A2A）、AI 编程教程、AI 工具用法（Cursor / Claude Code / OpenClaw / TRAE / Lovable / Agent Skills）、AI 开发框架教程（Spring AI / LangChain）、AI 产品变现指南，帮你快速掌握 AI 技术，走在时代前沿。本项目为开源文档版本，已升级为鱼皮 AI 导航网站  ",
+    "language": "JavaScript",
+    "stars": "7694",
+    "forks": "826",
+    "increased": "182 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/viper151",
+        "avatar": "https://avatars.githubusercontent.com/u/7479045?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/blackmammoth",
+        "avatar": "https://avatars.githubusercontent.com/u/118998054?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/EricBlanquer",
+        "avatar": "https://avatars.githubusercontent.com/u/1058958?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/unsystemizer",
+        "avatar": "https://avatars.githubusercontent.com/u/13134193?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/siteboon/claudecodeui",
+    "name": "siteboon/claudecodeui",
+    "description": "Use Claude Code, Cursor CLI or Codex on mobile and web with CloudCLI (aka Claude Code UI). CloudCLI is a free open source webui/GUI that helps you manage your Claude Code session and projects remotely  ",
+    "language": "TypeScript",
+    "stars": "7010",
+    "forks": "882",
+    "increased": "73 stars today"
+  }
+]
