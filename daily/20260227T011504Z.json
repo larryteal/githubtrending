@@ -1,0 +1,303 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/bfops",
+        "avatar": "https://avatars.githubusercontent.com/u/196249?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Centril",
+        "avatar": "https://avatars.githubusercontent.com/u/855702?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/gefjon",
+        "avatar": "https://avatars.githubusercontent.com/u/10927791?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/joshua-spacetime",
+        "avatar": "https://avatars.githubusercontent.com/u/141075564?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cloutiertyler",
+        "avatar": "https://avatars.githubusercontent.com/u/6432361?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/clockworklabs/SpacetimeDB",
+    "name": "clockworklabs/SpacetimeDB",
+    "description": "Development at the speed of light  ",
+    "language": "Rust",
+    "stars": "20876",
+    "forks": "751",
+    "increased": "441 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/obra",
+        "avatar": "https://avatars.githubusercontent.com/u/45416?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/arittr",
+        "avatar": "https://avatars.githubusercontent.com/u/5742859?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/clkao",
+        "avatar": "https://avatars.githubusercontent.com/u/69736?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jjshanks",
+        "avatar": "https://avatars.githubusercontent.com/u/62661?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/obra/superpowers",
+    "name": "obra/superpowers",
+    "description": "An agentic skills framework &amp; software development methodology that works.  ",
+    "language": "Shell",
+    "stars": "63373",
+    "forks": "4842",
+    "increased": "1532 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/muratcankoylan",
+        "avatar": "https://avatars.githubusercontent.com/u/132029956?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/erikpr1994",
+        "avatar": "https://avatars.githubusercontent.com/u/6299331?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/stephenthedev",
+        "avatar": "https://avatars.githubusercontent.com/u/7767618?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/xue1213888",
+        "avatar": "https://avatars.githubusercontent.com/u/66778523?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering",
+    "name": "muratcankoylan/Agent-Skills-for-Context-Engineering",
+    "description": "A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management.  ",
+    "language": "Python",
+    "stars": "11732",
+    "forks": "908",
+    "increased": "922 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/MagicCube",
+        "avatar": "https://avatars.githubusercontent.com/u/1003147?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/hetaoBackend",
+        "avatar": "https://avatars.githubusercontent.com/u/45447813?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/henry-byted",
+        "avatar": "https://avatars.githubusercontent.com/u/209858577?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/WillemJiang",
+        "avatar": "https://avatars.githubusercontent.com/u/219644?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/bytedance/deer-flow",
+    "name": "bytedance/deer-flow",
+    "description": "An open-source SuperAgent harness that re searches, codes, and cre ates. With the help of sandboxes, memories, tools, skills and subagents, it handles different levels of tasks that could take minutes to hours.  ",
+    "language": "TypeScript",
+    "stars": "21113",
+    "forks": "2602",
+    "increased": "617 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/burtenshaw",
+        "avatar": "https://avatars.githubusercontent.com/u/19620375?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/evalstate",
+        "avatar": "https://avatars.githubusercontent.com/u/1936278?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/abidlabs",
+        "avatar": "https://avatars.githubusercontent.com/u/1778297?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Madhu3456",
+        "avatar": "https://avatars.githubusercontent.com/u/108209860?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cursoragent",
+        "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/huggingface/skills",
+    "name": "huggingface/skills",
+    "language": "Python",
+    "stars": "6982",
+    "forks": "406",
+    "increased": "715 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/farion1231",
+        "avatar": "https://avatars.githubusercontent.com/u/44939412?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/yovinchen",
+        "avatar": "https://avatars.githubusercontent.com/u/76760071?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/TinsFox",
+        "avatar": "https://avatars.githubusercontent.com/u/33956589?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tianrking",
+        "avatar": "https://avatars.githubusercontent.com/u/10758833?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/farion1231/cc-switch",
+    "name": "farion1231/cc-switch",
+    "description": "A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode &amp; Gemini CLI.  ",
+    "language": "Rust",
+    "stars": "20669",
+    "forks": "1281",
+    "increased": "418 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/D4Vinci",
+        "avatar": "https://avatars.githubusercontent.com/u/20604835?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/marksmayo",
+        "avatar": "https://avatars.githubusercontent.com/u/14829262?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ImgBotApp",
+        "avatar": "https://avatars.githubusercontent.com/u/31427850?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/andyfcx",
+        "avatar": "https://avatars.githubusercontent.com/u/11717383?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/AbdullahY36",
+        "avatar": "https://avatars.githubusercontent.com/u/52079299?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/D4Vinci/Scrapling",
+    "name": "D4Vinci/Scrapling",
+    "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!  ",
+    "language": "Python",
+    "stars": "16853",
+    "forks": "1109",
+    "increased": "2902 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ruvnet",
+        "avatar": "https://avatars.githubusercontent.com/u/2934394?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/alexx-ftw",
+        "avatar": "https://avatars.githubusercontent.com/u/22500633?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/lanemc",
+        "avatar": "https://avatars.githubusercontent.com/u/15803865?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tommy-ca",
+        "avatar": "https://avatars.githubusercontent.com/u/140900186?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/ruvnet/claude-flow",
+    "name": "ruvnet/claude-flow",
+    "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration  ",
+    "language": "TypeScript",
+    "stars": "14969",
+    "forks": "1742",
+    "increased": "215 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ruvnet",
+        "avatar": "https://avatars.githubusercontent.com/u/2934394?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Wirasm",
+        "avatar": "https://avatars.githubusercontent.com/u/152263317?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/ruvnet/ruvector",
+    "name": "ruvnet/ruvector",
+    "description": "RuVector is a High Performance, Real-Time, Self-Learning, Vector Graph Neural Network, and Database built in Rust.  ",
+    "language": "Rust",
+    "stars": "1596",
+    "forks": "177",
+    "increased": "436 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/evmaki",
+        "avatar": "https://avatars.githubusercontent.com/u/15764776?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/keveman",
+        "avatar": "https://avatars.githubusercontent.com/u/229914?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/petewarden",
+        "avatar": "https://avatars.githubusercontent.com/u/161459?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/andimarafioti",
+        "avatar": "https://avatars.githubusercontent.com/u/9143109?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/guynich",
+        "avatar": "https://avatars.githubusercontent.com/u/35084975?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/moonshine-ai/moonshine",
+    "name": "moonshine-ai/moonshine",
+    "description": "Fast and accurate automatic speech recognition (ASR) for edge devices  ",
+    "language": "C",
+    "stars": "5263",
+    "forks": "249",
+    "increased": "245 stars today"
+  }
+]
