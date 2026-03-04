@@ -1,0 +1,507 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/steipete",
+        "avatar": "https://avatars.githubusercontent.com/u/58493?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/vignesh07",
+        "avatar": "https://avatars.githubusercontent.com/u/1436853?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/obviyus",
+        "avatar": "https://avatars.githubusercontent.com/u/22031114?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/thewilloftheshadow",
+        "avatar": "https://avatars.githubusercontent.com/u/35580099?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/openclaw/openclaw",
+    "name": "openclaw/openclaw",
+    "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  ",
+    "language": "TypeScript",
+    "stars": "254221",
+    "forks": "48853",
+    "increased": "99675 stars this month"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ajmallesh",
+        "avatar": "https://avatars.githubusercontent.com/u/178829317?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ezl-keygraph",
+        "avatar": "https://avatars.githubusercontent.com/u/252853768?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/keygraphVarun",
+        "avatar": "https://avatars.githubusercontent.com/u/182007681?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Khaushik-keygraph",
+        "avatar": "https://avatars.githubusercontent.com/u/197124057?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/KeygraphHQ/shannon",
+    "name": "KeygraphHQ/shannon",
+    "description": "Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.  ",
+    "language": "TypeScript",
+    "stars": "27908",
+    "forks": "2855",
+    "increased": "22627 stars this month"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/badlogic",
+        "avatar": "https://avatars.githubusercontent.com/u/514052?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/hjanuschka",
+        "avatar": "https://avatars.githubusercontent.com/u/2891702?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/markusylisiurunen",
+        "avatar": "https://avatars.githubusercontent.com/u/8409947?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/aliou",
+        "avatar": "https://avatars.githubusercontent.com/u/980367?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/badlogic/pi-mono",
+    "name": "badlogic/pi-mono",
+    "description": "AI agent toolkit: coding agent CLI, unifi ed LLM API, TUI &amp; we b UI libraries, Slack bot, vLLM pods  ",
+    "language": "TypeScript",
+    "stars": "19426",
+    "forks": "2025",
+    "increased": "13431 stars this month"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ruvnet",
+        "avatar": "https://avatars.githubusercontent.com/u/2934394?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/fr4iser90",
+        "avatar": "https://avatars.githubusercontent.com/u/123288736?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/MaTriXy",
+        "avatar": "https://avatars.githubusercontent.com/u/3080139?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/TropicalDog17",
+        "avatar": "https://avatars.githubusercontent.com/u/79791913?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/ruvnet/RuView",
+    "name": "ruvnet/RuView",
+    "description": "π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.  ",
+    "language": "Rust",
+    "stars": "25327",
+    "forks": "3129",
+    "increased": "18864 stars this month"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Jeffallan",
+        "avatar": "https://avatars.githubusercontent.com/u/23423962?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/liyin2015",
+        "avatar": "https://avatars.githubusercontent.com/u/14322677?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/salmanmkc",
+        "avatar": "https://avatars.githubusercontent.com/u/32169182?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/thomassamoul",
+        "avatar": "https://avatars.githubusercontent.com/u/50757446?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Jeffallan/claude-skills",
+    "name": "Jeffallan/claude-skills",
+    "description": "66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.  ",
+    "language": "Python",
+    "stars": "4389",
+    "forks": "262",
+    "increased": "4092 stars this month"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/pelikhan",
+        "avatar": "https://avatars.githubusercontent.com/u/4175913?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dsyme",
+        "avatar": "https://avatars.githubusercontent.com/u/7204669?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mnkiefer",
+        "avatar": "https://avatars.githubusercontent.com/u/8320933?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/github/gh-aw",
+    "name": "github/gh-aw",
+    "description": "GitHub Agentic Workflows  ",
+    "language": "Go",
+    "stars": "3734",
+    "forks": "272",
+    "increased": "3394 stars this month"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/gverma-openai",
+        "avatar": "https://avatars.githubusercontent.com/u/235382312?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dkundel-openai",
+        "avatar": "https://avatars.githubusercontent.com/u/200841172?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/vb-openai",
+        "avatar": "https://avatars.githubusercontent.com/u/250380837?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ae-openai",
+        "avatar": "https://avatars.githubusercontent.com/u/173195103?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/edward-bayes",
+        "avatar": "https://avatars.githubusercontent.com/u/191618473?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/openai/skills",
+    "name": "openai/skills",
+    "description": "Skills Catalog for Codex  ",
+    "language": "Python",
+    "stars": "10581",
+    "forks": "592",
+    "increased": "7950 stars this month"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/burtenshaw",
+        "avatar": "https://avatars.githubusercontent.com/u/19620375?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/evalstate",
+        "avatar": "https://avatars.githubusercontent.com/u/1936278?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/abidlabs",
+        "avatar": "https://avatars.githubusercontent.com/u/1778297?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cursoragent",
+        "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/irangareddy",
+        "avatar": "https://avatars.githubusercontent.com/u/60821111?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/huggingface/skills",
+    "name": "huggingface/skills",
+    "language": "Python",
+    "stars": "8029",
+    "forks": "478",
+    "increased": "6885 stars this month"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/obra",
+        "avatar": "https://avatars.githubusercontent.com/u/45416?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/arittr",
+        "avatar": "https://avatars.githubusercontent.com/u/5742859?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/clkao",
+        "avatar": "https://avatars.githubusercontent.com/u/69736?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jjshanks",
+        "avatar": "https://avatars.githubusercontent.com/u/62661?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/obra/superpowers",
+    "name": "obra/superpowers",
+    "description": "An agentic skills framework &amp; software development methodology that works.  ",
+    "language": "Shell",
+    "stars": "69318",
+    "forks": "5326",
+    "increased": "26060 stars this month"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/MagicCube",
+        "avatar": "https://avatars.githubusercontent.com/u/1003147?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/WillemJiang",
+        "avatar": "https://avatars.githubusercontent.com/u/219644?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/hetaoBackend",
+        "avatar": "https://avatars.githubusercontent.com/u/45447813?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/henry-byted",
+        "avatar": "https://avatars.githubusercontent.com/u/209858577?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/bytedance/deer-flow",
+    "name": "bytedance/deer-flow",
+    "description": "An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handles different levels of tasks that could take minutes to hours.  ",
+    "language": "Python",
+    "stars": "24046",
+    "forks": "2852",
+    "increased": "4299 stars this month"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/steipete",
+        "avatar": "https://avatars.githubusercontent.com/u/58493?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/salmonumbrella",
+        "avatar": "https://avatars.githubusercontent.com/u/182032677?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jeanregisser",
+        "avatar": "https://avatars.githubusercontent.com/u/57791?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/antons",
+        "avatar": "https://avatars.githubusercontent.com/u/129705?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/steipete/gogcli",
+    "name": "steipete/gogcli",
+    "description": "Google Suite CLI: Gmail, GCal, GDrive, GContacts.  ",
+    "language": "Go",
+    "stars": "5395",
+    "forks": "415",
+    "increased": "4044 stars this month"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/tobi",
+        "avatar": "https://avatars.githubusercontent.com/u/347?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/burke",
+        "avatar": "https://avatars.githubusercontent.com/u/1284?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mbrendan",
+        "avatar": "https://avatars.githubusercontent.com/u/25271154?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/vincentkoc",
+        "avatar": "https://avatars.githubusercontent.com/u/25068?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/tobi/qmd",
+    "name": "tobi/qmd",
+    "description": "mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local  ",
+    "language": "TypeScript",
+    "stars": "12145",
+    "forks": "666",
+    "increased": "6019 stars this month"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/thedotmack",
+        "avatar": "https://avatars.githubusercontent.com/u/683968?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rodboev",
+        "avatar": "https://avatars.githubusercontent.com/u/106971?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/thedotmack/claude-mem",
+    "name": "thedotmack/claude-mem",
+    "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.  ",
+    "language": "TypeScript",
+    "stars": "32670",
+    "forks": "2219",
+    "increased": "13931 stars this month"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/bfops",
+        "avatar": "https://avatars.githubusercontent.com/u/196249?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Centril",
+        "avatar": "https://avatars.githubusercontent.com/u/855702?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/gefjon",
+        "avatar": "https://avatars.githubusercontent.com/u/10927791?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/joshua-spacetime",
+        "avatar": "https://avatars.githubusercontent.com/u/141075564?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cloutiertyler",
+        "avatar": "https://avatars.githubusercontent.com/u/6432361?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/clockworklabs/SpacetimeDB",
+    "name": "clockworklabs/SpacetimeDB",
+    "description": "Development at the speed of light  ",
+    "language": "Rust",
+    "stars": "22118",
+    "forks": "817",
+    "increased": "3129 stars this month"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/steipete",
+        "avatar": "https://avatars.githubusercontent.com/u/58493?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/thewilloftheshadow",
+        "avatar": "https://avatars.githubusercontent.com/u/35580099?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/theonejvo",
+        "avatar": "https://avatars.githubusercontent.com/u/125909656?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tanujbhaud",
+        "avatar": "https://avatars.githubusercontent.com/u/128238320?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/openclaw/clawhub",
+    "name": "openclaw/clawhub",
+    "description": "Skill Directory for OpenClaw  ",
+    "language": "TypeScript",
+    "stars": "3786",
+    "forks": "706",
+    "increased": "2621 stars this month"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/x1xhlol",
+        "avatar": "https://avatars.githubusercontent.com/u/185671340?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pricisTrail",
+        "avatar": "https://avatars.githubusercontent.com/u/214582138?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/benja",
+        "avatar": "https://avatars.githubusercontent.com/u/16625915?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/paulacavero",
+        "avatar": "https://avatars.githubusercontent.com/u/147257979?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/4regab",
+        "avatar": "https://avatars.githubusercontent.com/u/178603515?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+    "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+    "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Ma nus, NotionAI, Orchids.a pp, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia &amp; v0. (And other Open Sourced) System Prompts, Internal Tools &amp; AI Models  ",
+    "stars": "127613",
+    "forks": "32593",
+    "increased": "15072 stars this month"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/glittercowboy",
+        "avatar": "https://avatars.githubusercontent.com/u/186001655?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Tibsfox",
+        "avatar": "https://avatars.githubusercontent.com/u/537551?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Solvely-Colin",
+        "avatar": "https://avatars.githubusercontent.com/u/211764741?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jjshanks",
+        "avatar": "https://avatars.githubusercontent.com/u/62661?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/gsd-build/get-shit-done",
+    "name": "gsd-build/get-shit-done",
+    "description": "A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.  ",
+    "language": "JavaScript",
+    "stars": "23977",
+    "forks": "2060",
+    "increased": "12833 stars this month"
+  }
+]
