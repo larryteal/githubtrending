@@ -1,0 +1,310 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/msitarzewski",
+        "avatar": "https://avatars.githubusercontent.com/u/1972242?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/athlon-misa",
+        "avatar": "https://avatars.githubusercontent.com/u/3034178?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/nexusct",
+        "avatar": "https://avatars.githubusercontent.com/u/19503275?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/hobostay",
+        "avatar": "https://avatars.githubusercontent.com/u/110803307?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/msitarzewski/agency-agents",
+    "name": "msitarzewski/agency-agents",
+    "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specia lized expert with person ality, processes, and proven deliverables.  ",
+    "stars": "7536",
+    "forks": "1180",
+    "increased": "1468 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/TheCraigHewitt",
+        "avatar": "https://avatars.githubusercontent.com/u/4099171?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/TheCraigHewitt/seomachine",
+    "name": "TheCraigHewitt/seomachine",
+    "description": "A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience.  ",
+    "language": "Python",
+    "stars": "1643",
+    "forks": "316",
+    "increased": "310 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ajmallesh",
+        "avatar": "https://avatars.githubusercontent.com/u/178829317?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ezl-keygraph",
+        "avatar": "https://avatars.githubusercontent.com/u/252853768?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/keygraphVarun",
+        "avatar": "https://avatars.githubusercontent.com/u/182007681?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Khaushik-keygraph",
+        "avatar": "https://avatars.githubusercontent.com/u/197124057?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/KeygraphHQ/shannon",
+    "name": "KeygraphHQ/shannon",
+    "description": "Shannon Lite is a fully autonomous AI pentester for web apps and APIs. 96.15% (100/104 exploits) on a hint-free, source-aware variant of the XBOW benchmark.  ",
+    "language": "TypeScript",
+    "stars": "31817",
+    "forks": "3166",
+    "increased": "2930 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/knqyf263",
+        "avatar": "https://avatars.githubusercontent.com/u/2253692?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/DmitriyLewen",
+        "avatar": "https://avatars.githubusercontent.com/u/91113035?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/nikpivkin",
+        "avatar": "https://avatars.githubusercontent.com/u/100182843?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/simar7",
+        "avatar": "https://avatars.githubusercontent.com/u/1254783?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/aquasecurity/trivy",
+    "name": "aquasecurity/trivy",
+    "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more  ",
+    "language": "Go",
+    "stars": "32887",
+    "forks": "68",
+    "increased": "298 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/nekomeowww",
+        "avatar": "https://avatars.githubusercontent.com/u/11081491?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/luoling8192",
+        "avatar": "https://avatars.githubusercontent.com/u/44741987?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/shinohara-rin",
+        "avatar": "https://avatars.githubusercontent.com/u/25588514?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/LemonNekoGH",
+        "avatar": "https://avatars.githubusercontent.com/u/17664845?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sumimakito",
+        "avatar": "https://avatars.githubusercontent.com/u/5277268?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/moeru-ai/airi",
+    "name": "moeru-ai/airi",
+    "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.  ",
+    "language": "TypeScript",
+    "stars": "27404",
+    "forks": "2588",
+    "increased": "3006 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/garrett4wade",
+        "avatar": "https://avatars.githubusercontent.com/u/36355462?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rchardx",
+        "avatar": "https://avatars.githubusercontent.com/u/1036136?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/nuzant",
+        "avatar": "https://avatars.githubusercontent.com/u/23146120?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/fishcrap",
+        "avatar": "https://avatars.githubusercontent.com/u/55312295?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/inclusionAI/AReaL",
+    "name": "inclusionAI/AReaL",
+    "description": "Lightning-Fast RL for LLM Reasoning and Agents. Made Simple &amp; Flexible.  ",
+    "language": "Python",
+    "stars": "4091",
+    "forks": "341",
+    "increased": "173 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/leestott",
+        "avatar": "https://avatars.githubusercontent.com/u/2511341?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/skytin1004",
+        "avatar": "https://avatars.githubusercontent.com/u/99078115?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/softchris",
+        "avatar": "https://avatars.githubusercontent.com/u/4598064?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/roryp",
+        "avatar": "https://avatars.githubusercontent.com/u/6388864?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/microsoft/mcp-for-beginners",
+    "name": "microsoft/mcp-for-beginners",
+    "description": "This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, Rust and Python. Designed for developers, it focuses on practical techniques for building modular, scalable, and secure AI workflows from session setup to service orchestration.  ",
+    "language": "Jupyter Notebook",
+    "stars": "14912",
+    "forks": "4865",
+    "increased": "137 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/jahooma",
+        "avatar": "https://avatars.githubusercontent.com/u/1593821?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/charleslien",
+        "avatar": "https://avatars.githubusercontent.com/u/26100741?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/brandonkachen",
+        "avatar": "https://avatars.githubusercontent.com/u/9735006?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/venkr",
+        "avatar": "https://avatars.githubusercontent.com/u/21302375?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/CodebuffAI/codebuff",
+    "name": "CodebuffAI/codebuff",
+    "description": "Generate code from the terminal!  ",
+    "language": "TypeScript",
+    "stars": "3871",
+    "forks": "455",
+    "increased": "275 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/FujiwaraChoki",
+        "avatar": "https://avatars.githubusercontent.com/u/78088687?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/supperfreddo",
+        "avatar": "https://avatars.githubusercontent.com/u/9703184?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/SaroAntonelloLovito",
+        "avatar": "https://avatars.githubusercontent.com/u/91974562?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/TomyDiNero",
+        "avatar": "https://avatars.githubusercontent.com/u/151256852?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/FujiwaraChoki/MoneyPrinterV2",
+    "name": "FujiwaraChoki/MoneyPrinterV2",
+    "description": "Automate the process of making money online.  ",
+    "language": "Python",
+    "stars": "14699",
+    "forks": "1473",
+    "increased": "511 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/jinliyl",
+        "avatar": "https://avatars.githubusercontent.com/u/6469360?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Dengjiaji",
+        "avatar": "https://avatars.githubusercontent.com/u/15075186?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/zouyingcao",
+        "avatar": "https://avatars.githubusercontent.com/u/57442064?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/nitwtog",
+        "avatar": "https://avatars.githubusercontent.com/u/57825291?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/binary-husky",
+        "avatar": "https://avatars.githubusercontent.com/u/96192199?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/agentscope-ai/ReMe",
+    "name": "agentscope-ai/ReMe",
+    "description": "ReMe: Memory Management Kit for Agents - Remember Me, Refine Me.  ",
+    "language": "Python",
+    "stars": "1822",
+    "forks": "144",
+    "increased": "194 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/WilliamBerryiii",
+        "avatar": "https://avatars.githubusercontent.com/u/4399970?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/agreaves-ms",
+        "avatar": "https://avatars.githubusercontent.com/u/111466195?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/katriendg",
+        "avatar": "https://avatars.githubusercontent.com/u/838216?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/chaosdinosaur",
+        "avatar": "https://avatars.githubusercontent.com/u/108825895?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/microsoft/hve-core",
+    "name": "microsoft/hve-core",
+    "description": "A refined collection of Hypervelocity Engineering components (instructions, prompts, agents) to start your project off right, or upgrade your existing projects to get the most out of all Copilots  ",
+    "language": "PowerShell",
+    "stars": "303",
+    "forks": "74",
+    "increased": "11 stars today"
+  }
+]
