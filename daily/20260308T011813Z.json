@@ -1,0 +1,299 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/666ghj",
+        "avatar": "https://avatars.githubusercontent.com/u/110395318?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cursoragent",
+        "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/666ghj/MiroFish",
+    "name": "666ghj/MiroFish",
+    "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物  ",
+    "language": "Python",
+    "stars": "5665",
+    "forks": "623",
+    "increased": "399 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/gverma-openai",
+        "avatar": "https://avatars.githubusercontent.com/u/235382312?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dkundel-openai",
+        "avatar": "https://avatars.githubusercontent.com/u/200841172?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/vb-openai",
+        "avatar": "https://avatars.githubusercontent.com/u/250380837?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/edward-bayes",
+        "avatar": "https://avatars.githubusercontent.com/u/191618473?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ae-openai",
+        "avatar": "https://avatars.githubusercontent.com/u/173195103?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/openai/skills",
+    "name": "openai/skills",
+    "description": "Skills Catalog for Codex  ",
+    "language": "Python",
+    "stars": "12720",
+    "forks": "707",
+    "increased": "948 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/msitarzewski",
+        "avatar": "https://avatars.githubusercontent.com/u/1972242?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jnMetaCode",
+        "avatar": "https://avatars.githubusercontent.com/u/12096460?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/benjifriedman",
+        "avatar": "https://avatars.githubusercontent.com/u/11360340?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/athlon-misa",
+        "avatar": "https://avatars.githubusercontent.com/u/3034178?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/msitarzewski/agency-agents",
+    "name": "msitarzewski/agency-agents",
+    "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.  ",
+    "language": "Shell",
+    "stars": "10779",
+    "forks": "1580",
+    "increased": "1468 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/holtskinner",
+        "avatar": "https://avatars.githubusercontent.com/u/13262395?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/gericdong",
+        "avatar": "https://avatars.githubusercontent.com/u/106993205?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/renovate-bot",
+        "avatar": "https://avatars.githubusercontent.com/u/25180681?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/inardini",
+        "avatar": "https://avatars.githubusercontent.com/u/88703814?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/GoogleCloudPlatform/generative-ai",
+    "name": "GoogleCloudPlatform/generative-ai",
+    "description": "Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI  ",
+    "language": "Jupyter Notebook",
+    "stars": "13539",
+    "forks": "3826",
+    "increased": "384 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/mikehostetler",
+        "avatar": "https://avatars.githubusercontent.com/u/84222?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ampcode-com",
+        "avatar": "https://avatars.githubusercontent.com/u/220109460?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/nshkrdotcom",
+        "avatar": "https://avatars.githubusercontent.com/u/127063941?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/agentjido/jido",
+    "name": "agentjido/jido",
+    "description": "🤖 Autonomous agent framework for Elixir. Built for distributed, autonomous behavior and dynamic workflows.  ",
+    "language": "Elixir",
+    "stars": "1424",
+    "forks": "74",
+    "increased": "115 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/tuhahaha",
+        "avatar": "https://avatars.githubusercontent.com/u/37433392?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/JianxinMa",
+        "avatar": "https://avatars.githubusercontent.com/u/7543016?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/zhangyingerjelly",
+        "avatar": "https://avatars.githubusercontent.com/u/51205980?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/zhenruzhang",
+        "avatar": "https://avatars.githubusercontent.com/u/130022573?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/gewenbin0992",
+        "avatar": "https://avatars.githubusercontent.com/u/67409248?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/QwenLM/Qwen-Agent",
+    "name": "QwenLM/Qwen-Agent",
+    "description": "Agent framework and applications built upon Qwen&gt;=3.0, featuring Function Calling, MCP, Code Interpreter, RAG, Chrome extension, etc.  ",
+    "language": "Python",
+    "stars": "15025",
+    "forks": "1439",
+    "increased": "586 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/virattt",
+        "avatar": "https://avatars.githubusercontent.com/u/901795?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/arsaboo",
+        "avatar": "https://avatars.githubusercontent.com/u/18319734?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/KittatamSaisaard",
+        "avatar": "https://avatars.githubusercontent.com/u/50354903?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jsemldonado",
+        "avatar": "https://avatars.githubusercontent.com/u/172995042?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ak4631",
+        "avatar": "https://avatars.githubusercontent.com/u/132299371?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/virattt/ai-hedge-fund",
+    "name": "virattt/ai-hedge-fund",
+    "description": "An AI Hedge Fund Team  ",
+    "language": "Python",
+    "stars": "46581",
+    "forks": "8112",
+    "increased": "248 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/WilliamBerryiii",
+        "avatar": "https://avatars.githubusercontent.com/u/4399970?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/agreaves-ms",
+        "avatar": "https://avatars.githubusercontent.com/u/111466195?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/katriendg",
+        "avatar": "https://avatars.githubusercontent.com/u/838216?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/chaosdinosaur",
+        "avatar": "https://avatars.githubusercontent.com/u/108825895?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/microsoft/hve-core",
+    "name": "microsoft/hve-core",
+    "description": "A refined collection of Hypervelocity Engineering components (instructions, prompts, agents, and skills) to start your project off right, or upgrade your existing projects to get the most out of all Copilots  ",
+    "language": "PowerShell",
+    "stars": "751",
+    "forks": "96",
+    "increased": "217 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/himself65",
+        "avatar": "https://avatars.githubusercontent.com/u/14026360?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/darkskygit",
+        "avatar": "https://avatars.githubusercontent.com/u/25152247?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pengx17",
+        "avatar": "https://avatars.githubusercontent.com/u/584378?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/JimmFly",
+        "avatar": "https://avatars.githubusercontent.com/u/102217452?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/EYHN",
+        "avatar": "https://avatars.githubusercontent.com/u/13579374?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/toeverything/AFFiNE",
+    "name": "toeverything/AFFiNE",
+    "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.  ",
+    "language": "TypeScript",
+    "stars": "64700",
+    "forks": "4529",
+    "increased": "281 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/shadcn",
+        "avatar": "https://avatars.githubusercontent.com/u/124599?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/iaingymware",
+        "avatar": "https://avatars.githubusercontent.com/u/74924033?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jaem0629",
+        "avatar": "https://avatars.githubusercontent.com/u/91131509?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/shadcn-ui/ui",
+    "name": "shadcn-ui/ui",
+    "description": "A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.  ",
+    "language": "TypeScript",
+    "stars": "108184",
+    "forks": "8043",
+    "increased": "129 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/gaomeng1900",
+        "avatar": "https://avatars.githubusercontent.com/u/10131203?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/alibaba-oss",
+        "avatar": "https://avatars.githubusercontent.com/u/13583768?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/alibaba/page-agent",
+    "name": "alibaba/page-agent",
+    "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.  ",
+    "language": "TypeScript",
+    "stars": "1378",
+    "forks": "125",
+    "increased": "137 stars today"
+  }
+]
