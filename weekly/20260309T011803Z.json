@@ -1,0 +1,381 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ruvnet",
+        "avatar": "https://avatars.githubusercontent.com/u/2934394?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/fr4iser90",
+        "avatar": "https://avatars.githubusercontent.com/u/123288736?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/MaTriXy",
+        "avatar": "https://avatars.githubusercontent.com/u/3080139?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/TropicalDog17",
+        "avatar": "https://avatars.githubusercontent.com/u/79791913?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/ruvnet/RuView",
+    "name": "ruvnet/RuView",
+    "description": "π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.  ",
+    "language": "Rust",
+    "stars": "31120",
+    "forks": "4069",
+    "increased": "15043 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/nekomeowww",
+        "avatar": "https://avatars.githubusercontent.com/u/11081491?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/luoling8192",
+        "avatar": "https://avatars.githubusercontent.com/u/44741987?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/shinohara-rin",
+        "avatar": "https://avatars.githubusercontent.com/u/25588514?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/LemonNekoGH",
+        "avatar": "https://avatars.githubusercontent.com/u/17664845?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sumimakito",
+        "avatar": "https://avatars.githubusercontent.com/u/5277268?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/moeru-ai/airi",
+    "name": "moeru-ai/airi",
+    "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.  ",
+    "language": "TypeScript",
+    "stars": "31260",
+    "forks": "3042",
+    "increased": "11456 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Pangjiping",
+        "avatar": "https://avatars.githubusercontent.com/u/62273713?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ninan-nn",
+        "avatar": "https://avatars.githubusercontent.com/u/249928781?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/hittyt",
+        "avatar": "https://avatars.githubusercontent.com/u/1870207?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Spground",
+        "avatar": "https://avatars.githubusercontent.com/u/10492823?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jwx0925",
+        "avatar": "https://avatars.githubusercontent.com/u/1539927?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/alibaba/OpenSandbox",
+    "name": "alibaba/OpenSandbox",
+    "description": "OpenSandbox is a general-purpose sandbox platform for AI applications, offering multi-language SDKs, unified sandbox APIs, and Docker/Kubernetes runtimes for scenarios like Coding Agents, GUI Agents, Agent Evaluation, AI Code Execution, and RL Training.  ",
+    "language": "Python",
+    "stars": "6941",
+    "forks": "515",
+    "increased": "3959 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/koala73",
+        "avatar": "https://avatars.githubusercontent.com/u/996596?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/SebastienMelki",
+        "avatar": "https://avatars.githubusercontent.com/u/5787993?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/NewCoder3294",
+        "avatar": "https://avatars.githubusercontent.com/u/168879994?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/danielimad",
+        "avatar": "https://avatars.githubusercontent.com/u/72716286?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/koala73/worldmonitor",
+    "name": "koala73/worldmonitor",
+    "description": "Real-time global intelligence dashboard — AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface  ",
+    "language": "TypeScript",
+    "stars": "33950",
+    "forks": "5714",
+    "increased": "14741 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/abhigyanpatwari",
+        "avatar": "https://avatars.githubusercontent.com/u/126312502?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/paulrobello",
+        "avatar": "https://avatars.githubusercontent.com/u/955011?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/magyargergo",
+        "avatar": "https://avatars.githubusercontent.com/u/11230420?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cursoragent",
+        "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/abhigyanpatwari/GitNexus",
+    "name": "abhigyanpatwari/GitNexus",
+    "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for cod e exploration  ",
+    "language": "TypeScript",
+    "stars": "11092",
+    "forks": "1340",
+    "increased": "3952 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/jahooma",
+        "avatar": "https://avatars.githubusercontent.com/u/1593821?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/charleslien",
+        "avatar": "https://avatars.githubusercontent.com/u/26100741?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/brandonkachen",
+        "avatar": "https://avatars.githubusercontent.com/u/9735006?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/venkr",
+        "avatar": "https://avatars.githubusercontent.com/u/21302375?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/CodebuffAI/codebuff",
+    "name": "CodebuffAI/codebuff",
+    "description": "Generate code from the terminal!  ",
+    "language": "TypeScript",
+    "stars": "4114",
+    "forks": "471",
+    "increased": "1169 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/CrazyBoyM",
+        "avatar": "https://avatars.githubusercontent.com/u/35400185?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bansalkanav",
+        "avatar": "https://avatars.githubusercontent.com/u/13186335?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Octane0411",
+        "avatar": "https://avatars.githubusercontent.com/u/88922959?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/synix",
+        "avatar": "https://avatars.githubusercontent.com/u/3198234?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/shareAI-lab/learn-claude-code",
+    "name": "shareAI-lab/learn-claude-code",
+    "description": "Bash is all you need - A nano Claude Code–like agent, built from 0 to 1  ",
+    "language": "TypeScript",
+    "stars": "23897",
+    "forks": "4409",
+    "increased": "3901 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/MagicCube",
+        "avatar": "https://avatars.githubusercontent.com/u/1003147?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/WillemJiang",
+        "avatar": "https://avatars.githubusercontent.com/u/219644?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/hetaoBackend",
+        "avatar": "https://avatars.githubusercontent.com/u/45447813?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/henry-byted",
+        "avatar": "https://avatars.githubusercontent.com/u/209858577?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/bytedance/deer-flow",
+    "name": "bytedance/deer-flow",
+    "description": "An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handles different levels of tasks that could take minutes to hours.  ",
+    "language": "Python",
+    "stars": "26037",
+    "forks": "3068",
+    "increased": "3150 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/teng-lin",
+        "avatar": "https://avatars.githubusercontent.com/u/737447?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/wreuon",
+        "avatar": "https://avatars.githubusercontent.com/u/223056553?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bravohenry",
+        "avatar": "https://avatars.githubusercontent.com/u/84128702?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/teng-lin/notebooklm-py",
+    "name": "teng-lin/notebooklm-py",
+    "description": "Unofficial Python API for Google NotebookLM  ",
+    "language": "Python",
+    "stars": "3741",
+    "forks": "475",
+    "increased": "1225 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/alirezarezvani",
+        "avatar": "https://avatars.githubusercontent.com/u/5697919?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/olgasafonova",
+        "avatar": "https://avatars.githubusercontent.com/u/23409189?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/fernandezbaptiste",
+        "avatar": "https://avatars.githubusercontent.com/u/83458751?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ikala-shawn",
+        "avatar": "https://avatars.githubusercontent.com/u/111341595?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/alirezarezvani/claude-skills",
+    "name": "alirezarezvani/claude-skills",
+    "description": "169 production-ready skills &amp; plugins for Claude Code, OpenAI Codex, and OpenClaw — engineering, marketing, product, compliance, C-level advisory, and more. Install via /plugin marketplace.  ",
+    "language": "Python",
+    "stars": "2802",
+    "forks": "367",
+    "increased": "639 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/maggie-vo",
+        "avatar": "https://avatars.githubusercontent.com/u/143411590?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jawhnycooke",
+        "avatar": "https://avatars.githubusercontent.com/u/11808002?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/anthropics/prompt-eng-interactive-tutorial",
+    "name": "anthropics/prompt-eng-interactive-tutorial",
+    "description": "Anthropic's Interactive Prompt Engineering Tutorial  ",
+    "language": "Jupyter Notebook",
+    "stars": "33041",
+    "forks": "3368",
+    "increased": "2303 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Kitenite",
+        "avatar": "https://avatars.githubusercontent.com/u/31864905?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/saddlepaddle",
+        "avatar": "https://avatars.githubusercontent.com/u/14907857?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/AviPeltz",
+        "avatar": "https://avatars.githubusercontent.com/u/11849162?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/andreasasprou",
+        "avatar": "https://avatars.githubusercontent.com/u/8077469?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/superset-sh/superset",
+    "name": "superset-sh/superset",
+    "description": "IDE for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine  ",
+    "language": "TypeScript",
+    "stars": "5955",
+    "forks": "372",
+    "increased": "3132 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/holtskinner",
+        "avatar": "https://avatars.githubusercontent.com/u/13262395?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/gericdong",
+        "avatar": "https://avatars.githubusercontent.com/u/106993205?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/renovate-bot",
+        "avatar": "https://avatars.githubusercontent.com/u/25180681?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/inardini",
+        "avatar": "https://avatars.githubusercontent.com/u/88703814?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/GoogleCloudPlatform/generative-ai",
+    "name": "GoogleCloudPlatform/generative-ai",
+    "description": "Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI  ",
+    "language": "Jupyter Notebook",
+    "stars": "14410",
+    "forks": "3900",
+    "increased": "1062 stars this week"
+  }
+]
