@@ -1,0 +1,330 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/holtskinner",
+        "avatar": "https://avatars.githubusercontent.com/u/13262395?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/gericdong",
+        "avatar": "https://avatars.githubusercontent.com/u/106993205?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/renovate-bot",
+        "avatar": "https://avatars.githubusercontent.com/u/25180681?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/inardini",
+        "avatar": "https://avatars.githubusercontent.com/u/88703814?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/GoogleCloudPlatform/generative-ai",
+    "name": "GoogleCloudPlatform/generative-ai",
+    "description": "Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI  ",
+    "language": "Jupyter Notebook",
+    "stars": "15282",
+    "forks": "3962",
+    "increased": "1282 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/steipete",
+        "avatar": "https://avatars.githubusercontent.com/u/58493?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/vincentkoc",
+        "avatar": "https://avatars.githubusercontent.com/u/25068?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/vignesh07",
+        "avatar": "https://avatars.githubusercontent.com/u/1436853?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/obviyus",
+        "avatar": "https://avatars.githubusercontent.com/u/22031114?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/gumadeiras",
+        "avatar": "https://avatars.githubusercontent.com/u/5599352?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/openclaw/openclaw",
+    "name": "openclaw/openclaw",
+    "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  ",
+    "language": "TypeScript",
+    "stars": "290193",
+    "forks": "55021",
+    "increased": "9164 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/666ghj",
+        "avatar": "https://avatars.githubusercontent.com/u/110395318?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cursoragent",
+        "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/666ghj/MiroFish",
+    "name": "666ghj/MiroFish",
+    "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物  ",
+    "language": "Python",
+    "stars": "10905",
+    "forks": "1133",
+    "increased": "2294 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/karpathy",
+        "avatar": "https://avatars.githubusercontent.com/u/241138?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/svlandeg",
+        "avatar": "https://avatars.githubusercontent.com/u/8796347?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/lukestanley",
+        "avatar": "https://avatars.githubusercontent.com/u/306671?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ericsilberstein",
+        "avatar": "https://avatars.githubusercontent.com/u/10590453?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/karpathy/nanochat",
+    "name": "karpathy/nanochat",
+    "description": "The best ChatGPT that $100 can buy.  ",
+    "language": "Python",
+    "stars": "45512",
+    "forks": "6020",
+    "increased": "355 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/666ghj",
+        "avatar": "https://avatars.githubusercontent.com/u/110395318?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/MaYiding",
+        "avatar": "https://avatars.githubusercontent.com/u/77890939?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ghmark675",
+        "avatar": "https://avatars.githubusercontent.com/u/188834327?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/DoiiarX",
+        "avatar": "https://avatars.githubusercontent.com/u/25550075?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Qst137",
+        "avatar": "https://avatars.githubusercontent.com/u/139198328?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/666ghj/BettaFish",
+    "name": "666ghj/BettaFish",
+    "description": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。  ",
+    "language": "Python",
+    "stars": "37344",
+    "forks": "7035",
+    "increased": "514 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/teknium1",
+        "avatar": "https://avatars.githubusercontent.com/u/127238744?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/0xbyt4",
+        "avatar": "https://avatars.githubusercontent.com/u/35742124?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rovle",
+        "avatar": "https://avatars.githubusercontent.com/u/29806640?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/hjc-puro",
+        "avatar": "https://avatars.githubusercontent.com/u/147075899?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/NousResearch/hermes-agent",
+    "name": "NousResearch/hermes-agent",
+    "description": "The agent that grows with you  ",
+    "language": "Python",
+    "stars": "2977",
+    "forks": "407",
+    "increased": "377 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/pbakaus",
+        "avatar": "https://avatars.githubusercontent.com/u/43004?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/pbakaus/impeccable",
+    "name": "pbakaus/impeccable",
+    "description": "The design language that makes your AI harness better at design.  ",
+    "language": "JavaScript",
+    "stars": "2977",
+    "forks": "109",
+    "increased": "1288 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/msitarzewski",
+        "avatar": "https://avatars.githubusercontent.com/u/1972242?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jnMetaCode",
+        "avatar": "https://avatars.githubusercontent.com/u/12096460?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/4shil",
+        "avatar": "https://avatars.githubusercontent.com/u/166588383?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/benjifriedman",
+        "avatar": "https://avatars.githubusercontent.com/u/11360340?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/msitarzewski/agency-agents",
+    "name": "msitarzewski/agency-agents",
+    "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.  ",
+    "language": "Shell",
+    "stars": "19317",
+    "forks": "3001",
+    "increased": "4415 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/gaomeng1900",
+        "avatar": "https://avatars.githubusercontent.com/u/10131203?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/alibaba-oss",
+        "avatar": "https://avatars.githubusercontent.com/u/13583768?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/alibaba/page-agent",
+    "name": "alibaba/page-agent",
+    "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.  ",
+    "language": "TypeScript",
+    "stars": "2574",
+    "forks": "202",
+    "increased": "465 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/alirezarezvani",
+        "avatar": "https://avatars.githubusercontent.com/u/5697919?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/olgasafonova",
+        "avatar": "https://avatars.githubusercontent.com/u/23409189?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/fernandezbaptiste",
+        "avatar": "https://avatars.githubusercontent.com/u/83458751?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ikala-shawn",
+        "avatar": "https://avatars.githubusercontent.com/u/111341595?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/alirezarezvani/claude-skills",
+    "name": "alirezarezvani/claude-skills",
+    "description": "169 production-ready skills &amp; plugins for Claude Code, OpenAI Codex, and OpenClaw — engineering, marketing, product, compliance, C-level advisory, and more. Install via /plugin marketplace.  ",
+    "language": "Python",
+    "stars": "3345",
+    "forks": "401",
+    "increased": "259 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Raphire",
+        "avatar": "https://avatars.githubusercontent.com/u/9938813?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/SashankBhamidi",
+        "avatar": "https://avatars.githubusercontent.com/u/66299104?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/N0tHorizon",
+        "avatar": "https://avatars.githubusercontent.com/u/100943586?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tsumi",
+        "avatar": "https://avatars.githubusercontent.com/u/1663025?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kapad",
+        "avatar": "https://avatars.githubusercontent.com/u/2017355?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Raphire/Win11Debloat",
+    "name": "Raphire/Win11Debloat",
+    "description": "A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.  ",
+    "language": "PowerShell",
+    "stars": "41214",
+    "forks": "1602",
+    "increased": "104 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/teng-lin",
+        "avatar": "https://avatars.githubusercontent.com/u/737447?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/wreuon",
+        "avatar": "https://avatars.githubusercontent.com/u/223056553?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bravohenry",
+        "avatar": "https://avatars.githubusercontent.com/u/84128702?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/teng-lin/notebooklm-py",
+    "name": "teng-lin/notebooklm-py",
+    "description": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents like Claude Code, Codex, and OpenClaw.  ",
+    "language": "Python",
+    "stars": "4240",
+    "forks": "523",
+    "increased": "457 stars today"
+  }
+]
