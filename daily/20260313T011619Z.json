@@ -1,0 +1,368 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/potassiummmm",
+        "avatar": "https://avatars.githubusercontent.com/u/54800242?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tsong-ms",
+        "avatar": "https://avatars.githubusercontent.com/u/84831885?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/younesbelkada",
+        "avatar": "https://avatars.githubusercontent.com/u/49240599?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sd983527",
+        "avatar": "https://avatars.githubusercontent.com/u/59006636?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/XsquirrelC",
+        "avatar": "https://avatars.githubusercontent.com/u/178687198?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/microsoft/BitNet",
+    "name": "microsoft/BitNet",
+    "description": "Official inference framework for 1-bit LLMs  ",
+    "language": "Python",
+    "stars": "32365",
+    "forks": "2729",
+    "increased": "2149 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/leng-yue",
+        "avatar": "https://avatars.githubusercontent.com/u/25119060?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/AnyaCoder",
+        "avatar": "https://avatars.githubusercontent.com/u/122108331?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/PoTaTo-Mika",
+        "avatar": "https://avatars.githubusercontent.com/u/148920650?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/fishaudio/fish-speech",
+    "name": "fishaudio/fish-speech",
+    "description": "SOTA Open Source TTS  ",
+    "language": "Python",
+    "stars": "26371",
+    "forks": "2216",
+    "increased": "637 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/phact",
+        "avatar": "https://avatars.githubusercontent.com/u/1313220?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/edwinjosechittilappilly",
+        "avatar": "https://avatars.githubusercontent.com/u/15969583?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mendonk",
+        "avatar": "https://avatars.githubusercontent.com/u/59585235?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/lucaseduoli",
+        "avatar": "https://avatars.githubusercontent.com/u/62335616?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/aimurphy",
+        "avatar": "https://avatars.githubusercontent.com/u/36110273?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/langflow-ai/openrag",
+    "name": "langflow-ai/openrag",
+    "description": "OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platform built on Langflow, Docling, and Opensearch.  ",
+    "language": "Python",
+    "stars": "1559",
+    "forks": "149",
+    "increased": "322 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/tonychang04",
+        "avatar": "https://avatars.githubusercontent.com/u/26497075?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Fermionic-Lyu",
+        "avatar": "https://avatars.githubusercontent.com/u/32749865?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Leo-rq-yu",
+        "avatar": "https://avatars.githubusercontent.com/u/57006508?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jwfing",
+        "avatar": "https://avatars.githubusercontent.com/u/985038?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/InsForge/InsForge",
+    "name": "InsForge/InsForge",
+    "description": "Give agents everything they need to ship fullstack apps. The backend built for agentic development.  ",
+    "language": "TypeScript",
+    "stars": "3110",
+    "forks": "315",
+    "increased": "263 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/nicoloboschi",
+        "avatar": "https://avatars.githubusercontent.com/u/23314389?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cdbartholomew",
+        "avatar": "https://avatars.githubusercontent.com/u/22917476?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/slayoffer",
+        "avatar": "https://avatars.githubusercontent.com/u/78427278?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/chrislatimer",
+        "avatar": "https://avatars.githubusercontent.com/u/831081?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/vectorize-io/hindsight",
+    "name": "vectorize-io/hindsight",
+    "description": "Hindsight: Agent Memory That Learns  ",
+    "language": "Python",
+    "stars": "82",
+    "forks": "225",
+    "increased": "217 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/gaomeng1900",
+        "avatar": "https://avatars.githubusercontent.com/u/10131203?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/JasonOA888",
+        "avatar": "https://avatars.githubusercontent.com/u/101583541?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/alibaba/page-agent",
+    "name": "alibaba/page-agent",
+    "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.  ",
+    "language": "TypeScript",
+    "stars": "5996",
+    "forks": "464",
+    "increased": "1205 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/obra",
+        "avatar": "https://avatars.githubusercontent.com/u/45416?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/arittr",
+        "avatar": "https://avatars.githubusercontent.com/u/5742859?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/clkao",
+        "avatar": "https://avatars.githubusercontent.com/u/69736?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jjshanks",
+        "avatar": "https://avatars.githubusercontent.com/u/62661?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/obra/superpowers",
+    "name": "obra/superpowers",
+    "description": "An agentic skills framework &amp; software development methodology that works.  ",
+    "language": "Shell",
+    "stars": "79956",
+    "forks": "6185",
+    "increased": "1706 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/teknium1",
+        "avatar": "https://avatars.githubusercontent.com/u/127238744?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/0xbyt4",
+        "avatar": "https://avatars.githubusercontent.com/u/35742124?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dmahan93",
+        "avatar": "https://avatars.githubusercontent.com/u/44207705?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rovle",
+        "avatar": "https://avatars.githubusercontent.com/u/29806640?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/NousResearch/hermes-agent",
+    "name": "NousResearch/hermes-agent",
+    "description": "The agent that grows with you  ",
+    "language": "Python",
+    "stars": "6173",
+    "forks": "701",
+    "increased": "1264 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/666ghj",
+        "avatar": "https://avatars.githubusercontent.com/u/110395318?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cursoragent",
+        "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/666ghj/MiroFish",
+    "name": "666ghj/MiroFish",
+    "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物  ",
+    "language": "Python",
+    "stars": "19211",
+    "forks": "2042",
+    "increased": "1857 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ai-edge-bot",
+        "avatar": "https://avatars.githubusercontent.com/u/154857592?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/LukeBoyer",
+        "avatar": "https://avatars.githubusercontent.com/u/46931380?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/terryheo",
+        "avatar": "https://avatars.githubusercontent.com/u/2908505?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/qukhan",
+        "avatar": "https://avatars.githubusercontent.com/u/13188547?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/YunanAZ",
+        "avatar": "https://avatars.githubusercontent.com/u/44684846?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/google-ai-edge/LiteRT",
+    "name": "google-ai-edge/LiteRT",
+    "description": "LiteRT, successor to TensorFlow Lite. is Google's On-device framework for high-performance ML &amp; GenAI deployment on edge platforms, via efficient conversion, runtime, and optimization  ",
+    "language": "C++",
+    "stars": "1670",
+    "forks": "212",
+    "increased": "13 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/msitarzewski",
+        "avatar": "https://avatars.githubusercontent.com/u/1972242?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jnMetaCode",
+        "avatar": "https://avatars.githubusercontent.com/u/12096460?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/4shil",
+        "avatar": "https://avatars.githubusercontent.com/u/166588383?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/victorkzam",
+        "avatar": "https://avatars.githubusercontent.com/u/11318394?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/msitarzewski/agency-agents",
+    "name": "msitarzewski/agency-agents",
+    "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.  ",
+    "language": "Shell",
+    "stars": "34995",
+    "forks": "5343",
+    "increased": "4168 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/jacobsimionato",
+        "avatar": "https://avatars.githubusercontent.com/u/6869388?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/gspencergoog",
+        "avatar": "https://avatars.githubusercontent.com/u/8867023?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/paullewis",
+        "avatar": "https://avatars.githubusercontent.com/u/617438?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/wrenj",
+        "avatar": "https://avatars.githubusercontent.com/u/20953688?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/google/A2UI",
+    "name": "google/A2UI",
+    "language": "TypeScript",
+    "stars": "12610",
+    "forks": "953",
+    "increased": "225 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/noahzweben",
+        "avatar": "https://avatars.githubusercontent.com/u/12701358?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ThariqS",
+        "avatar": "https://avatars.githubusercontent.com/u/140827?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dicksontsai",
+        "avatar": "https://avatars.githubusercontent.com/u/3757768?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dhollman",
+        "avatar": "https://avatars.githubusercontent.com/u/100382?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/anthropics/claude-plugins-official",
+    "name": "anthropics/claude-plugins-official",
+    "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.  ",
+    "language": "Python",
+    "stars": "10272",
+    "forks": "1037",
+    "increased": "150 stars today"
+  }
+]
