@@ -1,0 +1,400 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/666ghj",
+        "avatar": "https://avatars.githubusercontent.com/u/110395318?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cursoragent",
+        "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/666ghj/MiroFish",
+    "name": "666ghj/MiroFish",
+    "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物  ",
+    "language": "Python",
+    "stars": "24208",
+    "forks": "2758",
+    "increased": "17623 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/msitarzewski",
+        "avatar": "https://avatars.githubusercontent.com/u/1972242?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jnMetaCode",
+        "avatar": "https://avatars.githubusercontent.com/u/12096460?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/4shil",
+        "avatar": "https://avatars.githubusercontent.com/u/166588383?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/victorkzam",
+        "avatar": "https://avatars.githubusercontent.com/u/11318394?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/msitarzewski/agency-agents",
+    "name": "msitarzewski/agency-agents",
+    "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.  ",
+    "language": "Shell",
+    "stars": "43824",
+    "forks": "6557",
+    "increased": "31758 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/potassiummmm",
+        "avatar": "https://avatars.githubusercontent.com/u/54800242?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tsong-ms",
+        "avatar": "https://avatars.githubusercontent.com/u/84831885?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/younesbelkada",
+        "avatar": "https://avatars.githubusercontent.com/u/49240599?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sd983527",
+        "avatar": "https://avatars.githubusercontent.com/u/59006636?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/XsquirrelC",
+        "avatar": "https://avatars.githubusercontent.com/u/178687198?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/microsoft/BitNet",
+    "name": "microsoft/BitNet",
+    "description": "Official inference framework for 1-bit LLMs  ",
+    "language": "Python",
+    "stars": "34553",
+    "forks": "2922",
+    "increased": "5861 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/holtskinner",
+        "avatar": "https://avatars.githubusercontent.com/u/13262395?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/gericdong",
+        "avatar": "https://avatars.githubusercontent.com/u/106993205?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/renovate-bot",
+        "avatar": "https://avatars.githubusercontent.com/u/25180681?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/inardini",
+        "avatar": "https://avatars.githubusercontent.com/u/88703814?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/GoogleCloudPlatform/generative-ai",
+    "name": "GoogleCloudPlatform/generative-ai",
+    "description": "Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI  ",
+    "language": "Jupyter Notebook",
+    "stars": "16171",
+    "forks": "4046",
+    "increased": "2973 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/teknium1",
+        "avatar": "https://avatars.githubusercontent.com/u/127238744?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/0xbyt4",
+        "avatar": "https://avatars.githubusercontent.com/u/35742124?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/erosika",
+        "avatar": "https://avatars.githubusercontent.com/u/56565191?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/aydnOktay",
+        "avatar": "https://avatars.githubusercontent.com/u/113846926?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/NousResearch/hermes-agent",
+    "name": "NousResearch/hermes-agent",
+    "description": "The agent that grows with you  ",
+    "language": "Python",
+    "stars": "7139",
+    "forks": "815",
+    "increased": "5004 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/typpo",
+        "avatar": "https://avatars.githubusercontent.com/u/310310?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mldangelo",
+        "avatar": "https://avatars.githubusercontent.com/u/7235481?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sklein12",
+        "avatar": "https://avatars.githubusercontent.com/u/1080611?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/promptfoo/promptfoo",
+    "name": "promptfoo/promptfoo",
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration.  ",
+    "language": "TypeScript",
+    "stars": "15926",
+    "forks": "1386",
+    "increased": "4825 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/karlseguin",
+        "avatar": "https://avatars.githubusercontent.com/u/206480?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/krichprollsch",
+        "avatar": "https://avatars.githubusercontent.com/u/562696?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/francisbouvier",
+        "avatar": "https://avatars.githubusercontent.com/u/5114029?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mookums",
+        "avatar": "https://avatars.githubusercontent.com/u/26614015?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/nikneym",
+        "avatar": "https://avatars.githubusercontent.com/u/4337696?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/lightpanda-io/browser",
+    "name": "lightpanda-io/browser",
+    "description": "Lightpanda: the headless browser designed for AI and automation  ",
+    "language": "Zig",
+    "stars": "17114",
+    "forks": "636",
+    "increased": "4334 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/666ghj",
+        "avatar": "https://avatars.githubusercontent.com/u/110395318?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/MaYiding",
+        "avatar": "https://avatars.githubusercontent.com/u/77890939?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/DoiiarX",
+        "avatar": "https://avatars.githubusercontent.com/u/25550075?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ghmark675",
+        "avatar": "https://avatars.githubusercontent.com/u/188834327?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Qst137",
+        "avatar": "https://avatars.githubusercontent.com/u/139198328?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/666ghj/BettaFish",
+    "name": "666ghj/BettaFish",
+    "description": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。  ",
+    "language": "Python",
+    "stars": "38677",
+    "forks": "7230",
+    "increased": "2261 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/virattt",
+        "avatar": "https://avatars.githubusercontent.com/u/901795?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/arsaboo",
+        "avatar": "https://avatars.githubusercontent.com/u/18319734?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/KittatamSaisaard",
+        "avatar": "https://avatars.githubusercontent.com/u/50354903?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jsemldonado",
+        "avatar": "https://avatars.githubusercontent.com/u/172995042?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ak4631",
+        "avatar": "https://avatars.githubusercontent.com/u/132299371?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/virattt/ai-hedge-fund",
+    "name": "virattt/ai-hedge-fund",
+    "description": "An AI Hedge Fund Team  ",
+    "language": "Python",
+    "stars": "48893",
+    "forks": "8530",
+    "increased": "2485 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/MagicCube",
+        "avatar": "https://avatars.githubusercontent.com/u/1003147?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/WillemJiang",
+        "avatar": "https://avatars.githubusercontent.com/u/219644?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/hetaoBackend",
+        "avatar": "https://avatars.githubusercontent.com/u/45447813?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/henry-byted",
+        "avatar": "https://avatars.githubusercontent.com/u/209858577?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/bytedance/deer-flow",
+    "name": "bytedance/deer-flow",
+    "description": "An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handles different levels of tasks that could take minutes to hours.  ",
+    "language": "Python",
+    "stars": "30565",
+    "forks": "3694",
+    "increased": "5106 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/leng-yue",
+        "avatar": "https://avatars.githubusercontent.com/u/25119060?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/AnyaCoder",
+        "avatar": "https://avatars.githubusercontent.com/u/122108331?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/PoTaTo-Mika",
+        "avatar": "https://avatars.githubusercontent.com/u/148920650?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/fishaudio/fish-speech",
+    "name": "fishaudio/fish-speech",
+    "description": "SOTA Open Source TTS  ",
+    "language": "Python",
+    "stars": "27225",
+    "forks": "2272",
+    "increased": "1917 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/teng-lin",
+        "avatar": "https://avatars.githubusercontent.com/u/737447?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/furkankoykiran",
+        "avatar": "https://avatars.githubusercontent.com/u/60299878?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/welshofer",
+        "avatar": "https://avatars.githubusercontent.com/u/33588582?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/teng-lin/notebooklm-py",
+    "name": "teng-lin/notebooklm-py",
+    "description": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents like Claude Code, Codex, and OpenClaw.  ",
+    "language": "Python",
+    "stars": "5684",
+    "forks": "702",
+    "increased": "2293 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/qin-ctx",
+        "avatar": "https://avatars.githubusercontent.com/u/234610432?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/zhoujh01",
+        "avatar": "https://avatars.githubusercontent.com/u/242402223?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/MaojiaSheng",
+        "avatar": "https://avatars.githubusercontent.com/u/211460083?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ZaynJarvis",
+        "avatar": "https://avatars.githubusercontent.com/u/31875147?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/volcengine/OpenViking",
+    "name": "volcengine/OpenViking",
+    "description": "OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.  ",
+    "language": "Python",
+    "stars": "10622",
+    "forks": "722",
+    "increased": "4652 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/karpathy",
+        "avatar": "https://avatars.githubusercontent.com/u/241138?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/svlandeg",
+        "avatar": "https://avatars.githubusercontent.com/u/8796347?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/lukestanley",
+        "avatar": "https://avatars.githubusercontent.com/u/306671?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ericsilberstein",
+        "avatar": "https://avatars.githubusercontent.com/u/10590453?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/karpathy/nanochat",
+    "name": "karpathy/nanochat",
+    "description": "The best ChatGPT that $100 can buy.  ",
+    "language": "Python",
+    "stars": "48438",
+    "forks": "6334",
+    "increased": "3628 stars this week"
+  }
+]
