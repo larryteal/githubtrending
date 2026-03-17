@@ -1,0 +1,427 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/666ghj",
+        "avatar": "https://avatars.githubusercontent.com/u/110395318?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cursoragent",
+        "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/666ghj/MiroFish",
+    "name": "666ghj/MiroFish",
+    "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物  ",
+    "language": "Python",
+    "stars": "30021",
+    "forks": "3671",
+    "increased": "19932 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/msitarzewski",
+        "avatar": "https://avatars.githubusercontent.com/u/1972242?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jnMetaCode",
+        "avatar": "https://avatars.githubusercontent.com/u/12096460?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/4shil",
+        "avatar": "https://avatars.githubusercontent.com/u/166588383?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/CagesThrottleUs",
+        "avatar": "https://avatars.githubusercontent.com/u/62324457?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/msitarzewski/agency-agents",
+    "name": "msitarzewski/agency-agents",
+    "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.  ",
+    "language": "Shell",
+    "stars": "49277",
+    "forks": "7340",
+    "increased": "32648 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/potassiummmm",
+        "avatar": "https://avatars.githubusercontent.com/u/54800242?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tsong-ms",
+        "avatar": "https://avatars.githubusercontent.com/u/84831885?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/younesbelkada",
+        "avatar": "https://avatars.githubusercontent.com/u/49240599?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sd983527",
+        "avatar": "https://avatars.githubusercontent.com/u/59006636?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/XsquirrelC",
+        "avatar": "https://avatars.githubusercontent.com/u/178687198?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/microsoft/BitNet",
+    "name": "microsoft/BitNet",
+    "description": "Official inference framework for 1-bit LLMs  ",
+    "language": "Python",
+    "stars": "34907",
+    "forks": "2969",
+    "increased": "6209 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/gaomeng1900",
+        "avatar": "https://avatars.githubusercontent.com/u/10131203?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/JasonOA888",
+        "avatar": "https://avatars.githubusercontent.com/u/101583541?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/alibaba/page-agent",
+    "name": "alibaba/page-agent",
+    "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.  ",
+    "language": "TypeScript",
+    "stars": "9450",
+    "forks": "743",
+    "increased": "7084 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/pbakaus",
+        "avatar": "https://avatars.githubusercontent.com/u/43004?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/glacierphonk",
+        "avatar": "https://avatars.githubusercontent.com/u/260244336?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/VaishnavGunjari",
+        "avatar": "https://avatars.githubusercontent.com/u/169933825?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/whchi",
+        "avatar": "https://avatars.githubusercontent.com/u/11798731?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/pbakaus/impeccable",
+    "name": "pbakaus/impeccable",
+    "description": "The design language that makes your AI harness better at design.  ",
+    "language": "JavaScript",
+    "stars": "9307",
+    "forks": "362",
+    "increased": "6515 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/typpo",
+        "avatar": "https://avatars.githubusercontent.com/u/310310?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mldangelo",
+        "avatar": "https://avatars.githubusercontent.com/u/7235481?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sklein12",
+        "avatar": "https://avatars.githubusercontent.com/u/1080611?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/promptfoo/promptfoo",
+    "name": "promptfoo/promptfoo",
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration.  ",
+    "language": "TypeScript",
+    "stars": "16836",
+    "forks": "1458",
+    "increased": "5792 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/teknium1",
+        "avatar": "https://avatars.githubusercontent.com/u/127238744?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/0xbyt4",
+        "avatar": "https://avatars.githubusercontent.com/u/35742124?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/erosika",
+        "avatar": "https://avatars.githubusercontent.com/u/56565191?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/aydnOktay",
+        "avatar": "https://avatars.githubusercontent.com/u/113846926?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/NousResearch/hermes-agent",
+    "name": "NousResearch/hermes-agent",
+    "description": "The agent that grows with you  ",
+    "language": "Python",
+    "stars": "8080",
+    "forks": "946",
+    "increased": "5270 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/leng-yue",
+        "avatar": "https://avatars.githubusercontent.com/u/25119060?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/AnyaCoder",
+        "avatar": "https://avatars.githubusercontent.com/u/122108331?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/PoTaTo-Mika",
+        "avatar": "https://avatars.githubusercontent.com/u/148920650?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/fishaudio/fish-speech",
+    "name": "fishaudio/fish-speech",
+    "description": "SOTA Open Source TTS  ",
+    "language": "Python",
+    "stars": "27846",
+    "forks": "2321",
+    "increased": "2638 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/qin-ctx",
+        "avatar": "https://avatars.githubusercontent.com/u/234610432?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/zhoujh01",
+        "avatar": "https://avatars.githubusercontent.com/u/242402223?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/MaojiaSheng",
+        "avatar": "https://avatars.githubusercontent.com/u/211460083?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ZaynJarvis",
+        "avatar": "https://avatars.githubusercontent.com/u/31875147?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/volcengine/OpenViking",
+    "name": "volcengine/OpenViking",
+    "description": "OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.  ",
+    "language": "Python",
+    "stars": "14173",
+    "forks": "968",
+    "increased": "8297 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/virattt",
+        "avatar": "https://avatars.githubusercontent.com/u/901795?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/arsaboo",
+        "avatar": "https://avatars.githubusercontent.com/u/18319734?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/KittatamSaisaard",
+        "avatar": "https://avatars.githubusercontent.com/u/50354903?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jsemldonado",
+        "avatar": "https://avatars.githubusercontent.com/u/172995042?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ak4631",
+        "avatar": "https://avatars.githubusercontent.com/u/132299371?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/virattt/ai-hedge-fund",
+    "name": "virattt/ai-hedge-fund",
+    "description": "An AI Hedge Fund Team  ",
+    "language": "Python",
+    "stars": "49133",
+    "forks": "8562",
+    "increased": "2162 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/666ghj",
+        "avatar": "https://avatars.githubusercontent.com/u/110395318?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/MaYiding",
+        "avatar": "https://avatars.githubusercontent.com/u/77890939?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/DoiiarX",
+        "avatar": "https://avatars.githubusercontent.com/u/25550075?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ghmark675",
+        "avatar": "https://avatars.githubusercontent.com/u/188834327?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Qst137",
+        "avatar": "https://avatars.githubusercontent.com/u/139198328?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/666ghj/BettaFish",
+    "name": "666ghj/BettaFish",
+    "description": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。  ",
+    "language": "Python",
+    "stars": "39140",
+    "forks": "7310",
+    "increased": "2018 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/MagicCube",
+        "avatar": "https://avatars.githubusercontent.com/u/1003147?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/WillemJiang",
+        "avatar": "https://avatars.githubusercontent.com/u/219644?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/hetaoBackend",
+        "avatar": "https://avatars.githubusercontent.com/u/45447813?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/henry-byted",
+        "avatar": "https://avatars.githubusercontent.com/u/209858577?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/bytedance/deer-flow",
+    "name": "bytedance/deer-flow",
+    "description": "An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handles different levels of tasks that could take minutes to hours.  ",
+    "language": "Python",
+    "stars": "31182",
+    "forks": "3766",
+    "increased": "4454 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/nicoloboschi",
+        "avatar": "https://avatars.githubusercontent.com/u/23314389?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cdbartholomew",
+        "avatar": "https://avatars.githubusercontent.com/u/22917476?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/slayoffer",
+        "avatar": "https://avatars.githubusercontent.com/u/78427278?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/chrislatimer",
+        "avatar": "https://avatars.githubusercontent.com/u/831081?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/vectorize-io/hindsight",
+    "name": "vectorize-io/hindsight",
+    "description": "Hindsight: Agent Memory That Learns  ",
+    "language": "Python",
+    "stars": "4280",
+    "forks": "292",
+    "increased": "1614 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/obra",
+        "avatar": "https://avatars.githubusercontent.com/u/45416?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/arittr",
+        "avatar": "https://avatars.githubusercontent.com/u/5742859?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/clkao",
+        "avatar": "https://avatars.githubusercontent.com/u/69736?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jjshanks",
+        "avatar": "https://avatars.githubusercontent.com/u/62661?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/obra/superpowers",
+    "name": "obra/superpowers",
+    "description": "An agentic skills framework &amp; software development methodology that works.  ",
+    "language": "Shell",
+    "stars": "88659",
+    "forks": "7005",
+    "increased": "13195 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Soulter",
+        "avatar": "https://avatars.githubusercontent.com/u/37870767?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Raven95676",
+        "avatar": "https://avatars.githubusercontent.com/u/176760093?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/RC-CHN",
+        "avatar": "https://avatars.githubusercontent.com/u/67079377?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/anka-afk",
+        "avatar": "https://avatars.githubusercontent.com/u/110004162?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/LIghtJUNction",
+        "avatar": "https://avatars.githubusercontent.com/u/106986785?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/AstrBotDevs/AstrBot",
+    "name": "AstrBotDevs/AstrBot",
+    "description": "Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨  ",
+    "language": "Python",
+    "stars": "25285",
+    "forks": "1723",
+    "increased": "5107 stars this week"
+  }
+]
