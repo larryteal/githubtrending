@@ -1,0 +1,180 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/obra",
+        "avatar": "https://avatars.githubusercontent.com/u/45416?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/arittr",
+        "avatar": "https://avatars.githubusercontent.com/u/5742859?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/clkao",
+        "avatar": "https://avatars.githubusercontent.com/u/69736?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jjshanks",
+        "avatar": "https://avatars.githubusercontent.com/u/62661?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/obra/superpowers",
+    "name": "obra/superpowers",
+    "description": "An agentic skills framework &amp; software development methodology that works.  ",
+    "language": "Shell",
+    "stars": "92445",
+    "forks": "7313",
+    "increased": "3078 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/danistefanovic",
+        "avatar": "https://avatars.githubusercontent.com/u/1736595?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rohitpaulk",
+        "avatar": "https://avatars.githubusercontent.com/u/3893573?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sarupbanskota",
+        "avatar": "https://avatars.githubusercontent.com/u/3149580?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/fake-rookie",
+        "avatar": "https://avatars.githubusercontent.com/u/61480354?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bauripalash",
+        "avatar": "https://avatars.githubusercontent.com/u/16154204?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/codecrafters-io/build-your-own-x",
+    "name": "codecrafters-io/build-your-own-x",
+    "description": "Master programming by recreating your favorite technologies from scratch.  ",
+    "language": "Markdown",
+    "stars": "479848",
+    "forks": "45145",
+    "increased": "1998 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/abhigyanpatwari",
+        "avatar": "https://avatars.githubusercontent.com/u/126312502?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/magyargergo",
+        "avatar": "https://avatars.githubusercontent.com/u/11230420?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/paulrobello",
+        "avatar": "https://avatars.githubusercontent.com/u/955011?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cursoragent",
+        "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/abhigyanpatwari/GitNexus",
+    "name": "abhigyanpatwari/GitNexus",
+    "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration  ",
+    "language": "TypeScript",
+    "stars": "16741",
+    "forks": "1897",
+    "increased": "1116 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/mdrxy",
+        "avatar": "https://avatars.githubusercontent.com/u/61371264?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/eyurtsev",
+        "avatar": "https://avatars.githubusercontent.com/u/3205522?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/vtrivedy",
+        "avatar": "https://avatars.githubusercontent.com/u/28938224?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/hwchase17",
+        "avatar": "https://avatars.githubusercontent.com/u/11986836?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sydney-runkle",
+        "avatar": "https://avatars.githubusercontent.com/u/54324534?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/langchain-ai/deepagents",
+    "name": "langchain-ai/deepagents",
+    "description": "Agent harness built with LangChain and LangGraph. Equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - well-equipped to handle complex agentic tasks.  ",
+    "language": "Python",
+    "stars": "14161",
+    "forks": "2131",
+    "increased": "1415 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/jarrodwatts",
+        "avatar": "https://avatars.githubusercontent.com/u/35651410?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/melon-hub",
+        "avatar": "https://avatars.githubusercontent.com/u/53302110?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/jarrodwatts/claude-hud",
+    "name": "jarrodwatts/claude-hud",
+    "description": "A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress  ",
+    "language": "JavaScript",
+    "stars": "5641",
+    "forks": "249",
+    "increased": "466 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/jasnell",
+        "avatar": "https://avatars.githubusercontent.com/u/439929?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kentonv",
+        "avatar": "https://avatars.githubusercontent.com/u/4001805?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/anonrig",
+        "avatar": "https://avatars.githubusercontent.com/u/1935246?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/fhanau",
+        "avatar": "https://avatars.githubusercontent.com/u/12156995?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dom96",
+        "avatar": "https://avatars.githubusercontent.com/u/246651?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/cloudflare/workerd",
+    "name": "cloudflare/workerd",
+    "description": "The JavaScript / Wasm runtime that powers Cloudflare Workers  ",
+    "language": "C++",
+    "stars": "7834",
+    "forks": "575",
+    "increased": "31 stars today"
+  }
+]
