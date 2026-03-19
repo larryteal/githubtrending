@@ -1,0 +1,168 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/jarrodwatts",
+        "avatar": "https://avatars.githubusercontent.com/u/35651410?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/melon-hub",
+        "avatar": "https://avatars.githubusercontent.com/u/53302110?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/jarrodwatts/claude-hud",
+    "name": "jarrodwatts/claude-hud",
+    "description": "A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress  ",
+    "language": "JavaScript",
+    "stars": "7046",
+    "forks": "303",
+    "increased": "1038 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/obra",
+        "avatar": "https://avatars.githubusercontent.com/u/45416?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/arittr",
+        "avatar": "https://avatars.githubusercontent.com/u/5742859?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/clkao",
+        "avatar": "https://avatars.githubusercontent.com/u/69736?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jjshanks",
+        "avatar": "https://avatars.githubusercontent.com/u/62661?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/obra/superpowers",
+    "name": "obra/superpowers",
+    "description": "An agentic skills framework &amp; software development methodology that works.  ",
+    "language": "Shell",
+    "stars": "96247",
+    "forks": "7637",
+    "increased": "4089 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/danielhanchen",
+        "avatar": "https://avatars.githubusercontent.com/u/23090290?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rolandtannous",
+        "avatar": "https://avatars.githubusercontent.com/u/115670425?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/shimmyshimmer",
+        "avatar": "https://avatars.githubusercontent.com/u/107991372?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Datta0",
+        "avatar": "https://avatars.githubusercontent.com/u/39181234?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/unslothai/unsloth",
+    "name": "unslothai/unsloth",
+    "description": "Unified web UI for training and running open models like Qwen, DeepSeek, gpt-oss and Gemma locally.  ",
+    "language": "Python",
+    "stars": "55835",
+    "forks": "4686",
+    "increased": "1005 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/actions-user",
+        "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/eric-heiden",
+        "avatar": "https://avatars.githubusercontent.com/u/5869435?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/adenzler-nvidia",
+        "avatar": "https://avatars.githubusercontent.com/u/116633880?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/shi-eric",
+        "avatar": "https://avatars.githubusercontent.com/u/97630937?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/vreutskyy",
+        "avatar": "https://avatars.githubusercontent.com/u/33062116?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/newton-physics/newton",
+    "name": "newton-physics/newton",
+    "description": "An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers.  ",
+    "language": "Python",
+    "stars": "2919",
+    "forks": "318",
+    "increased": "26 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/georgemoralis",
+        "avatar": "https://avatars.githubusercontent.com/u/4313123?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/squidbus",
+        "avatar": "https://avatars.githubusercontent.com/u/175574877?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/raphaelthegreat",
+        "avatar": "https://avatars.githubusercontent.com/u/47210458?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/psucien",
+        "avatar": "https://avatars.githubusercontent.com/u/168137814?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/StevenMiller123",
+        "avatar": "https://avatars.githubusercontent.com/u/56742918?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/shadps4-emu/shadPS4",
+    "name": "shadps4-emu/shadPS4",
+    "description": "PlayStation 4 emulator for Windows, Linux and macOS written in C++  ",
+    "language": "C++",
+    "stars": "29871",
+    "forks": "2028",
+    "increased": "237 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/bracesproul",
+        "avatar": "https://avatars.githubusercontent.com/u/46789226?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/aran-yogesh",
+        "avatar": "https://avatars.githubusercontent.com/u/63587953?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/starmorph",
+        "avatar": "https://avatars.githubusercontent.com/u/121908331?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/langchain-ai/open-swe",
+    "name": "langchain-ai/open-swe",
+    "description": "An Open-Source A synchronous Coding Agent  ",
+    "language": "Python",
+    "stars": "6365",
+    "forks": "813",
+    "increased": "481 stars today"
+  }
+]
