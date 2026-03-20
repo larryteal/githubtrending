@@ -1,0 +1,319 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bundolee",
+        "avatar": "https://avatars.githubusercontent.com/u/9129435?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/MaximPlusov",
+        "avatar": "https://avatars.githubusercontent.com/u/36183885?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/LonelyMidoriya",
+        "avatar": "https://avatars.githubusercontent.com/u/59254003?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/hnc-sujicho",
+        "avatar": "https://avatars.githubusercontent.com/u/211624272?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/opendataloader-project/opendataloader-pdf",
+    "name": "opendataloader-project/opendataloader-pdf",
+    "description": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.  ",
+    "language": "Java",
+    "stars": "5670",
+    "forks": "408",
+    "increased": "1416 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/bracesproul",
+        "avatar": "https://avatars.githubusercontent.com/u/46789226?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/aran-yogesh",
+        "avatar": "https://avatars.githubusercontent.com/u/63587953?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/starmorph",
+        "avatar": "https://avatars.githubusercontent.com/u/121908331?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/langchain-ai/open-swe",
+    "name": "langchain-ai/open-swe",
+    "description": "An Open-Source Asynchronous Coding Agent  ",
+    "language": "Python",
+    "stars": "7042",
+    "forks": "875",
+    "increased": "965 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/obra",
+        "avatar": "https://avatars.githubusercontent.com/u/45416?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/arittr",
+        "avatar": "https://avatars.githubusercontent.com/u/5742859?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/clkao",
+        "avatar": "https://avatars.githubusercontent.com/u/69736?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jjshanks",
+        "avatar": "https://avatars.githubusercontent.com/u/62661?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/obra/superpowers",
+    "name": "obra/superpowers",
+    "description": "An agentic skills framework &amp; software development methodology that works.  ",
+    "language": "Shell",
+    "stars": "99241",
+    "forks": "7911",
+    "increased": "3494 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/jarrodwatts",
+        "avatar": "https://avatars.githubusercontent.com/u/35651410?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/melon-hub",
+        "avatar": "https://avatars.githubusercontent.com/u/53302110?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/jarrodwatts/claude-hud",
+    "name": "jarrodwatts/claude-hud",
+    "description": "A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress  ",
+    "language": "JavaScript",
+    "stars": "8522",
+    "forks": "354",
+    "increased": "1851 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/danielhanchen",
+        "avatar": "https://avatars.githubusercontent.com/u/23090290?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rolandtannous",
+        "avatar": "https://avatars.githubusercontent.com/u/115670425?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/shimmyshimmer",
+        "avatar": "https://avatars.githubusercontent.com/u/107991372?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Datta0",
+        "avatar": "https://avatars.githubusercontent.com/u/39181234?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/unslothai/unsloth",
+    "name": "unslothai/unsloth",
+    "description": "Unified web UI for training and running open models like Qwen, DeepSeek, gpt-oss and Gemma locally.  ",
+    "language": "Python",
+    "stars": "56711",
+    "forks": "4762",
+    "increased": "1262 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/dmitry-zaitsev",
+        "avatar": "https://avatars.githubusercontent.com/u/2990722?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/amanjeetsingh150",
+        "avatar": "https://avatars.githubusercontent.com/u/12881364?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Leland-Takamine",
+        "avatar": "https://avatars.githubusercontent.com/u/847683?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bartekpacia",
+        "avatar": "https://avatars.githubusercontent.com/u/40357511?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/berikv",
+        "avatar": "https://avatars.githubusercontent.com/u/915211?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/mobile-dev-inc/Maestro",
+    "name": "mobile-dev-inc/Maestro",
+    "description": "Painless E2E Automation for Mobile and Web  ",
+    "language": "Kotlin",
+    "stars": "12448",
+    "forks": "705",
+    "increased": "492 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/actions-user",
+        "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/eric-heiden",
+        "avatar": "https://avatars.githubusercontent.com/u/5869435?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/adenzler-nvidia",
+        "avatar": "https://avatars.githubusercontent.com/u/116633880?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/shi-eric",
+        "avatar": "https://avatars.githubusercontent.com/u/97630937?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/vreutskyy",
+        "avatar": "https://avatars.githubusercontent.com/u/33062116?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/newton-physics/newton",
+    "name": "newton-physics/newton",
+    "description": "An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers.  ",
+    "language": "Python",
+    "stars": "3231",
+    "forks": "344",
+    "increased": "346 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/louis-e",
+        "avatar": "https://avatars.githubusercontent.com/u/44675238?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Oleg4260",
+        "avatar": "https://avatars.githubusercontent.com/u/49838022?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/akx",
+        "avatar": "https://avatars.githubusercontent.com/u/58669?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/XianlinSheng",
+        "avatar": "https://avatars.githubusercontent.com/u/153575530?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/louis-e/arnis",
+    "name": "louis-e/arnis",
+    "description": "Generate any location from the real world in Minecraft with a high level of detail.  ",
+    "language": "Rust",
+    "stars": "10775",
+    "forks": "961",
+    "increased": "946 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/FujiwaraChoki",
+        "avatar": "https://avatars.githubusercontent.com/u/78088687?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/supperfreddo",
+        "avatar": "https://avatars.githubusercontent.com/u/9703184?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/SaroAntonelloLovito",
+        "avatar": "https://avatars.githubusercontent.com/u/91974562?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/TomyDiNero",
+        "avatar": "https://avatars.githubusercontent.com/u/151256852?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/FujiwaraChoki/MoneyPrinterV2",
+    "name": "FujiwaraChoki/MoneyPrinterV2",
+    "description": "Automate the process of making money online.  ",
+    "language": "Python",
+    "stars": "16077",
+    "forks": "1684",
+    "increased": "146 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/glittercowboy",
+        "avatar": "https://avatars.githubusercontent.com/u/186001655?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/trek-e",
+        "avatar": "https://avatars.githubusercontent.com/u/4738965?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Tibsfox",
+        "avatar": "https://avatars.githubusercontent.com/u/537551?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Solvely-Colin",
+        "avatar": "https://avatars.githubusercontent.com/u/211764741?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/gsd-build/get-shit-done",
+    "name": "gsd-build/get-shit-done",
+    "description": "A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.  ",
+    "language": "JavaScript",
+    "stars": "36128",
+    "forks": "2958",
+    "increased": "1491 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/CrazyBoyM",
+        "avatar": "https://avatars.githubusercontent.com/u/35400185?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bansalkanav",
+        "avatar": "https://avatars.githubusercontent.com/u/13186335?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Octane0411",
+        "avatar": "https://avatars.githubusercontent.com/u/88922959?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/synix",
+        "avatar": "https://avatars.githubusercontent.com/u/3198234?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/shareAI-lab/learn-claude-code",
+    "name": "shareAI-lab/learn-claude-code",
+    "description": "Bash is all you need - A nano claude code–like 「agent harness」, built from 0 to 1  ",
+    "language": "TypeScript",
+    "stars": "33653",
+    "forks": "5478",
+    "increased": "1448 stars today"
+  }
+]
