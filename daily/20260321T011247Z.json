@@ -1,0 +1,253 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/jarrodwatts",
+        "avatar": "https://avatars.githubusercontent.com/u/35651410?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/melon-hub",
+        "avatar": "https://avatars.githubusercontent.com/u/53302110?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/jarrodwatts/claude-hud",
+    "name": "jarrodwatts/claude-hud",
+    "description": "A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress  ",
+    "language": "JavaScript",
+    "stars": "9538",
+    "forks": "405",
+    "increased": "1068 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/bracesproul",
+        "avatar": "https://avatars.githubusercontent.com/u/46789226?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/aran-yogesh",
+        "avatar": "https://avatars.githubusercontent.com/u/63587953?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/starmorph",
+        "avatar": "https://avatars.githubusercontent.com/u/121908331?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/langchain-ai/open-swe",
+    "name": "langchain-ai/open-swe",
+    "description": " An Open-Source Asyn chronous Coding Agent  ",
+    "language": "Python",
+    "stars": "7644",
+    "forks": "920",
+    "increased": "635 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/obra",
+        "avatar": "https://avatars.githubusercontent.com/u/45416?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/arittr",
+        "avatar": "https://avatars.githubusercontent.com/u/5742859?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/clkao",
+        "avatar": "https://avatars.githubusercontent.com/u/69736?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jjshanks",
+        "avatar": "https://avatars.githubusercontent.com/u/62661?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/obra/superpowers",
+    "name": "obra/superpowers",
+    "description": "An agentic skills framework &amp; software development methodology that works.  ",
+    "language": "Shell",
+    "stars": "101552",
+    "forks": "8116",
+    "increased": "2819 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bundolee",
+        "avatar": "https://avatars.githubusercontent.com/u/9129435?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/MaximPlusov",
+        "avatar": "https://avatars.githubusercontent.com/u/36183885?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/LonelyMidoriya",
+        "avatar": "https://avatars.githubusercontent.com/u/59254003?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/hnc-sujicho",
+        "avatar": "https://avatars.githubusercontent.com/u/211624272?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/opendataloader-project/opendataloader-pdf",
+    "name": "opendataloader-project/opendataloader-pdf",
+    "description": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.  ",
+    "language": "Java",
+    "stars": "7058",
+    "forks": "501",
+    "increased": "1812 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/louis-e",
+        "avatar": "https://avatars.githubusercontent.com/u/44675238?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Oleg4260",
+        "avatar": "https://avatars.githubusercontent.com/u/49838022?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/akx",
+        "avatar": "https://avatars.githubusercontent.com/u/58669?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/XianlinSheng",
+        "avatar": "https://avatars.githubusercontent.com/u/153575530?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/louis-e/arnis",
+    "name": "louis-e/arnis",
+    "description": "Generate any location from the real world in Minecraft with a high level of detail.  ",
+    "language": "Rust",
+    "stars": "11591",
+    "forks": "991",
+    "increased": "1045 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/actions-user",
+        "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/eric-heiden",
+        "avatar": "https://avatars.githubusercontent.com/u/5869435?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/adenzler-nvidia",
+        "avatar": "https://avatars.githubusercontent.com/u/116633880?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/shi-eric",
+        "avatar": "https://avatars.githubusercontent.com/u/97630937?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/vreutskyy",
+        "avatar": "https://avatars.githubusercontent.com/u/33062116?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/newton-physics/newton",
+    "name": "newton-physics/newton",
+    "description": "An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers.  ",
+    "language": "Python",
+    "stars": "3472",
+    "forks": "357",
+    "increased": "266 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/vas3k",
+        "avatar": "https://avatars.githubusercontent.com/u/176344?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/H1D",
+        "avatar": "https://avatars.githubusercontent.com/u/697625?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/danfimov",
+        "avatar": "https://avatars.githubusercontent.com/u/32870032?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/vas3k/TaxHacker",
+    "name": "vas3k/TaxHacker",
+    "description": "Self-hosted AI accounting app. LLM analyzer for receipts, invoices, transactions with custom prompts and categories  ",
+    "language": "TypeScript",
+    "stars": "1937",
+    "forks": "262",
+    "increased": "137 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Yijia-Xiao",
+        "avatar": "https://avatars.githubusercontent.com/u/48253104?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/EdwardoSunny",
+        "avatar": "https://avatars.githubusercontent.com/u/68405458?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/luohy15",
+        "avatar": "https://avatars.githubusercontent.com/u/15189961?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ZeroAct",
+        "avatar": "https://avatars.githubusercontent.com/u/46982469?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/TauricResearch/TradingAgents",
+    "name": "TauricResearch/TradingAgents",
+    "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework  ",
+    "language": "Python",
+    "stars": "34114",
+    "forks": "6521",
+    "increased": "433 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/SiboVG",
+        "avatar": "https://avatars.githubusercontent.com/u/11031519?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/JoePfeiffer",
+        "avatar": "https://avatars.githubusercontent.com/u/3065196?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/teyrana",
+        "avatar": "https://avatars.githubusercontent.com/u/5686825?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/plaa",
+        "avatar": "https://avatars.githubusercontent.com/u/1436281?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bkuker",
+        "avatar": "https://avatars.githubusercontent.com/u/1305026?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/openrocket/openrocket",
+    "name": "openrocket/openrocket",
+    "description": "Model-rocketry aerodynamics and trajectory simulation software  ",
+    "language": "Java",
+    "stars": "2212",
+    "forks": "578",
+    "increased": "144 stars today"
+  }
+]
