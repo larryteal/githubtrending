@@ -1,0 +1,261 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/FujiwaraChoki",
+        "avatar": "https://avatars.githubusercontent.com/u/78088687?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/supperfreddo",
+        "avatar": "https://avatars.githubusercontent.com/u/9703184?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/SaroAntonelloLovito",
+        "avatar": "https://avatars.githubusercontent.com/u/91974562?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/TomyDiNero",
+        "avatar": "https://avatars.githubusercontent.com/u/151256852?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/FujiwaraChoki/MoneyPrinterV2",
+    "name": "FujiwaraChoki/MoneyPrinterV2",
+    "description": "Automate the process of making money online.  ",
+    "language": "Python",
+    "stars": "17775",
+    "forks": "1896",
+    "increased": "283 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/poettering",
+        "avatar": "https://avatars.githubusercontent.com/u/2130732?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/yuwata",
+        "avatar": "https://avatars.githubusercontent.com/u/14157143?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/keszybz",
+        "avatar": "https://avatars.githubusercontent.com/u/349618?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/daandemeyer",
+        "avatar": "https://avatars.githubusercontent.com/u/9395011?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bluca",
+        "avatar": "https://avatars.githubusercontent.com/u/782193?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/systemd/systemd",
+    "name": "systemd/systemd",
+    "description": "The systemd System and Service Manager  ",
+    "language": "C",
+    "stars": "15727",
+    "forks": "4354",
+    "increased": "58 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/knqyf263",
+        "avatar": "https://avatars.githubusercontent.com/u/2253692?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/DmitriyLewen",
+        "avatar": "https://avatars.githubusercontent.com/u/91113035?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/nikpivkin",
+        "avatar": "https://avatars.githubusercontent.com/u/100182843?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/simar7",
+        "avatar": "https://avatars.githubusercontent.com/u/1254783?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/aquasecurity/trivy",
+    "name": "aquasecurity/trivy",
+    "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more  ",
+    "language": "Go",
+    "stars": "33380",
+    "forks": "125",
+    "increased": "39 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/jakeaturner",
+        "avatar": "https://avatars.githubusercontent.com/u/52841588?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/chriscrosstalk",
+        "avatar": "https://avatars.githubusercontent.com/u/49691103?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cosmistack-bot",
+        "avatar": "https://avatars.githubusercontent.com/u/175166532?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Crosstalk-Solutions/project-nomad",
+    "name": "Crosstalk-Solutions/project-nomad",
+    "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.  ",
+    "language": "TypeScript",
+    "stars": "6766",
+    "forks": "633",
+    "increased": "2032 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bundolee",
+        "avatar": "https://avatars.githubusercontent.com/u/9129435?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/MaximPlusov",
+        "avatar": "https://avatars.githubusercontent.com/u/36183885?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/LonelyMidoriya",
+        "avatar": "https://avatars.githubusercontent.com/u/59254003?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/hnc-sujicho",
+        "avatar": "https://avatars.githubusercontent.com/u/211624272?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/opendataloader-project/opendataloader-pdf",
+    "name": "opendataloader-project/opendataloader-pdf",
+    "description": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.  ",
+    "language": "Java",
+    "stars": "7892",
+    "forks": "534",
+    "increased": "950 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/jarrodwatts",
+        "avatar": "https://avatars.githubusercontent.com/u/35651410?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/melon-hub",
+        "avatar": "https://avatars.githubusercontent.com/u/53302110?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/jarrodwatts/claude-hud",
+    "name": "jarrodwatts/claude-hud",
+    "description": "A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress  ",
+    "language": "JavaScript",
+    "stars": "10448",
+    "forks": "446",
+    "increased": "970 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/protobuf-github-bot",
+        "avatar": "https://avatars.githubusercontent.com/u/106703886?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/haberman",
+        "avatar": "https://avatars.githubusercontent.com/u/1270?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/protobuf-team-bot",
+        "avatar": "https://avatars.githubusercontent.com/u/105450428?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mkruskal-google",
+        "avatar": "https://avatars.githubusercontent.com/u/62662355?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/xfxyjwf",
+        "avatar": "https://avatars.githubusercontent.com/u/8551050?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/protocolbuffers/protobuf",
+    "name": "protocolbuffers/protobuf",
+    "description": "Protocol Buffers - Google's data interchange format  ",
+    "language": "C++",
+    "stars": "70947",
+    "forks": "16083",
+    "increased": "7 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/hsliuustc0106",
+        "avatar": "https://avatars.githubusercontent.com/u/222337142?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tzhouam",
+        "avatar": "https://avatars.githubusercontent.com/u/78459970?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/gcanlin",
+        "avatar": "https://avatars.githubusercontent.com/u/105424474?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Gaohan123",
+        "avatar": "https://avatars.githubusercontent.com/u/20148503?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/SamitHuang",
+        "avatar": "https://avatars.githubusercontent.com/u/8156835?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/vllm-project/vllm-omni",
+    "name": "vllm-project/vllm-omni",
+    "description": "A framework for efficient model inference with omni-modality models  ",
+    "language": "Python",
+    "stars": "3512",
+    "forks": "587",
+    "increased": "71 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/louis-e",
+        "avatar": "https://avatars.githubusercontent.com/u/44675238?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Oleg4260",
+        "avatar": "https://avatars.githubusercontent.com/u/49838022?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/akx",
+        "avatar": "https://avatars.githubusercontent.com/u/58669?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/XianlinSheng",
+        "avatar": "https://avatars.githubusercontent.com/u/153575530?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/louis-e/arnis",
+    "name": "louis-e/arnis",
+    "description": "Generate any location from the real world in Minecraft with a high level of detail.  ",
+    "language": "Rust",
+    "stars": "12225",
+    "forks": "1014",
+    "increased": "690 stars today"
+  }
+]
