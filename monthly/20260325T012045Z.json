@@ -1,0 +1,439 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ruvnet",
+        "avatar": "https://avatars.githubusercontent.com/u/2934394?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/fr4iser90",
+        "avatar": "https://avatars.githubusercontent.com/u/123288736?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/MaTriXy",
+        "avatar": "https://avatars.githubusercontent.com/u/3080139?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/TropicalDog17",
+        "avatar": "https://avatars.githubusercontent.com/u/79791913?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/ruvnet/RuView",
+    "name": "ruvnet/RuView",
+    "description": "π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.  ",
+    "language": "Rust",
+    "stars": "41310",
+    "forks": "5666",
+    "increased": "33822 stars this month"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/666ghj",
+        "avatar": "https://avatars.githubusercontent.com/u/110395318?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cursoragent",
+        "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/666ghj/MiroFish",
+    "name": "666ghj/MiroFish",
+    "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物  ",
+    "language": "Python",
+    "stars": "41868",
+    "forks": "5731",
+    "increased": "37311 stars this month"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/abhigyanpatwari",
+        "avatar": "https://avatars.githubusercontent.com/u/126312502?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/magyargergo",
+        "avatar": "https://avatars.githubusercontent.com/u/11230420?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/naicud",
+        "avatar": "https://avatars.githubusercontent.com/u/55764723?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/zander-raycraft",
+        "avatar": "https://avatars.githubusercontent.com/u/99677330?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/abhigyanpatwari/GitNexus",
+    "name": "abhigyanpatwari/GitNexus",
+    "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code expl oration  ",
+    "language": "TypeScript",
+    "stars": "19445",
+    "forks": "2240",
+    "increased": "17090 stars this month"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/MagicCube",
+        "avatar": "https://avatars.githubusercontent.com/u/1003147?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/WillemJiang",
+        "avatar": "https://avatars.githubusercontent.com/u/219644?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/hetaoBackend",
+        "avatar": "https://avatars.githubusercontent.com/u/45447813?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/henry-byted",
+        "avatar": "https://avatars.githubusercontent.com/u/209858577?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/bytedance/deer-flow",
+    "name": "bytedance/deer-flow",
+    "description": "An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.  ",
+    "language": "Python",
+    "stars": "43331",
+    "forks": "5089",
+    "increased": "21598 stars this month"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/nekomeowww",
+        "avatar": "https://avatars.githubusercontent.com/u/11081491?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/shinohara-rin",
+        "avatar": "https://avatars.githubusercontent.com/u/25588514?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/luoling8192",
+        "avatar": "https://avatars.githubusercontent.com/u/44741987?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/LemonNekoGH",
+        "avatar": "https://avatars.githubusercontent.com/u/17664845?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sumimakito",
+        "avatar": "https://avatars.githubusercontent.com/u/5277268?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/moeru-ai/airi",
+    "name": "moeru-ai/airi",
+    "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.  ",
+    "language": "TypeScript",
+    "stars": "35451",
+    "forks": "3525",
+    "increased": "18061 stars this month"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/koala73",
+        "avatar": "https://avatars.githubusercontent.com/u/996596?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/SebastienMelki",
+        "avatar": "https://avatars.githubusercontent.com/u/5787993?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/NewCoder3294",
+        "avatar": "https://avatars.githubusercontent.com/u/168879994?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/danielimad",
+        "avatar": "https://avatars.githubusercontent.com/u/72716286?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/koala73/worldmonitor",
+    "name": "koala73/worldmonitor",
+    "description": "Real-time global intelligence dashboard — AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface   ",
+    "language": "TypeScript",
+    "stars": "43606",
+    "forks": "7084",
+    "increased": "30441 stars this month"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/shanraisshan",
+        "avatar": "https://avatars.githubusercontent.com/u/11731897?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/neutmute",
+        "avatar": "https://avatars.githubusercontent.com/u/1303131?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/shayangd",
+        "avatar": "https://avatars.githubusercontent.com/u/192189596?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/shanraisshan/claude-code-best-practice",
+    "name": "shanraisshan/claude-code-best-practice",
+    "description": "practice made claude perfect  ",
+    "language": "HTML",
+    "stars": "21601",
+    "forks": "1882",
+    "increased": "16943 stars this month"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/CrazyBoyM",
+        "avatar": "https://avatars.githubusercontent.com/u/35400185?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bansalkanav",
+        "avatar": "https://avatars.githubusercontent.com/u/13186335?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Octane0411",
+        "avatar": "https://avatars.githubusercontent.com/u/88922959?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/synix",
+        "avatar": "https://avatars.githubusercontent.com/u/3198234?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/shareAI-lab/learn-claude-code",
+    "name": "shareAI-lab/learn-claude-code",
+    "description": "Bash is all you need - A nano claude code–like 「agent harness」, built from 0 to 1  ",
+    "language": "TypeScript",
+    "stars": "38002",
+    "forks": "5996",
+    "increased": "20342 stars this month"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/qin-ctx",
+        "avatar": "https://avatars.githubusercontent.com/u/234610432?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/zhoujh01",
+        "avatar": "https://avatars.githubusercontent.com/u/242402223?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/MaojiaSheng",
+        "avatar": "https://avatars.githubusercontent.com/u/211460083?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ZaynJarvis",
+        "avatar": "https://avatars.githubusercontent.com/u/31875147?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/volcengine/OpenViking",
+    "name": "volcengine/OpenViking",
+    "description": "OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.  ",
+    "language": "Python",
+    "stars": "18778",
+    "forks": "1291",
+    "increased": "15109 stars this month"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/affaan-m",
+        "avatar": "https://avatars.githubusercontent.com/u/124439313?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pangerlkr",
+        "avatar": "https://avatars.githubusercontent.com/u/73515951?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pvgomes",
+        "avatar": "https://avatars.githubusercontent.com/u/4427450?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/affaan-m/everything-claude-code",
+    "name": "affaan-m/everything-claude-code",
+    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.  ",
+    "language": "JavaScript",
+    "stars": "104986",
+    "forks": "13650",
+    "increased": "53207 stars this month"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/obra",
+        "avatar": "https://avatars.githubusercontent.com/u/45416?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/arittr",
+        "avatar": "https://avatars.githubusercontent.com/u/5742859?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/clkao",
+        "avatar": "https://avatars.githubusercontent.com/u/69736?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jjshanks",
+        "avatar": "https://avatars.githubusercontent.com/u/62661?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/obra/superpowers",
+    "name": "obra/superpowers",
+    "description": "An agentic skills framework &amp; software development methodology that works.  ",
+    "language": "Shell",
+    "stars": "110482",
+    "forks": "8867",
+    "increased": "50214 stars this month"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/karlseguin",
+        "avatar": "https://avatars.githubusercontent.com/u/206480?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/krichprollsch",
+        "avatar": "https://avatars.githubusercontent.com/u/562696?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/francisbouvier",
+        "avatar": "https://avatars.githubusercontent.com/u/5114029?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mookums",
+        "avatar": "https://avatars.githubusercontent.com/u/26614015?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/nikneym",
+        "avatar": "https://avatars.githubusercontent.com/u/4337696?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/lightpanda-io/browser",
+    "name": "lightpanda-io/browser",
+    "description": "Lightpanda: the headless browser designed for AI and automation  ",
+    "language": "Zig",
+    "stars": "24548",
+    "forks": "985",
+    "increased": "12583 stars this month"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/alirezarezvani",
+        "avatar": "https://avatars.githubusercontent.com/u/5697919?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/olgasafonova",
+        "avatar": "https://avatars.githubusercontent.com/u/23409189?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/fernandezbaptiste",
+        "avatar": "https://avatars.githubusercontent.com/u/83458751?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ikala-shawn",
+        "avatar": "https://avatars.githubusercontent.com/u/111341595?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/alirezarezvani/claude-skills",
+    "name": "alirezarezvani/claude-skills",
+    "description": "+192 Claude Code skills &amp; agent plugins for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory.  ",
+    "language": "Python",
+    "stars": "6760",
+    "forks": "802",
+    "increased": "4730 stars this month"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/bracesproul",
+        "avatar": "https://avatars.githubusercontent.com/u/46789226?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/aran-yogesh",
+        "avatar": "https://avatars.githubusercontent.com/u/63587953?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/starmorph",
+        "avatar": "https://avatars.githubusercontent.com/u/121908331?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/langchain-ai/open-swe",
+    "name": "langchain-ai/open-swe",
+    "description": "An Open-Source Asynchronous Coding Agent  ",
+    "language": "Python",
+    "stars": "8323",
+    "forks": "980",
+    "increased": "2992 stars this month"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/bfops",
+        "avatar": "https://avatars.githubusercontent.com/u/196249?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Centril",
+        "avatar": "https://avatars.githubusercontent.com/u/855702?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/gefjon",
+        "avatar": "https://avatars.githubusercontent.com/u/10927791?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/joshua-spacetime",
+        "avatar": "https://avatars.githubusercontent.com/u/141075564?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cloutiertyler",
+        "avatar": "https://avatars.githubusercontent.com/u/6432361?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/clockworklabs/SpacetimeDB",
+    "name": "clockworklabs/SpacetimeDB",
+    "description": "Development at the speed of light  ",
+    "language": "Rust",
+    "stars": "24138",
+    "forks": "946",
+    "increased": "78 stars this month"
+  }
+]
