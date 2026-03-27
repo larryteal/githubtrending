@@ -1,0 +1,268 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/mvanhorn",
+        "avatar": "https://avatars.githubusercontent.com/u/455140?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/j-sperling",
+        "avatar": "https://avatars.githubusercontent.com/u/17969723?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/phjlljp",
+        "avatar": "https://avatars.githubusercontent.com/u/76761332?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/iliaal",
+        "avatar": "https://avatars.githubusercontent.com/u/158724?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/mvanhorn/last30days-skill",
+    "name": "mvanhorn/last30days-skill",
+    "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary  ",
+    "language": "Python",
+    "stars": "10316",
+    "forks": "887",
+    "increased": "2685 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Yeachan-Heo",
+        "avatar": "https://avatars.githubusercontent.com/u/54757707?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/shaun0927",
+        "avatar": "https://avatars.githubusercontent.com/u/70629228?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/AlexU-A",
+        "avatar": "https://avatars.githubusercontent.com/u/3340748?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/junhoyeo",
+        "avatar": "https://avatars.githubusercontent.com/u/32605822?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Yeachan-Heo/oh-my-claudecode",
+    "name": "Yeachan-Heo/oh-my-claudecode",
+    "description": "Teams-first Multi-agent orchestration for Claude Code  ",
+    "language": "TypeScript",
+    "stars": "12673",
+    "forks": "839",
+    "increased": "598 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/virattt",
+        "avatar": "https://avatars.githubusercontent.com/u/901795?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/MkDev11",
+        "avatar": "https://avatars.githubusercontent.com/u/94194147?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cursoragent",
+        "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/gupta-8",
+        "avatar": "https://avatars.githubusercontent.com/u/215169640?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sjhddh",
+        "avatar": "https://avatars.githubusercontent.com/u/5778228?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/virattt/dexter",
+    "name": "virattt/dexter",
+    "description": "An autonomous agent for deep financial research  ",
+    "language": "TypeScript",
+    "stars": "19001",
+    "forks": "2330",
+    "increased": "210 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ruvnet",
+        "avatar": "https://avatars.githubusercontent.com/u/2934394?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/fr4iser90",
+        "avatar": "https://avatars.githubusercontent.com/u/123288736?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/MaTriXy",
+        "avatar": "https://avatars.githubusercontent.com/u/3080139?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/TropicalDog17",
+        "avatar": "https://avatars.githubusercontent.com/u/79791913?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/ruvnet/RuView",
+    "name": "ruvnet/RuView",
+    "description": "π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.  ",
+    "language": "Rust",
+    "stars": "43188",
+    "forks": "5849",
+    "increased": "1002 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/MagicCube",
+        "avatar": "https://avatars.githubusercontent.com/u/1003147?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/WillemJiang",
+        "avatar": "https://avatars.githubusercontent.com/u/219644?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/hetaoBackend",
+        "avatar": "https://avatars.githubusercontent.com/u/45447813?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/henry-byted",
+        "avatar": "https://avatars.githubusercontent.com/u/209858577?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/bytedance/deer-flow",
+    "name": "bytedance/deer-flow",
+    "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.  ",
+    "language": "Python",
+    "stars": "48422",
+    "forks": "5766",
+    "increased": "2394 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Vaibhavs10",
+        "avatar": "https://avatars.githubusercontent.com/u/18682411?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/patrick91",
+        "avatar": "https://avatars.githubusercontent.com/u/667029?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pcuenca",
+        "avatar": "https://avatars.githubusercontent.com/u/1177582?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/felixcarmona",
+        "avatar": "https://avatars.githubusercontent.com/u/1969778?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kadirnar",
+        "avatar": "https://avatars.githubusercontent.com/u/36204372?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Vaibhavs10/insanely-fast-whisper",
+    "name": "Vaibhavs10/insanely-fast-whisper",
+    "language": "Jupyter Notebook",
+    "stars": "11236",
+    "forks": "817",
+    "increased": "1370 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/DavdGao",
+        "avatar": "https://avatars.githubusercontent.com/u/102287034?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/qbc2016",
+        "avatar": "https://avatars.githubusercontent.com/u/22984042?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Osier-Yi",
+        "avatar": "https://avatars.githubusercontent.com/u/8287381?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pan-x-c",
+        "avatar": "https://avatars.githubusercontent.com/u/32844285?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/zhijianma",
+        "avatar": "https://avatars.githubusercontent.com/u/30956532?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/agentscope-ai/agentscope",
+    "name": "agentscope-ai/agentscope",
+    "description": "Build and run agents you can see, understand and trust.  ",
+    "language": "Python",
+    "stars": "20437",
+    "forks": "1994",
+    "increased": "437 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/charlesBochet",
+        "avatar": "https://avatars.githubusercontent.com/u/12035771?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/FelixMalfait",
+        "avatar": "https://avatars.githubusercontent.com/u/6399865?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/lucasbordeau",
+        "avatar": "https://avatars.githubusercontent.com/u/26528466?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Weiko",
+        "avatar": "https://avatars.githubusercontent.com/u/1834158?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/twentyhq/twenty",
+    "name": "twentyhq/twenty",
+    "description": "Building a modern alternative to Salesforce, powered by the community.  ",
+    "language": "TypeScript",
+    "stars": "41281",
+    "forks": "5502",
+    "increased": "117 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/VikParuchuri",
+        "avatar": "https://avatars.githubusercontent.com/u/913340?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sandy0kwon",
+        "avatar": "https://avatars.githubusercontent.com/u/78377296?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/zanussbaum",
+        "avatar": "https://avatars.githubusercontent.com/u/33707069?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/datalab-to/chandra",
+    "name": "datalab-to/chandra",
+    "description": "OCR model that handles complex tables, forms, handwriting with full layout.  ",
+    "language": "Python",
+    "stars": "6172",
+    "forks": "675",
+    "increased": "557 stars today"
+  }
+]
