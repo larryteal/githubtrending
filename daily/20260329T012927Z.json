@@ -1,0 +1,261 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/hacksider",
+        "avatar": "https://avatars.githubusercontent.com/u/1267200?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/KRSHH",
+        "avatar": "https://avatars.githubusercontent.com/u/136873090?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/vic4key",
+        "avatar": "https://avatars.githubusercontent.com/u/5672864?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/laurigates",
+        "avatar": "https://avatars.githubusercontent.com/u/13014001?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pereiraroland26",
+        "avatar": "https://avatars.githubusercontent.com/u/52257639?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/hacksider/Deep-Live-Cam",
+    "name": "hacksider/Deep-Live-Cam",
+    "description": "real time face swap and one-click video deepfake with only a single image  ",
+    "language": "Python",
+    "stars": "84345",
+    "forks": "12318",
+    "increased": "1814 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/obra",
+        "avatar": "https://avatars.githubusercontent.com/u/45416?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/arittr",
+        "avatar": "https://avatars.githubusercontent.com/u/5742859?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/clkao",
+        "avatar": "https://avatars.githubusercontent.com/u/69736?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jjshanks",
+        "avatar": "https://avatars.githubusercontent.com/u/62661?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/obra/superpowers",
+    "name": "obra/superpowers",
+    "description": "An agentic skills framework &amp; software development methodology that works.  ",
+    "language": "Shell",
+    "stars": "120810",
+    "forks": "9807",
+    "increased": "2292 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/conglu1997",
+        "avatar": "https://avatars.githubusercontent.com/u/20336225?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kotama7",
+        "avatar": "https://avatars.githubusercontent.com/u/104612339?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/runopti",
+        "avatar": "https://avatars.githubusercontent.com/u/6688737?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/RobertTLange",
+        "avatar": "https://avatars.githubusercontent.com/u/20374662?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Shawn-Hwang",
+        "avatar": "https://avatars.githubusercontent.com/u/62516342?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/SakanaAI/AI-Scientist-v2",
+    "name": "SakanaAI/AI-Scientist-v2",
+    "description": "The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search  ",
+    "language": "Python",
+    "stars": "3473",
+    "forks": "527",
+    "increased": "506 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/virattt",
+        "avatar": "https://avatars.githubusercontent.com/u/901795?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/MkDev11",
+        "avatar": "https://avatars.githubusercontent.com/u/94194147?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cursoragent",
+        "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/gupta-8",
+        "avatar": "https://avatars.githubusercontent.com/u/215169640?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sjhddh",
+        "avatar": "https://avatars.githubusercontent.com/u/5778228?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/virattt/dexter",
+    "name": "virattt/dexter",
+    "description": "An autonomous agent for deep financial research   ",
+    "language": "TypeScript",
+    "stars": "20207",
+    "forks": "2424",
+    "increased": "581 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/charlesBochet",
+        "avatar": "https://avatars.githubusercontent.com/u/12035771?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/FelixMalfait",
+        "avatar": "https://avatars.githubusercontent.com/u/6399865?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/lucasbordeau",
+        "avatar": "https://avatars.githubusercontent.com/u/26528466?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Weiko",
+        "avatar": "https://avatars.githubusercontent.com/u/1834158?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/twentyhq/twenty",
+    "name": "twentyhq/twenty",
+    "description": "Building a modern alternative to Salesforce, powered by the community.  ",
+    "language": "TypeScript",
+    "stars": "42439",
+    "forks": "5635",
+    "increased": "563 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Weves",
+        "avatar": "https://avatars.githubusercontent.com/u/25087905?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/yuhongsun96",
+        "avatar": "https://avatars.githubusercontent.com/u/32520769?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pablonyx",
+        "avatar": "https://avatars.githubusercontent.com/u/171597620?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jmelahman",
+        "avatar": "https://avatars.githubusercontent.com/u/23436978?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/onyx-dot-app/onyx",
+    "name": "onyx-dot-app/onyx",
+    "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM  ",
+    "language": "Python",
+    "stars": "19757",
+    "forks": "2655",
+    "increased": "880 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/VikParuchuri",
+        "avatar": "https://avatars.githubusercontent.com/u/913340?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sandy0kwon",
+        "avatar": "https://avatars.githubusercontent.com/u/78377296?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/zanussbaum",
+        "avatar": "https://avatars.githubusercontent.com/u/33707069?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/datalab-to/chandra",
+    "name": "datalab-to/chandra",
+    "description": "OCR model that handles complex tables, forms, handwriting with full layout.  ",
+    "language": "Python",
+    "stars": "7598",
+    "forks": "762",
+    "increased": "687 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/DavdGao",
+        "avatar": "https://avatars.githubusercontent.com/u/102287034?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/qbc2016",
+        "avatar": "https://avatars.githubusercontent.com/u/22984042?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Osier-Yi",
+        "avatar": "https://avatars.githubusercontent.com/u/8287381?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pan-x-c",
+        "avatar": "https://avatars.githubusercontent.com/u/32844285?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/zhijianma",
+        "avatar": "https://avatars.githubusercontent.com/u/30956532?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/agentscope-ai/agentscope",
+    "name": "agentscope-ai/agentscope",
+    "description": "Build and run agents you can see, understand and trust.  ",
+    "language": "Python",
+    "stars": "21623",
+    "forks": "2135",
+    "increased": "398 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/mistercrunch",
+        "avatar": "https://avatars.githubusercontent.com/u/487433?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/villebro",
+        "avatar": "https://avatars.githubusercontent.com/u/33317356?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/michael-s-molina",
+        "avatar": "https://avatars.githubusercontent.com/u/70410625?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kristw",
+        "avatar": "https://avatars.githubusercontent.com/u/1659771?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/apache/superset",
+    "name": "apache/superset",
+    "description": "Apache Superset is a Data Visualization and Data Exploration Platform  ",
+    "language": "TypeScript",
+    "stars": "71472",
+    "forks": "16891",
+    "increased": "31 stars today"
+  }
+]
