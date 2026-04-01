@@ -1,0 +1,403 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/luongnv89",
+        "avatar": "https://avatars.githubusercontent.com/u/3288457?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/wjhrdy",
+        "avatar": "https://avatars.githubusercontent.com/u/1795778?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/VikalpP",
+        "avatar": "https://avatars.githubusercontent.com/u/11846339?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/luongnv89/claude-howto",
+    "name": "luongnv89/claude-howto",
+    "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.  ",
+    "language": "Python",
+    "stars": "13192",
+    "forks": "1440",
+    "increased": "2390 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/YaoyaoChang",
+        "avatar": "https://avatars.githubusercontent.com/u/20237658?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/MSLDCherryPick",
+        "avatar": "https://avatars.githubusercontent.com/u/173002764?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/MSJwyu",
+        "avatar": "https://avatars.githubusercontent.com/u/39176643?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pengzhiliang",
+        "avatar": "https://avatars.githubusercontent.com/u/26346329?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/microsoft/VibeVoice",
+    "name": "microsoft/VibeVoice",
+    "description": "Open-Source Frontier Voice AI  ",
+    "language": "Python",
+    "stars": "33200",
+    "forks": "3746",
+    "increased": "3863 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Yeachan-Heo",
+        "avatar": "https://avatars.githubusercontent.com/u/54757707?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/riftzen-bit",
+        "avatar": "https://avatars.githubusercontent.com/u/139470135?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/devseunggwan",
+        "avatar": "https://avatars.githubusercontent.com/u/60123681?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/shaun0927",
+        "avatar": "https://avatars.githubusercontent.com/u/70629228?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Yeachan-Heo/oh-my-claudecode",
+    "name": "Yeachan-Heo/oh-my-claudecode",
+    "description": "Teams-first Multi-agent orchestration for Claude Code  ",
+    "language": "TypeScript",
+    "stars": "19149",
+    "forks": "1439",
+    "increased": "1126 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/shanraisshan",
+        "avatar": "https://avatars.githubusercontent.com/u/11731897?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/neutmute",
+        "avatar": "https://avatars.githubusercontent.com/u/1303131?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/shayangd",
+        "avatar": "https://avatars.githubusercontent.com/u/192189596?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/shanraisshan/claude-code-best-practice",
+    "name": "shanraisshan/claude-code-best-practice",
+    "description": "practice made claude perfect  ",
+    "language": "HTML",
+    "stars": "28767",
+    "forks": "2427",
+    "increased": "2407 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/teknium1",
+        "avatar": "https://avatars.githubusercontent.com/u/127238744?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/0xbyt4",
+        "avatar": "https://avatars.githubusercontent.com/u/35742124?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kshitijk4poor",
+        "avatar": "https://avatars.githubusercontent.com/u/82637225?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/aydnOktay",
+        "avatar": "https://avatars.githubusercontent.com/u/113846926?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ygd58",
+        "avatar": "https://avatars.githubusercontent.com/u/78954051?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/NousResearch/hermes-agent",
+    "name": "NousResearch/hermes-agent",
+    "description": "The agent that grows with you  ",
+    "language": "Python",
+    "stars": "20424",
+    "forks": "2475",
+    "increased": "1907 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/obra",
+        "avatar": "https://avatars.githubusercontent.com/u/45416?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/arittr",
+        "avatar": "https://avatars.githubusercontent.com/u/5742859?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/clkao",
+        "avatar": "https://avatars.githubusercontent.com/u/69736?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jjshanks",
+        "avatar": "https://avatars.githubusercontent.com/u/62661?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/obra/superpowers",
+    "name": "obra/superpowers",
+    "description": "An agentic skills framework &amp; software development methodology that works.  ",
+    "language": "Shell",
+    "stars": "128244",
+    "forks": "10491",
+    "increased": "2620 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/actions-user",
+        "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ultmaster",
+        "avatar": "https://avatars.githubusercontent.com/u/8463288?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/acured",
+        "avatar": "https://avatars.githubusercontent.com/u/10276763?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/wizardlancet",
+        "avatar": "https://avatars.githubusercontent.com/u/5806609?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/microsoft/agent-lightning",
+    "name": "microsoft/agent-lightning",
+    "description": "The absolute trainer to light up AI agents.  ",
+    "language": "Python",
+    "stars": "16239",
+    "forks": "1400",
+    "increased": "130 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/LDOUBLEV",
+        "avatar": "https://avatars.githubusercontent.com/u/26592129?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/WenmuZhou",
+        "avatar": "https://avatars.githubusercontent.com/u/12406017?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/MissPenguin",
+        "avatar": "https://avatars.githubusercontent.com/u/25809855?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tink2123",
+        "avatar": "https://avatars.githubusercontent.com/u/31891223?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/PaddlePaddle/PaddleOCR",
+    "name": "PaddlePaddle/PaddleOCR",
+    "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.  ",
+    "language": "Python",
+    "stars": "74220",
+    "forks": "10119",
+    "increased": "439 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Dimillian",
+        "avatar": "https://avatars.githubusercontent.com/u/535509?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/popey",
+        "avatar": "https://avatars.githubusercontent.com/u/1841272?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/musiienko",
+        "avatar": "https://avatars.githubusercontent.com/u/4600011?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Dimillian/Skills",
+    "name": "Dimillian/Skills",
+    "description": "My Codex Skills  ",
+    "language": "Shell",
+    "stars": "2877",
+    "forks": "151",
+    "increased": "115 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/sdushantha",
+        "avatar": "https://avatars.githubusercontent.com/u/27065646?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/hoadlck",
+        "avatar": "https://avatars.githubusercontent.com/u/1666888?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ppfeister",
+        "avatar": "https://avatars.githubusercontent.com/u/33327613?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/TheYahya",
+        "avatar": "https://avatars.githubusercontent.com/u/15307244?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Czechball",
+        "avatar": "https://avatars.githubusercontent.com/u/13371865?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/sherlock-project/sherlock",
+    "name": "sherlock-project/sherlock",
+    "description": "Hunt down social media accounts by username across social networks  ",
+    "language": "Python",
+    "stars": "75565",
+    "forks": "8883",
+    "increased": "865 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/zeertzjq",
+        "avatar": "https://avatars.githubusercontent.com/u/35768171?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/justinmk",
+        "avatar": "https://avatars.githubusercontent.com/u/1359421?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/janlazo",
+        "avatar": "https://avatars.githubusercontent.com/u/8740057?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bfredl",
+        "avatar": "https://avatars.githubusercontent.com/u/1363104?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/clason",
+        "avatar": "https://avatars.githubusercontent.com/u/2361214?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/neovim/neovim",
+    "name": "neovim/neovim",
+    "description": "Vim-fork focused on extensibility and usability  ",
+    "language": "Vim Script",
+    "stars": "97950",
+    "forks": "6709",
+    "increased": "93 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/vas3k",
+        "avatar": "https://avatars.githubusercontent.com/u/176344?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/H1D",
+        "avatar": "https://avatars.githubusercontent.com/u/697625?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/danfimov",
+        "avatar": "https://avatars.githubusercontent.com/u/32870032?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mmplisskin",
+        "avatar": "https://avatars.githubusercontent.com/u/7832832?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/vas3k/TaxHacker",
+    "name": "vas3k/TaxHacker",
+    "description": "Self-hosted AI accounting app. LLM analyzer for receipts, invoices, transactions with custom prompts and categories  ",
+    "language": "TypeScript",
+    "stars": "3755",
+    "forks": "596",
+    "increased": "318 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/thinkwee",
+        "avatar": "https://avatars.githubusercontent.com/u/11889052?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/NA-Wen",
+        "avatar": "https://avatars.githubusercontent.com/u/92134380?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Alphamasterliu",
+        "avatar": "https://avatars.githubusercontent.com/u/110011045?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/LaansDole",
+        "avatar": "https://avatars.githubusercontent.com/u/85084360?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/zxrys",
+        "avatar": "https://avatars.githubusercontent.com/u/115414113?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/OpenBMB/ChatDev",
+    "name": "OpenBMB/ChatDev",
+    "description": "ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration  ",
+    "language": "Python",
+    "stars": "32430",
+    "forks": "3995",
+    "increased": "84 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/jwasham",
+        "avatar": "https://avatars.githubusercontent.com/u/3771963?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Anri-Lombard",
+        "avatar": "https://avatars.githubusercontent.com/u/76818211?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/avizmarlon",
+        "avatar": "https://avatars.githubusercontent.com/u/24354489?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/esaucedof",
+        "avatar": "https://avatars.githubusercontent.com/u/13459501?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Ilyushin",
+        "avatar": "https://avatars.githubusercontent.com/u/4519586?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/jwasham/coding-interview-university",
+    "name": "jwasham/coding-interview-university",
+    "description": "A complete computer science study plan to become a software engineer.  ",
+    "stars": "339663",
+    "forks": "81779",
+    "increased": "873 stars today"
+  }
+]

@@ -1,0 +1,420 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/mvanhorn",
+        "avatar": "https://avatars.githubusercontent.com/u/455140?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/j-sperling",
+        "avatar": "https://avatars.githubusercontent.com/u/17969723?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/phjlljp",
+        "avatar": "https://avatars.githubusercontent.com/u/76761332?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/iliaal",
+        "avatar": "https://avatars.githubusercontent.com/u/158724?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/mvanhorn/last30days-skill",
+    "name": "mvanhorn/last30days-skill",
+    "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary  ",
+    "language": "Python",
+    "stars": "16905",
+    "forks": "1347",
+    "increased": "11933 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/YaoyaoChang",
+        "avatar": "https://avatars.githubusercontent.com/u/20237658?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/MSLDCherryPick",
+        "avatar": "https://avatars.githubusercontent.com/u/173002764?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/MSJwyu",
+        "avatar": "https://avatars.githubusercontent.com/u/39176643?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pengzhiliang",
+        "avatar": "https://avatars.githubusercontent.com/u/26346329?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/microsoft/VibeVoice",
+    "name": "microsoft/VibeVoice",
+    "description": "Open-Source Frontier Voice AI  ",
+    "language": "Python",
+    "stars": "33200",
+    "forks": "3746",
+    "increased": "8327 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/hacksider",
+        "avatar": "https://avatars.githubusercontent.com/u/1267200?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/KRSHH",
+        "avatar": "https://avatars.githubusercontent.com/u/136873090?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/vic4key",
+        "avatar": "https://avatars.githubusercontent.com/u/5672864?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/laurigates",
+        "avatar": "https://avatars.githubusercontent.com/u/13014001?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pereiraroland26",
+        "avatar": "https://avatars.githubusercontent.com/u/52257639?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/hacksider/Deep-Live-Cam",
+    "name": "hacksider/Deep-Live-Cam",
+    "description": "real time face swap and one-click video deepfake with only a single image  ",
+    "language": "Python",
+    "stars": "87057",
+    "forks": "12627",
+    "increased": "6693 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/MagicCube",
+        "avatar": "https://avatars.githubusercontent.com/u/1003147?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/WillemJiang",
+        "avatar": "https://avatars.githubusercontent.com/u/219644?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/hetaoBackend",
+        "avatar": "https://avatars.githubusercontent.com/u/45447813?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/henry-byted",
+        "avatar": "https://avatars.githubusercontent.com/u/209858577?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/bytedance/deer-flow",
+    "name": "bytedance/deer-flow",
+    "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.  ",
+    "language": "Python",
+    "stars": "55300",
+    "forks": "6705",
+    "increased": "13560 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/conglu1997",
+        "avatar": "https://avatars.githubusercontent.com/u/20336225?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kotama7",
+        "avatar": "https://avatars.githubusercontent.com/u/104612339?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/runopti",
+        "avatar": "https://avatars.githubusercontent.com/u/6688737?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/RobertTLange",
+        "avatar": "https://avatars.githubusercontent.com/u/20374662?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Shawn-Hwang",
+        "avatar": "https://avatars.githubusercontent.com/u/62516342?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/SakanaAI/AI-Scientist-v2",
+    "name": "SakanaAI/AI-Scientist-v2",
+    "description": "The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search  ",
+    "language": "Python",
+    "stars": "4217",
+    "forks": "617",
+    "increased": "1814 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Yeachan-Heo",
+        "avatar": "https://avatars.githubusercontent.com/u/54757707?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/riftzen-bit",
+        "avatar": "https://avatars.githubusercontent.com/u/139470135?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/devseunggwan",
+        "avatar": "https://avatars.githubusercontent.com/u/60123681?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/shaun0927",
+        "avatar": "https://avatars.githubusercontent.com/u/70629228?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Yeachan-Heo/oh-my-claudecode",
+    "name": "Yeachan-Heo/oh-my-claudecode",
+    "description": "Teams-first Multi-agent orchestration for Claude Code  ",
+    "language": "TypeScript",
+    "stars": "19149",
+    "forks": "1439",
+    "increased": "6933 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/wass08",
+        "avatar": "https://avatars.githubusercontent.com/u/6551176?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Aymericr",
+        "avatar": "https://avatars.githubusercontent.com/u/4444492?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/anton-pascal",
+        "avatar": "https://avatars.githubusercontent.com/u/257628774?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/open-pascal",
+        "avatar": "https://avatars.githubusercontent.com/u/271033448?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/pascalorg/editor",
+    "name": "pascalorg/editor",
+    "description": "Create and share 3D architectural projects.  ",
+    "language": "TypeScript",
+    "stars": "8803",
+    "forks": "1136",
+    "increased": "4584 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/teknium1",
+        "avatar": "https://avatars.githubusercontent.com/u/127238744?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/0xbyt4",
+        "avatar": "https://avatars.githubusercontent.com/u/35742124?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kshitijk4poor",
+        "avatar": "https://avatars.githubusercontent.com/u/82637225?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/aydnOktay",
+        "avatar": "https://avatars.githubusercontent.com/u/113846926?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ygd58",
+        "avatar": "https://avatars.githubusercontent.com/u/78954051?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/NousResearch/hermes-agent",
+    "name": "NousResearch/hermes-agent",
+    "description": "The agent that grows with you  ",
+    "language": "Python",
+    "stars": "20424",
+    "forks": "2475",
+    "increased": "7539 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/obra",
+        "avatar": "https://avatars.githubusercontent.com/u/45416?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/arittr",
+        "avatar": "https://avatars.githubusercontent.com/u/5742859?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/clkao",
+        "avatar": "https://avatars.githubusercontent.com/u/69736?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jjshanks",
+        "avatar": "https://avatars.githubusercontent.com/u/62661?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/obra/superpowers",
+    "name": "obra/superpowers",
+    "description": "An agentic skills framework &amp; software development methodology that works.  ",
+    "language": "Shell",
+    "stars": "128244",
+    "forks": "10491",
+    "increased": "18021 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/affaan-m",
+        "avatar": "https://avatars.githubusercontent.com/u/124439313?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pangerlkr",
+        "avatar": "https://avatars.githubusercontent.com/u/73515951?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/affaan-m/everything-claude-code",
+    "name": "affaan-m/everything-claude-code",
+    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.  ",
+    "language": "JavaScript",
+    "stars": "127137",
+    "forks": "17503",
+    "increased": "19869 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Yijia-Xiao",
+        "avatar": "https://avatars.githubusercontent.com/u/48253104?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/EdwardoSunny",
+        "avatar": "https://avatars.githubusercontent.com/u/68405458?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/luohy15",
+        "avatar": "https://avatars.githubusercontent.com/u/15189961?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/CadeYu",
+        "avatar": "https://avatars.githubusercontent.com/u/91041827?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/TauricResearch/TradingAgents",
+    "name": "TauricResearch/TradingAgents",
+    "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework  ",
+    "language": "Python",
+    "stars": "45218",
+    "forks": "8176",
+    "increased": "4848 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/cpfiffer",
+        "avatar": "https://avatars.githubusercontent.com/u/422990?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/letta-code",
+        "avatar": "https://avatars.githubusercontent.com/u/248085862?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/scrossle",
+        "avatar": "https://avatars.githubusercontent.com/u/50788941?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cpacker",
+        "avatar": "https://avatars.githubusercontent.com/u/5475622?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/letta-ai/claude-subconscious",
+    "name": "letta-ai/claude-subconscious",
+    "description": "Give Claude Code a subconscious  ",
+    "language": "TypeScript",
+    "stars": "2472",
+    "forks": "176",
+    "increased": "1258 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/jakeaturner",
+        "avatar": "https://avatars.githubusercontent.com/u/52841588?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/chriscrosstalk",
+        "avatar": "https://avatars.githubusercontent.com/u/49691103?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cosmistack-bot",
+        "avatar": "https://avatars.githubusercontent.com/u/175166532?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Crosstalk-Solutions/project-nomad",
+    "name": "Crosstalk-Solutions/project-nomad",
+    "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.  ",
+    "language": "TypeScript",
+    "stars": "20715",
+    "forks": "1961",
+    "increased": "6272 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/jingyaogong",
+        "avatar": "https://avatars.githubusercontent.com/u/62287848?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/iomgaa-ycz",
+        "avatar": "https://avatars.githubusercontent.com/u/124225682?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/readlnh",
+        "avatar": "https://avatars.githubusercontent.com/u/16349082?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/wangzhaode",
+        "avatar": "https://avatars.githubusercontent.com/u/8401806?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/yuyu5333",
+        "avatar": "https://avatars.githubusercontent.com/u/77156718?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/jingyaogong/minimind",
+    "name": "jingyaogong/minimind",
+    "description": "🚀🚀 「大模型」2小时完全从0训练64M的小参数GPT！🌏 Train a 64M-pa rameter GPT from scratch in just 2h!  ",
+    "language": "Python",
+    "stars": "45129",
+    "forks": "5456",
+    "increased": "2039 stars this week"
+  }
+]
