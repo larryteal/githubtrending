@@ -1,0 +1,207 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/actions-user",
+        "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bcherny",
+        "avatar": "https://avatars.githubusercontent.com/u/1761758?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ant-kurt",
+        "avatar": "https://avatars.githubusercontent.com/u/209710463?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ashwin-ant",
+        "avatar": "https://avatars.githubusercontent.com/u/178951676?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/anthropics/claude-code",
+    "name": "anthropics/claude-code",
+    "description": "Claude Code is an agentic codi ng tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.  ",
+    "language": "Shell",
+    "stars": "101028",
+    "forks": "15624",
+    "increased": "10749 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/YaoyaoChang",
+        "avatar": "https://avatars.githubusercontent.com/u/20237658?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/MSLDCherryPick",
+        "avatar": "https://avatars.githubusercontent.com/u/173002764?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pengzhiliang",
+        "avatar": "https://avatars.githubusercontent.com/u/26346329?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/MSJwyu",
+        "avatar": "https://avatars.githubusercontent.com/u/39176643?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/microsoft/VibeVoice",
+    "name": "microsoft/VibeVoice",
+    "description": "Open-Source Frontier Voice AI  ",
+    "language": "Python",
+    "stars": "34463",
+    "forks": "3922",
+    "increased": "1685 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/rajatsen91",
+        "avatar": "https://avatars.githubusercontent.com/u/8039264?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/siriuz42",
+        "avatar": "https://avatars.githubusercontent.com/u/5073569?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/misha-chertushkin",
+        "avatar": "https://avatars.githubusercontent.com/u/151166456?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/JustinGuese",
+        "avatar": "https://avatars.githubusercontent.com/u/9588843?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kashif",
+        "avatar": "https://avatars.githubusercontent.com/u/8100?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/google-research/timesfm",
+    "name": "google-research/timesfm",
+    "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.  ",
+    "language": "Python",
+    "stars": "12147",
+    "forks": "1001",
+    "increased": "380 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/luongnv89",
+        "avatar": "https://avatars.githubusercontent.com/u/3288457?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/wjhrdy",
+        "avatar": "https://avatars.githubusercontent.com/u/1795778?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/VikalpP",
+        "avatar": "https://avatars.githubusercontent.com/u/11846339?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/luongnv89/claude-howto",
+    "name": "luongnv89/claude-howto",
+    "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.  ",
+    "language": "Python",
+    "stars": "15635",
+    "forks": "1801",
+    "increased": "3301 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/jasonsaayman",
+        "avatar": "https://avatars.githubusercontent.com/u/4814473?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mzabriskie",
+        "avatar": "https://avatars.githubusercontent.com/u/199035?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/DigitalBrainJS",
+        "avatar": "https://avatars.githubusercontent.com/u/12586868?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/nickuraltsev",
+        "avatar": "https://avatars.githubusercontent.com/u/6316432?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/axios/axios",
+    "name": "axios/axios",
+    "description": "Promise based HTTP client for the browser and node.js  ",
+    "language": "JavaScript",
+    "stars": "108870",
+    "forks": "11585",
+    "increased": "93 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/bolinfest",
+        "avatar": "https://avatars.githubusercontent.com/u/655869?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jif-oai",
+        "avatar": "https://avatars.githubusercontent.com/u/230027070?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/aibrahim-oai",
+        "avatar": "https://avatars.githubusercontent.com/u/219906144?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pakrym-oai",
+        "avatar": "https://avatars.githubusercontent.com/u/204937752?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/etraut-openai",
+        "avatar": "https://avatars.githubusercontent.com/u/223546144?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/openai/codex",
+    "name": "openai/codex",
+    "description": "Lightweight coding agent that runs in your terminal  ",
+    "language": "Rust",
+    "stars": "71752",
+    "forks": "10036",
+    "increased": "2390 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/f",
+        "avatar": "https://avatars.githubusercontent.com/u/196477?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/devisasari",
+        "avatar": "https://avatars.githubusercontent.com/u/99514353?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/giorgiop",
+        "avatar": "https://avatars.githubusercontent.com/u/2871319?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sinansonmez",
+        "avatar": "https://avatars.githubusercontent.com/u/37421564?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/wkaandemir",
+        "avatar": "https://avatars.githubusercontent.com/u/146492433?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/f/prompts.chat",
+    "name": "f/prompts.chat",
+    "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.  ",
+    "language": "HTML",
+    "stars": "156038",
+    "forks": "20488",
+    "increased": "398 stars today"
+  }
+]
