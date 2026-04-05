@@ -1,0 +1,238 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Blaizzy",
+        "avatar": "https://avatars.githubusercontent.com/u/23445657?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pcuenca",
+        "avatar": "https://avatars.githubusercontent.com/u/1177582?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/neilmehta24",
+        "avatar": "https://avatars.githubusercontent.com/u/173081182?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/viktike",
+        "avatar": "https://avatars.githubusercontent.com/u/22846023?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Blaizzy/mlx-vlm",
+    "name": "Blaizzy/mlx-vlm",
+    "description": "MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX.  ",
+    "language": "Python",
+    "stars": "3611",
+    "forks": "397",
+    "increased": "343 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Weves",
+        "avatar": "https://avatars.githubusercontent.com/u/25087905?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/yuhongsun96",
+        "avatar": "https://avatars.githubusercontent.com/u/32520769?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pablonyx",
+        "avatar": "https://avatars.githubusercontent.com/u/171597620?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jmelahman",
+        "avatar": "https://avatars.githubusercontent.com/u/23436978?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/onyx-dot-app/onyx",
+    "name": "onyx-dot-app/onyx",
+    "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM   ",
+    "language": "Python",
+    "stars": "24274",
+    "forks": "3255",
+    "increased": "1197 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Yeachan-Heo",
+        "avatar": "https://avatars.githubusercontent.com/u/54757707?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/HaD0Yun",
+        "avatar": "https://avatars.githubusercontent.com/u/102889891?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/junhoyeo",
+        "avatar": "https://avatars.githubusercontent.com/u/32605822?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Yeachan-Heo/oh-my-codex",
+    "name": "Yeachan-Heo/oh-my-codex",
+    "description": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.  ",
+    "language": "TypeScript",
+    "stars": "15680",
+    "forks": "1471",
+    "increased": "1789 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/siddharthvaddem",
+        "avatar": "https://avatars.githubusercontent.com/u/70214527?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/EtienneLescot",
+        "avatar": "https://avatars.githubusercontent.com/u/215859519?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/prayaslashkari",
+        "avatar": "https://avatars.githubusercontent.com/u/25193916?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/marcusschiesser",
+        "avatar": "https://avatars.githubusercontent.com/u/17126?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/FabLrc",
+        "avatar": "https://avatars.githubusercontent.com/u/86679051?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/siddharthvaddem/openscreen",
+    "name": "siddharthvaddem/openscreen",
+    "description": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.  ",
+    "language": "TypeScript",
+    "stars": "19996",
+    "forks": "2",
+    "increased": "1591 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/john-preston",
+        "avatar": "https://avatars.githubusercontent.com/u/17900494?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/23rd",
+        "avatar": "https://avatars.githubusercontent.com/u/4051126?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ilya-fedin",
+        "avatar": "https://avatars.githubusercontent.com/u/17829319?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/auchri",
+        "avatar": "https://avatars.githubusercontent.com/u/5092164?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/telegramdesktop/tdesktop",
+    "name": "telegramdesktop/tdesktop",
+    "description": "Telegram Desktop messaging app  ",
+    "language": "C++",
+    "stars": "30840",
+    "forks": "6519",
+    "increased": "249 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/EbonyLouis",
+        "avatar": "https://avatars.githubusercontent.com/u/55366651?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/blackgirlbytes",
+        "avatar": "https://avatars.githubusercontent.com/u/22990146?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/angiejones",
+        "avatar": "https://avatars.githubusercontent.com/u/15972783?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dianed-square",
+        "avatar": "https://avatars.githubusercontent.com/u/73617011?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/michaelneale",
+        "avatar": "https://avatars.githubusercontent.com/u/14976?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/block/goose",
+    "name": "block/goose",
+    "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM  ",
+    "language": "Rust",
+    "stars": "35713",
+    "forks": "3349",
+    "increased": "935 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/eavanvalkenburg",
+        "avatar": "https://avatars.githubusercontent.com/u/13749212?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/westey-m",
+        "avatar": "https://avatars.githubusercontent.com/u/164392973?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/moonbox3",
+        "avatar": "https://avatars.githubusercontent.com/u/35585003?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dmytrostruk",
+        "avatar": "https://avatars.githubusercontent.com/u/13853051?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/microsoft/agent-framework",
+    "name": "microsoft/agent-framework",
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET.  ",
+    "language": "Python",
+    "stars": "8713",
+    "forks": "1434",
+    "increased": "72 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/sdushantha",
+        "avatar": "https://avatars.githubusercontent.com/u/27065646?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/hoadlck",
+        "avatar": "https://avatars.githubusercontent.com/u/1666888?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ppfeister",
+        "avatar": "https://avatars.githubusercontent.com/u/33327613?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/TheYahya",
+        "avatar": "https://avatars.githubusercontent.com/u/15307244?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Czechball",
+        "avatar": "https://avatars.githubusercontent.com/u/13371865?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/sherlock-project/sherlock",
+    "name": "sherlock-project/sherlock",
+    "description": "Hunt down social media accounts by username across social networks  ",
+    "language": "Python",
+    "stars": "79386",
+    "forks": "9250",
+    "increased": "994 stars today"
+  }
+]
