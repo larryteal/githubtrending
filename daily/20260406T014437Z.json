@@ -1,0 +1,291 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/jinjingforever",
+        "avatar": "https://avatars.githubusercontent.com/u/8752427?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/yishuangP",
+        "avatar": "https://avatars.githubusercontent.com/u/6421220?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/whhone",
+        "avatar": "https://avatars.githubusercontent.com/u/1200104?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ymodak",
+        "avatar": "https://avatars.githubusercontent.com/u/42785357?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/google-ai-edge/gallery",
+    "name": "google-ai-edge/gallery",
+    "description": "A gallery that showcases on-device ML/GenAI use c ases and allows people t o try and use models locally.  ",
+    "language": "Kotlin",
+    "stars": "16987",
+    "forks": "1559",
+    "increased": "389 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Blaizzy",
+        "avatar": "https://avatars.githubusercontent.com/u/23445657?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pcuenca",
+        "avatar": "https://avatars.githubusercontent.com/u/1177582?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/neilmehta24",
+        "avatar": "https://avatars.githubusercontent.com/u/173081182?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/viktike",
+        "avatar": "https://avatars.githubusercontent.com/u/22846023?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Blaizzy/mlx-vlm",
+    "name": "Blaizzy/mlx-vlm",
+    "description": "MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX.  ",
+    "language": "Python",
+    "stars": "3943",
+    "forks": "421",
+    "increased": "416 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/siddharthvaddem",
+        "avatar": "https://avatars.githubusercontent.com/u/70214527?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/EtienneLescot",
+        "avatar": "https://avatars.githubusercontent.com/u/215859519?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/prayaslashkari",
+        "avatar": "https://avatars.githubusercontent.com/u/25193916?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/marcusschiesser",
+        "avatar": "https://avatars.githubusercontent.com/u/17126?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/FabLrc",
+        "avatar": "https://avatars.githubusercontent.com/u/86679051?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/siddharthvaddem/openscreen",
+    "name": "siddharthvaddem/openscreen",
+    "description": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.  ",
+    "language": "TypeScript",
+    "stars": "22590",
+    "forks": "1508",
+    "increased": "2749 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/EbonyLouis",
+        "avatar": "https://avatars.githubusercontent.com/u/55366651?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/blackgirlbytes",
+        "avatar": "https://avatars.githubusercontent.com/u/22990146?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/angiejones",
+        "avatar": "https://avatars.githubusercontent.com/u/15972783?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dianed-square",
+        "avatar": "https://avatars.githubusercontent.com/u/73617011?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/michaelneale",
+        "avatar": "https://avatars.githubusercontent.com/u/14976?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/block/goose",
+    "name": "block/goose",
+    "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM  ",
+    "language": "Rust",
+    "stars": "37078",
+    "forks": "3550",
+    "increased": "882 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Weves",
+        "avatar": "https://avatars.githubusercontent.com/u/25087905?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/yuhongsun96",
+        "avatar": "https://avatars.githubusercontent.com/u/32520769?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pablonyx",
+        "avatar": "https://avatars.githubusercontent.com/u/171597620?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jmelahman",
+        "avatar": "https://avatars.githubusercontent.com/u/23436978?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/onyx-dot-app/onyx",
+    "name": "onyx-dot-app/onyx",
+    "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM  ",
+    "language": "Python",
+    "stars": "25053",
+    "forks": "3350",
+    "increased": "998 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/badlogic",
+        "avatar": "https://avatars.githubusercontent.com/u/514052?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/hjanuschka",
+        "avatar": "https://avatars.githubusercontent.com/u/2891702?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/markusylisiurunen",
+        "avatar": "https://avatars.githubusercontent.com/u/8409947?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/aliou",
+        "avatar": "https://avatars.githubusercontent.com/u/980367?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/badlogic/pi-mono",
+    "name": "badlogic/pi-mono",
+    "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI &amp; web UI libraries, Slack bot, vLLM pods  ",
+    "language": "TypeScript",
+    "stars": "31930",
+    "forks": "3477",
+    "increased": "355 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/dmtrKovalenko",
+        "avatar": "https://avatars.githubusercontent.com/u/16926049?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sQVe",
+        "avatar": "https://avatars.githubusercontent.com/u/2284724?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/WillLillis",
+        "avatar": "https://avatars.githubusercontent.com/u/87077023?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/disrupted",
+        "avatar": "https://avatars.githubusercontent.com/u/4771462?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/dmtrKovalenko/fff.nvim",
+    "name": "dmtrKovalenko/fff.nvim",
+    "description": "The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS  ",
+    "language": "Rust",
+    "stars": "3706",
+    "forks": "150",
+    "increased": "76 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ai-edge-bot",
+        "avatar": "https://avatars.githubusercontent.com/u/154857592?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/protobird-git",
+        "avatar": "https://avatars.githubusercontent.com/u/24595549?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/whhone",
+        "avatar": "https://avatars.githubusercontent.com/u/1200104?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/matthewchan-g",
+        "avatar": "https://avatars.githubusercontent.com/u/188274809?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/hheydary",
+        "avatar": "https://avatars.githubusercontent.com/u/111377877?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/google-ai-edge/LiteRT-LM",
+    "name": "google-ai-edge/LiteRT-LM",
+    "language": "C++",
+    "stars": "1579",
+    "forks": "185",
+    "increased": "124 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/john-preston",
+        "avatar": "https://avatars.githubusercontent.com/u/17900494?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/23rd",
+        "avatar": "https://avatars.githubusercontent.com/u/4051126?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ilya-fedin",
+        "avatar": "https://avatars.githubusercontent.com/u/17829319?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/auchri",
+        "avatar": "https://avatars.githubusercontent.com/u/5092164?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/telegramdesktop/tdesktop",
+    "name": "telegramdesktop/tdesktop",
+    "description": "Telegram Desktop messaging app  ",
+    "language": "C++",
+    "stars": "31078",
+    "forks": "6538",
+    "increased": "287 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ojeytonwilliams",
+        "avatar": "https://avatars.githubusercontent.com/u/15801806?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/raisedadead",
+        "avatar": "https://avatars.githubusercontent.com/u/1884376?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/camperbot",
+        "avatar": "https://avatars.githubusercontent.com/u/13561988?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/renovate-bot",
+        "avatar": "https://avatars.githubusercontent.com/u/25180681?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "name": "freeCodeCamp/freeCodeCamp",
+    "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.  ",
+    "language": "TypeScript",
+    "stars": "441522",
+    "forks": "44105",
+    "increased": "335 stars today"
+  }
+]
