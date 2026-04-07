@@ -1,0 +1,395 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/abhigyanpatwari",
+        "avatar": "https://avatars.githubusercontent.com/u/126312502?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/magyargergo",
+        "avatar": "https://avatars.githubusercontent.com/u/11230420?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/naicud",
+        "avatar": "https://avatars.githubusercontent.com/u/55764723?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/zander-raycraft",
+        "avatar": "https://avatars.githubusercontent.com/u/99677330?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/abhigyanpatwari/GitNexus",
+    "name": "abhigyanpatwari/GitNexus",
+    "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration  ",
+    "language": "TypeScript",
+    "stars": "23476",
+    "forks": "2644",
+    "increased": "857 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/jinjingforever",
+        "avatar": "https://avatars.githubusercontent.com/u/8752427?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/yishuangP",
+        "avatar": "https://avatars.githubusercontent.com/u/6421220?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/whhone",
+        "avatar": "https://avatars.githubusercontent.com/u/1200104?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ymodak",
+        "avatar": "https://avatars.githubusercontent.com/u/42785357?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/google-ai-edge/gallery",
+    "name": "google-ai-edge/gallery",
+    "description": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.  ",
+    "language": "Kotlin",
+    "stars": "17885",
+    "forks": "1660",
+    "increased": "1107 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ai-edge-bot",
+        "avatar": "https://avatars.githubusercontent.com/u/154857592?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/protobird-git",
+        "avatar": "https://avatars.githubusercontent.com/u/24595549?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/whhone",
+        "avatar": "https://avatars.githubusercontent.com/u/1200104?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/matthewchan-g",
+        "avatar": "https://avatars.githubusercontent.com/u/188274809?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/hheydary",
+        "avatar": "https://avatars.githubusercontent.com/u/111377877?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/google-ai-edge/LiteRT-LM",
+    "name": "google-ai-edge/LiteRT-LM",
+    "language": "C++",
+    "stars": "2024",
+    "forks": "212",
+    "increased": "483 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/alextran1502",
+        "avatar": "https://avatars.githubusercontent.com/u/27055614?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jrasm91",
+        "avatar": "https://avatars.githubusercontent.com/u/4334196?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mertalev",
+        "avatar": "https://avatars.githubusercontent.com/u/101130780?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/danieldietzler",
+        "avatar": "https://avatars.githubusercontent.com/u/36593685?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/immich-app/immich",
+    "name": "immich-app/immich",
+    "description": "High performance self-hosted photo and video management solution.  ",
+    "language": "TypeScript",
+    "stars": "96873",
+    "forks": "5289",
+    "increased": "152 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ajmallesh",
+        "avatar": "https://avatars.githubusercontent.com/u/178829317?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ezl-keygraph",
+        "avatar": "https://avatars.githubusercontent.com/u/252853768?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/keygraphVarun",
+        "avatar": "https://avatars.githubusercontent.com/u/182007681?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Khaushik-keygraph",
+        "avatar": "https://avatars.githubusercontent.com/u/197124057?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/KeygraphHQ/shannon",
+    "name": "KeygraphHQ/shannon",
+    "description": "Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.  ",
+    "language": "TypeScript",
+    "stars": "36548",
+    "forks": "3831",
+    "increased": "733 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/teknium1",
+        "avatar": "https://avatars.githubusercontent.com/u/127238744?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/0xbyt4",
+        "avatar": "https://avatars.githubusercontent.com/u/35742124?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kshitijk4poor",
+        "avatar": "https://avatars.githubusercontent.com/u/82637225?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/erosika",
+        "avatar": "https://avatars.githubusercontent.com/u/56565191?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/NousResearch/hermes-agent",
+    "name": "NousResearch/hermes-agent",
+    "description": "The agent that grows with you  ",
+    "language": "Python",
+    "stars": "28157",
+    "forks": "3704",
+    "increased": "1574 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/tobi",
+        "avatar": "https://avatars.githubusercontent.com/u/347?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/danmackinlay",
+        "avatar": "https://avatars.githubusercontent.com/u/21740?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/shreyaskarnik",
+        "avatar": "https://avatars.githubusercontent.com/u/311217?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/burke",
+        "avatar": "https://avatars.githubusercontent.com/u/1284?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/tobi/qmd",
+    "name": "tobi/qmd",
+    "description": "mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local  ",
+    "language": "TypeScript",
+    "stars": "18761",
+    "forks": "1142",
+    "increased": "394 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/laktyushin",
+        "avatar": "https://avatars.githubusercontent.com/u/491013?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/overtake",
+        "avatar": "https://avatars.githubusercontent.com/u/1260850?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/smohantty",
+        "avatar": "https://avatars.githubusercontent.com/u/34466874?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/hermet",
+        "avatar": "https://avatars.githubusercontent.com/u/3711518?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/TelegramMessenger/Telegram-iOS",
+    "name": "TelegramMessenger/Telegram-iOS",
+    "description": "Telegram-iOS  ",
+    "language": "Swift",
+    "stars": "8315",
+    "forks": "2530",
+    "increased": "25 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/kepano",
+        "avatar": "https://avatars.githubusercontent.com/u/10565871?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Ethereal49",
+        "avatar": "https://avatars.githubusercontent.com/u/128294874?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/chiahsien",
+        "avatar": "https://avatars.githubusercontent.com/u/1225437?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/popey",
+        "avatar": "https://avatars.githubusercontent.com/u/1841272?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/kepano/obsidian-skills",
+    "name": "kepano/obsidian-skills",
+    "description": "Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON Canvas, and use the CLI.  ",
+    "stars": "20570",
+    "forks": "1273",
+    "increased": "429 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/mxyng",
+        "avatar": "https://avatars.githubusercontent.com/u/2372640?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jmorganca",
+        "avatar": "https://avatars.githubusercontent.com/u/251292?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dhiltgen",
+        "avatar": "https://avatars.githubusercontent.com/u/4033016?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/BruceMacD",
+        "avatar": "https://avatars.githubusercontent.com/u/5853428?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jessegross",
+        "avatar": "https://avatars.githubusercontent.com/u/6468499?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/ollama/ollama",
+    "name": "ollama/ollama",
+    "description": "Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.  ",
+    "language": "Go",
+    "stars": "167704",
+    "forks": "15390",
+    "increased": "196 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ggerganov",
+        "avatar": "https://avatars.githubusercontent.com/u/1991296?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ngxson",
+        "avatar": "https://avatars.githubusercontent.com/u/7702203?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/slaren",
+        "avatar": "https://avatars.githubusercontent.com/u/2141330?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/JohannesGaessler",
+        "avatar": "https://avatars.githubusercontent.com/u/18492268?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/CISC",
+        "avatar": "https://avatars.githubusercontent.com/u/1629204?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/ggml-org/llama.cpp",
+    "name": "ggml-org/llama.cpp",
+    "description": "LLM inference in C/C++  ",
+    "language": "C++",
+    "stars": "102049",
+    "forks": "16467",
+    "increased": "267 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/siddharthvaddem",
+        "avatar": "https://avatars.githubusercontent.com/u/70214527?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/EtienneLescot",
+        "avatar": "https://avatars.githubusercontent.com/u/215859519?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/prayaslashkari",
+        "avatar": "https://avatars.githubusercontent.com/u/25193916?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/marcusschiesser",
+        "avatar": "https://avatars.githubusercontent.com/u/17126?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/FabLrc",
+        "avatar": "https://avatars.githubusercontent.com/u/86679051?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/siddharthvaddem/openscreen",
+    "name": "siddharthvaddem/openscreen",
+    "description": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.  ",
+    "language": "TypeScript",
+    "stars": "24020",
+    "forks": "1607",
+    "increased": "1838 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/rajarshiroy-nvidia",
+        "avatar": "https://avatars.githubusercontent.com/u/253125373?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/wachawo",
+        "avatar": "https://avatars.githubusercontent.com/u/167337375?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/grafael",
+        "avatar": "https://avatars.githubusercontent.com/u/7319476?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tsdocode",
+        "avatar": "https://avatars.githubusercontent.com/u/63543442?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jaycoolh",
+        "avatar": "https://avatars.githubusercontent.com/u/188074358?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/NVIDIA/personaplex",
+    "name": "NVIDIA/personaplex",
+    "description": "PersonaPlex code.  ",
+    "language": "Python",
+    "stars": "7365",
+    "forks": "1089",
+    "increased": "295 stars today"
+  }
+]
