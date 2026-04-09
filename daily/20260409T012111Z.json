@@ -1,0 +1,320 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/forrestchang",
+        "avatar": "https://avatars.githubusercontent.com/u/7857126?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/back1ply",
+        "avatar": "https://avatars.githubusercontent.com/u/45536170?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/szkocot",
+        "avatar": "https://avatars.githubusercontent.com/u/478549?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/TomBener",
+        "avatar": "https://avatars.githubusercontent.com/u/49151155?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/forrestchang/andrej-karpathy-skills",
+    "name": "forrestchang/andrej-karpathy-skills",
+    "stars": "9016",
+    "forks": "625",
+    "increased": "702 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/TheCraigHewitt",
+        "avatar": "https://avatars.githubusercontent.com/u/4099171?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/TheCraigHewitt/seomachine",
+    "name": "TheCraigHewitt/seomachine",
+    "description": "A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience.  ",
+    "language": "Python",
+    "stars": "4595",
+    "forks": "711",
+    "increased": "649 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/jinjingforever",
+        "avatar": "https://avatars.githubusercontent.com/u/8752427?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/yishuangP",
+        "avatar": "https://avatars.githubusercontent.com/u/6421220?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/whhone",
+        "avatar": "https://avatars.githubusercontent.com/u/1200104?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ymodak",
+        "avatar": "https://avatars.githubusercontent.com/u/42785357?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/google-ai-edge/gallery",
+    "name": "google-ai-edge/gallery",
+    "description": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.  ",
+    "language": "Kotlin",
+    "stars": "19516",
+    "forks": "1820",
+    "increased": "853 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/rajarshiroy-nvidia",
+        "avatar": "https://avatars.githubusercontent.com/u/253125373?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/wachawo",
+        "avatar": "https://avatars.githubusercontent.com/u/167337375?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/grafael",
+        "avatar": "https://avatars.githubusercontent.com/u/7319476?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tsdocode",
+        "avatar": "https://avatars.githubusercontent.com/u/63543442?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jaycoolh",
+        "avatar": "https://avatars.githubusercontent.com/u/188074358?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/NVIDIA/personaplex",
+    "name": "NVIDIA/personaplex",
+    "description": "PersonaPlex code.  ",
+    "language": "Python",
+    "stars": "8420",
+    "forks": "1205",
+    "increased": "586 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ai-edge-bot",
+        "avatar": "https://avatars.githubusercontent.com/u/154857592?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/protobird-git",
+        "avatar": "https://avatars.githubusercontent.com/u/24595549?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/whhone",
+        "avatar": "https://avatars.githubusercontent.com/u/1200104?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/matthewchan-g",
+        "avatar": "https://avatars.githubusercontent.com/u/188274809?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/hheydary",
+        "avatar": "https://avatars.githubusercontent.com/u/111377877?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/google-ai-edge/LiteRT-LM",
+    "name": "google-ai-edge/LiteRT-LM",
+    "language": "C++",
+    "stars": "2993",
+    "forks": "281",
+    "increased": "501 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/JasonLovesDoggo",
+        "avatar": "https://avatars.githubusercontent.com/u/66544866?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/callumio",
+        "avatar": "https://avatars.githubusercontent.com/u/16057677?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/OpenSourceSimon",
+        "avatar": "https://avatars.githubusercontent.com/u/65854503?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/electro199",
+        "avatar": "https://avatars.githubusercontent.com/u/109358640?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/elebumm/RedditVideoMakerBot",
+    "name": "elebumm/RedditVideoMakerBot",
+    "description": "Create Reddit Videos with just✨ one command ✨  ",
+    "language": "Python",
+    "stars": "10495",
+    "forks": "2578",
+    "increased": "555 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/obra",
+        "avatar": "https://avatars.githubusercontent.com/u/45416?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/arittr",
+        "avatar": "https://avatars.githubusercontent.com/u/5742859?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/clkao",
+        "avatar": "https://avatars.githubusercontent.com/u/69736?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jjshanks",
+        "avatar": "https://avatars.githubusercontent.com/u/62661?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/obra/superpowers",
+    "name": "obra/superpowers",
+    "description": "An agentic skills framework &amp; software development methodology that works.  ",
+    "language": "Shell",
+    "stars": "141558",
+    "forks": "12075",
+    "increased": "2028 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/actions-user",
+        "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/eric-heiden",
+        "avatar": "https://avatars.githubusercontent.com/u/5869435?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/shi-eric",
+        "avatar": "https://avatars.githubusercontent.com/u/97630937?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/adenzler-nvidia",
+        "avatar": "https://avatars.githubusercontent.com/u/116633880?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/vreutskyy",
+        "avatar": "https://avatars.githubusercontent.com/u/33062116?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/newton-physics/newton",
+    "name": "newton-physics/newton",
+    "description": "An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers.  ",
+    "language": "Python",
+    "stars": "4101",
+    "forks": "424",
+    "increased": "91 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/abhigyanpatwari",
+        "avatar": "https://avatars.githubusercontent.com/u/126312502?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/magyargergo",
+        "avatar": "https://avatars.githubusercontent.com/u/11230420?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/naicud",
+        "avatar": "https://avatars.githubusercontent.com/u/55764723?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/zander-raycraft",
+        "avatar": "https://avatars.githubusercontent.com/u/99677330?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/abhigyanpatwari/GitNexus",
+    "name": "abhigyanpatwari/GitNexus",
+    "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration  ",
+    "language": "TypeScript",
+    "stars": "25308",
+    "forks": "2815",
+    "increased": "980 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/virattt",
+        "avatar": "https://avatars.githubusercontent.com/u/901795?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/arsaboo",
+        "avatar": "https://avatars.githubusercontent.com/u/18319734?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/KittatamSaisaard",
+        "avatar": "https://avatars.githubusercontent.com/u/50354903?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jsemldonado",
+        "avatar": "https://avatars.githubusercontent.com/u/172995042?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ak4631",
+        "avatar": "https://avatars.githubusercontent.com/u/132299371?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/virattt/ai-hedge-fund",
+    "name": "virattt/ai-hedge-fund",
+    "description": "An AI Hedge Fund Team  ",
+    "language": "Python",
+    "stars": "50690",
+    "forks": "8794",
+    "increased": "151 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ywk253100",
+        "avatar": "https://avatars.githubusercontent.com/u/5835782?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/reasonerjt",
+        "avatar": "https://avatars.githubusercontent.com/u/2390463?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/wy65701436",
+        "avatar": "https://avatars.githubusercontent.com/u/2841473?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/steven-zou",
+        "avatar": "https://avatars.githubusercontent.com/u/5753287?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/wknet123",
+        "avatar": "https://avatars.githubusercontent.com/u/5027302?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/goharbor/harbor",
+    "name": "goharbor/harbor",
+    "description": "An open source trusted cloud native registry project that stores, signs, and scans content.  ",
+    "language": "Go",
+    "stars": "28126",
+    "forks": "5174",
+    "increased": "42 stars today"
+  }
+]
