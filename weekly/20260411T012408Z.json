@@ -1,0 +1,329 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/jinjingforever",
+        "avatar": "https://avatars.githubusercontent.com/u/8752427?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/yishuangP",
+        "avatar": "https://avatars.githubusercontent.com/u/6421220?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/whhone",
+        "avatar": "https://avatars.githubusercontent.com/u/1200104?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ymodak",
+        "avatar": "https://avatars.githubusercontent.com/u/42785357?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/google-ai-edge/gallery",
+    "name": "google-ai-edge/gallery",
+    "description": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.  ",
+    "language": "Kotlin",
+    "stars": "20222",
+    "forks": "1887",
+    "increased": "4409 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/pancacake",
+        "avatar": "https://avatars.githubusercontent.com/u/150592536?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tusharkhatriofficial",
+        "avatar": "https://avatars.githubusercontent.com/u/64004539?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/scrrlt",
+        "avatar": "https://avatars.githubusercontent.com/u/235653744?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/RinZ27",
+        "avatar": "https://avatars.githubusercontent.com/u/222222878?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/HKUDS/DeepTutor",
+    "name": "HKUDS/DeepTutor",
+    "description": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"  ",
+    "language": "Python",
+    "stars": "15991",
+    "forks": "2103",
+    "increased": "4698 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/teknium1",
+        "avatar": "https://avatars.githubusercontent.com/u/127238744?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/0xbyt4",
+        "avatar": "https://avatars.githubusercontent.com/u/35742124?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kshitijk4poor",
+        "avatar": "https://avatars.githubusercontent.com/u/82637225?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/erosika",
+        "avatar": "https://avatars.githubusercontent.com/u/56565191?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/NousResearch/hermes-agent",
+    "name": "NousResearch/hermes-agent",
+    "description": "The agent that grows with you  ",
+    "language": "Python",
+    "stars": "52097",
+    "forks": "6776",
+    "increased": "26783 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ai-edge-bot",
+        "avatar": "https://avatars.githubusercontent.com/u/154857592?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/protobird-git",
+        "avatar": "https://avatars.githubusercontent.com/u/24595549?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/whhone",
+        "avatar": "https://avatars.githubusercontent.com/u/1200104?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/matthewchan-g",
+        "avatar": "https://avatars.githubusercontent.com/u/188274809?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/hheydary",
+        "avatar": "https://avatars.githubusercontent.com/u/111377877?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/google-ai-edge/LiteRT-LM",
+    "name": "google-ai-edge/LiteRT-LM",
+    "language": "C++",
+    "stars": "3326",
+    "forks": "311",
+    "increased": "2210 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/forrestchang",
+        "avatar": "https://avatars.githubusercontent.com/u/7857126?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/NevilleQingNY",
+        "avatar": "https://avatars.githubusercontent.com/u/145280634?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ldnvnbl",
+        "avatar": "https://avatars.githubusercontent.com/u/3798479?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Bohan-J",
+        "avatar": "https://avatars.githubusercontent.com/u/52446949?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/multica-ai/multica",
+    "name": "multica-ai/multica",
+    "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.  ",
+    "language": "TypeScript",
+    "stars": "6115",
+    "forks": "751",
+    "increased": "3512 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/siddharthvaddem",
+        "avatar": "https://avatars.githubusercontent.com/u/70214527?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/FabLrc",
+        "avatar": "https://avatars.githubusercontent.com/u/86679051?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/EtienneLescot",
+        "avatar": "https://avatars.githubusercontent.com/u/215859519?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/prayaslashkari",
+        "avatar": "https://avatars.githubusercontent.com/u/25193916?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/marcgabe15",
+        "avatar": "https://avatars.githubusercontent.com/u/33824219?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/siddharthvaddem/openscreen",
+    "name": "siddharthvaddem/openscreen",
+    "description": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.  ",
+    "language": "TypeScript",
+    "stars": "27623",
+    "forks": "1850",
+    "increased": "10077 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/forrestchang",
+        "avatar": "https://avatars.githubusercontent.com/u/7857126?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/back1ply",
+        "avatar": "https://avatars.githubusercontent.com/u/45536170?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/szkocot",
+        "avatar": "https://avatars.githubusercontent.com/u/478549?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/TomBener",
+        "avatar": "https://avatars.githubusercontent.com/u/49151155?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/forrestchang/andrej-karpathy-skills",
+    "name": "forrestchang/andrej-karpathy-skills",
+    "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.  ",
+    "stars": "11754",
+    "forks": "774",
+    "increased": "3741 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/rajarshiroy-nvidia",
+        "avatar": "https://avatars.githubusercontent.com/u/253125373?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/wachawo",
+        "avatar": "https://avatars.githubusercontent.com/u/167337375?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/grafael",
+        "avatar": "https://avatars.githubusercontent.com/u/7319476?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tsdocode",
+        "avatar": "https://avatars.githubusercontent.com/u/63543442?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jaycoolh",
+        "avatar": "https://avatars.githubusercontent.com/u/188074358?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/NVIDIA/personaplex",
+    "name": "NVIDIA/personaplex",
+    "description": "PersonaPlex code.  ",
+    "language": "Python",
+    "stars": "8919",
+    "forks": "1258",
+    "increased": "2939 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Weves",
+        "avatar": "https://avatars.githubusercontent.com/u/25087905?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/yuhongsun96",
+        "avatar": "https://avatars.githubusercontent.com/u/32520769?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pablonyx",
+        "avatar": "https://avatars.githubusercontent.com/u/171597620?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jmelahman",
+        "avatar": "https://avatars.githubusercontent.com/u/23436978?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/onyx-dot-app/onyx",
+    "name": "onyx-dot-app/onyx",
+    "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM  ",
+    "language": "Python",
+    "stars": "26425",
+    "forks": "3512",
+    "increased": "3804 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/rajatsen91",
+        "avatar": "https://avatars.githubusercontent.com/u/8039264?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/siriuz42",
+        "avatar": "https://avatars.githubusercontent.com/u/5073569?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/misha-chertushkin",
+        "avatar": "https://avatars.githubusercontent.com/u/151166456?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/JustinGuese",
+        "avatar": "https://avatars.githubusercontent.com/u/9588843?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kashif",
+        "avatar": "https://avatars.githubusercontent.com/u/8100?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/google-research/timesfm",
+    "name": "google-research/timesfm",
+    "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.  ",
+    "language": "Python",
+    "stars": "16270",
+    "forks": "1504",
+    "increased": "2481 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/luongnv89",
+        "avatar": "https://avatars.githubusercontent.com/u/3288457?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/toanalien",
+        "avatar": "https://avatars.githubusercontent.com/u/5405744?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/wjhrdy",
+        "avatar": "https://avatars.githubusercontent.com/u/1795778?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/happy-otter",
+        "avatar": "https://avatars.githubusercontent.com/u/228831800?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/luongnv89/claude-howto",
+    "name": "luongnv89/claude-howto",
+    "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.  ",
+    "language": "Python",
+    "stars": "24707",
+    "forks": "2956",
+    "increased": "7215 stars this week"
+  }
+]
