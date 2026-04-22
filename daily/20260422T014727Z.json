@@ -1,0 +1,272 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/tilakpatel22",
+        "avatar": "https://avatars.githubusercontent.com/u/66294702?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Jaimin-ptl07",
+        "avatar": "https://avatars.githubusercontent.com/u/92565248?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rudrasheth",
+        "avatar": "https://avatars.githubusercontent.com/u/170165924?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Fincept-Corporation/FinceptTerminal",
+    "name": "Fincept-Corporation/FinceptTerminal",
+    "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.  ",
+    "language": "Python",
+    "stars": "11679",
+    "forks": "1534",
+    "increased": "2548 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/cjroth",
+        "avatar": "https://avatars.githubusercontent.com/u/582130?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/raivieiraadriano92",
+        "avatar": "https://avatars.githubusercontent.com/u/14861463?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ital0",
+        "avatar": "https://avatars.githubusercontent.com/u/5700402?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/darkbanjo",
+        "avatar": "https://avatars.githubusercontent.com/u/75756250?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/arienemaiara",
+        "avatar": "https://avatars.githubusercontent.com/u/5312296?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/thunderbird/thunderbolt",
+    "name": "thunderbird/thunderbolt",
+    "description": "AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.  ",
+    "language": "TypeScript",
+    "stars": "3490",
+    "forks": "204",
+    "increased": "596 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/zc277584121",
+        "avatar": "https://avatars.githubusercontent.com/u/17022025?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Shawnzheng011019",
+        "avatar": "https://avatars.githubusercontent.com/u/88486803?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/codingjaguar",
+        "avatar": "https://avatars.githubusercontent.com/u/7064054?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jaxkodex",
+        "avatar": "https://avatars.githubusercontent.com/u/2271391?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Acren",
+        "avatar": "https://avatars.githubusercontent.com/u/1582409?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/zilliztech/claude-context",
+    "name": "zilliztech/claude-context",
+    "description": "Code search MCP for Claude Code. Make entire codebase the context for any coding agent.  ",
+    "language": "TypeScript",
+    "stars": "6637",
+    "forks": "569",
+    "increased": "169 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ruvnet",
+        "avatar": "https://avatars.githubusercontent.com/u/2934394?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/fr4iser90",
+        "avatar": "https://avatars.githubusercontent.com/u/123288736?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/MaTriXy",
+        "avatar": "https://avatars.githubusercontent.com/u/3080139?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bilibili12433014",
+        "avatar": "https://avatars.githubusercontent.com/u/73748897?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/ruvnet/RuView",
+    "name": "ruvnet/RuView",
+    "description": "π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.  ",
+    "language": "Rust",
+    "stars": "48913",
+    "forks": "6514",
+    "increased": "824 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/leestott",
+        "avatar": "https://avatars.githubusercontent.com/u/2511341?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/skytin1004",
+        "avatar": "https://avatars.githubusercontent.com/u/99078115?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/koreyspace",
+        "avatar": "https://avatars.githubusercontent.com/u/7462909?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ShivamGoyal03",
+        "avatar": "https://avatars.githubusercontent.com/u/93383164?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/hyoshioka0128",
+        "avatar": "https://avatars.githubusercontent.com/u/40815708?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/microsoft/ai-agents-for-beginners",
+    "name": "microsoft/ai-agents-for-beginners",
+    "description": "12 Lessons to Get Started Building AI Agents  ",
+    "language": "Jupyter Notebook",
+    "stars": "57747",
+    "forks": "19877",
+    "increased": "200 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/dayanch96",
+        "avatar": "https://avatars.githubusercontent.com/u/38832025?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/xiangfeidexiaohuo",
+        "avatar": "https://avatars.githubusercontent.com/u/32566723?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mumuisdog",
+        "avatar": "https://avatars.githubusercontent.com/u/66558693?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Balackburn",
+        "avatar": "https://avatars.githubusercontent.com/u/93828569?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Deci8BelioS",
+        "avatar": "https://avatars.githubusercontent.com/u/96150975?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/dayanch96/YTLite",
+    "name": "dayanch96/YTLite",
+    "description": "A flexible enhancer for YouTube on iOS  ",
+    "language": "Logos",
+    "stars": "4843",
+    "forks": "20141",
+    "increased": "55 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/LarFii",
+        "avatar": "https://avatars.githubusercontent.com/u/49157727?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Jah-yee",
+        "avatar": "https://avatars.githubusercontent.com/u/166608075?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/chaohuang-ai",
+        "avatar": "https://avatars.githubusercontent.com/u/204865953?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/LaansDole",
+        "avatar": "https://avatars.githubusercontent.com/u/85084360?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/hzywhite",
+        "avatar": "https://avatars.githubusercontent.com/u/53216231?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/HKUDS/RAG-Anything",
+    "name": "HKUDS/RAG-Anything",
+    "description": "\"RAG-Anything: All-in-One RAG Framework\"  ",
+    "language": "Python",
+    "stars": "16921",
+    "forks": "2004",
+    "increased": "162 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/actions-user",
+        "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sansan0",
+        "avatar": "https://avatars.githubusercontent.com/u/77180927?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bing-h",
+        "avatar": "https://avatars.githubusercontent.com/u/9867881?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/wtychn",
+        "avatar": "https://avatars.githubusercontent.com/u/48308484?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/sansan0/TrendRadar",
+    "name": "sansan0/TrendRadar",
+    "description": "⭐AI-driven public opinion &amp; trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 + RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 + AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker ，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。  ",
+    "language": "Python",
+    "stars": "53686",
+    "forks": "23544",
+    "increased": "534 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/necatiozmen",
+        "avatar": "https://avatars.githubusercontent.com/u/18739364?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Shasikhan",
+        "avatar": "https://avatars.githubusercontent.com/u/32072222?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/0xIchigo",
+        "avatar": "https://avatars.githubusercontent.com/u/96965321?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/fidalgo",
+        "avatar": "https://avatars.githubusercontent.com/u/22743?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/VoltAgent/awesome-agent-skills",
+    "name": "VoltAgent/awesome-agent-skills",
+    "description": "A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.  ",
+    "stars": "16758",
+    "forks": "1831",
+    "increased": "139 stars today"
+  }
+]
