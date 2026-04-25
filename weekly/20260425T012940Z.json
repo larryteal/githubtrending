@@ -1,0 +1,438 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/forrestchang",
+        "avatar": "https://avatars.githubusercontent.com/u/7857126?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/back1ply",
+        "avatar": "https://avatars.githubusercontent.com/u/45536170?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/herobrine19",
+        "avatar": "https://avatars.githubusercontent.com/u/45513138?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/szkocot",
+        "avatar": "https://avatars.githubusercontent.com/u/478549?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/forrestchang/andrej-karpathy-skills",
+    "name": "forrestchang/andrej-karpathy-skills",
+    "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.  ",
+    "stars": "83748",
+    "forks": "8007",
+    "increased": "29435 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/SimoneAvogadro",
+        "avatar": "https://avatars.githubusercontent.com/u/3911167?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/SimoneAvogadro/android-reverse-engineering-skill",
+    "name": "SimoneAvogadro/android-reverse-engineering-skill",
+    "description": "Claude Code skill to support Android app's reverse engineering  ",
+    "language": "Shell",
+    "stars": "4853",
+    "forks": "560",
+    "increased": "2258 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Alishahryar1",
+        "avatar": "https://avatars.githubusercontent.com/u/20476625?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cursoragent",
+        "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rishiskhare",
+        "avatar": "https://avatars.githubusercontent.com/u/30673002?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Alishahryar1/free-claude-code",
+    "name": "Alishahryar1/free-claude-code",
+    "description": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw  ",
+    "language": "Python",
+    "stars": "9017",
+    "forks": "1341",
+    "increased": "5160 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/zc277584121",
+        "avatar": "https://avatars.githubusercontent.com/u/17022025?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Shawnzheng011019",
+        "avatar": "https://avatars.githubusercontent.com/u/88486803?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/codingjaguar",
+        "avatar": "https://avatars.githubusercontent.com/u/7064054?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jaxkodex",
+        "avatar": "https://avatars.githubusercontent.com/u/2271391?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mvanhorn",
+        "avatar": "https://avatars.githubusercontent.com/u/455140?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/zilliztech/claude-context",
+    "name": "zilliztech/claude-context",
+    "description": "Code search MCP for Claude Code. Make entire codebase the context for any coding agent.  ",
+    "language": "TypeScript",
+    "stars": "9017",
+    "forks": "690",
+    "increased": "2878 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/lsdefine",
+        "avatar": "https://avatars.githubusercontent.com/u/3377819?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ViviqwerAsd",
+        "avatar": "https://avatars.githubusercontent.com/u/90703326?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/shenhao-stu",
+        "avatar": "https://avatars.githubusercontent.com/u/65658684?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/JinyiHan99",
+        "avatar": "https://avatars.githubusercontent.com/u/154297799?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/wjl2023",
+        "avatar": "https://avatars.githubusercontent.com/u/126332148?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/lsdefine/GenericAgent",
+    "name": "lsdefine/GenericAgent",
+    "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption  ",
+    "language": "Python",
+    "stars": "6880",
+    "forks": "766",
+    "increased": "3483 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/autogame-17",
+        "avatar": "https://avatars.githubusercontent.com/u/166480271?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cursoragent",
+        "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/penggaolai",
+        "avatar": "https://avatars.githubusercontent.com/u/44097312?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/onthebigtree",
+        "avatar": "https://avatars.githubusercontent.com/u/60813639?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/firstdraft-work",
+        "avatar": "https://avatars.githubusercontent.com/u/265695765?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/EvoMap/evolver",
+    "name": "EvoMap/evolver",
+    "description": "The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai  ",
+    "language": "JavaScript",
+    "stars": "6817",
+    "forks": "675",
+    "increased": "3099 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/seratch",
+        "avatar": "https://avatars.githubusercontent.com/u/19658?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rm-openai",
+        "avatar": "https://avatars.githubusercontent.com/u/192034341?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/MartinEBravo",
+        "avatar": "https://avatars.githubusercontent.com/u/123977407?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dmitry-openai",
+        "avatar": "https://avatars.githubusercontent.com/u/187447562?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/openai/openai-agents-python",
+    "name": "openai/openai-agents-python",
+    "description": "A lightweight, powerful framework for multi-agent workflows  ",
+    "language": "Python",
+    "stars": "24995",
+    "forks": "3817",
+    "increased": "3372 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/davincios",
+        "avatar": "https://avatars.githubusercontent.com/u/33206282?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/aliya-tracer",
+        "avatar": "https://avatars.githubusercontent.com/u/233726347?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/VaibhavUpreti",
+        "avatar": "https://avatars.githubusercontent.com/u/85568177?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cursoragent",
+        "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/arnetracer",
+        "avatar": "https://avatars.githubusercontent.com/u/203629234?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Tracer-Cloud/opensre",
+    "name": "Tracer-Cloud/opensre",
+    "description": "Build your own AI SRE agents. The open source toolkit for the AI era ✨  ",
+    "language": "Python",
+    "stars": "2917",
+    "forks": "328",
+    "increased": "1623 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/forrestchang",
+        "avatar": "https://avatars.githubusercontent.com/u/7857126?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/NevilleQingNY",
+        "avatar": "https://avatars.githubusercontent.com/u/145280634?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Bohan-J",
+        "avatar": "https://avatars.githubusercontent.com/u/52446949?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ldnvnbl",
+        "avatar": "https://avatars.githubusercontent.com/u/3798479?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/multica-ai/multica",
+    "name": "multica-ai/multica",
+    "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.  ",
+    "language": "TypeScript",
+    "stars": "20691",
+    "forks": "2518",
+    "increased": "5421 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/teknium1",
+        "avatar": "https://avatars.githubusercontent.com/u/127238744?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/OutThisLife",
+        "avatar": "https://avatars.githubusercontent.com/u/770929?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/0xbyt4",
+        "avatar": "https://avatars.githubusercontent.com/u/35742124?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kshitijk4poor",
+        "avatar": "https://avatars.githubusercontent.com/u/82637225?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/NousResearch/hermes-agent",
+    "name": "NousResearch/hermes-agent",
+    "description": "The agent that grows with you  ",
+    "language": "Python",
+    "stars": "115210",
+    "forks": "16895",
+    "increased": "19019 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/thedotmack",
+        "avatar": "https://avatars.githubusercontent.com/u/683968?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ousamabenyounes",
+        "avatar": "https://avatars.githubusercontent.com/u/2910651?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rodboev",
+        "avatar": "https://avatars.githubusercontent.com/u/106971?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/thedotmack/claude-mem",
+    "name": "thedotmack/claude-mem",
+    "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.  ",
+    "language": "TypeScript",
+    "stars": "67046",
+    "forks": "5693",
+    "increased": "5961 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/mksglu",
+        "avatar": "https://avatars.githubusercontent.com/u/6067714?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ipedro",
+        "avatar": "https://avatars.githubusercontent.com/u/380338?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rjkaes",
+        "avatar": "https://avatars.githubusercontent.com/u/128173?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/mksglu/context-mode",
+    "name": "mksglu/context-mode",
+    "description": "Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 12 platforms  ",
+    "language": "TypeScript",
+    "stars": "9830",
+    "forks": "669",
+    "increased": "2315 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/LyricZhao",
+        "avatar": "https://avatars.githubusercontent.com/u/35299455?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/soundOfDestiny",
+        "avatar": "https://avatars.githubusercontent.com/u/44948473?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/zheanxu",
+        "avatar": "https://avatars.githubusercontent.com/u/94977922?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/RayWang96",
+        "avatar": "https://avatars.githubusercontent.com/u/34201481?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ko3n1g",
+        "avatar": "https://avatars.githubusercontent.com/u/16716991?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/deepseek-ai/DeepGEMM",
+    "name": "deepseek-ai/DeepGEMM",
+    "description": "DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling  ",
+    "language": "Cuda",
+    "stars": "6997",
+    "forks": "930",
+    "increased": "605 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/jamiepine",
+        "avatar": "https://avatars.githubusercontent.com/u/32987599?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tomasmach",
+        "avatar": "https://avatars.githubusercontent.com/u/52257177?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mvanhorn",
+        "avatar": "https://avatars.githubusercontent.com/u/455140?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/selop",
+        "avatar": "https://avatars.githubusercontent.com/u/5173254?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/jamiepine/voicebox",
+    "name": "jamiepine/voicebox",
+    "description": "The open -source AI voice studio. Clone, dictate, create.  ",
+    "language": "TypeScript",
+    "stars": "23136",
+    "forks": "2719",
+    "increased": "3540 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Lordog",
+        "avatar": "https://avatars.githubusercontent.com/u/59903352?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cooelf",
+        "avatar": "https://avatars.githubusercontent.com/u/7037265?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/zwhe99",
+        "avatar": "https://avatars.githubusercontent.com/u/33388552?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dongdongzhaoUP",
+        "avatar": "https://avatars.githubusercontent.com/u/45898026?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/scofield7419",
+        "avatar": "https://avatars.githubusercontent.com/u/18722770?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Lordog/dive-into-llms",
+    "name": "Lordog/dive-into-llms",
+    "description": "《动手学大模型Dive into LLMs》系列编程实践教程  ",
+    "language": "Jupyter Notebook",
+    "stars": "34249",
+    "forks": "4199",
+    "increased": "2886 stars this week"
+  }
+]

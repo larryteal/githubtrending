@@ -1,0 +1,557 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/teknium1",
+        "avatar": "https://avatars.githubusercontent.com/u/127238744?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/OutThisLife",
+        "avatar": "https://avatars.githubusercontent.com/u/770929?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/0xbyt4",
+        "avatar": "https://avatars.githubusercontent.com/u/35742124?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kshitijk4poor",
+        "avatar": "https://avatars.githubusercontent.com/u/82637225?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/NousResearch/hermes-agent",
+    "name": "NousResearch/hermes-agent",
+    "description": "The agent that grows with you  ",
+    "language": "Python",
+    "stars": "115210",
+    "forks": "16895",
+    "increased": "103029 stars this month"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/forrestchang",
+        "avatar": "https://avatars.githubusercontent.com/u/7857126?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/back1ply",
+        "avatar": "https://avatars.githubusercontent.com/u/45536170?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/herobrine19",
+        "avatar": "https://avatars.githubusercontent.com/u/45513138?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/szkocot",
+        "avatar": "https://avatars.githubusercontent.com/u/478549?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/forrestchang/andrej-karpathy-skills",
+    "name": "forrestchang/andrej-karpathy-skills",
+    "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.  ",
+    "stars": "83748",
+    "forks": "8007",
+    "increased": "75285 stars this month"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/luongnv89",
+        "avatar": "https://avatars.githubusercontent.com/u/3288457?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/edocltd",
+        "avatar": "https://avatars.githubusercontent.com/u/258913972?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/toanalien",
+        "avatar": "https://avatars.githubusercontent.com/u/5405744?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/wjhrdy",
+        "avatar": "https://avatars.githubusercontent.com/u/1795778?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/luongnv89/claude-howto",
+    "name": "luongnv89/claude-howto",
+    "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.  ",
+    "language": "Python",
+    "stars": "28675",
+    "forks": "3518",
+    "increased": "27573 stars this month"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Yeachan-Heo",
+        "avatar": "https://avatars.githubusercontent.com/u/54757707?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/HaD0Yun",
+        "avatar": "https://avatars.githubusercontent.com/u/102889891?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Oxidane-bot",
+        "avatar": "https://avatars.githubusercontent.com/u/73341858?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Yeachan-Heo/oh-my-codex",
+    "name": "Yeachan-Heo/oh-my-codex",
+    "description": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.  ",
+    "language": "TypeScript",
+    "stars": "25609",
+    "forks": "2132",
+    "increased": "23184 stars this month"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/siddharthvaddem",
+        "avatar": "https://avatars.githubusercontent.com/u/70214527?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/FabLrc",
+        "avatar": "https://avatars.githubusercontent.com/u/86679051?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/imAaryash",
+        "avatar": "https://avatars.githubusercontent.com/u/91302334?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/EtienneLescot",
+        "avatar": "https://avatars.githubusercontent.com/u/215859519?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/prayaslashkari",
+        "avatar": "https://avatars.githubusercontent.com/u/25193916?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/siddharthvaddem/openscreen",
+    "name": "siddharthvaddem/openscreen",
+    "description": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.  ",
+    "language": "TypeScript",
+    "stars": "32601",
+    "forks": "2197",
+    "increased": "23942 stars this month"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/shiyu-coder",
+        "avatar": "https://avatars.githubusercontent.com/u/65760973?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Luciferbobo",
+        "avatar": "https://avatars.githubusercontent.com/u/54936491?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/CharlesJ-ABu",
+        "avatar": "https://avatars.githubusercontent.com/u/18326516?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/AnMakc",
+        "avatar": "https://avatars.githubusercontent.com/u/1777564?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/randyy179",
+        "avatar": "https://avatars.githubusercontent.com/u/129808685?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/shiyu-coder/Kronos",
+    "name": "shiyu-coder/Kronos",
+    "description": "Kronos: A Foundation Model for the Language of Financial Markets  ",
+    "language": "Python",
+    "stars": "21314",
+    "forks": "3780",
+    "increased": "9929 stars this month"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/pancacake",
+        "avatar": "https://avatars.githubusercontent.com/u/150592536?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tusharkhatriofficial",
+        "avatar": "https://avatars.githubusercontent.com/u/64004539?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/scrrlt",
+        "avatar": "https://avatars.githubusercontent.com/u/235653744?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/RinZ27",
+        "avatar": "https://avatars.githubusercontent.com/u/222222878?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/HKUDS/DeepTutor",
+    "name": "HKUDS/DeepTutor",
+    "description": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"  ",
+    "language": "Python",
+    "stars": "21379",
+    "forks": "2883",
+    "increased": "10610 stars this month"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/tilakpatel22",
+        "avatar": "https://avatars.githubusercontent.com/u/66294702?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Jaimin-ptl07",
+        "avatar": "https://avatars.githubusercontent.com/u/92565248?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rudrasheth",
+        "avatar": "https://avatars.githubusercontent.com/u/170165924?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Fincept-Corporation/FinceptTerminal",
+    "name": "Fincept-Corporation/FinceptTerminal",
+    "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.  ",
+    "language": "Python",
+    "stars": "14344",
+    "forks": "1942",
+    "increased": "11430 stars this month"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/jinjingforever",
+        "avatar": "https://avatars.githubusercontent.com/u/8752427?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/yishuangP",
+        "avatar": "https://avatars.githubusercontent.com/u/6421220?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/whhone",
+        "avatar": "https://avatars.githubusercontent.com/u/1200104?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ymodak",
+        "avatar": "https://avatars.githubusercontent.com/u/42785357?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/google-ai-edge/gallery",
+    "name": "google-ai-edge/gallery",
+    "description": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.  ",
+    "language": "Kotlin",
+    "stars": "21979",
+    "forks": "2125",
+    "increased": "6587 stars this month"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Wirasm",
+        "avatar": "https://avatars.githubusercontent.com/u/152263317?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/coleam00",
+        "avatar": "https://avatars.githubusercontent.com/u/47287758?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/leex279",
+        "avatar": "https://avatars.githubusercontent.com/u/6664492?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/coleam00/Archon",
+    "name": "coleam00/Archon",
+    "description": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.  ",
+    "language": "TypeScript",
+    "stars": "19605",
+    "forks": "3033",
+    "increased": "5903 stars this month"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/YaoyaoChang",
+        "avatar": "https://avatars.githubusercontent.com/u/20237658?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/MSLDCherryPick",
+        "avatar": "https://avatars.githubusercontent.com/u/173002764?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pengzhiliang",
+        "avatar": "https://avatars.githubusercontent.com/u/26346329?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jsoref",
+        "avatar": "https://avatars.githubusercontent.com/u/2119212?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/microsoft/VibeVoice",
+    "name": "microsoft/VibeVoice",
+    "description": "Open-Source Frontier Voice AI  ",
+    "language": "Python",
+    "stars": "40972",
+    "forks": "4730",
+    "increased": "17233 stars this month"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/afourney",
+        "avatar": "https://avatars.githubusercontent.com/u/4017093?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/gagb",
+        "avatar": "https://avatars.githubusercontent.com/u/13227607?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sugatoray",
+        "avatar": "https://avatars.githubusercontent.com/u/10201242?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/PetrAPConsulting",
+        "avatar": "https://avatars.githubusercontent.com/u/173082609?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/l-lumin",
+        "avatar": "https://avatars.githubusercontent.com/u/71011125?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/microsoft/markitdown",
+    "name": "microsoft/markitdown",
+    "description": "Python tool for converting files and office documents to Markdown.  ",
+    "language": "Python",
+    "stars": "116602",
+    "forks": "7634",
+    "increased": "24833 stars this month"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ai-edge-bot",
+        "avatar": "https://avatars.githubusercontent.com/u/154857592?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/protobird-git",
+        "avatar": "https://avatars.githubusercontent.com/u/24595549?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/whhone",
+        "avatar": "https://avatars.githubusercontent.com/u/1200104?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/matthewchan-g",
+        "avatar": "https://avatars.githubusercontent.com/u/188274809?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/hheydary",
+        "avatar": "https://avatars.githubusercontent.com/u/111377877?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/google-ai-edge/LiteRT-LM",
+    "name": "google-ai-edge/LiteRT-LM",
+    "language": "C++",
+    "stars": "4273",
+    "forks": "424",
+    "increased": "3301 stars this month"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/rajatsen91",
+        "avatar": "https://avatars.githubusercontent.com/u/8039264?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/siriuz42",
+        "avatar": "https://avatars.githubusercontent.com/u/5073569?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/misha-chertushkin",
+        "avatar": "https://avatars.githubusercontent.com/u/151166456?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/darkpowerxo",
+        "avatar": "https://avatars.githubusercontent.com/u/1857776?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/JustinGuese",
+        "avatar": "https://avatars.githubusercontent.com/u/9588843?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/google-research/timesfm",
+    "name": "google-research/timesfm",
+    "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.  ",
+    "language": "Python",
+    "stars": "18495",
+    "forks": "1810",
+    "increased": "8432 stars this month"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/pszymkowiak",
+        "avatar": "https://avatars.githubusercontent.com/u/52030887?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/aeppling",
+        "avatar": "https://avatars.githubusercontent.com/u/43991222?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/FlorianBruniaux",
+        "avatar": "https://avatars.githubusercontent.com/u/3902606?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/rtk-ai/rtk",
+    "name": "rtk-ai/rtk",
+    "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies  ",
+    "language": "Rust",
+    "stars": "34680",
+    "forks": "2092",
+    "increased": "21519 stars this month"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/hugohe3",
+        "avatar": "https://avatars.githubusercontent.com/u/188330578?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/shandianchengzi",
+        "avatar": "https://avatars.githubusercontent.com/u/58585665?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/scientificworld",
+        "avatar": "https://avatars.githubusercontent.com/u/30764166?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ximiximi423",
+        "avatar": "https://avatars.githubusercontent.com/u/217722657?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/hugohe3/ppt-master",
+    "name": "hugohe3/ppt-master",
+    "description": "AI generates natively editable PPTX from any document — real PowerPoint shapes, not images — no design skills needed  ",
+    "language": "Python",
+    "stars": "7783",
+    "forks": "875",
+    "increased": "5021 stars this month"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Weves",
+        "avatar": "https://avatars.githubusercontent.com/u/25087905?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/yuhongsun96",
+        "avatar": "https://avatars.githubusercontent.com/u/32520769?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pablonyx",
+        "avatar": "https://avatars.githubusercontent.com/u/171597620?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jmelahman",
+        "avatar": "https://avatars.githubusercontent.com/u/23436978?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/onyx-dot-app/onyx",
+    "name": "onyx-dot-app/onyx",
+    "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM  ",
+    "language": "Python",
+    "stars": "28402",
+    "forks": "3775",
+    "increased": "10498 stars this month"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/lsdefine",
+        "avatar": "https://avatars.githubusercontent.com/u/3377819?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ViviqwerAsd",
+        "avatar": "https://avatars.githubusercontent.com/u/90703326?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/shenhao-stu",
+        "avatar": "https://avatars.githubusercontent.com/u/65658684?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/JinyiHan99",
+        "avatar": "https://avatars.githubusercontent.com/u/154297799?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/wjl2023",
+        "avatar": "https://avatars.githubusercontent.com/u/126332148?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/lsdefine/GenericAgent",
+    "name": "lsdefine/GenericAgent",
+    "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption  ",
+    "language": "Python",
+    "stars": "6880",
+    "forks": "766",
+    "increased": "6027 stars this month"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/hacksider",
+        "avatar": "https://avatars.githubusercontent.com/u/1267200?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/KRSHH",
+        "avatar": "https://avatars.githubusercontent.com/u/136873090?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/vic4key",
+        "avatar": "https://avatars.githubusercontent.com/u/5672864?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/maxwbuckley",
+        "avatar": "https://avatars.githubusercontent.com/u/4339561?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/hacksider/Deep-Live-Cam",
+    "name": "hacksider/Deep-Live-Cam",
+    "description": "real time face swap and one-click video deepfake with only a single image  ",
+    "language": "Python",
+    "stars": "92227",
+    "forks": "13396",
+    "increased": "12308 stars this month"
+  }
+]

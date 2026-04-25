@@ -1,0 +1,362 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Alishahryar1",
+        "avatar": "https://avatars.githubusercontent.com/u/20476625?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cursoragent",
+        "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rishiskhare",
+        "avatar": "https://avatars.githubusercontent.com/u/30673002?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Alishahryar1/free-claude-code",
+    "name": "Alishahryar1/free-claude-code",
+    "description": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw  ",
+    "language": "Python",
+    "stars": "9017",
+    "forks": "1341",
+    "increased": "2638 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/akseljoonas",
+        "avatar": "https://avatars.githubusercontent.com/u/125026660?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/henribonamy",
+        "avatar": "https://avatars.githubusercontent.com/u/23294574?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Uzbyr",
+        "avatar": "https://avatars.githubusercontent.com/u/160398000?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jagwar",
+        "avatar": "https://avatars.githubusercontent.com/u/17745322?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/huggingface/ml-intern",
+    "name": "huggingface/ml-intern",
+    "description": "🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models  ",
+    "language": "Python",
+    "stars": "5364",
+    "forks": "456",
+    "increased": "2985 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/another-rex",
+        "avatar": "https://avatars.githubusercontent.com/u/106129829?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/G-Rath",
+        "avatar": "https://avatars.githubusercontent.com/u/3151613?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/renovate-bot",
+        "avatar": "https://avatars.githubusercontent.com/u/25180681?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cuixq",
+        "avatar": "https://avatars.githubusercontent.com/u/72771658?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/osv-robot",
+        "avatar": "https://avatars.githubusercontent.com/u/80022306?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/google/osv-scanner",
+    "name": "google/osv-scanner",
+    "description": "Vulnerability scanner written in Go which uses the data provided by  https://osv.dev    ",
+    "language": "Go",
+    "stars": "9517",
+    "forks": "619",
+    "increased": "141 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Z4nzu",
+        "avatar": "https://avatars.githubusercontent.com/u/25708027?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cclauss",
+        "avatar": "https://avatars.githubusercontent.com/u/3709715?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Greatest125",
+        "avatar": "https://avatars.githubusercontent.com/u/66028078?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mokrunka",
+        "avatar": "https://avatars.githubusercontent.com/u/59213927?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/W1LDN16H7",
+        "avatar": "https://avatars.githubusercontent.com/u/58102926?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Z4nzu/hackingtool",
+    "name": "Z4nzu/hackingtool",
+    "description": "ALL IN ONE Hacking Tool For Hackers  ",
+    "language": "Python",
+    "stars": "62391",
+    "forks": "6996",
+    "increased": "1378 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/zc277584121",
+        "avatar": "https://avatars.githubusercontent.com/u/17022025?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Shawnzheng011019",
+        "avatar": "https://avatars.githubusercontent.com/u/88486803?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/codingjaguar",
+        "avatar": "https://avatars.githubusercontent.com/u/7064054?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jaxkodex",
+        "avatar": "https://avatars.githubusercontent.com/u/2271391?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mvanhorn",
+        "avatar": "https://avatars.githubusercontent.com/u/455140?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/zilliztech/claude-context",
+    "name": "zilliztech/claude-context",
+    "description": "Code search MCP for Claude Code. Make entire codebase the context for any coding agent.  ",
+    "language": "TypeScript",
+    "stars": "9017",
+    "forks": "690",
+    "increased": "706 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/pmbrull",
+        "avatar": "https://avatars.githubusercontent.com/u/35870520?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/harshach",
+        "avatar": "https://avatars.githubusercontent.com/u/38649?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ShaileshParmar11",
+        "avatar": "https://avatars.githubusercontent.com/u/71748675?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/chirag-madlani",
+        "avatar": "https://avatars.githubusercontent.com/u/12962843?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Sachin-chaurasiya",
+        "avatar": "https://avatars.githubusercontent.com/u/59080942?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/open-metadata/OpenMetadata",
+    "name": "open-metadata/OpenMetadata",
+    "description": "OpenMetadata is a unified metadata platform for data discovery, data observability, and data governance powered by a central metadata repository, in-depth column level lineage, and seamless team collaboration.  ",
+    "language": "TypeScript",
+    "stars": "13358",
+    "forks": "2037",
+    "increased": "530 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/pauldambra",
+        "avatar": "https://avatars.githubusercontent.com/u/984817?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Twixes",
+        "avatar": "https://avatars.githubusercontent.com/u/4550621?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mariusandra",
+        "avatar": "https://avatars.githubusercontent.com/u/53387?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/benjackwhite",
+        "avatar": "https://avatars.githubusercontent.com/u/2536520?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/PostHog/posthog",
+    "name": "PostHog/posthog",
+    "description": "🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack.  ",
+    "language": "Python",
+    "stars": "33118",
+    "forks": "2583",
+    "increased": "85 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/dani-garcia",
+        "avatar": "https://avatars.githubusercontent.com/u/725423?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/BlackDex",
+        "avatar": "https://avatars.githubusercontent.com/u/610450?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jjlin",
+        "avatar": "https://avatars.githubusercontent.com/u/203380?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mprasil",
+        "avatar": "https://avatars.githubusercontent.com/u/8255364?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/stefan0xC",
+        "avatar": "https://avatars.githubusercontent.com/u/509385?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/dani-garcia/vaultwarden",
+    "name": "dani-garcia/vaultwarden",
+    "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs  ",
+    "language": "Rust",
+    "stars": "59177",
+    "forks": "2727",
+    "increased": "268 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Anil-matcha",
+        "avatar": "https://avatars.githubusercontent.com/u/4326215?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jaiprasad04",
+        "avatar": "https://avatars.githubusercontent.com/u/114457757?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/vadootvpeer",
+        "avatar": "https://avatars.githubusercontent.com/u/64298579?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/taherfattahi",
+        "avatar": "https://avatars.githubusercontent.com/u/14248281?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Anil-matcha/Open-Generative-AI",
+    "name": "Anil-matcha/Open-Generative-AI",
+    "description": "Uncensored, open-source alternative to Higgsfield AI, Freepik AI, Krea AI, Openart AI — Free, unrestricted AI image &amp; video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.  ",
+    "language": "JavaScript",
+    "stars": "7701",
+    "forks": "1418",
+    "increased": "842 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/danistefanovic",
+        "avatar": "https://avatars.githubusercontent.com/u/1736595?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rohitpaulk",
+        "avatar": "https://avatars.githubusercontent.com/u/3893573?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sarupbanskota",
+        "avatar": "https://avatars.githubusercontent.com/u/3149580?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/fake-rookie",
+        "avatar": "https://avatars.githubusercontent.com/u/61480354?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bauripalash",
+        "avatar": "https://avatars.githubusercontent.com/u/16154204?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/codecrafters-io/build-your-own-x",
+    "name": "codecrafters-io/build-your-own-x",
+    "description": "Master programming by recreating your favorite technologies from scratch.  ",
+    "language": "Markdown",
+    "stars": "494802",
+    "forks": "46870",
+    "increased": "991 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/LyricZhao",
+        "avatar": "https://avatars.githubusercontent.com/u/35299455?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sphish",
+        "avatar": "https://avatars.githubusercontent.com/u/9213347?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/fzyzcjy",
+        "avatar": "https://avatars.githubusercontent.com/u/5236035?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/seth-howell",
+        "avatar": "https://avatars.githubusercontent.com/u/166747556?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/wangfakang",
+        "avatar": "https://avatars.githubusercontent.com/u/8215757?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/deepseek-ai/DeepEP",
+    "name": "deepseek-ai/DeepEP",
+    "description": "DeepEP: an efficient expert-parallel communication library  ",
+    "language": "Cuda",
+    "stars": "9335",
+    "forks": "1181",
+    "increased": "52 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/jakebailey",
+        "avatar": "https://avatars.githubusercontent.com/u/5341706?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ahejlsberg",
+        "avatar": "https://avatars.githubusercontent.com/u/4226954?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/andrewbranch",
+        "avatar": "https://avatars.githubusercontent.com/u/3277153?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Andarist",
+        "avatar": "https://avatars.githubusercontent.com/u/9800850?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/microsoft/typescript-go",
+    "name": "microsoft/typescript-go",
+    "description": "Staging repo for development of native port of TypeScript  ",
+    "language": "Go",
+    "stars": "25018",
+    "forks": "907",
+    "increased": "38 stars today"
+  }
+]
