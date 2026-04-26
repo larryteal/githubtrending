@@ -1,0 +1,373 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Alishahryar1",
+        "avatar": "https://avatars.githubusercontent.com/u/20476625?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cursoragent",
+        "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rishiskhare",
+        "avatar": "https://avatars.githubusercontent.com/u/30673002?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Alishahryar1/free-claude-code",
+    "name": "Alishahryar1/free-claude-code",
+    "description": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw  ",
+    "language": "Python",
+    "stars": "11538",
+    "forks": "1726",
+    "increased": "4007 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/mattpocock",
+        "avatar": "https://avatars.githubusercontent.com/u/28293365?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/mattpocock/skills",
+    "name": "mattpocock/skills",
+    "description": "My personal directory of skills, straight from my .claude directory.  ",
+    "language": "Shell",
+    "stars": "20139",
+    "forks": "1676",
+    "increased": "1139 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Z4nzu",
+        "avatar": "https://avatars.githubusercontent.com/u/25708027?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cclauss",
+        "avatar": "https://avatars.githubusercontent.com/u/3709715?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Greatest125",
+        "avatar": "https://avatars.githubusercontent.com/u/66028078?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mokrunka",
+        "avatar": "https://avatars.githubusercontent.com/u/59213927?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/W1LDN16H7",
+        "avatar": "https://avatars.githubusercontent.com/u/58102926?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Z4nzu/hackingtool",
+    "name": "Z4nzu/hackingtool",
+    "description": "ALL IN ONE Hacking Tool For Hackers  ",
+    "language": "Python",
+    "stars": "63926",
+    "forks": "7164",
+    "increased": "day"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/pauldambra",
+        "avatar": "https://avatars.githubusercontent.com/u/984817?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Twixes",
+        "avatar": "https://avatars.githubusercontent.com/u/4550621?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mariusandra",
+        "avatar": "https://avatars.githubusercontent.com/u/53387?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/benjackwhite",
+        "avatar": "https://avatars.githubusercontent.com/u/2536520?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/PostHog/posthog",
+    "name": "PostHog/posthog",
+    "description": "🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack.  ",
+    "language": "Python",
+    "stars": "33507",
+    "forks": "2606",
+    "increased": "471 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/davila7",
+        "avatar": "https://avatars.githubusercontent.com/u/6216945?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/actions-user",
+        "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/davila7/claude-code-templates",
+    "name": "davila7/claude-code-templates",
+    "description": "CLI tool for configuring and monitoring Claude Code  ",
+    "language": "Python",
+    "stars": "25366",
+    "forks": "2529",
+    "increased": "87 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/LyricZhao",
+        "avatar": "https://avatars.githubusercontent.com/u/35299455?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sphish",
+        "avatar": "https://avatars.githubusercontent.com/u/9213347?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/fzyzcjy",
+        "avatar": "https://avatars.githubusercontent.com/u/5236035?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/seth-howell",
+        "avatar": "https://avatars.githubusercontent.com/u/166747556?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/wangfakang",
+        "avatar": "https://avatars.githubusercontent.com/u/8215757?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/deepseek-ai/DeepEP",
+    "name": "deepseek-ai/DeepEP",
+    "description": "DeepEP: an efficient expert-parallel communication library  ",
+    "language": "Cuda",
+    "stars": "9499",
+    "forks": "1197",
+    "increased": "189 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/andyleejordan",
+        "avatar": "https://avatars.githubusercontent.com/u/2226434?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/daxian-dbw",
+        "avatar": "https://avatars.githubusercontent.com/u/127450?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/TravisEz13",
+        "avatar": "https://avatars.githubusercontent.com/u/10873629?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/adityapatwardhan",
+        "avatar": "https://avatars.githubusercontent.com/u/12820925?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/xtqqczze",
+        "avatar": "https://avatars.githubusercontent.com/u/45661989?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/PowerShell/PowerShell",
+    "name": "PowerShell/PowerShell",
+    "description": "PowerShell for every system!  ",
+    "language": "C#",
+    "stars": "53078",
+    "forks": "8298",
+    "increased": "48 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/mrubens",
+        "avatar": "https://avatars.githubusercontent.com/u/2600?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/saoudrizwan",
+        "avatar": "https://avatars.githubusercontent.com/u/7799382?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cte",
+        "avatar": "https://avatars.githubusercontent.com/u/16332?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/daniel-lxs",
+        "avatar": "https://avatars.githubusercontent.com/u/57051444?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/roomote",
+        "avatar": "https://avatars.githubusercontent.com/u/206919393?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/RooCodeInc/Roo-Code",
+    "name": "RooCodeInc/Roo-Code",
+    "description": "Roo Code gives you a whole dev team of AI agents in your code editor.  ",
+    "language": "TypeScript",
+    "stars": "23516",
+    "forks": "3123",
+    "increased": "57 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/akseljoonas",
+        "avatar": "https://avatars.githubusercontent.com/u/125026660?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/henribonamy",
+        "avatar": "https://avatars.githubusercontent.com/u/23294574?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Uzbyr",
+        "avatar": "https://avatars.githubusercontent.com/u/160398000?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jagwar",
+        "avatar": "https://avatars.githubusercontent.com/u/17745322?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/huggingface/ml-intern",
+    "name": "huggingface/ml-intern",
+    "description": "🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models  ",
+    "language": "Python",
+    "stars": "6260",
+    "forks": "566",
+    "increased": "1240 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/danistefanovic",
+        "avatar": "https://avatars.githubusercontent.com/u/1736595?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rohitpaulk",
+        "avatar": "https://avatars.githubusercontent.com/u/3893573?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sarupbanskota",
+        "avatar": "https://avatars.githubusercontent.com/u/3149580?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/fake-rookie",
+        "avatar": "https://avatars.githubusercontent.com/u/61480354?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bauripalash",
+        "avatar": "https://avatars.githubusercontent.com/u/16154204?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/codecrafters-io/build-your-own-x",
+    "name": "codecrafters-io/build-your-own-x",
+    "description": "Master programming by recreating your favorite technologies from scratch.  ",
+    "language": "Markdown",
+    "stars": "496016",
+    "forks": "47012",
+    "increased": "1432 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/CJackHwang",
+        "avatar": "https://avatars.githubusercontent.com/u/155826701?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/latticeon",
+        "avatar": "https://avatars.githubusercontent.com/u/35923185?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ouqiting",
+        "avatar": "https://avatars.githubusercontent.com/u/71168750?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/livesRan",
+        "avatar": "https://avatars.githubusercontent.com/u/130327608?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tanaer",
+        "avatar": "https://avatars.githubusercontent.com/u/3828685?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/CJackHwang/ds2api",
+    "name": "CJackHwang/ds2api",
+    "description": "Deepseek to API: A lightweight, high-performance full-stack middleware converting client protocols to universal APIs. Supports multi-account rotation, compiled binaries, Vercel Serverless, and Docker. Compatible with Google, Claude, and OpenAI API formats.  ",
+    "language": "Go",
+    "stars": "1422",
+    "forks": "459",
+    "increased": "44 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/wry-ry",
+        "avatar": "https://avatars.githubusercontent.com/u/4063293?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ptiper",
+        "avatar": "https://avatars.githubusercontent.com/u/4216770?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/aksbro-gpu",
+        "avatar": "https://avatars.githubusercontent.com/u/132107354?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/igrigorik",
+        "avatar": "https://avatars.githubusercontent.com/u/10652?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Universal-Commerce-Protocol/ucp",
+    "name": "Universal-Commerce-Protocol/ucp",
+    "description": "Specification and documentation for the Universal Commerce Protocol (UCP)  ",
+    "language": "Python",
+    "stars": "2796",
+    "forks": "349",
+    "increased": "26 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Prat011",
+        "avatar": "https://avatars.githubusercontent.com/u/67639393?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/smorky850612",
+        "avatar": "https://avatars.githubusercontent.com/u/211109100?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/hyhmrright",
+        "avatar": "https://avatars.githubusercontent.com/u/6754730?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/connerlambden",
+        "avatar": "https://avatars.githubusercontent.com/u/9061871?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ProfessorManhattan",
+        "avatar": "https://avatars.githubusercontent.com/u/59970525?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/ComposioHQ/awesome-codex-skills",
+    "name": "ComposioHQ/awesome-codex-skills",
+    "description": "A curated list of practical Codex skills for automating workflows across the Codex CLI and API.  ",
+    "language": "Python",
+    "stars": "1499",
+    "forks": "133",
+    "increased": "188 stars today"
+  }
+]
