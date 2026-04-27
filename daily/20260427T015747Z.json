@@ -1,0 +1,373 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/mattpocock",
+        "avatar": "https://avatars.githubusercontent.com/u/28293365?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/mattpocock/skills",
+    "name": "mattpocock/skills",
+    "description": "Agent Skills for real engineers. Straight from my .claude directory.  ",
+    "language": "Shell",
+    "stars": "23999",
+    "forks": "1947",
+    "increased": "2519 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Alishahryar1",
+        "avatar": "https://avatars.githubusercontent.com/u/20476625?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cursoragent",
+        "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rishiskhare",
+        "avatar": "https://avatars.githubusercontent.com/u/30673002?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Alishahryar1/free-claude-code",
+    "name": "Alishahryar1/free-claude-code",
+    "description": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw  ",
+    "language": "Python",
+    "stars": "13764",
+    "forks": "1968",
+    "increased": "1701 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Z4nzu",
+        "avatar": "https://avatars.githubusercontent.com/u/25708027?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cclauss",
+        "avatar": "https://avatars.githubusercontent.com/u/3709715?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Greatest125",
+        "avatar": "https://avatars.githubusercontent.com/u/66028078?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mokrunka",
+        "avatar": "https://avatars.githubusercontent.com/u/59213927?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/W1LDN16H7",
+        "avatar": "https://avatars.githubusercontent.com/u/58102926?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Z4nzu/hackingtool",
+    "name": "Z4nzu/hackingtool",
+    "description": "ALL IN ONE Hacking Tool For Hackers  ",
+    "language": "Python",
+    "stars": "65582",
+    "forks": "7353",
+    "increased": "1720 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/abhigyanpatwari",
+        "avatar": "https://avatars.githubusercontent.com/u/126312502?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/magyargergo",
+        "avatar": "https://avatars.githubusercontent.com/u/11230420?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/naicud",
+        "avatar": "https://avatars.githubusercontent.com/u/55764723?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/abhigyanpatwari/GitNexus",
+    "name": "abhigyanpatwari/GitNexus",
+    "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration  ",
+    "language": "TypeScript",
+    "stars": "30227",
+    "forks": "3489",
+    "increased": "700 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/pauldambra",
+        "avatar": "https://avatars.githubusercontent.com/u/984817?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Twixes",
+        "avatar": "https://avatars.githubusercontent.com/u/4550621?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mariusandra",
+        "avatar": "https://avatars.githubusercontent.com/u/53387?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/benjackwhite",
+        "avatar": "https://avatars.githubusercontent.com/u/2536520?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/PostHog/posthog",
+    "name": "PostHog/posthog",
+    "description": "🦔 PostHog is an all-in-one developer platform for buil ding successful products . We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack.  ",
+    "language": "Python",
+    "stars": "33856",
+    "forks": "2634",
+    "increased": "337 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/jakebailey",
+        "avatar": "https://avatars.githubusercontent.com/u/5341706?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ahejlsberg",
+        "avatar": "https://avatars.githubusercontent.com/u/4226954?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/andrewbranch",
+        "avatar": "https://avatars.githubusercontent.com/u/3277153?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Andarist",
+        "avatar": "https://avatars.githubusercontent.com/u/9800850?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/microsoft/typescript-go",
+    "name": "microsoft/typescript-go",
+    "description": "Staging repo for development of native port of TypeScript  ",
+    "language": "Go",
+    "stars": "25168",
+    "forks": "921",
+    "increased": "23 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ddupont808",
+        "avatar": "https://avatars.githubusercontent.com/u/3820588?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/f-trycua",
+        "avatar": "https://avatars.githubusercontent.com/u/195596869?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jamesmurdza",
+        "avatar": "https://avatars.githubusercontent.com/u/33395784?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/trycua/cua",
+    "name": "trycua/cua",
+    "description": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).  ",
+    "language": "HTML",
+    "stars": "14419",
+    "forks": "902",
+    "increased": "182 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/steveyegge",
+        "avatar": "https://avatars.githubusercontent.com/u/613744?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ampcode-com",
+        "avatar": "https://avatars.githubusercontent.com/u/220109460?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/maphew",
+        "avatar": "https://avatars.githubusercontent.com/u/486200?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/coffeegoddd",
+        "avatar": "https://avatars.githubusercontent.com/u/43383835?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/gastownhall/beads",
+    "name": "gastownhall/beads",
+    "description": "Beads - A memory upgrade for your coding agent  ",
+    "language": "Go",
+    "stars": "21706",
+    "forks": "1439",
+    "increased": "152 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/bagder",
+        "avatar": "https://avatars.githubusercontent.com/u/177011?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/vszakats",
+        "avatar": "https://avatars.githubusercontent.com/u/1446897?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/yangtse",
+        "avatar": "https://avatars.githubusercontent.com/u/242954?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/captain-caveman2k",
+        "avatar": "https://avatars.githubusercontent.com/u/1523871?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dfandrich",
+        "avatar": "https://avatars.githubusercontent.com/u/228259?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/curl/curl",
+    "name": "curl/curl",
+    "description": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features  ",
+    "language": "C",
+    "stars": "41550",
+    "forks": "7153",
+    "increased": "30 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/bdraco",
+        "avatar": "https://avatars.githubusercontent.com/u/663432?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/balloob",
+        "avatar": "https://avatars.githubusercontent.com/u/1444314?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/epenet",
+        "avatar": "https://avatars.githubusercontent.com/u/6771947?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/frenck",
+        "avatar": "https://avatars.githubusercontent.com/u/195327?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/emontnemery",
+        "avatar": "https://avatars.githubusercontent.com/u/14281572?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/home-assistant/core",
+    "name": "home-assistant/core",
+    "description": "🏡 Open source home automation that puts local control and privacy first.  ",
+    "language": "Python",
+    "stars": "86545",
+    "forks": "37361",
+    "increased": "73 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/danistefanovic",
+        "avatar": "https://avatars.githubusercontent.com/u/1736595?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rohitpaulk",
+        "avatar": "https://avatars.githubusercontent.com/u/3893573?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sarupbanskota",
+        "avatar": "https://avatars.githubusercontent.com/u/3149580?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/fake-rookie",
+        "avatar": "https://avatars.githubusercontent.com/u/61480354?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bauripalash",
+        "avatar": "https://avatars.githubusercontent.com/u/16154204?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/codecrafters-io/build-your-own-x",
+    "name": "codecrafters-io/build-your-own-x",
+    "description": "Master programming by recreating your favorite technologies from scratch.  ",
+    "language": "Markdown",
+    "stars": "496841",
+    "forks": "47083",
+    "increased": "1075 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/steipete",
+        "avatar": "https://avatars.githubusercontent.com/u/58493?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/vincentkoc",
+        "avatar": "https://avatars.githubusercontent.com/u/25068?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/obviyus",
+        "avatar": "https://avatars.githubusercontent.com/u/22031114?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Takhoffman",
+        "avatar": "https://avatars.githubusercontent.com/u/781889?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/gumadeiras",
+        "avatar": "https://avatars.githubusercontent.com/u/5599352?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/openclaw/openclaw",
+    "name": "openclaw/openclaw",
+    "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  ",
+    "language": "TypeScript",
+    "stars": "364667",
+    "forks": "74680",
+    "increased": "627 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Prat011",
+        "avatar": "https://avatars.githubusercontent.com/u/67639393?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/smorky850612",
+        "avatar": "https://avatars.githubusercontent.com/u/211109100?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/hyhmrright",
+        "avatar": "https://avatars.githubusercontent.com/u/6754730?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/connerlambden",
+        "avatar": "https://avatars.githubusercontent.com/u/9061871?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ProfessorManhattan",
+        "avatar": "https://avatars.githubusercontent.com/u/59970525?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/ComposioHQ/awesome-codex-skills",
+    "name": "ComposioHQ/awesome-codex-skills",
+    "description": "A curated list of practical Codex skills for automating workflows across the Codex CLI and API.  ",
+    "language": "Python",
+    "stars": "2030",
+    "forks": "159",
+    "increased": "517 stars today"
+  }
+]
