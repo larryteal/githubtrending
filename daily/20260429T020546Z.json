@@ -1,0 +1,353 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/mattpocock",
+        "avatar": "https://avatars.githubusercontent.com/u/28293365?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/mattpocock/skills",
+    "name": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .claude directory.  ",
+    "language": "Shell",
+    "stars": "37800",
+    "forks": "2968",
+    "increased": "7321 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/abhigyanpatwari",
+        "avatar": "https://avatars.githubusercontent.com/u/126312502?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/magyargergo",
+        "avatar": "https://avatars.githubusercontent.com/u/11230420?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/naicud",
+        "avatar": "https://avatars.githubusercontent.com/u/55764723?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/abhigyanpatwari/GitNexus",
+    "name": "abhigyanpatwari/GitNexus",
+    "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration  ",
+    "language": "TypeScript",
+    "stars": "32684",
+    "forks": "3709",
+    "increased": "1607 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Prat011",
+        "avatar": "https://avatars.githubusercontent.com/u/67639393?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/smorky850612",
+        "avatar": "https://avatars.githubusercontent.com/u/211109100?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/foryourhealth111-pixel",
+        "avatar": "https://avatars.githubusercontent.com/u/251585801?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/hyhmrright",
+        "avatar": "https://avatars.githubusercontent.com/u/6754730?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/ComposioHQ/awesome-codex-skills",
+    "name": "ComposioHQ/awesome-codex-skills",
+    "description": "A curated list of practical Codex skills for automating workflows across the Codex CLI and API.  ",
+    "language": "Python",
+    "stars": "4056",
+    "forks": "260",
+    "increased": "953 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/YaoyaoChang",
+        "avatar": "https://avatars.githubusercontent.com/u/20237658?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/MSLDCherryPick",
+        "avatar": "https://avatars.githubusercontent.com/u/173002764?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pengzhiliang",
+        "avatar": "https://avatars.githubusercontent.com/u/26346329?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jsoref",
+        "avatar": "https://avatars.githubusercontent.com/u/2119212?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/microsoft/VibeVoice",
+    "name": "microsoft/VibeVoice",
+    "description": "Open-Source Frontier Voice AI  ",
+    "language": "Python",
+    "stars": "44889",
+    "forks": "4981",
+    "increased": "1483 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/davila7",
+        "avatar": "https://avatars.githubusercontent.com/u/6216945?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/actions-user",
+        "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/davila7/claude-code-templates",
+    "name": "davila7/claude-code-templates",
+    "description": "CLI tool for configuring and monitoring Claude C ode  ",
+    "language": "Python",
+    "stars": "26180",
+    "forks": "2615",
+    "increased": "346 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/HunxByts",
+        "avatar": "https://avatars.githubusercontent.com/u/130666567?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bakaemon",
+        "avatar": "https://avatars.githubusercontent.com/u/69375806?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/HunxByts/GhostTrack",
+    "name": "HunxByts/GhostTrack",
+    "description": "Useful tool to track location or mobile number  ",
+    "language": "Python",
+    "stars": "10675",
+    "forks": "1501",
+    "increased": "967 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/fspecii",
+        "avatar": "https://avatars.githubusercontent.com/u/4722521?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/riversedge",
+        "avatar": "https://avatars.githubusercontent.com/u/16587423?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/fspecii/ace-step-ui",
+    "name": "fspecii/ace-step-ui",
+    "description": "🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno!  ",
+    "language": "JavaScript",
+    "stars": "1729",
+    "forks": "262",
+    "increased": "162 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/matheusfelipeog",
+        "avatar": "https://avatars.githubusercontent.com/u/50463866?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/davemachado",
+        "avatar": "https://avatars.githubusercontent.com/u/15134885?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pawelborkar",
+        "avatar": "https://avatars.githubusercontent.com/u/36134699?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jbrooksuk",
+        "avatar": "https://avatars.githubusercontent.com/u/246103?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/marekdano",
+        "avatar": "https://avatars.githubusercontent.com/u/1914165?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/public-apis/public-apis",
+    "name": "public-apis/public-apis",
+    "description": "A collective list of free APIs  ",
+    "language": "Python",
+    "stars": "428233",
+    "forks": "46756",
+    "increased": "644 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/CJackHwang",
+        "avatar": "https://avatars.githubusercontent.com/u/155826701?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ouqiting",
+        "avatar": "https://avatars.githubusercontent.com/u/71168750?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/latticeon",
+        "avatar": "https://avatars.githubusercontent.com/u/35923185?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/livesRan",
+        "avatar": "https://avatars.githubusercontent.com/u/130327608?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/CJackHwang/ds2api",
+    "name": "CJackHwang/ds2api",
+    "description": "Deepseek to API: A lightweight, high-performance full-stack middleware converting client protocols to universal APIs. Supports multi-account rotation, compiled binaries, Vercel Serverless, and Docker. Compatible with Google, Claude, and OpenAI API formats.  ",
+    "language": "Go",
+    "stars": "2363",
+    "forks": "652",
+    "increased": "417 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Alishahryar1",
+        "avatar": "https://avatars.githubusercontent.com/u/20476625?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cursoragent",
+        "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rishiskhare",
+        "avatar": "https://avatars.githubusercontent.com/u/30673002?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Alishahryar1/free-claude-code",
+    "name": "Alishahryar1/free-claude-code",
+    "description": "Use claude-code for fr ee in the terminal, VSCo de extension or via discord like openclaw  ",
+    "language": "Python",
+    "stars": "17568",
+    "forks": "2467",
+    "increased": "1741 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/donnemartin",
+        "avatar": "https://avatars.githubusercontent.com/u/5458997?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cclauss",
+        "avatar": "https://avatars.githubusercontent.com/u/3709715?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/satob",
+        "avatar": "https://avatars.githubusercontent.com/u/171818?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/fluency03",
+        "avatar": "https://avatars.githubusercontent.com/u/7440735?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/luisbg",
+        "avatar": "https://avatars.githubusercontent.com/u/303663?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/donnemartin/system-design-primer",
+    "name": "donnemartin/system-design-primer",
+    "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.  ",
+    "language": "Python",
+    "stars": "345877",
+    "forks": "55830",
+    "increased": "744 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/vhf",
+        "avatar": "https://avatars.githubusercontent.com/u/2022803?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/eshellman",
+        "avatar": "https://avatars.githubusercontent.com/u/926513?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/davorpa",
+        "avatar": "https://avatars.githubusercontent.com/u/3125580?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/MHM5000",
+        "avatar": "https://avatars.githubusercontent.com/u/2694949?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kadhirash",
+        "avatar": "https://avatars.githubusercontent.com/u/10100659?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/EbookFoundation/free-programming-books",
+    "name": "EbookFoundation/free-programming-books",
+    "description": "📚 Freely available programming books  ",
+    "language": "Python",
+    "stars": "386667",
+    "forks": "66159",
+    "increased": "147 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/iamgio",
+        "avatar": "https://avatars.githubusercontent.com/u/16124324?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/OverSamu",
+        "avatar": "https://avatars.githubusercontent.com/u/17676511?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sanoakr",
+        "avatar": "https://avatars.githubusercontent.com/u/9814093?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/DatL4g",
+        "avatar": "https://avatars.githubusercontent.com/u/46448715?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/alerque",
+        "avatar": "https://avatars.githubusercontent.com/u/173595?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/iamgio/quarkdown",
+    "name": "iamgio/quarkdown",
+    "description": "🪐 Markdown with superpowers: from ideas to papers, presentations, websites, books, and knowledge bases.  ",
+    "language": "Kotlin",
+    "stars": "12072",
+    "forks": "320",
+    "increased": "699 stars today"
+  }
+]
