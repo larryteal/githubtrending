@@ -1,0 +1,437 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/oz-agent",
+        "avatar": "https://avatars.githubusercontent.com/u/260729474?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/exzshao",
+        "avatar": "https://avatars.githubusercontent.com/u/92406694?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/vorporeal",
+        "avatar": "https://avatars.githubusercontent.com/u/211194?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/seemeroland",
+        "avatar": "https://avatars.githubusercontent.com/u/23090332?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/danielpeng2",
+        "avatar": "https://avatars.githubusercontent.com/u/30786057?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/warpdotdev/warp",
+    "name": "warpdotdev/warp",
+    "description": "Warp is an agentic development environment, born out of the terminal.  ",
+    "language": "Rust",
+    "stars": "44392",
+    "forks": "2663",
+    "increased": "12822 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/mattpocock",
+        "avatar": "https://avatars.githubusercontent.com/u/28293365?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/mattpocock/skills",
+    "name": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .claude directory.  ",
+    "language": "Shell",
+    "stars": "44994",
+    "forks": "3619",
+    "increased": "7280 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/HunxByts",
+        "avatar": "https://avatars.githubusercontent.com/u/130666567?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bakaemon",
+        "avatar": "https://avatars.githubusercontent.com/u/69375806?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/HunxByts/GhostTrack",
+    "name": "HunxByts/GhostTrack",
+    "description": "Useful tool to track location or mobile number  ",
+    "language": "Python",
+    "stars": "11617",
+    "forks": "1590",
+    "increased": "1033 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Prat011",
+        "avatar": "https://avatars.githubusercontent.com/u/67639393?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/smorky850612",
+        "avatar": "https://avatars.githubusercontent.com/u/211109100?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/foryourhealth111-pixel",
+        "avatar": "https://avatars.githubusercontent.com/u/251585801?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/hyhmrright",
+        "avatar": "https://avatars.githubusercontent.com/u/6754730?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/ComposioHQ/awesome-codex-skills",
+    "name": "ComposioHQ/awesome-codex-skills",
+    "description": "A curated list of practical Codex skills for automating workflows across the Codex CLI and API.  ",
+    "language": "Python",
+    "stars": "4838",
+    "forks": "298",
+    "increased": "1177 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/1jehuang",
+        "avatar": "https://avatars.githubusercontent.com/u/94247773?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/1jehuang/jcode",
+    "name": "1jehuang/jcode",
+    "description": "Coding Agent Harness  ",
+    "language": "Rust",
+    "stars": "1403",
+    "forks": "131",
+    "increased": "411 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/abhigyanpatwari",
+        "avatar": "https://avatars.githubusercontent.com/u/126312502?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/magyargergo",
+        "avatar": "https://avatars.githubusercontent.com/u/11230420?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/naicud",
+        "avatar": "https://avatars.githubusercontent.com/u/55764723?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/abhigyanpatwari/GitNexus",
+    "name": "abhigyanpatwari/GitNexus",
+    "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration  ",
+    "language": "TypeScript",
+    "stars": "33369",
+    "forks": "3784",
+    "increased": "774 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/YaoyaoChang",
+        "avatar": "https://avatars.githubusercontent.com/u/20237658?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/MSLDCherryPick",
+        "avatar": "https://avatars.githubusercontent.com/u/173002764?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pengzhiliang",
+        "avatar": "https://avatars.githubusercontent.com/u/26346329?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jsoref",
+        "avatar": "https://avatars.githubusercontent.com/u/2119212?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/microsoft/VibeVoice",
+    "name": "microsoft/VibeVoice",
+    "description": "Open-Source Frontier Voice AI  ",
+    "language": "Python",
+    "stars": "45720",
+    "forks": "5054",
+    "increased": "1690 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/CJackHwang",
+        "avatar": "https://avatars.githubusercontent.com/u/155826701?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sisyphus-dev-ai",
+        "avatar": "https://avatars.githubusercontent.com/u/238992291?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/shern-point",
+        "avatar": "https://avatars.githubusercontent.com/u/263715557?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ouqiting",
+        "avatar": "https://avatars.githubusercontent.com/u/71168750?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/CJackHwang/ds2api",
+    "name": "CJackHwang/ds2api",
+    "description": "Deepseek to API: A lightweight, high-performance full-stack middleware converting client protocols to universal APIs. Supports multi-account rotation, compiled binaries, Vercel Serverless, and Docker. Compatible with Google, Claude, and OpenAI API formats.  ",
+    "language": "Go",
+    "stars": "2738",
+    "forks": "730",
+    "increased": "465 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/obra",
+        "avatar": "https://avatars.githubusercontent.com/u/45416?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/arittr",
+        "avatar": "https://avatars.githubusercontent.com/u/5742859?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/clkao",
+        "avatar": "https://avatars.githubusercontent.com/u/69736?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jjshanks",
+        "avatar": "https://avatars.githubusercontent.com/u/62661?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/obra/superpowers",
+    "name": "obra/superpowers",
+    "description": "An agentic skills framework &amp; software development methodology that works.  ",
+    "language": "Shell",
+    "stars": "173209",
+    "forks": "15272",
+    "increased": "1653 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ZhuLinsen",
+        "avatar": "https://avatars.githubusercontent.com/u/42829555?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/massif-01",
+        "avatar": "https://avatars.githubusercontent.com/u/176381099?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/freesme",
+        "avatar": "https://avatars.githubusercontent.com/u/56824280?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/adminlove520",
+        "avatar": "https://avatars.githubusercontent.com/u/32920883?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/ZhuLinsen/daily_stock_analysis",
+    "name": "ZhuLinsen/daily_stock_analysis",
+    "description": "LLM驱动的 A/H/美股智能分析器：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets.  ",
+    "language": "Python",
+    "stars": "32826",
+    "forks": "32942",
+    "increased": "294 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/balintorosz",
+        "avatar": "https://avatars.githubusercontent.com/u/2445418?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rjulius23",
+        "avatar": "https://avatars.githubusercontent.com/u/26127942?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/eachann1024",
+        "avatar": "https://avatars.githubusercontent.com/u/43348055?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/fagemx",
+        "avatar": "https://avatars.githubusercontent.com/u/117356295?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/lukilabs/craft-agents-oss",
+    "name": "lukilabs/craft-agents-oss",
+    "language": "TypeScript",
+    "stars": "5361",
+    "forks": "723",
+    "increased": "393 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/vhf",
+        "avatar": "https://avatars.githubusercontent.com/u/2022803?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/eshellman",
+        "avatar": "https://avatars.githubusercontent.com/u/926513?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/davorpa",
+        "avatar": "https://avatars.githubusercontent.com/u/3125580?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/MHM5000",
+        "avatar": "https://avatars.githubusercontent.com/u/2694949?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kadhirash",
+        "avatar": "https://avatars.githubusercontent.com/u/10100659?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/EbookFoundation/free-programming-books",
+    "name": "EbookFoundation/free-programming-books",
+    "description": "📚 Freely available programming books  ",
+    "language": "Python",
+    "stars": "387212",
+    "forks": "66186",
+    "increased": "604 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/soxoj",
+        "avatar": "https://avatars.githubusercontent.com/u/31013580?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kustermariocoding",
+        "avatar": "https://avatars.githubusercontent.com/u/99247491?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/fen0s",
+        "avatar": "https://avatars.githubusercontent.com/u/37670363?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/soxoj/maigret",
+    "name": "soxoj/maigret",
+    "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites  ",
+    "language": "Python",
+    "stars": "20281",
+    "forks": "1422",
+    "increased": "79 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/omarroth",
+        "avatar": "https://avatars.githubusercontent.com/u/14208607?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/SamantazFox",
+        "avatar": "https://avatars.githubusercontent.com/u/52980486?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/weblate",
+        "avatar": "https://avatars.githubusercontent.com/u/1607653?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/syeopite",
+        "avatar": "https://avatars.githubusercontent.com/u/70992037?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/TheFrenchGhosty",
+        "avatar": "https://avatars.githubusercontent.com/u/47571719?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/iv-org/invidious",
+    "name": "iv-org/invidious",
+    "description": "Invidious is an alternative front-end to YouTube  ",
+    "language": "Crystal",
+    "stars": "19442",
+    "forks": "2136",
+    "increased": "269 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/gorhill",
+        "avatar": "https://avatars.githubusercontent.com/u/585534?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Deathamns",
+        "avatar": "https://avatars.githubusercontent.com/u/5853030?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/chrisaljoudi",
+        "avatar": "https://avatars.githubusercontent.com/u/2351359?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mjethani",
+        "avatar": "https://avatars.githubusercontent.com/u/617358?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/AlexVallat",
+        "avatar": "https://avatars.githubusercontent.com/u/531706?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/gorhill/uBlock",
+    "name": "gorhill/uBlock",
+    "description": "uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.  ",
+    "language": "JavaScript",
+    "stars": "64051",
+    "forks": "4074",
+    "increased": "391 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/crutkas",
+        "avatar": "https://avatars.githubusercontent.com/u/1462282?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bao-qian",
+        "avatar": "https://avatars.githubusercontent.com/u/1169912?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/qianlifeng",
+        "avatar": "https://avatars.githubusercontent.com/u/1725475?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jaimecbernardo",
+        "avatar": "https://avatars.githubusercontent.com/u/26118718?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/niels9001",
+        "avatar": "https://avatars.githubusercontent.com/u/9866362?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/microsoft/PowerToys",
+    "name": "microsoft/PowerToys",
+    "description": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows  ",
+    "language": "C#",
+    "stars": "132420",
+    "forks": "7914",
+    "increased": "102 stars today"
+  }
+]
