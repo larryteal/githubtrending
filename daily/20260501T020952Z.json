@@ -1,0 +1,351 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/oz-agent",
+        "avatar": "https://avatars.githubusercontent.com/u/260729474?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/exzshao",
+        "avatar": "https://avatars.githubusercontent.com/u/92406694?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/vorporeal",
+        "avatar": "https://avatars.githubusercontent.com/u/211194?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/seemeroland",
+        "avatar": "https://avatars.githubusercontent.com/u/23090332?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/harryalbert",
+        "avatar": "https://avatars.githubusercontent.com/u/65182701?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/warpdotdev/warp",
+    "name": "warpdotdev/warp",
+    "description": "Warp is an agentic development environment, born out of the terminal.  ",
+    "language": "Rust",
+    "stars": "49336",
+    "forks": "3211",
+    "increased": "oday"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Yijia-Xiao",
+        "avatar": "https://avatars.githubusercontent.com/u/48253104?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/EdwardoSunny",
+        "avatar": "https://avatars.githubusercontent.com/u/68405458?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/luohy15",
+        "avatar": "https://avatars.githubusercontent.com/u/15189961?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/CadeYu",
+        "avatar": "https://avatars.githubusercontent.com/u/91041827?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/TauricResearch/TradingAgents",
+    "name": "TauricResearch/TradingAgents",
+    "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework  ",
+    "language": "Python",
+    "stars": "57830",
+    "forks": "10994",
+    "increased": "2023 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/mattpocock",
+        "avatar": "https://avatars.githubusercontent.com/u/28293365?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/mattpocock/skills",
+    "name": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .claude directory.  ",
+    "language": "Shell",
+    "stars": "49626",
+    "forks": "4065",
+    "increased": "6187 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/obra",
+        "avatar": "https://avatars.githubusercontent.com/u/45416?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/arittr",
+        "avatar": "https://avatars.githubusercontent.com/u/5742859?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/clkao",
+        "avatar": "https://avatars.githubusercontent.com/u/69736?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jjshanks",
+        "avatar": "https://avatars.githubusercontent.com/u/62661?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/obra/superpowers",
+    "name": "obra/superpowers",
+    "description": "An agentic skills framework &amp; software development methodology that works.  ",
+    "language": "Shell",
+    "stars": "174636",
+    "forks": "15410",
+    "increased": "1632 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/balintorosz",
+        "avatar": "https://avatars.githubusercontent.com/u/2445418?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rjulius23",
+        "avatar": "https://avatars.githubusercontent.com/u/26127942?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/eachann1024",
+        "avatar": "https://avatars.githubusercontent.com/u/43348055?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/fagemx",
+        "avatar": "https://avatars.githubusercontent.com/u/117356295?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/lukilabs/craft-agents-oss",
+    "name": "lukilabs/craft-agents-oss",
+    "language": "TypeScript",
+    "stars": "5585",
+    "forks": "739",
+    "increased": "319 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/matheusfelipeog",
+        "avatar": "https://avatars.githubusercontent.com/u/50463866?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/davemachado",
+        "avatar": "https://avatars.githubusercontent.com/u/15134885?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pawelborkar",
+        "avatar": "https://avatars.githubusercontent.com/u/36134699?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jbrooksuk",
+        "avatar": "https://avatars.githubusercontent.com/u/246103?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/marekdano",
+        "avatar": "https://avatars.githubusercontent.com/u/1914165?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/public-apis/public-apis",
+    "name": "public-apis/public-apis",
+    "description": "A collective list of free APIs  ",
+    "language": "Python",
+    "stars": "429561",
+    "forks": "46869",
+    "increased": "322 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/1jehuang",
+        "avatar": "https://avatars.githubusercontent.com/u/94247773?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/1jehuang/jcode",
+    "name": "1jehuang/jcode",
+    "description": "Coding Agent Harness  ",
+    "language": "Rust",
+    "stars": "1906",
+    "forks": "174",
+    "increased": "675 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/soxoj",
+        "avatar": "https://avatars.githubusercontent.com/u/31013580?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kustermariocoding",
+        "avatar": "https://avatars.githubusercontent.com/u/99247491?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/fen0s",
+        "avatar": "https://avatars.githubusercontent.com/u/37670363?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/soxoj/maigret",
+    "name": "soxoj/maigret",
+    "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites  ",
+    "language": "Python",
+    "stars": "20864",
+    "forks": "1450",
+    "increased": "730 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/HunxByts",
+        "avatar": "https://avatars.githubusercontent.com/u/130666567?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bakaemon",
+        "avatar": "https://avatars.githubusercontent.com/u/69375806?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/HunxByts/GhostTrack",
+    "name": "HunxByts/GhostTrack",
+    "description": "Useful tool to track location or mobile number  ",
+    "language": "Python",
+    "stars": "12191",
+    "forks": "1631",
+    "increased": "841 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/iamgio",
+        "avatar": "https://avatars.githubusercontent.com/u/16124324?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/OverSamu",
+        "avatar": "https://avatars.githubusercontent.com/u/17676511?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/luojiyin1987",
+        "avatar": "https://avatars.githubusercontent.com/u/6524977?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/emsspree",
+        "avatar": "https://avatars.githubusercontent.com/u/19785245?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sanoakr",
+        "avatar": "https://avatars.githubusercontent.com/u/9814093?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/iamgio/quarkdown",
+    "name": "iamgio/quarkdown",
+    "description": "🪐 Markdown with superpowers: from ideas to papers, presentations, websites, books, and knowledge bases.  ",
+    "language": "Kotlin",
+    "stars": "13095",
+    "forks": "358",
+    "increased": "177 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/mitchellh",
+        "avatar": "https://avatars.githubusercontent.com/u/1299?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jcollie",
+        "avatar": "https://avatars.githubusercontent.com/u/740022?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/qwerasd205",
+        "avatar": "https://avatars.githubusercontent.com/u/7241851?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jparise",
+        "avatar": "https://avatars.githubusercontent.com/u/10311?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pluiedev",
+        "avatar": "https://avatars.githubusercontent.com/u/22406910?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/ghostty-org/ghostty",
+    "name": "ghostty-org/ghostty",
+    "description": "👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.  ",
+    "language": "Zig",
+    "stars": "52889",
+    "forks": "2565",
+    "increased": "341 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ForrestKnight",
+        "avatar": "https://avatars.githubusercontent.com/u/15620553?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/zubko",
+        "avatar": "https://avatars.githubusercontent.com/u/16039?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/0xflotus",
+        "avatar": "https://avatars.githubusercontent.com/u/26602940?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/KevoMeister",
+        "avatar": "https://avatars.githubusercontent.com/u/37786069?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/ForrestKnight/open-source-cs",
+    "name": "ForrestKnight/open-source-cs",
+    "description": "Video discussing this curriculum:  ",
+    "stars": "22387",
+    "forks": "3214",
+    "increased": "140 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/shrey150",
+        "avatar": "https://avatars.githubusercontent.com/u/3813908?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/miguelg719",
+        "avatar": "https://avatars.githubusercontent.com/u/36487034?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pkiv",
+        "avatar": "https://avatars.githubusercontent.com/u/3844752?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/shubh24",
+        "avatar": "https://avatars.githubusercontent.com/u/8428235?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/browserbase/skills",
+    "name": "browserbase/skills",
+    "description": "Claude Agent SDK with a web browsing tool  ",
+    "language": "JavaScript",
+    "stars": "853",
+    "forks": "65",
+    "increased": "69 stars today"
+  }
+]
