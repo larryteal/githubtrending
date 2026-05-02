@@ -1,0 +1,318 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/mattpocock",
+        "avatar": "https://avatars.githubusercontent.com/u/28293365?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/mattpocock/skills",
+    "name": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .claude directory.  ",
+    "language": "Shell",
+    "stars": "52631",
+    "forks": "4409",
+    "increased": "33628 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Alishahryar1",
+        "avatar": "https://avatars.githubusercontent.com/u/20476625?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cursoragent",
+        "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rishiskhare",
+        "avatar": "https://avatars.githubusercontent.com/u/30673002?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Alishahryar1/free-claude-code",
+    "name": "Alishahryar1/free-claude-code",
+    "description": "Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)  ",
+    "language": "Python",
+    "stars": "19720",
+    "forks": "2813",
+    "increased": "12928 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/CJackHwang",
+        "avatar": "https://avatars.githubusercontent.com/u/155826701?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/shern-point",
+        "avatar": "https://avatars.githubusercontent.com/u/263715557?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ouqiting",
+        "avatar": "https://avatars.githubusercontent.com/u/71168750?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sisyphus-dev-ai",
+        "avatar": "https://avatars.githubusercontent.com/u/238992291?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/CJackHwang/ds2api",
+    "name": "CJackHwang/ds2api",
+    "description": "DeepSeek-Compatible Middleware Interface: A technical exploration project in Go, focusing on high-concurrency protocol adaptation. It serves as a reference implementation for converting diverse web protocols into standardized formats.  ",
+    "language": "Go",
+    "stars": "3073",
+    "forks": "805",
+    "increased": "1775 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Z4nzu",
+        "avatar": "https://avatars.githubusercontent.com/u/25708027?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cclauss",
+        "avatar": "https://avatars.githubusercontent.com/u/3709715?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Greatest125",
+        "avatar": "https://avatars.githubusercontent.com/u/66028078?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mokrunka",
+        "avatar": "https://avatars.githubusercontent.com/u/59213927?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/W1LDN16H7",
+        "avatar": "https://avatars.githubusercontent.com/u/58102926?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Z4nzu/hackingtool",
+    "name": "Z4nzu/hackingtool",
+    "description": "ALL IN ONE Hacking Tool For Hackers  ",
+    "language": "Python",
+    "stars": "69794",
+    "forks": "7864",
+    "increased": "7925 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/forrestchang",
+        "avatar": "https://avatars.githubusercontent.com/u/7857126?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/back1ply",
+        "avatar": "https://avatars.githubusercontent.com/u/45536170?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/herobrine19",
+        "avatar": "https://avatars.githubusercontent.com/u/45513138?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/szkocot",
+        "avatar": "https://avatars.githubusercontent.com/u/478549?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/forrestchang/andrej-karpathy-skills",
+    "name": "forrestchang/andrej-karpathy-skills",
+    "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.  ",
+    "stars": "104774",
+    "forks": "10346",
+    "increased": "21896 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/akseljoonas",
+        "avatar": "https://avatars.githubusercontent.com/u/125026660?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/henribonamy",
+        "avatar": "https://avatars.githubusercontent.com/u/23294574?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Uzbyr",
+        "avatar": "https://avatars.githubusercontent.com/u/160398000?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/lewtun",
+        "avatar": "https://avatars.githubusercontent.com/u/26859204?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/huggingface/ml-intern",
+    "name": "huggingface/ml-intern",
+    "description": "🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models  ",
+    "language": "Python",
+    "stars": "7910",
+    "forks": "766",
+    "increased": "3157 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Yijia-Xiao",
+        "avatar": "https://avatars.githubusercontent.com/u/48253104?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/EdwardoSunny",
+        "avatar": "https://avatars.githubusercontent.com/u/68405458?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/luohy15",
+        "avatar": "https://avatars.githubusercontent.com/u/15189961?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/CadeYu",
+        "avatar": "https://avatars.githubusercontent.com/u/91041827?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/TauricResearch/TradingAgents",
+    "name": "TauricResearch/TradingAgents",
+    "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework  ",
+    "language": "Python",
+    "stars": "59958",
+    "forks": "11524",
+    "increased": "6152 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/puke3615",
+        "avatar": "https://avatars.githubusercontent.com/u/9640444?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/lltt90511",
+        "avatar": "https://avatars.githubusercontent.com/u/17017736?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/AuroraChloe",
+        "avatar": "https://avatars.githubusercontent.com/u/139871909?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/xianshi-yyds",
+        "avatar": "https://avatars.githubusercontent.com/u/150135158?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/strict235",
+        "avatar": "https://avatars.githubusercontent.com/u/196629462?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/AIDC-AI/Pixelle-Video",
+    "name": "AIDC-AI/Pixelle-Video",
+    "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine  ",
+    "language": "Python",
+    "stars": "8684",
+    "forks": "1392",
+    "increased": "2023 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/abhigyanpatwari",
+        "avatar": "https://avatars.githubusercontent.com/u/126312502?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/magyargergo",
+        "avatar": "https://avatars.githubusercontent.com/u/11230420?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/naicud",
+        "avatar": "https://avatars.githubusercontent.com/u/55764723?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/abhigyanpatwari/GitNexus",
+    "name": "abhigyanpatwari/GitNexus",
+    "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration  ",
+    "language": "TypeScript",
+    "stars": "34092",
+    "forks": "3873",
+    "increased": "5376 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/mksglu",
+        "avatar": "https://avatars.githubusercontent.com/u/6067714?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ipedro",
+        "avatar": "https://avatars.githubusercontent.com/u/380338?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rjkaes",
+        "avatar": "https://avatars.githubusercontent.com/u/128173?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/mksglu/context-mode",
+    "name": "mksglu/context-mode",
+    "description": "Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 14 platforms  ",
+    "language": "TypeScript",
+    "stars": "11766",
+    "forks": "808",
+    "increased": "1938 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/lsdefine",
+        "avatar": "https://avatars.githubusercontent.com/u/3377819?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ViviqwerAsd",
+        "avatar": "https://avatars.githubusercontent.com/u/90703326?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/shenhao-stu",
+        "avatar": "https://avatars.githubusercontent.com/u/65658684?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/JinyiHan99",
+        "avatar": "https://avatars.githubusercontent.com/u/154297799?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/YooooEX",
+        "avatar": "https://avatars.githubusercontent.com/u/4946838?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/lsdefine/GenericAgent",
+    "name": "lsdefine/GenericAgent",
+    "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption  ",
+    "language": "Python",
+    "stars": "8651",
+    "forks": "988",
+    "increased": "1875 stars this week"
+  }
+]
