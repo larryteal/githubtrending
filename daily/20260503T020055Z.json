@@ -1,0 +1,228 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Yijia-Xiao",
+        "avatar": "https://avatars.githubusercontent.com/u/48253104?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/EdwardoSunny",
+        "avatar": "https://avatars.githubusercontent.com/u/68405458?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/luohy15",
+        "avatar": "https://avatars.githubusercontent.com/u/15189961?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/CadeYu",
+        "avatar": "https://avatars.githubusercontent.com/u/91041827?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/TauricResearch/TradingAgents",
+    "name": "TauricResearch/TradingAgents",
+    "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework  ",
+    "language": "Python",
+    "stars": "62816",
+    "forks": "12148",
+    "increased": "2225 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ruvnet",
+        "avatar": "https://avatars.githubusercontent.com/u/2934394?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/alexx-ftw",
+        "avatar": "https://avatars.githubusercontent.com/u/22500633?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/lanemc",
+        "avatar": "https://avatars.githubusercontent.com/u/15803865?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tommy-ca",
+        "avatar": "https://avatars.githubusercontent.com/u/140900186?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/ruvnet/ruflo",
+    "name": "ruvnet/ruflo",
+    "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration  ",
+    "language": "TypeScript",
+    "stars": "36873",
+    "forks": "4229",
+    "increased": "1299 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/shrey150",
+        "avatar": "https://avatars.githubusercontent.com/u/3813908?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/miguelg719",
+        "avatar": "https://avatars.githubusercontent.com/u/36487034?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pkiv",
+        "avatar": "https://avatars.githubusercontent.com/u/3844752?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/shubh24",
+        "avatar": "https://avatars.githubusercontent.com/u/8428235?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/browserbase/skills",
+    "name": "browserbase/skills",
+    "description": "Claude Agent SDK with a web browsing tool  ",
+    "language": "JavaScript",
+    "stars": "1533",
+    "forks": "103",
+    "increased": "346 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/soxoj",
+        "avatar": "https://avatars.githubusercontent.com/u/31013580?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kustermariocoding",
+        "avatar": "https://avatars.githubusercontent.com/u/99247491?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/fen0s",
+        "avatar": "https://avatars.githubusercontent.com/u/37670363?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/soxoj/maigret",
+    "name": "soxoj/maigret",
+    "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites  ",
+    "language": "Python",
+    "stars": "22763",
+    "forks": "1599",
+    "increased": "1064 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Flowseal",
+        "avatar": "https://avatars.githubusercontent.com/u/50780822?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/V3nilla",
+        "avatar": "https://avatars.githubusercontent.com/u/48512277?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/fridorin",
+        "avatar": "https://avatars.githubusercontent.com/u/93490920?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ekungurov",
+        "avatar": "https://avatars.githubusercontent.com/u/8576664?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/amozebus",
+        "avatar": "https://avatars.githubusercontent.com/u/190386872?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Flowseal/zapret-discord-youtube",
+    "name": "Flowseal/zapret-discord-youtube",
+    "language": "Batchfile",
+    "stars": "27122",
+    "forks": "2112",
+    "increased": "181 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/1jehuang",
+        "avatar": "https://avatars.githubusercontent.com/u/94247773?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/1jehuang/jcode",
+    "name": "1jehuang/jcode",
+    "description": "Coding Agent Harness  ",
+    "language": "Rust",
+    "stars": "2868",
+    "forks": "259",
+    "increased": "482 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Jaex",
+        "avatar": "https://avatars.githubusercontent.com/u/822090?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/McoreD",
+        "avatar": "https://avatars.githubusercontent.com/u/48652?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/L1Q",
+        "avatar": "https://avatars.githubusercontent.com/u/6942070?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sylveon",
+        "avatar": "https://avatars.githubusercontent.com/u/6440374?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/SupSuper",
+        "avatar": "https://avatars.githubusercontent.com/u/603444?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/ShareX/ShareX",
+    "name": "ShareX/ShareX",
+    "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.  ",
+    "language": "C#",
+    "stars": "36833",
+    "forks": "3680",
+    "increased": "152 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/jwasham",
+        "avatar": "https://avatars.githubusercontent.com/u/3771963?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Anri-Lombard",
+        "avatar": "https://avatars.githubusercontent.com/u/76818211?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/avizmarlon",
+        "avatar": "https://avatars.githubusercontent.com/u/24354489?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/esaucedof",
+        "avatar": "https://avatars.githubusercontent.com/u/13459501?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Ilyushin",
+        "avatar": "https://avatars.githubusercontent.com/u/4519586?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/jwasham/coding-interview-university",
+    "name": "jwasham/coding-interview-university",
+    "description": "A complete computer science study plan to become a software engineer.  ",
+    "stars": "344600",
+    "forks": "82479",
+    "increased": "694 stars today"
+  }
+]
