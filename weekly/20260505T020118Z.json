@@ -1,0 +1,311 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/mattpocock",
+        "avatar": "https://avatars.githubusercontent.com/u/28293365?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/mattpocock/skills",
+    "name": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .claude directory.  ",
+    "language": "Shell",
+    "stars": "59092",
+    "forks": "5090",
+    "increased": "week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Yijia-Xiao",
+        "avatar": "https://avatars.githubusercontent.com/u/48253104?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/EdwardoSunny",
+        "avatar": "https://avatars.githubusercontent.com/u/68405458?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/luohy15",
+        "avatar": "https://avatars.githubusercontent.com/u/15189961?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/CadeYu",
+        "avatar": "https://avatars.githubusercontent.com/u/91041827?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/TauricResearch/TradingAgents",
+    "name": "TauricResearch/TradingAgents",
+    "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework  ",
+    "language": "Python",
+    "stars": "67599",
+    "forks": "13004",
+    "increased": "13293 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/soxoj",
+        "avatar": "https://avatars.githubusercontent.com/u/31013580?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kustermariocoding",
+        "avatar": "https://avatars.githubusercontent.com/u/99247491?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/fen0s",
+        "avatar": "https://avatars.githubusercontent.com/u/37670363?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/soxoj/maigret",
+    "name": "soxoj/maigret",
+    "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites  ",
+    "language": "Python",
+    "stars": "24883",
+    "forks": "1733",
+    "increased": "4789 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Prat011",
+        "avatar": "https://avatars.githubusercontent.com/u/67639393?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/smorky850612",
+        "avatar": "https://avatars.githubusercontent.com/u/211109100?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/foryourhealth111-pixel",
+        "avatar": "https://avatars.githubusercontent.com/u/251585801?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/hyhmrright",
+        "avatar": "https://avatars.githubusercontent.com/u/6754730?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/ComposioHQ/awesome-codex-skills",
+    "name": "ComposioHQ/awesome-codex-skills",
+    "description": "A curated list of practical Codex skills for automating workflows across the Codex CLI and API.  ",
+    "language": "Python",
+    "stars": "6518",
+    "forks": "427",
+    "increased": "3964 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ruvnet",
+        "avatar": "https://avatars.githubusercontent.com/u/2934394?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/alexx-ftw",
+        "avatar": "https://avatars.githubusercontent.com/u/22500633?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/lanemc",
+        "avatar": "https://avatars.githubusercontent.com/u/15803865?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tommy-ca",
+        "avatar": "https://avatars.githubusercontent.com/u/140900186?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/ruvnet/ruflo",
+    "name": "ruvnet/ruflo",
+    "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration  ",
+    "language": "TypeScript",
+    "stars": "41516",
+    "forks": "4645",
+    "increased": "6838 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Alishahryar1",
+        "avatar": "https://avatars.githubusercontent.com/u/20476625?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cursoragent",
+        "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rishiskhare",
+        "avatar": "https://avatars.githubusercontent.com/u/30673002?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Alishahryar1/free-claude-code",
+    "name": "Alishahryar1/free-claude-code",
+    "description": "Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)  ",
+    "language": "Python",
+    "stars": "21237",
+    "forks": "3062",
+    "increased": "5787 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/CJackHwang",
+        "avatar": "https://avatars.githubusercontent.com/u/155826701?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/shern-point",
+        "avatar": "https://avatars.githubusercontent.com/u/263715557?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ouqiting",
+        "avatar": "https://avatars.githubusercontent.com/u/71168750?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sisyphus-dev-ai",
+        "avatar": "https://avatars.githubusercontent.com/u/238992291?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/CJackHwang/ds2api",
+    "name": "CJackHwang/ds2api",
+    "description": "DeepSeek-Compatible Middleware Interface: A technical exploration project in Go, focusing on high-concurrency protocol adaptation. It serves as a reference implementation for converting diverse web protocols into standardized formats.  ",
+    "language": "Go",
+    "stars": "3384",
+    "forks": "909",
+    "increased": "1619 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/LucaRonin",
+        "avatar": "https://avatars.githubusercontent.com/u/695274?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/the-jwoo",
+        "avatar": "https://avatars.githubusercontent.com/u/23724806?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/muescha",
+        "avatar": "https://avatars.githubusercontent.com/u/184316?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/refactoringhq/tolaria",
+    "name": "refactoringhq/tolaria",
+    "description": "Desktop app to manage markdown knowledge bases  ",
+    "language": "TypeScript",
+    "stars": "9557",
+    "forks": "686",
+    "increased": "2493 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/puke3615",
+        "avatar": "https://avatars.githubusercontent.com/u/9640444?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/lltt90511",
+        "avatar": "https://avatars.githubusercontent.com/u/17017736?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/AuroraChloe",
+        "avatar": "https://avatars.githubusercontent.com/u/139871909?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/xianshi-yyds",
+        "avatar": "https://avatars.githubusercontent.com/u/150135158?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/strict235",
+        "avatar": "https://avatars.githubusercontent.com/u/196629462?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/AIDC-AI/Pixelle-Video",
+    "name": "AIDC-AI/Pixelle-Video",
+    "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine  ",
+    "language": "Python",
+    "stars": "03",
+    "forks": "1697",
+    "increased": "3635 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Z4nzu",
+        "avatar": "https://avatars.githubusercontent.com/u/25708027?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cclauss",
+        "avatar": "https://avatars.githubusercontent.com/u/3709715?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Greatest125",
+        "avatar": "https://avatars.githubusercontent.com/u/66028078?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mokrunka",
+        "avatar": "https://avatars.githubusercontent.com/u/59213927?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/W1LDN16H7",
+        "avatar": "https://avatars.githubusercontent.com/u/58102926?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Z4nzu/hackingtool",
+    "name": "Z4nzu/hackingtool",
+    "description": "ALL IN ONE Hacking Tool For Hackers  ",
+    "language": "Python",
+    "stars": "71414",
+    "forks": "8061",
+    "increased": "4767 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/abhigyanpatwari",
+        "avatar": "https://avatars.githubusercontent.com/u/126312502?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/magyargergo",
+        "avatar": "https://avatars.githubusercontent.com/u/11230420?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/naicud",
+        "avatar": "https://avatars.githubusercontent.com/u/55764723?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/abhigyanpatwari/GitNexus",
+    "name": "abhigyanpatwari/GitNexus",
+    "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration  ",
+    "language": "TypeScript",
+    "stars": "35619",
+    "forks": "4052",
+    "increased": "4694 stars this week"
+  }
+]

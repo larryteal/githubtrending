@@ -1,0 +1,430 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ruvnet",
+        "avatar": "https://avatars.githubusercontent.com/u/2934394?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/alexx-ftw",
+        "avatar": "https://avatars.githubusercontent.com/u/22500633?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/lanemc",
+        "avatar": "https://avatars.githubusercontent.com/u/15803865?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tommy-ca",
+        "avatar": "https://avatars.githubusercontent.com/u/140900186?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/ruvnet/ruflo",
+    "name": "ruvnet/ruflo",
+    "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration  ",
+    "language": "TypeScript",
+    "stars": "41516",
+    "forks": "4645",
+    "increased": "2598 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Yijia-Xiao",
+        "avatar": "https://avatars.githubusercontent.com/u/48253104?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/EdwardoSunny",
+        "avatar": "https://avatars.githubusercontent.com/u/68405458?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/luohy15",
+        "avatar": "https://avatars.githubusercontent.com/u/15189961?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/CadeYu",
+        "avatar": "https://avatars.githubusercontent.com/u/91041827?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/TauricResearch/TradingAgents",
+    "name": "TauricResearch/TradingAgents",
+    "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework  ",
+    "language": "Python",
+    "stars": "67599",
+    "forks": "13004",
+    "increased": "2182 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/shrey150",
+        "avatar": "https://avatars.githubusercontent.com/u/3813908?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/miguelg719",
+        "avatar": "https://avatars.githubusercontent.com/u/36487034?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pkiv",
+        "avatar": "https://avatars.githubusercontent.com/u/3844752?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/shubh24",
+        "avatar": "https://avatars.githubusercontent.com/u/8428235?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/browserbase/skills",
+    "name": "browserbase/skills",
+    "description": "Claude Agent SDK with a web browsing tool  ",
+    "language": "JavaScript",
+    "stars": "2131",
+    "forks": "134",
+    "increased": "320 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Hmbown",
+        "avatar": "https://avatars.githubusercontent.com/u/101357273?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/qwencoder",
+        "avatar": "https://avatars.githubusercontent.com/u/224605497?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/20bytes",
+        "avatar": "https://avatars.githubusercontent.com/u/133551439?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Hmbown/DeepSeek-TUI",
+    "name": "Hmbown/DeepSeek-TUI",
+    "description": "Coding agent for DeepSeek models that runs in your terminal  ",
+    "language": "Rust",
+    "stars": "4059",
+    "forks": "274",
+    "increased": "1274 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/soxoj",
+        "avatar": "https://avatars.githubusercontent.com/u/31013580?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kustermariocoding",
+        "avatar": "https://avatars.githubusercontent.com/u/99247491?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/fen0s",
+        "avatar": "https://avatars.githubusercontent.com/u/37670363?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/soxoj/maigret",
+    "name": "soxoj/maigret",
+    "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites  ",
+    "language": "Python",
+    "stars": "24883",
+    "forks": "1733",
+    "increased": "1119 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Chocobo1",
+        "avatar": "https://avatars.githubusercontent.com/u/9395168?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sledgehammer999",
+        "avatar": "https://avatars.githubusercontent.com/u/273315?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/glassez",
+        "avatar": "https://avatars.githubusercontent.com/u/5063477?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Piccirello",
+        "avatar": "https://avatars.githubusercontent.com/u/8296030?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/zeule",
+        "avatar": "https://avatars.githubusercontent.com/u/394621?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/qbittorrent/qBittorrent",
+    "name": "qbittorrent/qBittorrent",
+    "description": "qBittorrent BitTorrent client  ",
+    "language": "C++",
+    "stars": "37061",
+    "forks": "4651",
+    "increased": "82 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/czlonkowski",
+        "avatar": "https://avatars.githubusercontent.com/u/56956555?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kimbo128",
+        "avatar": "https://avatars.githubusercontent.com/u/29596490?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/thesved",
+        "avatar": "https://avatars.githubusercontent.com/u/2893181?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/naXa777",
+        "avatar": "https://avatars.githubusercontent.com/u/3858548?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/czlonkowski/n8n-mcp",
+    "name": "czlonkowski/n8n-mcp",
+    "description": "A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you  ",
+    "language": "TypeScript",
+    "stars": "19930",
+    "forks": "3267",
+    "increased": "496 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/1jehuang",
+        "avatar": "https://avatars.githubusercontent.com/u/94247773?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/1jehuang/jcode",
+    "name": "1jehuang/jcode",
+    "description": "Coding Agent Harness  ",
+    "language": "Rust",
+    "stars": "3932",
+    "forks": "372",
+    "increased": "548 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/msitarzewski",
+        "avatar": "https://avatars.githubusercontent.com/u/1972242?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/epowelljr",
+        "avatar": "https://avatars.githubusercontent.com/u/7342666?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/4shil",
+        "avatar": "https://avatars.githubusercontent.com/u/166588383?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/CagesThrottleUs",
+        "avatar": "https://avatars.githubusercontent.com/u/62324457?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/msitarzewski/agency-agents",
+    "name": "msitarzewski/agency-agents",
+    "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.  ",
+    "language": "Shell",
+    "stars": "92713",
+    "forks": "15247",
+    "increased": "1189 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/virattt",
+        "avatar": "https://avatars.githubusercontent.com/u/901795?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/MkDev11",
+        "avatar": "https://avatars.githubusercontent.com/u/94194147?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cursoragent",
+        "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/gupta-8",
+        "avatar": "https://avatars.githubusercontent.com/u/215169640?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sjhddh",
+        "avatar": "https://avatars.githubusercontent.com/u/5778228?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/virattt/dexter",
+    "name": "virattt/dexter",
+    "description": "An autonomous agent for deep financial research  ",
+    "language": "TypeScript",
+    "stars": "23229",
+    "forks": "2844",
+    "increased": "409 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Flowseal",
+        "avatar": "https://avatars.githubusercontent.com/u/50780822?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/V3nilla",
+        "avatar": "https://avatars.githubusercontent.com/u/48512277?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/fridorin",
+        "avatar": "https://avatars.githubusercontent.com/u/93490920?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ekungurov",
+        "avatar": "https://avatars.githubusercontent.com/u/8576664?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/amozebus",
+        "avatar": "https://avatars.githubusercontent.com/u/190386872?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Flowseal/zapret-discord-youtube",
+    "name": "Flowseal/zapret-discord-youtube",
+    "language": "atchfile",
+    "stars": "27319",
+    "forks": "2133",
+    "increased": "67 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/fspecii",
+        "avatar": "https://avatars.githubusercontent.com/u/4722521?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/riversedge",
+        "avatar": "https://avatars.githubusercontent.com/u/16587423?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/fspecii/ace-step-ui",
+    "name": "fspecii/ace-step-ui",
+    "description": "🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno!  ",
+    "language": "JavaScript",
+    "stars": "2860",
+    "forks": "411",
+    "increased": "237 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/LukePulverenti",
+        "avatar": "https://avatars.githubusercontent.com/u/3607463?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Bond-009",
+        "avatar": "https://avatars.githubusercontent.com/u/21289123?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/crobibero",
+        "avatar": "https://avatars.githubusercontent.com/u/24963659?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cvium",
+        "avatar": "https://avatars.githubusercontent.com/u/675118?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/joshuaboniface",
+        "avatar": "https://avatars.githubusercontent.com/u/4031396?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/jellyfin/jellyfin",
+    "name": "jellyfin/jellyfin",
+    "description": "The Free Software Media System - Server Backend &amp; API  ",
+    "language": "C#",
+    "stars": "51163",
+    "forks": "4740",
+    "increased": "41 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/georgeh0",
+        "avatar": "https://avatars.githubusercontent.com/u/657722?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/badmonster0",
+        "avatar": "https://avatars.githubusercontent.com/u/1772842?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/lemorage",
+        "avatar": "https://avatars.githubusercontent.com/u/88943827?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Haleshot",
+        "avatar": "https://avatars.githubusercontent.com/u/57552973?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/cocoindex-io/cocoindex",
+    "name": "cocoindex-io/cocoindex",
+    "description": "Incremental engine for long horizon agents 🌟 Star if you like it!  ",
+    "language": "Python",
+    "stars": "8024",
+    "forks": "592",
+    "increased": "166 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/omohokcoj",
+        "avatar": "https://avatars.githubusercontent.com/u/5418788?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/AlexBTurchyn",
+        "avatar": "https://avatars.githubusercontent.com/u/1176367?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jbenguira",
+        "avatar": "https://avatars.githubusercontent.com/u/1835561?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/imchairmanm",
+        "avatar": "https://avatars.githubusercontent.com/u/3957147?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/docusealco/docuseal",
+    "name": "docusealco/docuseal",
+    "description": "Open source Do cuSign alternative. Crea te, fill, and sign digital documents ✍️  ",
+    "language": "Ruby",
+    "stars": "13305",
+    "forks": "1213",
+    "increased": "535 stars today"
+  }
+]
