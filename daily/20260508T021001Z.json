@@ -1,0 +1,372 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/cxyback",
+        "avatar": "https://avatars.githubusercontent.com/u/174142461?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/manar-ant",
+        "avatar": "https://avatars.githubusercontent.com/u/250030384?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mihilmy",
+        "avatar": "https://avatars.githubusercontent.com/u/5457787?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tobinsouth",
+        "avatar": "https://avatars.githubusercontent.com/u/32489862?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/viveknair",
+        "avatar": "https://avatars.githubusercontent.com/u/1203039?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/anthropics/financial-services",
+    "name": "anthropics/financial-services",
+    "language": "Python",
+    "stars": "11930",
+    "forks": "1543",
+    "increased": "1343 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Hmbown",
+        "avatar": "https://avatars.githubusercontent.com/u/101357273?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/axobase001",
+        "avatar": "https://avatars.githubusercontent.com/u/138223345?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/angziii",
+        "avatar": "https://avatars.githubusercontent.com/u/177907677?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Hmbown/DeepSeek-TUI",
+    "name": "Hmbown/DeepSeek-TUI",
+    "description": "Coding agent for DeepSeek models that runs in your terminal  ",
+    "language": "Rust",
+    "stars": "19120",
+    "forks": "1458",
+    "increased": "5799 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/jianc99",
+        "avatar": "https://avatars.githubusercontent.com/u/141193260?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/shaun0927",
+        "avatar": "https://avatars.githubusercontent.com/u/70629228?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/zhijian-liu",
+        "avatar": "https://avatars.githubusercontent.com/u/5782437?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/xiziqiao",
+        "avatar": "https://avatars.githubusercontent.com/u/122404358?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/z-lab/dflash",
+    "name": "z-lab/dflash",
+    "description": "DFlash: Block Diffusion for Flash Speculative Decoding  ",
+    "language": "Python",
+    "stars": "3523",
+    "forks": "249",
+    "increased": "671 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Fermionic-Lyu",
+        "avatar": "https://avatars.githubusercontent.com/u/32749865?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tonychang04",
+        "avatar": "https://avatars.githubusercontent.com/u/26497075?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Leo-rq-yu",
+        "avatar": "https://avatars.githubusercontent.com/u/57006508?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jwfing",
+        "avatar": "https://avatars.githubusercontent.com/u/985038?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/InsForge/InsForge",
+    "name": "InsForge/InsForge",
+    "description": "InsForge is a Postgres-based backend with auth, storage, compute, hosting, and AI gateway. Built for coding agents.  ",
+    "language": "TypeScript",
+    "stars": "8887",
+    "forks": "735",
+    "increased": "460 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/LearningCircuit",
+        "avatar": "https://avatars.githubusercontent.com/u/185559241?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/djpetti",
+        "avatar": "https://avatars.githubusercontent.com/u/7475340?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/HashedViking",
+        "avatar": "https://avatars.githubusercontent.com/u/6432677?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/LearningCircuit/local-deep-research",
+    "name": "LearningCircuit/local-deep-research",
+    "description": "~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local &amp; Encrypted.  ",
+    "language": "Python",
+    "stars": "6295",
+    "forks": "553",
+    "increased": "559 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/addyosmani",
+        "avatar": "https://avatars.githubusercontent.com/u/110953?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/federicobartoli",
+        "avatar": "https://avatars.githubusercontent.com/u/27234034?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/nucliweb",
+        "avatar": "https://avatars.githubusercontent.com/u/1307927?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dj2313",
+        "avatar": "https://avatars.githubusercontent.com/u/103351705?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/addyosmani/agent-skills",
+    "name": "addyosmani/agent-skills",
+    "description": "Production-grade engineering skills for AI coding agents.  ",
+    "language": "Shell",
+    "stars": "33103",
+    "forks": "3823",
+    "increased": "3062 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/rejojer",
+        "avatar": "https://avatars.githubusercontent.com/u/8255061?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/zmtomorrow",
+        "avatar": "https://avatars.githubusercontent.com/u/13518252?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/BukeLy",
+        "avatar": "https://avatars.githubusercontent.com/u/19304666?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/KylinMountain",
+        "avatar": "https://avatars.githubusercontent.com/u/3996229?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/luojiyin1987",
+        "avatar": "https://avatars.githubusercontent.com/u/6524977?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/VectifyAI/PageIndex",
+    "name": "VectifyAI/PageIndex",
+    "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG  ",
+    "language": "Python",
+    "stars": "29606",
+    "forks": "2499",
+    "increased": "943 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/nicoalbanese",
+        "avatar": "https://avatars.githubusercontent.com/u/49612682?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/willsather",
+        "avatar": "https://avatars.githubusercontent.com/u/56037657?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/yavorpunchev",
+        "avatar": "https://avatars.githubusercontent.com/u/1018854?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pranaygp",
+        "avatar": "https://avatars.githubusercontent.com/u/1797812?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/vercel-labs/open-agents",
+    "name": "vercel-labs/open-agents",
+    "description": "An open source template for building cloud agents.  ",
+    "language": "TypeScript",
+    "stars": "5065",
+    "forks": "636",
+    "increased": "131 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/omohokcoj",
+        "avatar": "https://avatars.githubusercontent.com/u/5418788?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/AlexBTurchyn",
+        "avatar": "https://avatars.githubusercontent.com/u/1176367?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jbenguira",
+        "avatar": "https://avatars.githubusercontent.com/u/1835561?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/imchairmanm",
+        "avatar": "https://avatars.githubusercontent.com/u/3957147?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/docusealco/docuseal",
+    "name": "docusealco/docuseal",
+    "description": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️  ",
+    "language": "Ruby",
+    "stars": "15661",
+    "forks": "1412",
+    "increased": "900 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/anuragg-saxenaa",
+        "avatar": "https://avatars.githubusercontent.com/u/17893081?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cursoragent",
+        "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/catalinstanciu",
+        "avatar": "https://avatars.githubusercontent.com/u/5753427?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Blade096",
+        "avatar": "https://avatars.githubusercontent.com/u/46746496?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/decolua/9router",
+    "name": "decolua/9router",
+    "description": "🆓 Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.  ",
+    "language": "JavaScript",
+    "stars": "4619",
+    "forks": "991",
+    "increased": "149 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/LeoGrin",
+        "avatar": "https://avatars.githubusercontent.com/u/45738728?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/oscarkey",
+        "avatar": "https://avatars.githubusercontent.com/u/229659?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bejaeger",
+        "avatar": "https://avatars.githubusercontent.com/u/22861601?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/noahho",
+        "avatar": "https://avatars.githubusercontent.com/u/12981296?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/PriorLabs/TabPFN",
+    "name": "PriorLabs/TabPFN",
+    "description": "⚡ TabPFN: Foundation Model for Tabular Data ⚡  ",
+    "language": "Python",
+    "stars": "6799",
+    "forks": "669",
+    "increased": "230 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/EbonyLouis",
+        "avatar": "https://avatars.githubusercontent.com/u/55366651?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/blackgirlbytes",
+        "avatar": "https://avatars.githubusercontent.com/u/22990146?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/angiejones",
+        "avatar": "https://avatars.githubusercontent.com/u/15972783?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dianed-square",
+        "avatar": "https://avatars.githubusercontent.com/u/73617011?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/michaelneale",
+        "avatar": "https://avatars.githubusercontent.com/u/14976?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/aaif-goose/goose",
+    "name": "aaif-goose/goose",
+    "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM  ",
+    "language": "Rust",
+    "stars": "44532",
+    "forks": "4555",
+    "increased": "390 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Augani",
+        "avatar": "https://avatars.githubusercontent.com/u/13237525?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/lvalics",
+        "avatar": "https://avatars.githubusercontent.com/u/27447535?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/joshmoy",
+        "avatar": "https://avatars.githubusercontent.com/u/55160504?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Augani/openreel-video",
+    "name": "Augani/openreel-video",
+    "description": "OpenReel Video - Professional browser-based video editor. Open source CapCut alternative. 100% browser-based, no installation, no cloud uploads, no watermarks.  ",
+    "language": "TypeScript",
+    "stars": "1759",
+    "forks": "263",
+    "increased": "233 stars today"
+  }
+]
