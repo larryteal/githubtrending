@@ -1,0 +1,392 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/cxyback",
+        "avatar": "https://avatars.githubusercontent.com/u/174142461?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/manar-ant",
+        "avatar": "https://avatars.githubusercontent.com/u/250030384?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mihilmy",
+        "avatar": "https://avatars.githubusercontent.com/u/5457787?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tobinsouth",
+        "avatar": "https://avatars.githubusercontent.com/u/32489862?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/viveknair",
+        "avatar": "https://avatars.githubusercontent.com/u/1203039?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/anthropics/financial-services",
+    "name": "anthropics/financial-services",
+    "language": "Python",
+    "stars": "17457",
+    "forks": "2214",
+    "increased": "3281 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ulivz",
+        "avatar": "https://avatars.githubusercontent.com/u/23133919?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ycjcl868",
+        "avatar": "https://avatars.githubusercontent.com/u/13595509?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ZhaoHeh",
+        "avatar": "https://avatars.githubusercontent.com/u/38528320?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cjraft",
+        "avatar": "https://avatars.githubusercontent.com/u/13687952?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/skychx",
+        "avatar": "https://avatars.githubusercontent.com/u/24872439?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/bytedance/UI-TARS-desktop",
+    "name": "bytedance/UI-TARS-desktop",
+    "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra  ",
+    "language": "TypeScript",
+    "stars": "31444",
+    "forks": "3125",
+    "increased": "552 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/rohitg00",
+        "avatar": "https://avatars.githubusercontent.com/u/48523873?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Tanmay-008",
+        "avatar": "https://avatars.githubusercontent.com/u/158763203?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/JasonLandbridge",
+        "avatar": "https://avatars.githubusercontent.com/u/15127381?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Getty",
+        "avatar": "https://avatars.githubusercontent.com/u/46562?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Edison-A-N",
+        "avatar": "https://avatars.githubusercontent.com/u/16491887?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/rohitg00/agentmemory",
+    "name": "rohitg00/agentmemory",
+    "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks  ",
+    "language": "TypeScript",
+    "stars": "3467",
+    "forks": "342",
+    "increased": "533 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/jjyaoao",
+        "avatar": "https://avatars.githubusercontent.com/u/88936287?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/HeteroCat",
+        "avatar": "https://avatars.githubusercontent.com/u/111065724?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/JJasonSun",
+        "avatar": "https://avatars.githubusercontent.com/u/130959319?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/fengju0213",
+        "avatar": "https://avatars.githubusercontent.com/u/168447269?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Tasselszcx",
+        "avatar": "https://avatars.githubusercontent.com/u/93756983?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/datawhalechina/hello-agents",
+    "name": "datawhalechina/hello-agents",
+    "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程  ",
+    "language": "Python",
+    "stars": "45717",
+    "forks": "5535",
+    "increased": "1197 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/sanbuphy",
+        "avatar": "https://avatars.githubusercontent.com/u/96160062?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/GeoDaoyu",
+        "avatar": "https://avatars.githubusercontent.com/u/34641603?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/SherryTECNU",
+        "avatar": "https://avatars.githubusercontent.com/u/47715534?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/1985312383",
+        "avatar": "https://avatars.githubusercontent.com/u/56398475?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/datawhalechina/easy-vibe",
+    "name": "datawhalechina/easy-vibe",
+    "description": "💻 vibe coding 2026 | Your first modern programming course for beginners to master step by step.  ",
+    "language": "JavaScript",
+    "stars": "8555",
+    "forks": "861",
+    "increased": "294 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ramnique",
+        "avatar": "https://avatars.githubusercontent.com/u/30795890?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/arkml",
+        "avatar": "https://avatars.githubusercontent.com/u/6592213?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/akhisud3195",
+        "avatar": "https://avatars.githubusercontent.com/u/55130408?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tusharmagar",
+        "avatar": "https://avatars.githubusercontent.com/u/47842976?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/rowboatlabs/rowboat",
+    "name": "rowboatlabs/rowboat",
+    "description": "Open-source AI coworker, with memory  ",
+    "language": "TypeScript",
+    "stars": "13803",
+    "forks": "1370",
+    "increased": "144 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/OrKoN",
+        "avatar": "https://avatars.githubusercontent.com/u/399150?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Lightning00Blade",
+        "avatar": "https://avatars.githubusercontent.com/u/34244704?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/browser-automation-bot",
+        "avatar": "https://avatars.githubusercontent.com/u/133232582?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/szuend",
+        "avatar": "https://avatars.githubusercontent.com/u/325588?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+    "name": "ChromeDevTools/chrome-devtools-mcp",
+    "description": "Chrome DevTools for coding agents  ",
+    "language": "TypeScript",
+    "stars": "38842",
+    "forks": "2457",
+    "increased": "107 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/masterking32",
+        "avatar": "https://avatars.githubusercontent.com/u/1076030?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/abolix",
+        "avatar": "https://avatars.githubusercontent.com/u/20380298?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/PentSec",
+        "avatar": "https://avatars.githubusercontent.com/u/11955573?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/MahdiMirzadeh",
+        "avatar": "https://avatars.githubusercontent.com/u/63877463?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/typerhack",
+        "avatar": "https://avatars.githubusercontent.com/u/22979706?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/masterking32/MasterDnsVPN",
+    "name": "masterking32/MasterDnsVPN",
+    "description": "Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high packet-loss stability and speed.  ",
+    "language": "Go",
+    "stars": "2553",
+    "forks": "273",
+    "increased": "597 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/slimbuck",
+        "avatar": "https://avatars.githubusercontent.com/u/11276292?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/willeastcott",
+        "avatar": "https://avatars.githubusercontent.com/u/697563?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/simonbethke",
+        "avatar": "https://avatars.githubusercontent.com/u/11922599?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cursoragent",
+        "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/playcanvas/supersplat",
+    "name": "playcanvas/supersplat",
+    "description": "3D Gaussian Splat Editor  ",
+    "language": "TypeScript",
+    "stars": "6332",
+    "forks": "732",
+    "increased": "514 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Lordog",
+        "avatar": "https://avatars.githubusercontent.com/u/59903352?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cooelf",
+        "avatar": "https://avatars.githubusercontent.com/u/7037265?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/zwhe99",
+        "avatar": "https://avatars.githubusercontent.com/u/33388552?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dongdongzhaoUP",
+        "avatar": "https://avatars.githubusercontent.com/u/45898026?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/scofield7419",
+        "avatar": "https://avatars.githubusercontent.com/u/18722770?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Lordog/dive-into-llms",
+    "name": "Lordog/dive-into-llms",
+    "description": "《动手学大模 型Dive into LLMs》系 列编程实践教程  ",
+    "language": "Jupyter Notebook",
+    "stars": "36490",
+    "forks": "4486",
+    "increased": "160 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/addyosmani",
+        "avatar": "https://avatars.githubusercontent.com/u/110953?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/federicobartoli",
+        "avatar": "https://avatars.githubusercontent.com/u/27234034?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/nucliweb",
+        "avatar": "https://avatars.githubusercontent.com/u/1307927?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dj2313",
+        "avatar": "https://avatars.githubusercontent.com/u/103351705?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/addyosmani/agent-skills",
+    "name": "addyosmani/agent-skills",
+    "description": "Production-grade engineering skills for AI coding agents.  ",
+    "language": "Shell",
+    "stars": "37427",
+    "forks": "4182",
+    "increased": "3009 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/anuragg-saxenaa",
+        "avatar": "https://avatars.githubusercontent.com/u/17893081?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cursoragent",
+        "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/catalinstanciu",
+        "avatar": "https://avatars.githubusercontent.com/u/5753427?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Blade096",
+        "avatar": "https://avatars.githubusercontent.com/u/46746496?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/decolua/9router",
+    "name": "decolua/9router",
+    "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.  ",
+    "language": "JavaScript",
+    "stars": "6536",
+    "forks": "1171",
+    "increased": "1031 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/jasperan",
+        "avatar": "https://avatars.githubusercontent.com/u/20752424?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/WSPluta",
+        "avatar": "https://avatars.githubusercontent.com/u/60693402?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/vmleon",
+        "avatar": "https://avatars.githubusercontent.com/u/2128514?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/peppertech",
+        "avatar": "https://avatars.githubusercontent.com/u/1252674?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/RichmondAlake",
+        "avatar": "https://avatars.githubusercontent.com/u/16384755?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/oracle-devrel/oracle-ai-developer-hub",
+    "name": "oracle-devrel/oracle-ai-developer-hub",
+    "description": "Technical resources for AI developers to build applications, agents, and systems using Oracle AI Database and OCI services  ",
+    "language": "Jupyter Notebook",
+    "stars": "813",
+    "forks": "231",
+    "increased": "90 stars today"
+  }
+]
