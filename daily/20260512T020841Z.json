@@ -1,0 +1,389 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ulivz",
+        "avatar": "https://avatars.githubusercontent.com/u/23133919?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ycjcl868",
+        "avatar": "https://avatars.githubusercontent.com/u/13595509?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ZhaoHeh",
+        "avatar": "https://avatars.githubusercontent.com/u/38528320?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cjraft",
+        "avatar": "https://avatars.githubusercontent.com/u/13687952?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/skychx",
+        "avatar": "https://avatars.githubusercontent.com/u/24872439?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/bytedance/UI-TARS-desktop",
+    "name": "bytedance/UI-TARS-desktop",
+    "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra  ",
+    "language": "TypeScript",
+    "stars": "33049",
+    "forks": "3276",
+    "increased": "956 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Cloak-HQ",
+        "avatar": "https://avatars.githubusercontent.com/u/263726196?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/evelaa123",
+        "avatar": "https://avatars.githubusercontent.com/u/189992797?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Durafen",
+        "avatar": "https://avatars.githubusercontent.com/u/7827228?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kitiho",
+        "avatar": "https://avatars.githubusercontent.com/u/51785099?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/CloakHQ/CloakBrowser",
+    "name": "CloakHQ/CloakBrowser",
+    "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.  ",
+    "language": "Python",
+    "stars": "6271",
+    "forks": "460",
+    "increased": "1320 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/niuwenzheng",
+        "avatar": "https://avatars.githubusercontent.com/u/30893307?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/gaozhenqiang",
+        "avatar": "https://avatars.githubusercontent.com/u/88360790?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Yuuki-Sakura",
+        "avatar": "https://avatars.githubusercontent.com/u/54829481?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/gao1234-prog",
+        "avatar": "https://avatars.githubusercontent.com/u/208151450?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/whh2333",
+        "avatar": "https://avatars.githubusercontent.com/u/70197018?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/yikart/AiToEarn",
+    "name": "yikart/AiToEarn",
+    "description": "Let's use AI to Earn!  ",
+    "language": "TypeScript",
+    "stars": "10860",
+    "forks": "2011",
+    "increased": "427 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/slimbuck",
+        "avatar": "https://avatars.githubusercontent.com/u/11276292?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/willeastcott",
+        "avatar": "https://avatars.githubusercontent.com/u/697563?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/simonbethke",
+        "avatar": "https://avatars.githubusercontent.com/u/11922599?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cursoragent",
+        "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/playcanvas/supersplat",
+    "name": "playcanvas/supersplat",
+    "description": "3D Gaussian Splat Editor  ",
+    "language": "TypeScript",
+    "stars": "7375",
+    "forks": "810",
+    "increased": "531 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/sanbuphy",
+        "avatar": "https://avatars.githubusercontent.com/u/96160062?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/GeoDaoyu",
+        "avatar": "https://avatars.githubusercontent.com/u/34641603?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/SherryTECNU",
+        "avatar": "https://avatars.githubusercontent.com/u/47715534?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/1985312383",
+        "avatar": "https://avatars.githubusercontent.com/u/56398475?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/datawhalechina/easy-vibe",
+    "name": "datawhalechina/easy-vibe",
+    "description": "💻 vibe coding 2026 | Your first modern Coding course for beginners to master step by step.  ",
+    "language": "JavaScript",
+    "stars": "9973",
+    "forks": "950",
+    "increased": "812 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/anuragg-saxenaa",
+        "avatar": "https://avatars.githubusercontent.com/u/17893081?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cursoragent",
+        "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/catalinstanciu",
+        "avatar": "https://avatars.githubusercontent.com/u/5753427?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Blade096",
+        "avatar": "https://avatars.githubusercontent.com/u/46746496?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/decolua/9router",
+    "name": "decolua/9router",
+    "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.  ",
+    "language": "JavaScript",
+    "stars": "8403",
+    "forks": "1336",
+    "increased": "941 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/senamakel",
+        "avatar": "https://avatars.githubusercontent.com/u/31011319?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/graycyrus",
+        "avatar": "https://avatars.githubusercontent.com/u/144336577?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/M3gA-Mind",
+        "avatar": "https://avatars.githubusercontent.com/u/146339422?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/tinyhumansai/openhuman",
+    "name": "tinyhumansai/openhuman",
+    "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.  ",
+    "language": "Rust",
+    "stars": "1534",
+    "forks": "183",
+    "increased": "366 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/aidenybai",
+        "avatar": "https://avatars.githubusercontent.com/u/38025074?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cursoragent",
+        "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/amiagent",
+        "avatar": "https://avatars.githubusercontent.com/u/236531494?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/NisargIO",
+        "avatar": "https://avatars.githubusercontent.com/u/17689267?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/millionco/react-doctor",
+    "name": "millionco/react-doctor",
+    "description": "Your agent writes bad React. This catches it  ",
+    "language": "TypeScript",
+    "stars": "8102",
+    "forks": "262",
+    "increased": "212 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Lordog",
+        "avatar": "https://avatars.githubusercontent.com/u/59903352?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cooelf",
+        "avatar": "https://avatars.githubusercontent.com/u/7037265?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/zwhe99",
+        "avatar": "https://avatars.githubusercontent.com/u/33388552?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dongdongzhaoUP",
+        "avatar": "https://avatars.githubusercontent.com/u/45898026?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/scofield7419",
+        "avatar": "https://avatars.githubusercontent.com/u/18722770?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Lordog/dive-into-llms",
+    "name": "Lordog/dive-into-llms",
+    "description": "《动手学大模型Dive into LLMs》系列编程实践教程  ",
+    "language": "Jupyter Notebook",
+    "stars": "37339",
+    "forks": "4578",
+    "increased": "422 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/AUTOMATIC1111",
+        "avatar": "https://avatars.githubusercontent.com/u/20920490?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/w-e-w",
+        "avatar": "https://avatars.githubusercontent.com/u/40751091?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dfaker",
+        "avatar": "https://avatars.githubusercontent.com/u/35278260?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/akx",
+        "avatar": "https://avatars.githubusercontent.com/u/58669?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/catboxanon",
+        "avatar": "https://avatars.githubusercontent.com/u/122327233?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+    "name": "AUTOMATIC1111/stable-diffusion-webui",
+    "description": "Stable Diffusion web UI  ",
+    "language": "Python",
+    "stars": "162909",
+    "forks": "30336",
+    "increased": "39 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/rasbt",
+        "avatar": "https://avatars.githubusercontent.com/u/5618407?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/d-kleine",
+        "avatar": "https://avatars.githubusercontent.com/u/53251018?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Intelligence-Manifesto",
+        "avatar": "https://avatars.githubusercontent.com/u/155522535?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/casinca",
+        "avatar": "https://avatars.githubusercontent.com/u/47400729?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rayed-therap",
+        "avatar": "https://avatars.githubusercontent.com/u/4649183?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/rasbt/LLMs-from-scratch",
+    "name": "rasbt/LLMs-from-scratch",
+    "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step  ",
+    "language": "Jupyter Notebook",
+    "stars": "93044",
+    "forks": "14342",
+    "increased": "337 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/teknium1",
+        "avatar": "https://avatars.githubusercontent.com/u/127238744?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/OutThisLife",
+        "avatar": "https://avatars.githubusercontent.com/u/770929?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kshitijk4poor",
+        "avatar": "https://avatars.githubusercontent.com/u/82637225?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/0xbyt4",
+        "avatar": "https://avatars.githubusercontent.com/u/35742124?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/NousResearch/hermes-agent",
+    "name": "NousResearch/hermes-agent",
+    "description": "The agent that grows with you  ",
+    "language": "Python",
+    "stars": "144953",
+    "forks": "22667",
+    "increased": "2065 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/rohitg00",
+        "avatar": "https://avatars.githubusercontent.com/u/48523873?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Tanmay-008",
+        "avatar": "https://avatars.githubusercontent.com/u/158763203?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/JasonLandbridge",
+        "avatar": "https://avatars.githubusercontent.com/u/15127381?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Getty",
+        "avatar": "https://avatars.githubusercontent.com/u/46562?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Edison-A-N",
+        "avatar": "https://avatars.githubusercontent.com/u/16491887?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/rohitg00/agentmemory",
+    "name": "rohitg00/agentmemory",
+    "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks  ",
+    "language": "TypeScript",
+    "stars": "4803",
+    "forks": "457",
+    "increased": "430 stars today"
+  }
+]
