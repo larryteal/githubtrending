@@ -1,0 +1,315 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/senamakel",
+        "avatar": "https://avatars.githubusercontent.com/u/31011319?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/graycyrus",
+        "avatar": "https://avatars.githubusercontent.com/u/144336577?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/M3gA-Mind",
+        "avatar": "https://avatars.githubusercontent.com/u/146339422?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/tinyhumansai/openhuman",
+    "name": "tinyhumansai/openhuman",
+    "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.  ",
+    "language": "Rust",
+    "stars": "2832",
+    "forks": "272",
+    "increased": "1014 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/rohitg00",
+        "avatar": "https://avatars.githubusercontent.com/u/48523873?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Tanmay-008",
+        "avatar": "https://avatars.githubusercontent.com/u/158763203?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/JasonLandbridge",
+        "avatar": "https://avatars.githubusercontent.com/u/15127381?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Getty",
+        "avatar": "https://avatars.githubusercontent.com/u/46562?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Edison-A-N",
+        "avatar": "https://avatars.githubusercontent.com/u/16491887?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/rohitg00/agentmemory",
+    "name": "rohitg00/agentmemory",
+    "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks  ",
+    "language": "TypeScript",
+    "stars": "5973",
+    "forks": "558",
+    "increased": "1048 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Cloak-HQ",
+        "avatar": "https://avatars.githubusercontent.com/u/263726196?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/evelaa123",
+        "avatar": "https://avatars.githubusercontent.com/u/189992797?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Durafen",
+        "avatar": "https://avatars.githubusercontent.com/u/7827228?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kitiho",
+        "avatar": "https://avatars.githubusercontent.com/u/51785099?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/CloakHQ/CloakBrowser",
+    "name": "CloakHQ/CloakBrowser",
+    "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.  ",
+    "language": "Python",
+    "stars": "7975",
+    "forks": "583",
+    "increased": "1606 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/tobyxdd",
+        "avatar": "https://avatars.githubusercontent.com/u/1414953?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/haruue",
+        "avatar": "https://avatars.githubusercontent.com/u/13131972?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mritd",
+        "avatar": "https://avatars.githubusercontent.com/u/13043245?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/HynoR",
+        "avatar": "https://avatars.githubusercontent.com/u/20227709?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/apernet/hysteria",
+    "name": "apernet/hysteria",
+    "description": "Hysteria is a powerful, lightning fast and censorship resistant proxy.  ",
+    "language": "Go",
+    "stars": "20263",
+    "forks": "2097",
+    "increased": "51 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/mattpocock",
+        "avatar": "https://avatars.githubusercontent.com/u/28293365?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/mattpocock/skills",
+    "name": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .claude directory.  ",
+    "language": "Shell",
+    "stars": "76294",
+    "forks": "6572",
+    "increased": "3867 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/anonfaded",
+        "avatar": "https://avatars.githubusercontent.com/u/124708903?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/weblate",
+        "avatar": "https://avatars.githubusercontent.com/u/1607653?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/BoxMiao007",
+        "avatar": "https://avatars.githubusercontent.com/u/92012474?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mikropsoft",
+        "avatar": "https://avatars.githubusercontent.com/u/75412448?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/TheImperialOne",
+        "avatar": "https://avatars.githubusercontent.com/u/78141626?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/anonfaded/FadCam",
+    "name": "anonfaded/FadCam",
+    "description": "Open-source, ad-free Android multimedia recorder with background video recording, screen recording, live streaming, and remote camera control  ",
+    "language": "Java",
+    "stars": "2237",
+    "forks": "171",
+    "increased": "116 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/aidenybai",
+        "avatar": "https://avatars.githubusercontent.com/u/38025074?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cursoragent",
+        "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/amiagent",
+        "avatar": "https://avatars.githubusercontent.com/u/236531494?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/NisargIO",
+        "avatar": "https://avatars.githubusercontent.com/u/17689267?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/millionco/react-doctor",
+    "name": "millionco/react-doctor",
+    "description": "Your agent writes bad React. This catches it  ",
+    "language": "TypeScript",
+    "stars": "8799",
+    "forks": "281",
+    "increased": "788 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/rasbt",
+        "avatar": "https://avatars.githubusercontent.com/u/5618407?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/d-kleine",
+        "avatar": "https://avatars.githubusercontent.com/u/53251018?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Intelligence-Manifesto",
+        "avatar": "https://avatars.githubusercontent.com/u/155522535?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/casinca",
+        "avatar": "https://avatars.githubusercontent.com/u/47400729?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rayed-therap",
+        "avatar": "https://avatars.githubusercontent.com/u/4649183?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/rasbt/LLMs-from-scratch",
+    "name": "rasbt/LLMs-from-scratch",
+    "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step  ",
+    "language": "Jupyter Notebook",
+    "stars": "93848",
+    "forks": "14418",
+    "increased": "772 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/jjyaoao",
+        "avatar": "https://avatars.githubusercontent.com/u/88936287?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/HeteroCat",
+        "avatar": "https://avatars.githubusercontent.com/u/111065724?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/JJasonSun",
+        "avatar": "https://avatars.githubusercontent.com/u/130959319?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/fengju0213",
+        "avatar": "https://avatars.githubusercontent.com/u/168447269?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Tasselszcx",
+        "avatar": "https://avatars.githubusercontent.com/u/93756983?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/datawhalechina/hello-agents",
+    "name": "datawhalechina/hello-agents",
+    "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程  ",
+    "language": "Python",
+    "stars": "48315",
+    "forks": "5809",
+    "increased": "599 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/niuwenzheng",
+        "avatar": "https://avatars.githubusercontent.com/u/30893307?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/gaozhenqiang",
+        "avatar": "https://avatars.githubusercontent.com/u/88360790?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Yuuki-Sakura",
+        "avatar": "https://avatars.githubusercontent.com/u/54829481?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/gao1234-prog",
+        "avatar": "https://avatars.githubusercontent.com/u/208151450?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/whh2333",
+        "avatar": "https://avatars.githubusercontent.com/u/70197018?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/yikart/AiToEarn",
+    "name": "yikart/AiToEarn",
+    "description": "Let's use AI to Earn!  ",
+    "language": "TypeScript",
+    "stars": "11952",
+    "forks": "2094",
+    "increased": "1282 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/TianyuFan0504",
+        "avatar": "https://avatars.githubusercontent.com/u/87062283?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/chaohuang-ai",
+        "avatar": "https://avatars.githubusercontent.com/u/204865953?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Dennis-yxchen",
+        "avatar": "https://avatars.githubusercontent.com/u/99672513?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Hoder-zyf",
+        "avatar": "https://avatars.githubusercontent.com/u/73508057?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/yuh-yang",
+        "avatar": "https://avatars.githubusercontent.com/u/43330997?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/HKUDS/AI-Trader",
+    "name": "HKUDS/AI-Trader",
+    "description": "\"AI-Trader: 100% Fully-Automated Agent-Native Trading\"  ",
+    "language": "Python",
+    "stars": "16659",
+    "forks": "2613",
+    "increased": "229 stars today"
+  }
+]
