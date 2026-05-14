@@ -1,0 +1,538 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/senamakel",
+        "avatar": "https://avatars.githubusercontent.com/u/31011319?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/graycyrus",
+        "avatar": "https://avatars.githubusercontent.com/u/144336577?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/M3gA-Mind",
+        "avatar": "https://avatars.githubusercontent.com/u/146339422?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/tinyhumansai/openhuman",
+    "name": "tinyhumansai/openhuman",
+    "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.  ",
+    "language": "Rust",
+    "stars": "5724",
+    "forks": "469",
+    "increased": "1696 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/rohitg00",
+        "avatar": "https://avatars.githubusercontent.com/u/48523873?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Tanmay-008",
+        "avatar": "https://avatars.githubusercontent.com/u/158763203?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/JasonLandbridge",
+        "avatar": "https://avatars.githubusercontent.com/u/15127381?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Getty",
+        "avatar": "https://avatars.githubusercontent.com/u/46562?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Edison-A-N",
+        "avatar": "https://avatars.githubusercontent.com/u/16491887?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/rohitg00/agentmemory",
+    "name": "rohitg00/agentmemory",
+    "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks  ",
+    "language": "TypeScript",
+    "stars": "7777",
+    "forks": "664",
+    "increased": "1379 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/obra",
+        "avatar": "https://avatars.githubusercontent.com/u/45416?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/arittr",
+        "avatar": "https://avatars.githubusercontent.com/u/5742859?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/clkao",
+        "avatar": "https://avatars.githubusercontent.com/u/69736?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jjshanks",
+        "avatar": "https://avatars.githubusercontent.com/u/62661?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/obra/superpowers",
+    "name": "obra/superpowers",
+    "description": "An agentic skills framework &amp; software development methodology that works.  ",
+    "language": "Shell",
+    "stars": "189655",
+    "forks": "16879",
+    "increased": "1401 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/niuwenzheng",
+        "avatar": "https://avatars.githubusercontent.com/u/30893307?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/gaozhenqiang",
+        "avatar": "https://avatars.githubusercontent.com/u/88360790?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Yuuki-Sakura",
+        "avatar": "https://avatars.githubusercontent.com/u/54829481?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/gao1234-prog",
+        "avatar": "https://avatars.githubusercontent.com/u/208151450?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/whh2333",
+        "avatar": "https://avatars.githubusercontent.com/u/70197018?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/yikart/AiToEarn",
+    "name": "yikart/AiToEarn",
+    "description": "Let's use AI to Earn!  ",
+    "language": "TypeScript",
+    "stars": "13010",
+    "forks": "2240",
+    "increased": "981 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/danielnelson",
+        "avatar": "https://avatars.githubusercontent.com/u/1048079?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/srebhan",
+        "avatar": "https://avatars.githubusercontent.com/u/36194019?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sparrc",
+        "avatar": "https://avatars.githubusercontent.com/u/7155926?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/powersj",
+        "avatar": "https://avatars.githubusercontent.com/u/6453401?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/influxdata/telegraf",
+    "name": "influxdata/telegraf",
+    "description": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.  ",
+    "language": "Go",
+    "stars": "17026",
+    "forks": "5779",
+    "increased": "13 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/aidenybai",
+        "avatar": "https://avatars.githubusercontent.com/u/38025074?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cursoragent",
+        "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/amiagent",
+        "avatar": "https://avatars.githubusercontent.com/u/236531494?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/NisargIO",
+        "avatar": "https://avatars.githubusercontent.com/u/17689267?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/millionco/react-doctor",
+    "name": "millionco/react-doctor",
+    "description": "Your agent writes bad React. This catches it  ",
+    "language": "TypeScript",
+    "stars": "9316",
+    "forks": "289",
+    "increased": "604 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/TKassis",
+        "avatar": "https://avatars.githubusercontent.com/u/9168908?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/borealBytes",
+        "avatar": "https://avatars.githubusercontent.com/u/206480607?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/leipzig",
+        "avatar": "https://avatars.githubusercontent.com/u/147991?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/fedorov",
+        "avatar": "https://avatars.githubusercontent.com/u/313942?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/K-Dense-AI/scientific-agent-skills",
+    "name": "K-Dense-AI/scientific-agent-skills",
+    "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.  ",
+    "language": "Python",
+    "stars": "21182",
+    "forks": "2331",
+    "increased": "99 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/danielmiessler",
+        "avatar": "https://avatars.githubusercontent.com/u/50654?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/christauff",
+        "avatar": "https://avatars.githubusercontent.com/u/1050379?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kaimagnus",
+        "avatar": "https://avatars.githubusercontent.com/u/260860065?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ksylvan",
+        "avatar": "https://avatars.githubusercontent.com/u/1226059?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/danielmiessler/Personal_AI_Infrastructure",
+    "name": "danielmiessler/Personal_AI_Infrastructure",
+    "description": "Agentic AI Infrastructure for magnifying HUMAN capabilities.  ",
+    "language": "TypeScript",
+    "stars": "13410",
+    "forks": "1871",
+    "increased": "435 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ANLGBOY",
+        "avatar": "https://avatars.githubusercontent.com/u/40254383?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/WansooKimGit",
+        "avatar": "https://avatars.githubusercontent.com/u/43239386?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/abhimanyupandian",
+        "avatar": "https://avatars.githubusercontent.com/u/36107381?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/juheo",
+        "avatar": "https://avatars.githubusercontent.com/u/25342145?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/supertone-inc/supertonic",
+    "name": "supertone-inc/supertonic",
+    "description": "Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.  ",
+    "language": "Swift",
+    "stars": "4423",
+    "forks": "446",
+    "increased": "859 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Cloak-HQ",
+        "avatar": "https://avatars.githubusercontent.com/u/263726196?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/evelaa123",
+        "avatar": "https://avatars.githubusercontent.com/u/189992797?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Durafen",
+        "avatar": "https://avatars.githubusercontent.com/u/7827228?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kitiho",
+        "avatar": "https://avatars.githubusercontent.com/u/51785099?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/CloakHQ/CloakBrowser",
+    "name": "CloakHQ/CloakBrowser",
+    "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.  ",
+    "language": "Python",
+    "stars": "9605",
+    "forks": "713",
+    "increased": "1835 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Greedeks",
+        "avatar": "https://avatars.githubusercontent.com/u/82948926?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/VenusGirl",
+        "avatar": "https://avatars.githubusercontent.com/u/53147200?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/JohnFowler58",
+        "avatar": "https://avatars.githubusercontent.com/u/182429115?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/XMontech1337X",
+        "avatar": "https://avatars.githubusercontent.com/u/200256796?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/seba99317",
+        "avatar": "https://avatars.githubusercontent.com/u/22873964?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Greedeks/GTweak",
+    "name": "Greedeks/GTweak",
+    "description": "Portable Tool for an Ideal Windows Setup  ",
+    "language": "C#",
+    "stars": "945",
+    "forks": "79",
+    "increased": "75 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/mattpocock",
+        "avatar": "https://avatars.githubusercontent.com/u/28293365?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/mattpocock/skills",
+    "name": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .claude directory.  ",
+    "language": "Shell",
+    "stars": "79202",
+    "forks": "6826",
+    "increased": "3392 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ArthurBrussee",
+        "avatar": "https://avatars.githubusercontent.com/u/7014262?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/fhahlbohm",
+        "avatar": "https://avatars.githubusercontent.com/u/110295381?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/vincentfretin",
+        "avatar": "https://avatars.githubusercontent.com/u/112249?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/eliemichel",
+        "avatar": "https://avatars.githubusercontent.com/u/5802849?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/ArthurBrussee/brush",
+    "name": "ArthurBrussee/brush",
+    "description": "3D Reconstruction for all  ",
+    "language": "Rust",
+    "stars": "4386",
+    "forks": "235",
+    "increased": "81 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/imthenachoman",
+        "avatar": "https://avatars.githubusercontent.com/u/83817?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/moltenbit",
+        "avatar": "https://avatars.githubusercontent.com/u/31832259?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/LaurenceJJones",
+        "avatar": "https://avatars.githubusercontent.com/u/23139695?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/hellresistor",
+        "avatar": "https://avatars.githubusercontent.com/u/50468493?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/nidamanx",
+        "avatar": "https://avatars.githubusercontent.com/u/1094368?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/imthenachoman/How-To-Secure-A-Linux-Server",
+    "name": "imthenachoman/How-To-Secure-A-Linux-Server",
+    "description": "An evolving how-to guide for securing a Linux server.  ",
+    "stars": "27128",
+    "forks": "1776",
+    "increased": "234 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/tobyxdd",
+        "avatar": "https://avatars.githubusercontent.com/u/1414953?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/haruue",
+        "avatar": "https://avatars.githubusercontent.com/u/13131972?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mritd",
+        "avatar": "https://avatars.githubusercontent.com/u/13043245?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/HynoR",
+        "avatar": "https://avatars.githubusercontent.com/u/20227709?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/apernet/hysteria",
+    "name": "apernet/hysteria",
+    "description": "Hysteria is a powerful, lightning fast and censorship resistant proxy.  ",
+    "language": "Go",
+    "stars": "20637",
+    "forks": "2138",
+    "increased": "485 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/rasbt",
+        "avatar": "https://avatars.githubusercontent.com/u/5618407?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/d-kleine",
+        "avatar": "https://avatars.githubusercontent.com/u/53251018?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Intelligence-Manifesto",
+        "avatar": "https://avatars.githubusercontent.com/u/155522535?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/casinca",
+        "avatar": "https://avatars.githubusercontent.com/u/47400729?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rayed-therap",
+        "avatar": "https://avatars.githubusercontent.com/u/4649183?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/rasbt/LLMs-from-scratch",
+    "name": "rasbt/LLMs-from-scratch",
+    "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step  ",
+    "language": "Jupyter Notebook",
+    "stars": "94503",
+    "forks": "14488",
+    "increased": "821 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/i582",
+        "avatar": "https://avatars.githubusercontent.com/u/51853996?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Danil42Russia",
+        "avatar": "https://avatars.githubusercontent.com/u/6605618?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Shvandre",
+        "avatar": "https://avatars.githubusercontent.com/u/91282981?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/novusnota",
+        "avatar": "https://avatars.githubusercontent.com/u/68142933?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tolk-vm",
+        "avatar": "https://avatars.githubusercontent.com/u/67757852?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/ton-blockchain/acton",
+    "name": "ton-blockchain/acton",
+    "description": "Toolchain for TON smart contract development and beyond  ",
+    "language": "Rust",
+    "stars": "222",
+    "forks": "29",
+    "increased": "18 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ddupont808",
+        "avatar": "https://avatars.githubusercontent.com/u/3820588?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/f-trycua",
+        "avatar": "https://avatars.githubusercontent.com/u/195596869?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jamesmurdza",
+        "avatar": "https://avatars.githubusercontent.com/u/33395784?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/trycua/cua",
+    "name": "trycua/cua",
+    "description": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).  ",
+    "language": "HTML",
+    "stars": "16568",
+    "forks": "1041",
+    "increased": "245 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/localden",
+        "avatar": "https://avatars.githubusercontent.com/u/53200638?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mnriem",
+        "avatar": "https://avatars.githubusercontent.com/u/15701806?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/github/spec-kit",
+    "name": "github/spec-kit",
+    "description": "💫 Toolkit to help you get started with Spec-Driven Development  ",
+    "language": "Python",
+    "stars": "98463",
+    "forks": "8575",
+    "increased": "1120 stars today"
+  }
+]
