@@ -1,0 +1,419 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ruvnet",
+        "avatar": "https://avatars.githubusercontent.com/u/2934394?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/fr4iser90",
+        "avatar": "https://avatars.githubusercontent.com/u/123288736?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/MaTriXy",
+        "avatar": "https://avatars.githubusercontent.com/u/3080139?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/ruvnet/RuView",
+    "name": "ruvnet/RuView",
+    "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.  ",
+    "language": "Rust",
+    "stars": "56128",
+    "forks": "7424",
+    "increased": "1715 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/senamakel",
+        "avatar": "https://avatars.githubusercontent.com/u/31011319?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/graycyrus",
+        "avatar": "https://avatars.githubusercontent.com/u/144336577?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/M3gA-Mind",
+        "avatar": "https://avatars.githubusercontent.com/u/146339422?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/tinyhumansai/openhuman",
+    "name": "tinyhumansai/openhuman",
+    "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.  ",
+    "language": "Rust",
+    "stars": "7840",
+    "forks": "632",
+    "increased": "3329 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/rohitg00",
+        "avatar": "https://avatars.githubusercontent.com/u/48523873?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Tanmay-008",
+        "avatar": "https://avatars.githubusercontent.com/u/158763203?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/JasonLandbridge",
+        "avatar": "https://avatars.githubusercontent.com/u/15127381?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Getty",
+        "avatar": "https://avatars.githubusercontent.com/u/46562?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mvanhorn",
+        "avatar": "https://avatars.githubusercontent.com/u/455140?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/rohitg00/agentmemory",
+    "name": "rohitg00/agentmemory",
+    "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks  ",
+    "language": "TypeScript",
+    "stars": "9029",
+    "forks": "747",
+    "increased": "1879 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/obra",
+        "avatar": "https://avatars.githubusercontent.com/u/45416?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/arittr",
+        "avatar": "https://avatars.githubusercontent.com/u/5742859?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/clkao",
+        "avatar": "https://avatars.githubusercontent.com/u/69736?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jjshanks",
+        "avatar": "https://avatars.githubusercontent.com/u/62661?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/obra/superpowers",
+    "name": "obra/superpowers",
+    "description": "An agentic skills framework &amp; software development methodology that works.  ",
+    "language": "Shell",
+    "stars": "191319",
+    "forks": "17017",
+    "increased": "1780 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/TKassis",
+        "avatar": "https://avatars.githubusercontent.com/u/9168908?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/borealBytes",
+        "avatar": "https://avatars.githubusercontent.com/u/206480607?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/leipzig",
+        "avatar": "https://avatars.githubusercontent.com/u/147991?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/fedorov",
+        "avatar": "https://avatars.githubusercontent.com/u/313942?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/K-Dense-AI/scientific-agent-skills",
+    "name": "K-Dense-AI/scientific-agent-skills",
+    "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.  ",
+    "language": "Python",
+    "stars": "21838",
+    "forks": "2377",
+    "increased": "654 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/shiyu-coder",
+        "avatar": "https://avatars.githubusercontent.com/u/65760973?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Luciferbobo",
+        "avatar": "https://avatars.githubusercontent.com/u/54936491?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/CharlesJ-ABu",
+        "avatar": "https://avatars.githubusercontent.com/u/18326516?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/AnMakc",
+        "avatar": "https://avatars.githubusercontent.com/u/1777564?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/randyy179",
+        "avatar": "https://avatars.githubusercontent.com/u/129808685?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/shiyu-coder/Kronos",
+    "name": "shiyu-coder/Kronos",
+    "description": "Kronos: A Foundation Model for the Language of Financial Markets  ",
+    "language": "Python",
+    "stars": "24859",
+    "forks": "4347",
+    "increased": "363 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/SkalskiP",
+        "avatar": "https://avatars.githubusercontent.com/u/26109316?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/onuralpszr",
+        "avatar": "https://avatars.githubusercontent.com/u/1688848?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/LinasKo",
+        "avatar": "https://avatars.githubusercontent.com/u/6500785?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/roboflow/supervision",
+    "name": "roboflow/supervision",
+    "description": "We write your reusable computer vision tools. 💜  ",
+    "language": "Python",
+    "stars": "38906",
+    "forks": "3479",
+    "increased": "83 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/danielnelson",
+        "avatar": "https://avatars.githubusercontent.com/u/1048079?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/srebhan",
+        "avatar": "https://avatars.githubusercontent.com/u/36194019?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sparrc",
+        "avatar": "https://avatars.githubusercontent.com/u/7155926?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/powersj",
+        "avatar": "https://avatars.githubusercontent.com/u/6453401?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/influxdata/telegraf",
+    "name": "influxdata/telegraf",
+    "description": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.  ",
+    "language": "Go",
+    "stars": "17229",
+    "forks": "5795",
+    "increased": "215 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ANLGBOY",
+        "avatar": "https://avatars.githubusercontent.com/u/40254383?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/WansooKimGit",
+        "avatar": "https://avatars.githubusercontent.com/u/43239386?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/abhimanyupandian",
+        "avatar": "https://avatars.githubusercontent.com/u/36107381?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/juheo",
+        "avatar": "https://avatars.githubusercontent.com/u/25342145?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/supertone-inc/supertonic",
+    "name": "supertone-inc/supertonic",
+    "description": "Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.  ",
+    "language": "Swift",
+    "stars": "5385",
+    "forks": "528",
+    "increased": "1128 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/rom1v",
+        "avatar": "https://avatars.githubusercontent.com/u/543275?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/yume-chan",
+        "avatar": "https://avatars.githubusercontent.com/u/1330321?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/npes87184",
+        "avatar": "https://avatars.githubusercontent.com/u/5494432?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/brunoais",
+        "avatar": "https://avatars.githubusercontent.com/u/639467?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rootkea",
+        "avatar": "https://avatars.githubusercontent.com/u/2694559?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Genymobile/scrcpy",
+    "name": "Genymobile/scrcpy",
+    "description": "Display and control your Android device  ",
+    "language": "C",
+    "stars": "141391",
+    "forks": "13054",
+    "increased": "851 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/shubham050300",
+        "avatar": "https://avatars.githubusercontent.com/u/39234146?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/zac-wang-nv",
+        "avatar": "https://avatars.githubusercontent.com/u/102050116?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/nv-unnikrishnankgs",
+        "avatar": "https://avatars.githubusercontent.com/u/92754561?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/shaunakg-nv",
+        "avatar": "https://avatars.githubusercontent.com/u/77951018?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/hugoverjus",
+        "avatar": "https://avatars.githubusercontent.com/u/190525329?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization",
+    "name": "NVIDIA-AI-Blueprints/video-search-and-summarization",
+    "description": "Suite of reference architectures for building GPU-accelerated vision agents and AI-powered video analytics applications.  ",
+    "language": "Python",
+    "stars": "866",
+    "forks": "247",
+    "increased": "62 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Cloak-HQ",
+        "avatar": "https://avatars.githubusercontent.com/u/263726196?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/evelaa123",
+        "avatar": "https://avatars.githubusercontent.com/u/189992797?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Durafen",
+        "avatar": "https://avatars.githubusercontent.com/u/7827228?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kitiho",
+        "avatar": "https://avatars.githubusercontent.com/u/51785099?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/CloakHQ/CloakBrowser",
+    "name": "CloakHQ/CloakBrowser",
+    "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.  ",
+    "language": "Python",
+    "stars": "10972",
+    "forks": "815",
+    "increased": "1354 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/mattpocock",
+        "avatar": "https://avatars.githubusercontent.com/u/28293365?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/mattpocock/skills",
+    "name": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .claude directory.  ",
+    "language": "Shell",
+    "stars": "82506",
+    "forks": "7126",
+    "increased": "2987 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/localden",
+        "avatar": "https://avatars.githubusercontent.com/u/53200638?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mnriem",
+        "avatar": "https://avatars.githubusercontent.com/u/15701806?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/github/spec-kit",
+    "name": "github/spec-kit",
+    "description": "💫 Toolkit to help you get started with Spec-Driven Development  ",
+    "language": "Python",
+    "stars": "99550",
+    "forks": "8673",
+    "increased": "1232 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/garrytan",
+        "avatar": "https://avatars.githubusercontent.com/u/19957?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/garagon",
+        "avatar": "https://avatars.githubusercontent.com/u/216552?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mvanhorn",
+        "avatar": "https://avatars.githubusercontent.com/u/455140?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/HMAKT99",
+        "avatar": "https://avatars.githubusercontent.com/u/222980227?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/garrytan/gstack",
+    "name": "garrytan/gstack",
+    "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA  ",
+    "language": "TypeScript",
+    "stars": "96840",
+    "forks": "14401",
+    "increased": "915 stars today"
+  }
+]
