@@ -1,0 +1,330 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/senamakel",
+        "avatar": "https://avatars.githubusercontent.com/u/31011319?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/graycyrus",
+        "avatar": "https://avatars.githubusercontent.com/u/144336577?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/M3gA-Mind",
+        "avatar": "https://avatars.githubusercontent.com/u/146339422?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/tinyhumansai/openhuman",
+    "name": "tinyhumansai/openhuman",
+    "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.  ",
+    "language": "Rust",
+    "stars": "9107",
+    "forks": "767",
+    "increased": "1271 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/obra",
+        "avatar": "https://avatars.githubusercontent.com/u/45416?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/arittr",
+        "avatar": "https://avatars.githubusercontent.com/u/5742859?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/clkao",
+        "avatar": "https://avatars.githubusercontent.com/u/69736?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jjshanks",
+        "avatar": "https://avatars.githubusercontent.com/u/62661?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/obra/superpowers",
+    "name": "obra/superpowers",
+    "description": "An agentic skills framework &amp; software development methodology that works.  ",
+    "language": "Shell",
+    "stars": "192877",
+    "forks": "17153",
+    "increased": "1648 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/TKassis",
+        "avatar": "https://avatars.githubusercontent.com/u/9168908?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/borealBytes",
+        "avatar": "https://avatars.githubusercontent.com/u/206480607?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/leipzig",
+        "avatar": "https://avatars.githubusercontent.com/u/147991?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/fedorov",
+        "avatar": "https://avatars.githubusercontent.com/u/313942?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/K-Dense-AI/scientific-agent-skills",
+    "name": "K-Dense-AI/scientific-agent-skills",
+    "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.  ",
+    "language": "Python",
+    "stars": "22484",
+    "forks": "2430",
+    "increased": "646 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ANLGBOY",
+        "avatar": "https://avatars.githubusercontent.com/u/40254383?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/WansooKimGit",
+        "avatar": "https://avatars.githubusercontent.com/u/43239386?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/abhimanyupandian",
+        "avatar": "https://avatars.githubusercontent.com/u/36107381?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/juheo",
+        "avatar": "https://avatars.githubusercontent.com/u/25342145?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/supertone-inc/supertonic",
+    "name": "supertone-inc/supertonic",
+    "description": "Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.  ",
+    "language": "Swift",
+    "stars": "6074",
+    "forks": "599",
+    "increased": "719 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ruvnet",
+        "avatar": "https://avatars.githubusercontent.com/u/2934394?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/fr4iser90",
+        "avatar": "https://avatars.githubusercontent.com/u/123288736?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/MaTriXy",
+        "avatar": "https://avatars.githubusercontent.com/u/3080139?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/ruvnet/RuView",
+    "name": "ruvnet/RuView",
+    "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.  ",
+    "language": "Rust",
+    "stars": "57541",
+    "forks": "7553",
+    "increased": "1859 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/danielnelson",
+        "avatar": "https://avatars.githubusercontent.com/u/1048079?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/srebhan",
+        "avatar": "https://avatars.githubusercontent.com/u/36194019?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sparrc",
+        "avatar": "https://avatars.githubusercontent.com/u/7155926?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/powersj",
+        "avatar": "https://avatars.githubusercontent.com/u/6453401?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/influxdata/telegraf",
+    "name": "influxdata/telegraf",
+    "description": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.  ",
+    "language": "Go",
+    "stars": "17421",
+    "forks": "5803",
+    "increased": "212 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/klazuka",
+        "avatar": "https://avatars.githubusercontent.com/u/84525?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ericharmeling",
+        "avatar": "https://avatars.githubusercontent.com/u/27286675?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rlancemartin",
+        "avatar": "https://avatars.githubusercontent.com/u/122662504?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/maheshmurag",
+        "avatar": "https://avatars.githubusercontent.com/u/5667029?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/anthropics/skills",
+    "name": "anthropics/skills",
+    "description": "Public repository for Agent Skills  ",
+    "language": "Python",
+    "stars": "135184",
+    "forks": "15939",
+    "increased": "689 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/czlonkowski",
+        "avatar": "https://avatars.githubusercontent.com/u/56956555?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kimbo128",
+        "avatar": "https://avatars.githubusercontent.com/u/29596490?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/thesved",
+        "avatar": "https://avatars.githubusercontent.com/u/2893181?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/naXa777",
+        "avatar": "https://avatars.githubusercontent.com/u/3858548?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/czlonkowski/n8n-mcp",
+    "name": "czlonkowski/n8n-mcp",
+    "description": "A MCP for Claude Desktop / Claude Code / Windsurf / Curs or to build n8n workflow s for you  ",
+    "language": "TypeScript",
+    "stars": "20906",
+    "forks": "3399",
+    "increased": "68 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/shubham050300",
+        "avatar": "https://avatars.githubusercontent.com/u/39234146?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/zac-wang-nv",
+        "avatar": "https://avatars.githubusercontent.com/u/102050116?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/nv-unnikrishnankgs",
+        "avatar": "https://avatars.githubusercontent.com/u/92754561?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/shaunakg-nv",
+        "avatar": "https://avatars.githubusercontent.com/u/77951018?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/hugoverjus",
+        "avatar": "https://avatars.githubusercontent.com/u/190525329?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization",
+    "name": "NVIDIA-AI-Blueprints/video-search-and-summarization",
+    "description": "Suite of reference architectures for building GPU-accelerated vision agents and AI-powered video analytics applications.  ",
+    "language": "Python",
+    "stars": "1163",
+    "forks": "264",
+    "increased": "308 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Jarred-Sumner",
+        "avatar": "https://avatars.githubusercontent.com/u/709451?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dylan-conway",
+        "avatar": "https://avatars.githubusercontent.com/u/35280289?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/robobun",
+        "avatar": "https://avatars.githubusercontent.com/u/117481402?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/nektro",
+        "avatar": "https://avatars.githubusercontent.com/u/5464072?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/oven-sh/bun",
+    "name": "oven-sh/bun",
+    "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one  ",
+    "language": "Rust",
+    "stars": "90629",
+    "forks": "4514",
+    "increased": "448 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/mattpocock",
+        "avatar": "https://avatars.githubusercontent.com/u/28293365?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/mattpocock/skills",
+    "name": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .claude directory.  ",
+    "language": "Shell",
+    "stars": "85047",
+    "forks": "7372",
+    "increased": "3132 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/joeseesun",
+        "avatar": "https://avatars.githubusercontent.com/u/3236682?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/joeseesun/qiaomu-anything-to-notebooklm",
+    "name": "joeseesun/qiaomu-anything-to-notebooklm",
+    "description": "Claude Skill: Multi-source content processor for NotebookLM. Supports WeChat articles, web pages, YouTube, PDF, Markdown, search queries → Podcast/PPT/MindMap/Quiz etc.  ",
+    "language": "Python",
+    "stars": "2730",
+    "forks": "278",
+    "increased": "438 stars today"
+  }
+]
