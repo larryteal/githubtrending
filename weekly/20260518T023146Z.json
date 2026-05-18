@@ -1,0 +1,465 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Cloak-HQ",
+        "avatar": "https://avatars.githubusercontent.com/u/263726196?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/evelaa123",
+        "avatar": "https://avatars.githubusercontent.com/u/189992797?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Durafen",
+        "avatar": "https://avatars.githubusercontent.com/u/7827228?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kitiho",
+        "avatar": "https://avatars.githubusercontent.com/u/51785099?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/CloakHQ/CloakBrowser",
+    "name": "CloakHQ/CloakBrowser",
+    "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.  ",
+    "language": "Python",
+    "stars": "13884",
+    "forks": "1082",
+    "increased": "9007 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/rohitg00",
+        "avatar": "https://avatars.githubusercontent.com/u/48523873?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Tanmay-008",
+        "avatar": "https://avatars.githubusercontent.com/u/158763203?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/JasonLandbridge",
+        "avatar": "https://avatars.githubusercontent.com/u/15127381?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/honor2030",
+        "avatar": "https://avatars.githubusercontent.com/u/19909783?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Getty",
+        "avatar": "https://avatars.githubusercontent.com/u/46562?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/rohitg00/agentmemory",
+    "name": "rohitg00/agentmemory",
+    "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks  ",
+    "language": "TypeScript",
+    "stars": "11401",
+    "forks": "961",
+    "increased": "7103 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/niuwenzheng",
+        "avatar": "https://avatars.githubusercontent.com/u/30893307?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/gaozhenqiang",
+        "avatar": "https://avatars.githubusercontent.com/u/88360790?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Yuuki-Sakura",
+        "avatar": "https://avatars.githubusercontent.com/u/54829481?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/gao1234-prog",
+        "avatar": "https://avatars.githubusercontent.com/u/208151450?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/whh2333",
+        "avatar": "https://avatars.githubusercontent.com/u/70197018?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/yikart/AiToEarn",
+    "name": "yikart/AiToEarn",
+    "description": "Let's use AI to Earn!  ",
+    "language": "TypeScript",
+    "stars": "14755",
+    "forks": "2455",
+    "increased": "4687 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/cxyback",
+        "avatar": "https://avatars.githubusercontent.com/u/174142461?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mihilmy",
+        "avatar": "https://avatars.githubusercontent.com/u/5457787?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/manar-ant",
+        "avatar": "https://avatars.githubusercontent.com/u/250030384?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tobinsouth",
+        "avatar": "https://avatars.githubusercontent.com/u/32489862?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/viveknair",
+        "avatar": "https://avatars.githubusercontent.com/u/1203039?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/anthropics/financial-services",
+    "name": "anthropics/financial-services",
+    "language": "Python",
+    "stars": "24470",
+    "forks": "3374",
+    "increased": "5977 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Jarred-Sumner",
+        "avatar": "https://avatars.githubusercontent.com/u/709451?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dylan-conway",
+        "avatar": "https://avatars.githubusercontent.com/u/35280289?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/robobun",
+        "avatar": "https://avatars.githubusercontent.com/u/117481402?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/nektro",
+        "avatar": "https://avatars.githubusercontent.com/u/5464072?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/oven-sh/bun",
+    "name": "oven-sh/bun",
+    "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one  ",
+    "language": "Rust",
+    "stars": "91744",
+    "forks": "4578",
+    "increased": "2098 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Imbad0202",
+        "avatar": "https://avatars.githubusercontent.com/u/132531341?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/xiaolai",
+        "avatar": "https://avatars.githubusercontent.com/u/152970?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mchesbro1",
+        "avatar": "https://avatars.githubusercontent.com/u/64577665?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cloudenochcsis",
+        "avatar": "https://avatars.githubusercontent.com/u/155973884?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Imbad0202/academic-research-skills",
+    "name": "Imbad0202/academic-research-skills",
+    "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize  ",
+    "language": "Python",
+    "stars": "9470",
+    "forks": "1041",
+    "increased": "3624 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/mattpocock",
+        "avatar": "https://avatars.githubusercontent.com/u/28293365?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/mattpocock/skills",
+    "name": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .claude directory.  ",
+    "language": "Shell",
+    "stars": "89214",
+    "forks": "7801",
+    "increased": "19679 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ruvnet",
+        "avatar": "https://avatars.githubusercontent.com/u/2934394?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/fr4iser90",
+        "avatar": "https://avatars.githubusercontent.com/u/123288736?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/MaTriXy",
+        "avatar": "https://avatars.githubusercontent.com/u/3080139?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/ruvnet/RuView",
+    "name": "ruvnet/RuView",
+    "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.  ",
+    "language": "Rust",
+    "stars": "59257",
+    "forks": "7735",
+    "increased": "6733 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ulivz",
+        "avatar": "https://avatars.githubusercontent.com/u/23133919?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ycjcl868",
+        "avatar": "https://avatars.githubusercontent.com/u/13595509?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ZhaoHeh",
+        "avatar": "https://avatars.githubusercontent.com/u/38528320?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cjraft",
+        "avatar": "https://avatars.githubusercontent.com/u/13687952?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/skychx",
+        "avatar": "https://avatars.githubusercontent.com/u/24872439?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/bytedance/UI-TARS-desktop",
+    "name": "bytedance/UI-TARS-desktop",
+    "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra  ",
+    "language": "TypeScript",
+    "stars": "34445",
+    "forks": "3449",
+    "increased": "2563 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/tobyxdd",
+        "avatar": "https://avatars.githubusercontent.com/u/1414953?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/haruue",
+        "avatar": "https://avatars.githubusercontent.com/u/13131972?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mritd",
+        "avatar": "https://avatars.githubusercontent.com/u/13043245?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/HynoR",
+        "avatar": "https://avatars.githubusercontent.com/u/20227709?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/apernet/hysteria",
+    "name": "apernet/hysteria",
+    "description": "Hysteria is a powerful, lightning fast and censorship resistant proxy.  ",
+    "language": "Go",
+    "stars": "21102",
+    "forks": "2170",
+    "increased": "1124 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/anuragg-saxenaa",
+        "avatar": "https://avatars.githubusercontent.com/u/17893081?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cursoragent",
+        "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/catalinstanciu",
+        "avatar": "https://avatars.githubusercontent.com/u/5753427?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Blade096",
+        "avatar": "https://avatars.githubusercontent.com/u/46746496?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/decolua/9router",
+    "name": "decolua/9router",
+    "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.  ",
+    "language": "JavaScript",
+    "stars": "11659",
+    "forks": "1774",
+    "increased": "4458 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/TianyuFan0504",
+        "avatar": "https://avatars.githubusercontent.com/u/87062283?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/chaohuang-ai",
+        "avatar": "https://avatars.githubusercontent.com/u/204865953?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Dennis-yxchen",
+        "avatar": "https://avatars.githubusercontent.com/u/99672513?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Hoder-zyf",
+        "avatar": "https://avatars.githubusercontent.com/u/73508057?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/yuh-yang",
+        "avatar": "https://avatars.githubusercontent.com/u/43330997?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/HKUDS/AI-Trader",
+    "name": "HKUDS/AI-Trader",
+    "description": "\"AI-Trader: 100% Fully-Automated Agent-Native Trading\"  ",
+    "language": "Python",
+    "stars": "17901",
+    "forks": "2732",
+    "increased": "2499 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/aidenybai",
+        "avatar": "https://avatars.githubusercontent.com/u/38025074?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cursoragent",
+        "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/amiagent",
+        "avatar": "https://avatars.githubusercontent.com/u/236531494?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/NisargIO",
+        "avatar": "https://avatars.githubusercontent.com/u/17689267?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/millionco/react-doctor",
+    "name": "millionco/react-doctor",
+    "description": "Your agent writes bad React. This catches it  ",
+    "language": "TypeScript",
+    "stars": "9976",
+    "forks": "315",
+    "increased": "2430 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Hmbown",
+        "avatar": "https://avatars.githubusercontent.com/u/101357273?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Oliver-ZPLiu",
+        "avatar": "https://avatars.githubusercontent.com/u/47081637?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/reidliu41",
+        "avatar": "https://avatars.githubusercontent.com/u/61492567?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/linzhiqin2003",
+        "avatar": "https://avatars.githubusercontent.com/u/123250980?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Hmbown/DeepSeek-TUI",
+    "name": "Hmbown/DeepSeek-TUI",
+    "description": "Coding agent for DeepSeek models that runs in your terminal  ",
+    "language": "Rust",
+    "stars": "31343",
+    "forks": "2642",
+    "increased": "7444 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/stroxler",
+        "avatar": "https://avatars.githubusercontent.com/u/966970?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rchen152",
+        "avatar": "https://avatars.githubusercontent.com/u/4142312?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ndmitchell",
+        "avatar": "https://avatars.githubusercontent.com/u/1651197?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/yangdanny97",
+        "avatar": "https://avatars.githubusercontent.com/u/18299205?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/migeed-z",
+        "avatar": "https://avatars.githubusercontent.com/u/10407760?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/facebook/pyrefly",
+    "name": "facebook/pyrefly",
+    "description": "A fast type checker and language server for Python  ",
+    "language": "Rust",
+    "stars": "6122",
+    "forks": "362",
+    "increased": "394 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/obra",
+        "avatar": "https://avatars.githubusercontent.com/u/45416?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/arittr",
+        "avatar": "https://avatars.githubusercontent.com/u/5742859?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/clkao",
+        "avatar": "https://avatars.githubusercontent.com/u/69736?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jjshanks",
+        "avatar": "https://avatars.githubusercontent.com/u/62661?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/obra/superpowers",
+    "name": "obra/superpowers",
+    "description": "An agentic skills framework &amp; software development methodology that works.  ",
+    "language": "Shell",
+    "stars": "195266",
+    "forks": "17367",
+    "increased": "10094 stars this week"
+  }
+]
