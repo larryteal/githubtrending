@@ -1,0 +1,439 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/senamakel",
+        "avatar": "https://avatars.githubusercontent.com/u/31011319?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/graycyrus",
+        "avatar": "https://avatars.githubusercontent.com/u/144336577?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/M3gA-Mind",
+        "avatar": "https://avatars.githubusercontent.com/u/146339422?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/tinyhumansai/openhuman",
+    "name": "tinyhumansai/openhuman",
+    "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.  ",
+    "language": "Rust",
+    "stars": "17583",
+    "forks": "1536",
+    "increased": "3941 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Imbad0202",
+        "avatar": "https://avatars.githubusercontent.com/u/132531341?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/xiaolai",
+        "avatar": "https://avatars.githubusercontent.com/u/152970?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mchesbro1",
+        "avatar": "https://avatars.githubusercontent.com/u/64577665?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cloudenochcsis",
+        "avatar": "https://avatars.githubusercontent.com/u/155973884?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Imbad0202/academic-research-skills",
+    "name": "Imbad0202/academic-research-skills",
+    "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize  ",
+    "language": "Python",
+    "stars": "12011",
+    "forks": "1216",
+    "increased": "1439 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/yuh-yang",
+        "avatar": "https://avatars.githubusercontent.com/u/43330997?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/AiMiDi",
+        "avatar": "https://avatars.githubusercontent.com/u/76622021?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/omerarslan0",
+        "avatar": "https://avatars.githubusercontent.com/u/76780961?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/furkankoykiran",
+        "avatar": "https://avatars.githubusercontent.com/u/60299878?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/HKUDS/CLI-Anything",
+    "name": "HKUDS/CLI-Anything",
+    "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:  https://clianything.cc/    ",
+    "language": "Python",
+    "stars": "36731",
+    "forks": "3560",
+    "increased": "1049 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/TKassis",
+        "avatar": "https://avatars.githubusercontent.com/u/9168908?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/borealBytes",
+        "avatar": "https://avatars.githubusercontent.com/u/206480607?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/leipzig",
+        "avatar": "https://avatars.githubusercontent.com/u/147991?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/fedorov",
+        "avatar": "https://avatars.githubusercontent.com/u/313942?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/K-Dense-AI/scientific-agent-skills",
+    "name": "K-Dense-AI/scientific-agent-skills",
+    "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.  ",
+    "language": "Python",
+    "stars": "24447",
+    "forks": "2580",
+    "increased": "609 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ANLGBOY",
+        "avatar": "https://avatars.githubusercontent.com/u/40254383?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/WansooKimGit",
+        "avatar": "https://avatars.githubusercontent.com/u/43239386?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/fbdp1202",
+        "avatar": "https://avatars.githubusercontent.com/u/25501957?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/juheo",
+        "avatar": "https://avatars.githubusercontent.com/u/25342145?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/supertone-inc/supertonic",
+    "name": "supertone-inc/supertonic",
+    "description": "Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.  ",
+    "language": "Swift",
+    "stars": "8388",
+    "forks": "854",
+    "increased": "715 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ggerganov",
+        "avatar": "https://avatars.githubusercontent.com/u/1991296?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ngxson",
+        "avatar": "https://avatars.githubusercontent.com/u/7702203?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/slaren",
+        "avatar": "https://avatars.githubusercontent.com/u/2141330?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/JohannesGaessler",
+        "avatar": "https://avatars.githubusercontent.com/u/18492268?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/CISC",
+        "avatar": "https://avatars.githubusercontent.com/u/1629204?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/ggml-org/llama.cpp",
+    "name": "ggml-org/llama.cpp",
+    "description": "LLM inference in C/C++  ",
+    "language": "C++",
+    "stars": "111085",
+    "forks": "18389",
+    "increased": "213 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ruvnet",
+        "avatar": "https://avatars.githubusercontent.com/u/2934394?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/fr4iser90",
+        "avatar": "https://avatars.githubusercontent.com/u/123288736?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/ruvnet/RuView",
+    "name": "ruvnet/RuView",
+    "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.  ",
+    "language": "Rust",
+    "stars": "59954",
+    "forks": "7814",
+    "increased": "700 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Cloak-HQ",
+        "avatar": "https://avatars.githubusercontent.com/u/263726196?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/evelaa123",
+        "avatar": "https://avatars.githubusercontent.com/u/189992797?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Durafen",
+        "avatar": "https://avatars.githubusercontent.com/u/7827228?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/honor2030",
+        "avatar": "https://avatars.githubusercontent.com/u/19909783?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/CloakHQ/CloakBrowser",
+    "name": "CloakHQ/CloakBrowser",
+    "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.  ",
+    "language": "Python",
+    "stars": "15338",
+    "forks": "1195",
+    "increased": "1420 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/felipfr",
+        "avatar": "https://avatars.githubusercontent.com/u/99354371?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/edmarpaulino",
+        "avatar": "https://avatars.githubusercontent.com/u/76621784?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/waldemarnt",
+        "avatar": "https://avatars.githubusercontent.com/u/5835706?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/globsecure",
+        "avatar": "https://avatars.githubusercontent.com/u/1958192?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/tech-leads-club/agent-skills",
+    "name": "tech-leads-club/agent-skills",
+    "description": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.  ",
+    "language": "TypeScript",
+    "stars": "4084",
+    "forks": "354",
+    "increased": "1244 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/anoracleofra-code",
+        "avatar": "https://avatars.githubusercontent.com/u/241279582?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/BigBodyCobain",
+        "avatar": "https://avatars.githubusercontent.com/u/43977454?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/suranyami",
+        "avatar": "https://avatars.githubusercontent.com/u/69984?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/BigBodyCobain/Shadowbroker",
+    "name": "BigBodyCobain/Shadowbroker",
+    "description": "Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. Hook an AI agent up to have it parse through data and find previously unseen correlations. The knowledge is available to all but rarely aggregated in the open, until now.  ",
+    "language": "Python",
+    "stars": "7777",
+    "forks": "1194",
+    "increased": "767 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/dexhorthy",
+        "avatar": "https://avatars.githubusercontent.com/u/3730605?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Sypherd",
+        "avatar": "https://avatars.githubusercontent.com/u/50557586?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tofaramususa",
+        "avatar": "https://avatars.githubusercontent.com/u/66259401?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Elijas",
+        "avatar": "https://avatars.githubusercontent.com/u/4084885?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/a-churchill",
+        "avatar": "https://avatars.githubusercontent.com/u/18105223?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/humanlayer/12-factor-agents",
+    "name": "humanlayer/12-factor-agents",
+    "description": "What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?  ",
+    "language": "TypeScript",
+    "stars": "20651",
+    "forks": "1565",
+    "increased": "399 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/lawrence-cj",
+        "avatar": "https://avatars.githubusercontent.com/u/55283454?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/xieenze",
+        "avatar": "https://avatars.githubusercontent.com/u/20984575?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/yujincheng08",
+        "avatar": "https://avatars.githubusercontent.com/u/5022927?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/actions-user",
+        "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/HeliosZhao",
+        "avatar": "https://avatars.githubusercontent.com/u/43061147?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/NVlabs/Sana",
+    "name": "NVlabs/Sana",
+    "description": "SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer  ",
+    "language": "Python",
+    "stars": "6566",
+    "forks": "469",
+    "increased": "387 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/leestott",
+        "avatar": "https://avatars.githubusercontent.com/u/2511341?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/skytin1004",
+        "avatar": "https://avatars.githubusercontent.com/u/99078115?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/koreyspace",
+        "avatar": "https://avatars.githubusercontent.com/u/7462909?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ShivamGoyal03",
+        "avatar": "https://avatars.githubusercontent.com/u/93383164?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/hyoshioka0128",
+        "avatar": "https://avatars.githubusercontent.com/u/40815708?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/microsoft/ai-agents-for-beginners",
+    "name": "microsoft/ai-agents-for-beginners",
+    "description": "12 Lessons to Get Started Building AI Agents  ",
+    "language": "Jupyter Notebook",
+    "stars": "63513",
+    "forks": "21179",
+    "increased": "1012 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ZhuLinsen",
+        "avatar": "https://avatars.githubusercontent.com/u/42829555?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/massif-01",
+        "avatar": "https://avatars.githubusercontent.com/u/176381099?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/freesme",
+        "avatar": "https://avatars.githubusercontent.com/u/56824280?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/adminlove520",
+        "avatar": "https://avatars.githubusercontent.com/u/32920883?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Activer007",
+        "avatar": "https://avatars.githubusercontent.com/u/30621586?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/ZhuLinsen/daily_stock_analysis",
+    "name": "ZhuLinsen/daily_stock_analysis",
+    "description": "LLM驱动的 A/H/美股智能分析：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets.  ",
+    "language": "Python",
+    "stars": "37221",
+    "forks": "36217",
+    "increased": "310 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ukutaht",
+        "avatar": "https://avatars.githubusercontent.com/u/3731516?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/aerosol",
+        "avatar": "https://avatars.githubusercontent.com/u/173738?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/zoldar",
+        "avatar": "https://avatars.githubusercontent.com/u/588351?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/RobertJoonas",
+        "avatar": "https://avatars.githubusercontent.com/u/56999674?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/plausible/analytics",
+    "name": "plausible/analytics",
+    "description": "Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.  ",
+    "language": "Elixir",
+    "stars": "26000",
+    "forks": "1495",
+    "increased": "638 stars today"
+  }
+]
