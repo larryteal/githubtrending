@@ -1,0 +1,459 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/harry0703",
+        "avatar": "https://avatars.githubusercontent.com/u/4928832?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/yyhhyyyyyy",
+        "avatar": "https://avatars.githubusercontent.com/u/95077259?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/vuisme",
+        "avatar": "https://avatars.githubusercontent.com/u/96235876?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/KevinZhang19870314",
+        "avatar": "https://avatars.githubusercontent.com/u/13794286?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/harry0703/MoneyPrinterTurbo",
+    "name": "harry0703/MoneyPrinterTurbo",
+    "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.  ",
+    "language": "Python",
+    "stars": "62405",
+    "forks": "9113",
+    "increased": "1742 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Lum1104",
+        "avatar": "https://avatars.githubusercontent.com/u/87774050?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/berkcangumusisik",
+        "avatar": "https://avatars.githubusercontent.com/u/75336900?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/zhushen12580",
+        "avatar": "https://avatars.githubusercontent.com/u/60245376?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/fishinakleinbottle",
+        "avatar": "https://avatars.githubusercontent.com/u/11816323?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Lum1104/Understand-Anything",
+    "name": "Lum1104/Understand-Anything",
+    "description": "Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.  ",
+    "language": "TypeScript",
+    "stars": "40102",
+    "forks": "3200",
+    "increased": "4465 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/hardikpandya",
+        "avatar": "https://avatars.githubusercontent.com/u/591262?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dctmfoo",
+        "avatar": "https://avatars.githubusercontent.com/u/128729140?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/hardikpandya/stop-slop",
+    "name": "hardikpandya/stop-slop",
+    "description": "A skill file for removing AI tells from prose  ",
+    "stars": "5765",
+    "forks": "435",
+    "increased": "664 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/affaan-m",
+        "avatar": "https://avatars.githubusercontent.com/u/124439313?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pangerlkr",
+        "avatar": "https://avatars.githubusercontent.com/u/73515951?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/affaan-m/ECC",
+    "name": "affaan-m/ECC",
+    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.  ",
+    "language": "JavaScript",
+    "stars": "196120",
+    "forks": "30176",
+    "increased": "2062 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/mattpic-ant",
+        "avatar": "https://avatars.githubusercontent.com/u/227474486?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bryan-anthropic",
+        "avatar": "https://avatars.githubusercontent.com/u/238056179?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tobinsouth",
+        "avatar": "https://avatars.githubusercontent.com/u/32489862?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ochafik",
+        "avatar": "https://avatars.githubusercontent.com/u/273860?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/anthropics/knowledge-work-plugins",
+    "name": "anthropics/knowledge-work-plugins",
+    "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork  ",
+    "language": "Python",
+    "stars": "17323",
+    "forks": "2020",
+    "increased": "695 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Leonxlnx",
+        "avatar": "https://avatars.githubusercontent.com/u/219127460?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cursoragent",
+        "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Blueemi",
+        "avatar": "https://avatars.githubusercontent.com/u/111887417?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Leonxlnx/taste-skill",
+    "name": "Leonxlnx/taste-skill",
+    "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop  ",
+    "language": "Shell",
+    "stars": "24429",
+    "forks": "1882",
+    "increased": "2715 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/p-e-w",
+        "avatar": "https://avatars.githubusercontent.com/u/2702526?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/anrp",
+        "avatar": "https://avatars.githubusercontent.com/u/1325515?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/spikymoth",
+        "avatar": "https://avatars.githubusercontent.com/u/133602907?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/red40maxxer",
+        "avatar": "https://avatars.githubusercontent.com/u/113548315?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/p-e-w/heretic",
+    "name": "p-e-w/heretic",
+    "description": "Fully automatic censorship removal for language models  ",
+    "language": "Python",
+    "stars": "22048",
+    "forks": "2353",
+    "increased": "211 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/shiyu-coder",
+        "avatar": "https://avatars.githubusercontent.com/u/65760973?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Luciferbobo",
+        "avatar": "https://avatars.githubusercontent.com/u/54936491?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/CharlesJ-ABu",
+        "avatar": "https://avatars.githubusercontent.com/u/18326516?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/AnMakc",
+        "avatar": "https://avatars.githubusercontent.com/u/1777564?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/randyy179",
+        "avatar": "https://avatars.githubusercontent.com/u/129808685?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/shiyu-coder/Kronos",
+    "name": "shiyu-coder/Kronos",
+    "description": "Kronos: A Foundation Model for the Language of Financial Markets  ",
+    "language": "Python",
+    "stars": "26904",
+    "forks": "4661",
+    "increased": "401 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/mukul975",
+        "avatar": "https://avatars.githubusercontent.com/u/42860185?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/juliosuas",
+        "avatar": "https://avatars.githubusercontent.com/u/5745504?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+    "name": "mukul975/Anthropic-Cybersecurity-Skills",
+    "description": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&amp;CK, NIST CSF 2.0, MITRE ATLAS, D3FEND &amp; NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI &amp; 20+ platforms · 26 security domains · Apache 2.0  ",
+    "language": "Python",
+    "stars": "11012",
+    "forks": "1255",
+    "increased": "886 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/charlesBochet",
+        "avatar": "https://avatars.githubusercontent.com/u/12035771?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/FelixMalfait",
+        "avatar": "https://avatars.githubusercontent.com/u/6399865?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Weiko",
+        "avatar": "https://avatars.githubusercontent.com/u/1834158?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/lucasbordeau",
+        "avatar": "https://avatars.githubusercontent.com/u/26528466?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/twentyhq/twenty",
+    "name": "twentyhq/twenty",
+    "description": "The open alternative to Salesforce, designed for AI.  ",
+    "language": "TypeScript",
+    "stars": "47367",
+    "forks": "6724",
+    "increased": "519 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Chachamaru127",
+        "avatar": "https://avatars.githubusercontent.com/u/96473544?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cursoragent",
+        "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Chachamaru127/claude-code-harness",
+    "name": "Chachamaru127/claude-code-harness",
+    "description": "Claude Code Dedicated Development Harness - Achieving High-Quality Development Through an Autonomous Plan→Work→Review Cycle  ",
+    "language": "Shell",
+    "stars": "1869",
+    "forks": "203",
+    "increased": "87 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/EdwardLab",
+        "avatar": "https://avatars.githubusercontent.com/u/39870096?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/AnkitKrYadav",
+        "avatar": "https://avatars.githubusercontent.com/u/67411716?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/DigitalPlatDev/FreeDomain",
+    "name": "DigitalPlatDev/FreeDomain",
+    "description": "DigitalPlat FreeDoma in: Free Domain For Ever yone  ",
+    "language": "HTML",
+    "stars": "169232",
+    "forks": "3206",
+    "increased": "2222 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/obra",
+        "avatar": "https://avatars.githubusercontent.com/u/45416?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/arittr",
+        "avatar": "https://avatars.githubusercontent.com/u/5742859?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/clkao",
+        "avatar": "https://avatars.githubusercontent.com/u/69736?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jjshanks",
+        "avatar": "https://avatars.githubusercontent.com/u/62661?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/obra/superpowers",
+    "name": "obra/superpowers",
+    "description": "An agentic skills framework &amp; software development methodology that works.  ",
+    "language": "Shell",
+    "stars": "209637",
+    "forks": "18684",
+    "increased": "1511 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/byoungd",
+        "avatar": "https://avatars.githubusercontent.com/u/16145783?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/fakesnow",
+        "avatar": "https://avatars.githubusercontent.com/u/4256108?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/holtenko",
+        "avatar": "https://avatars.githubusercontent.com/u/17680637?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/WMXPY",
+        "avatar": "https://avatars.githubusercontent.com/u/5085821?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/overtrue",
+        "avatar": "https://avatars.githubusercontent.com/u/1472352?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/byoungd/English-level-up-tips",
+    "name": "byoungd/English-level-up-tips",
+    "description": "An advanced guide to learn English which might benefit you a lot 🎉 . 离谱的英语学习指南/英语学习教程/英语学习/学英语  ",
+    "stars": "46851",
+    "forks": "4917",
+    "increased": "1163 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ytallo",
+        "avatar": "https://avatars.githubusercontent.com/u/5348335?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sergiofilhowz",
+        "avatar": "https://avatars.githubusercontent.com/u/4141723?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rohitg00",
+        "avatar": "https://avatars.githubusercontent.com/u/48523873?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/andersonleal",
+        "avatar": "https://avatars.githubusercontent.com/u/5047011?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/actions-user",
+        "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/iii-hq/iii",
+    "name": "iii-hq/iii",
+    "description": "Effortlessly compose, extend, and observe every service in real-time for the first time ever.  ",
+    "language": "Rust",
+    "stars": "16908",
+    "forks": "1107",
+    "increased": "376 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Axorax",
+        "avatar": "https://avatars.githubusercontent.com/u/78349410?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/trimclain",
+        "avatar": "https://avatars.githubusercontent.com/u/84108846?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/1337Core",
+        "avatar": "https://avatars.githubusercontent.com/u/169512939?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/6512345",
+        "avatar": "https://avatars.githubusercontent.com/u/61178849?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Axorax/awesome-free-apps",
+    "name": "Axorax/awesome-free-apps",
+    "description": "Curated list of the best free apps for PC and mobile  ",
+    "language": "JavaScript",
+    "stars": "5920",
+    "forks": "294",
+    "increased": "728 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/nekomeowww",
+        "avatar": "https://avatars.githubusercontent.com/u/11081491?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/luoling8192",
+        "avatar": "https://avatars.githubusercontent.com/u/44741987?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/shinohara-rin",
+        "avatar": "https://avatars.githubusercontent.com/u/25588514?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sumimakito",
+        "avatar": "https://avatars.githubusercontent.com/u/5277268?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/moeru-ai/airi",
+    "name": "moeru-ai/airi",
+    "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.  ",
+    "language": "TypeScript",
+    "stars": "40248",
+    "forks": "4048",
+    "increased": "72 stars today"
+  }
+]
