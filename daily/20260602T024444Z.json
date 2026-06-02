@@ -1,0 +1,517 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/afourney",
+        "avatar": "https://avatars.githubusercontent.com/u/4017093?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/gagb",
+        "avatar": "https://avatars.githubusercontent.com/u/13227607?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sugatoray",
+        "avatar": "https://avatars.githubusercontent.com/u/10201242?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/PetrAPConsulting",
+        "avatar": "https://avatars.githubusercontent.com/u/173082609?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/l-lumin",
+        "avatar": "https://avatars.githubusercontent.com/u/71011125?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/microsoft/markitdown",
+    "name": "microsoft/markitdown",
+    "description": "Python tool for converting files and office documents to Markdown.  ",
+    "language": "Python",
+    "stars": "138732",
+    "forks": "9445",
+    "increased": "3034 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/nesquena-hermes",
+        "avatar": "https://avatars.githubusercontent.com/u/272340397?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/nesquena",
+        "avatar": "https://avatars.githubusercontent.com/u/6511?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Michaelyklam",
+        "avatar": "https://avatars.githubusercontent.com/u/70162481?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ai-ag2026",
+        "avatar": "https://avatars.githubusercontent.com/u/261867348?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/nesquena/hermes-webui",
+    "name": "nesquena/hermes-webui",
+    "description": "Hermes WebUI: The best wa y to use Hermes Agent fr om the web or from your phone!  ",
+    "language": "Python",
+    "stars": "11442",
+    "forks": "1461",
+    "increased": "945 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Dhravya",
+        "avatar": "https://avatars.githubusercontent.com/u/63950637?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/MaheshtheDev",
+        "avatar": "https://avatars.githubusercontent.com/u/38828053?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/yxshv",
+        "avatar": "https://avatars.githubusercontent.com/u/93475253?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/CodeTorso",
+        "avatar": "https://avatars.githubusercontent.com/u/129188028?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Kinfe123",
+        "avatar": "https://avatars.githubusercontent.com/u/65047246?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/supermemoryai/supermemory",
+    "name": "supermemoryai/supermemory",
+    "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.  ",
+    "language": "TypeScript",
+    "stars": "24054",
+    "forks": "2153",
+    "increased": "647 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/harry0703",
+        "avatar": "https://avatars.githubusercontent.com/u/4928832?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/yyhhyyyyyy",
+        "avatar": "https://avatars.githubusercontent.com/u/95077259?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/vuisme",
+        "avatar": "https://avatars.githubusercontent.com/u/96235876?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/KevinZhang19870314",
+        "avatar": "https://avatars.githubusercontent.com/u/13794286?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/harry0703/MoneyPrinterTurbo",
+    "name": "harry0703/MoneyPrinterTurbo",
+    "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.  ",
+    "language": "Python",
+    "stars": "76978",
+    "forks": "10928",
+    "increased": "3375 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/D4Vinci",
+        "avatar": "https://avatars.githubusercontent.com/u/20604835?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/AbdullahY36",
+        "avatar": "https://avatars.githubusercontent.com/u/52079299?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/yetval",
+        "avatar": "https://avatars.githubusercontent.com/u/102706514?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mhillebrand",
+        "avatar": "https://avatars.githubusercontent.com/u/286198?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/D4Vinci/Scrapling",
+    "name": "D4Vinci/Scrapling",
+    "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!  ",
+    "language": "Python",
+    "stars": "58164",
+    "forks": "5641",
+    "increased": "1486 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/pbakaus",
+        "avatar": "https://avatars.githubusercontent.com/u/43004?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/abdulwahabone",
+        "avatar": "https://avatars.githubusercontent.com/u/32850166?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/vinaypokharkar",
+        "avatar": "https://avatars.githubusercontent.com/u/139057357?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rohan-tessl",
+        "avatar": "https://avatars.githubusercontent.com/u/246233927?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/pbakaus/impeccable",
+    "name": "pbakaus/impeccable",
+    "description": "The design language that makes your AI harness better at design.  ",
+    "language": "JavaScript",
+    "stars": "32817",
+    "forks": "1786",
+    "increased": "485 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/p-e-w",
+        "avatar": "https://avatars.githubusercontent.com/u/2702526?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/anrp",
+        "avatar": "https://avatars.githubusercontent.com/u/1325515?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/spikymoth",
+        "avatar": "https://avatars.githubusercontent.com/u/133602907?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/red40maxxer",
+        "avatar": "https://avatars.githubusercontent.com/u/113548315?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/p-e-w/heretic",
+    "name": "p-e-w/heretic",
+    "description": "Fully automatic censorship removal for language models  ",
+    "language": "Python",
+    "stars": "23063",
+    "forks": "2467",
+    "increased": "249 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/tmchow",
+        "avatar": "https://avatars.githubusercontent.com/u/517103?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kieranklaassen",
+        "avatar": "https://avatars.githubusercontent.com/u/209089?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/semantic-release-bot",
+        "avatar": "https://avatars.githubusercontent.com/u/32174276?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/EveryInc/compound-engineering-plugin",
+    "name": "EveryInc/compound-engineering-plugin",
+    "description": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more  ",
+    "language": "TypeScript",
+    "stars": "19141",
+    "forks": "1429",
+    "increased": "417 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Yijia-Xiao",
+        "avatar": "https://avatars.githubusercontent.com/u/48253104?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/EdwardoSunny",
+        "avatar": "https://avatars.githubusercontent.com/u/68405458?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/CadeYu",
+        "avatar": "https://avatars.githubusercontent.com/u/91041827?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/luohy15",
+        "avatar": "https://avatars.githubusercontent.com/u/15189961?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/TauricResearch/TradingAgents",
+    "name": "TauricResearch/TradingAgents",
+    "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework  ",
+    "language": "Python",
+    "stars": "81835",
+    "forks": "15910",
+    "increased": "299 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/revfactory",
+        "avatar": "https://avatars.githubusercontent.com/u/2889542?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/hongsw",
+        "avatar": "https://avatars.githubusercontent.com/u/1100974?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/shaun0927",
+        "avatar": "https://avatars.githubusercontent.com/u/70629228?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/hnts03",
+        "avatar": "https://avatars.githubusercontent.com/u/76718646?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/revfactory/harness",
+    "name": "revfactory/harness",
+    "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.  ",
+    "language": "HTML",
+    "stars": "5203",
+    "forks": "697",
+    "increased": "524 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/akien-mga",
+        "avatar": "https://avatars.githubusercontent.com/u/4701338?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Repiteo",
+        "avatar": "https://avatars.githubusercontent.com/u/17489292?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/reduz",
+        "avatar": "https://avatars.githubusercontent.com/u/6265307?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Calinou",
+        "avatar": "https://avatars.githubusercontent.com/u/180032?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bruvzg",
+        "avatar": "https://avatars.githubusercontent.com/u/7645683?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/godotengine/godot",
+    "name": "godotengine/godot",
+    "description": "Godot Engine – Multi-platform 2D and 3D game engine  ",
+    "language": "C++",
+    "stars": "111678",
+    "forks": "25513",
+    "increased": "77 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/can1357",
+        "avatar": "https://avatars.githubusercontent.com/u/11807264?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/badlogic",
+        "avatar": "https://avatars.githubusercontent.com/u/514052?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/roboomp",
+        "avatar": "https://avatars.githubusercontent.com/u/284758152?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jiwangyihao",
+        "avatar": "https://avatars.githubusercontent.com/u/51940778?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/MiroslavDrbal",
+        "avatar": "https://avatars.githubusercontent.com/u/142213280?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/can1357/oh-my-pi",
+    "name": "can1357/oh-my-pi",
+    "description": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more  ",
+    "language": "TypeScript",
+    "stars": "9507",
+    "forks": "759",
+    "increased": "335 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Labmem-Zhouyx",
+        "avatar": "https://avatars.githubusercontent.com/u/63361337?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/a710128",
+        "avatar": "https://avatars.githubusercontent.com/u/8132992?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/liuxin99",
+        "avatar": "https://avatars.githubusercontent.com/u/33060143?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/VoxInstruct",
+        "avatar": "https://avatars.githubusercontent.com/u/167593451?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/SuperMarioYL",
+        "avatar": "https://avatars.githubusercontent.com/u/20982600?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/OpenBMB/VoxCPM",
+    "name": "OpenBMB/VoxCPM",
+    "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning  ",
+    "language": "Python",
+    "stars": "24327",
+    "forks": "2806",
+    "increased": "888 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/FareedKhan-dev",
+        "avatar": "https://avatars.githubusercontent.com/u/63067900?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/TianyiQ",
+        "avatar": "https://avatars.githubusercontent.com/u/34389237?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/konglingfan",
+        "avatar": "https://avatars.githubusercontent.com/u/8125957?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/eltociear",
+        "avatar": "https://avatars.githubusercontent.com/u/22633385?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/its-not-rocket-science",
+        "avatar": "https://avatars.githubusercontent.com/u/87320439?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/FareedKhan-dev/train-llm-from-scratch",
+    "name": "FareedKhan-dev/train-llm-from-scratch",
+    "description": "A straightforward method for training your LLM, from downloading data to generating text.  ",
+    "language": "Jupyter Notebook",
+    "stars": "3770",
+    "forks": "521",
+    "increased": "861 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/stefan-jansen",
+        "avatar": "https://avatars.githubusercontent.com/u/4275885?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/minggnim",
+        "avatar": "https://avatars.githubusercontent.com/u/38852608?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/shlomiku",
+        "avatar": "https://avatars.githubusercontent.com/u/7924802?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/KarlosQ",
+        "avatar": "https://avatars.githubusercontent.com/u/15233913?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ssilverac",
+        "avatar": "https://avatars.githubusercontent.com/u/51388814?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/stefan-jansen/machine-learning-for-trading",
+    "name": "stefan-jansen/machine-learning-for-trading",
+    "description": "Code for Machine Learning for Algorithmic Trading, 2nd edition.  ",
+    "language": "Jupyter Notebook",
+    "stars": "17921",
+    "forks": "5190",
+    "increased": "93 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/dmtrKovalenko",
+        "avatar": "https://avatars.githubusercontent.com/u/16926049?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/gustav-fff",
+        "avatar": "https://avatars.githubusercontent.com/u/286169375?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sQVe",
+        "avatar": "https://avatars.githubusercontent.com/u/2284724?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/SamuelLHuber",
+        "avatar": "https://avatars.githubusercontent.com/u/40248495?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/dmtrKovalenko/fff",
+    "name": "dmtrKovalenko/fff",
+    "description": "The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS  ",
+    "language": "Rust",
+    "stars": "7211",
+    "forks": "298",
+    "increased": "135 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/danistefanovic",
+        "avatar": "https://avatars.githubusercontent.com/u/1736595?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rohitpaulk",
+        "avatar": "https://avatars.githubusercontent.com/u/3893573?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sarupbanskota",
+        "avatar": "https://avatars.githubusercontent.com/u/3149580?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/fake-rookie",
+        "avatar": "https://avatars.githubusercontent.com/u/61480354?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bauripalash",
+        "avatar": "https://avatars.githubusercontent.com/u/16154204?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/codecrafters-io/build-your-own-x",
+    "name": "codecrafters-io/build-your-own-x",
+    "description": "Master programming by recreating your favorite technologies from scratch.  ",
+    "language": "Markdown",
+    "stars": "510490",
+    "forks": "48397",
+    "increased": "1212 stars today"
+  }
+]
