@@ -1,0 +1,322 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/chopratejas",
+        "avatar": "https://avatars.githubusercontent.com/u/3607994?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/JerrettDavis",
+        "avatar": "https://avatars.githubusercontent.com/u/2610199?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/gglucass",
+        "avatar": "https://avatars.githubusercontent.com/u/1226415?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/chopratejas/headroom",
+    "name": "chopratejas/headroom",
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.  ",
+    "language": "Python",
+    "stars": "6767",
+    "forks": "466",
+    "increased": "1265 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/afourney",
+        "avatar": "https://avatars.githubusercontent.com/u/4017093?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/gagb",
+        "avatar": "https://avatars.githubusercontent.com/u/13227607?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sugatoray",
+        "avatar": "https://avatars.githubusercontent.com/u/10201242?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/PetrAPConsulting",
+        "avatar": "https://avatars.githubusercontent.com/u/173082609?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/l-lumin",
+        "avatar": "https://avatars.githubusercontent.com/u/71011125?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/microsoft/markitdown",
+    "name": "microsoft/markitdown",
+    "description": "Python tool for converting files and office documents to Markdown.  ",
+    "language": "Python",
+    "stars": "141348",
+    "forks": "9631",
+    "increased": "3618 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/affaan-m",
+        "avatar": "https://avatars.githubusercontent.com/u/124439313?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pangerlkr",
+        "avatar": "https://avatars.githubusercontent.com/u/73515951?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/affaan-m/ECC",
+    "name": "affaan-m/ECC",
+    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.  ",
+    "language": "JavaScript",
+    "stars": "204143",
+    "forks": "31315",
+    "increased": "1533 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/D4Vinci",
+        "avatar": "https://avatars.githubusercontent.com/u/20604835?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/AbdullahY36",
+        "avatar": "https://avatars.githubusercontent.com/u/52079299?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/yetval",
+        "avatar": "https://avatars.githubusercontent.com/u/102706514?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mhillebrand",
+        "avatar": "https://avatars.githubusercontent.com/u/286198?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/D4Vinci/Scrapling",
+    "name": "D4Vinci/Scrapling",
+    "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!  ",
+    "language": "Python",
+    "stars": "59278",
+    "forks": "5725",
+    "increased": "1182 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/nesquena-hermes",
+        "avatar": "https://avatars.githubusercontent.com/u/272340397?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/nesquena",
+        "avatar": "https://avatars.githubusercontent.com/u/6511?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Michaelyklam",
+        "avatar": "https://avatars.githubusercontent.com/u/70162481?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ai-ag2026",
+        "avatar": "https://avatars.githubusercontent.com/u/261867348?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/nesquena/hermes-webui",
+    "name": "nesquena/hermes-webui",
+    "description": "Hermes WebUI: The best way to use Hermes Agent from the we b or from your phone!   ",
+    "language": "Python",
+    "stars": "12618",
+    "forks": "1543",
+    "increased": "1722 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/dextmorgn",
+        "avatar": "https://avatars.githubusercontent.com/u/64375473?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/gustavorps",
+        "avatar": "https://avatars.githubusercontent.com/u/516827?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/z3rodaycve",
+        "avatar": "https://avatars.githubusercontent.com/u/241736084?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/nicocti",
+        "avatar": "https://avatars.githubusercontent.com/u/15033773?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/salmanmkc",
+        "avatar": "https://avatars.githubusercontent.com/u/32169182?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/reconurge/flowsint",
+    "name": "reconurge/flowsint",
+    "description": "A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.  ",
+    "language": "TypeScript",
+    "stars": "4562",
+    "forks": "585",
+    "increased": "124 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Labmem-Zhouyx",
+        "avatar": "https://avatars.githubusercontent.com/u/63361337?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/a710128",
+        "avatar": "https://avatars.githubusercontent.com/u/8132992?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/liuxin99",
+        "avatar": "https://avatars.githubusercontent.com/u/33060143?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/VoxInstruct",
+        "avatar": "https://avatars.githubusercontent.com/u/167593451?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/SuperMarioYL",
+        "avatar": "https://avatars.githubusercontent.com/u/20982600?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/OpenBMB/VoxCPM",
+    "name": "OpenBMB/VoxCPM",
+    "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning  ",
+    "language": "Python",
+    "stars": "25206",
+    "forks": "2885",
+    "increased": "783 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/stefan-jansen",
+        "avatar": "https://avatars.githubusercontent.com/u/4275885?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/minggnim",
+        "avatar": "https://avatars.githubusercontent.com/u/38852608?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/shlomiku",
+        "avatar": "https://avatars.githubusercontent.com/u/7924802?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/KarlosQ",
+        "avatar": "https://avatars.githubusercontent.com/u/15233913?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ssilverac",
+        "avatar": "https://avatars.githubusercontent.com/u/51388814?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/stefan-jansen/machine-learning-for-trading",
+    "name": "stefan-jansen/machine-learning-for-trading",
+    "description": "Code for Machine Learning for Algorithmic Trading, 2nd edition.  ",
+    "language": "Jupyter Notebook",
+    "stars": "18545",
+    "forks": "5232",
+    "increased": "574 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/jamwithai",
+        "avatar": "https://avatars.githubusercontent.com/u/186450365?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/shantanu156",
+        "avatar": "https://avatars.githubusercontent.com/u/62331655?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/MubashirAziz1",
+        "avatar": "https://avatars.githubusercontent.com/u/141399769?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/jamwithai/production-agentic-rag-course",
+    "name": "jamwithai/production-agentic-rag-course",
+    "language": "Python",
+    "stars": "6423",
+    "forks": "1489",
+    "increased": "30 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Dhravya",
+        "avatar": "https://avatars.githubusercontent.com/u/63950637?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/MaheshtheDev",
+        "avatar": "https://avatars.githubusercontent.com/u/38828053?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/yxshv",
+        "avatar": "https://avatars.githubusercontent.com/u/93475253?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/CodeTorso",
+        "avatar": "https://avatars.githubusercontent.com/u/129188028?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Kinfe123",
+        "avatar": "https://avatars.githubusercontent.com/u/65047246?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/supermemoryai/supermemory",
+    "name": "supermemoryai/supermemory",
+    "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.  ",
+    "language": "TypeScript",
+    "stars": "24712",
+    "forks": "2180",
+    "increased": "680 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/t41372",
+        "avatar": "https://avatars.githubusercontent.com/u/36402030?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ylxmf2005",
+        "avatar": "https://avatars.githubusercontent.com/u/42771977?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/lozion203",
+        "avatar": "https://avatars.githubusercontent.com/u/84625137?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Y0oMu",
+        "avatar": "https://avatars.githubusercontent.com/u/60679722?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/HITHZQ",
+        "avatar": "https://avatars.githubusercontent.com/u/118782309?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber",
+    "name": "Open-LLM-VTuber/Open-LLM-VTuber",
+    "description": "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms  ",
+    "language": "Python",
+    "stars": "8442",
+    "forks": "1080",
+    "increased": "66 stars today"
+  }
+]
