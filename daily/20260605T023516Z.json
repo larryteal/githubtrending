@@ -1,0 +1,387 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/chopratejas",
+        "avatar": "https://avatars.githubusercontent.com/u/3607994?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/JerrettDavis",
+        "avatar": "https://avatars.githubusercontent.com/u/2610199?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/gglucass",
+        "avatar": "https://avatars.githubusercontent.com/u/1226415?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/chopratejas/headroom",
+    "name": "chopratejas/headroom",
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.  ",
+    "language": "Python",
+    "stars": "12710",
+    "forks": "821",
+    "increased": "s today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/teknium1",
+        "avatar": "https://avatars.githubusercontent.com/u/127238744?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/OutThisLife",
+        "avatar": "https://avatars.githubusercontent.com/u/770929?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kshitijk4poor",
+        "avatar": "https://avatars.githubusercontent.com/u/82637225?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/0xbyt4",
+        "avatar": "https://avatars.githubusercontent.com/u/35742124?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/NousResearch/hermes-agent",
+    "name": "NousResearch/hermes-agent",
+    "description": "The agent that grows with you  ",
+    "language": "Python",
+    "stars": "181138",
+    "forks": "31078",
+    "increased": "1913 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/affaan-m",
+        "avatar": "https://avatars.githubusercontent.com/u/124439313?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pangerlkr",
+        "avatar": "https://avatars.githubusercontent.com/u/73515951?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/affaan-m/ECC",
+    "name": "affaan-m/ECC",
+    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, C ursor and beyond.  ",
+    "language": "JavaScript",
+    "stars": "207340",
+    "forks": "31831",
+    "increased": "1750 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/LDOUBLEV",
+        "avatar": "https://avatars.githubusercontent.com/u/26592129?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/WenmuZhou",
+        "avatar": "https://avatars.githubusercontent.com/u/12406017?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/MissPenguin",
+        "avatar": "https://avatars.githubusercontent.com/u/25809855?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tink2123",
+        "avatar": "https://avatars.githubusercontent.com/u/31891223?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/PaddlePaddle/PaddleOCR",
+    "name": "PaddlePaddle/PaddleOCR",
+    "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.  ",
+    "language": "Python",
+    "stars": "79939",
+    "forks": "10606",
+    "increased": "141 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/localden",
+        "avatar": "https://avatars.githubusercontent.com/u/53200638?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mnriem",
+        "avatar": "https://avatars.githubusercontent.com/u/15701806?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/github/spec-kit",
+    "name": "github/spec-kit",
+    "description": "💫 Toolkit to help you get started with Spec-Driven Development  ",
+    "language": "Python",
+    "stars": "108624",
+    "forks": "9602",
+    "increased": "321 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/mingyuliutw",
+        "avatar": "https://avatars.githubusercontent.com/u/8594682?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ielh1",
+        "avatar": "https://avatars.githubusercontent.com/u/193973994?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sophiahhuang",
+        "avatar": "https://avatars.githubusercontent.com/u/6860749?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/chenhsuanlin",
+        "avatar": "https://avatars.githubusercontent.com/u/9806735?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pjannaty",
+        "avatar": "https://avatars.githubusercontent.com/u/107573555?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/NVIDIA/cosmos",
+    "name": "NVIDIA/cosmos",
+    "description": "NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, smart infrastructure, and more.  ",
+    "language": "Jupyter Notebook",
+    "stars": "9057",
+    "forks": "582",
+    "increased": "133 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/lfnovo",
+        "avatar": "https://avatars.githubusercontent.com/u/579178?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/xeader",
+        "avatar": "https://avatars.githubusercontent.com/u/1153759?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/troykelly",
+        "avatar": "https://avatars.githubusercontent.com/u/4564803?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/lfnovo/open-notebook",
+    "name": "lfnovo/open-notebook",
+    "description": "An Open Source implementation of Notebook LM with more flexibility and features  ",
+    "language": "TypeScript",
+    "stars": "25135",
+    "forks": "2922",
+    "increased": "212 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/t41372",
+        "avatar": "https://avatars.githubusercontent.com/u/36402030?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ylxmf2005",
+        "avatar": "https://avatars.githubusercontent.com/u/42771977?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/lozion203",
+        "avatar": "https://avatars.githubusercontent.com/u/84625137?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Y0oMu",
+        "avatar": "https://avatars.githubusercontent.com/u/60679722?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/HITHZQ",
+        "avatar": "https://avatars.githubusercontent.com/u/118782309?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber",
+    "name": "Open-LLM-VTuber/Open-LLM-VTuber",
+    "description": "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms  ",
+    "language": "Python",
+    "stars": "9656",
+    "forks": "1156",
+    "increased": "581 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/jwasham",
+        "avatar": "https://avatars.githubusercontent.com/u/3771963?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Anri-Lombard",
+        "avatar": "https://avatars.githubusercontent.com/u/76818211?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/avizmarlon",
+        "avatar": "https://avatars.githubusercontent.com/u/24354489?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/esaucedof",
+        "avatar": "https://avatars.githubusercontent.com/u/13459501?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Ilyushin",
+        "avatar": "https://avatars.githubusercontent.com/u/4519586?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/jwasham/coding-interview-university",
+    "name": "jwasham/coding-interview-university",
+    "description": "A complete computer science study plan to become a software engineer.  ",
+    "stars": "349775",
+    "forks": "83238",
+    "increased": "632 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/stephentoub",
+        "avatar": "https://avatars.githubusercontent.com/u/2642209?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/SteveSandersonMS",
+        "avatar": "https://avatars.githubusercontent.com/u/1101362?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/patniko",
+        "avatar": "https://avatars.githubusercontent.com/u/26906478?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/github/copilot-sdk",
+    "name": "github/copilot-sdk",
+    "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services  ",
+    "language": "Java",
+    "stars": "8999",
+    "forks": "1211",
+    "increased": "38 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/knqyf263",
+        "avatar": "https://avatars.githubusercontent.com/u/2253692?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/DmitriyLewen",
+        "avatar": "https://avatars.githubusercontent.com/u/91113035?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/nikpivkin",
+        "avatar": "https://avatars.githubusercontent.com/u/100182843?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/simar7",
+        "avatar": "https://avatars.githubusercontent.com/u/1254783?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/aquasecurity/trivy",
+    "name": "aquasecurity/trivy",
+    "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more  ",
+    "language": "Go",
+    "stars": "35680",
+    "forks": "431",
+    "increased": "255 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/shanselman",
+        "avatar": "https://avatars.githubusercontent.com/u/2892?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ranjeshj",
+        "avatar": "https://avatars.githubusercontent.com/u/28935693?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kenehong",
+        "avatar": "https://avatars.githubusercontent.com/u/22486640?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/openclaw/openclaw-windows-node",
+    "name": "openclaw/openclaw-windows-node",
+    "description": "Windows companion suite for OpenClaw - System Tray app, Shared library, Node, and PowerToys Command Palette extension  ",
+    "language": "C#",
+    "stars": "1356",
+    "forks": "170",
+    "increased": "411 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/dextmorgn",
+        "avatar": "https://avatars.githubusercontent.com/u/64375473?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/gustavorps",
+        "avatar": "https://avatars.githubusercontent.com/u/516827?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Ghraven",
+        "avatar": "https://avatars.githubusercontent.com/u/115199279?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/z3rodaycve",
+        "avatar": "https://avatars.githubusercontent.com/u/241736084?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/reconurge/flowsint",
+    "name": "reconurge/flowsint",
+    "description": "A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.  ",
+    "language": "TypeScript",
+    "stars": "5332",
+    "forks": "641",
+    "increased": "308 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/mvanhorn",
+        "avatar": "https://avatars.githubusercontent.com/u/455140?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tmchow",
+        "avatar": "https://avatars.githubusercontent.com/u/517103?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/j-sperling",
+        "avatar": "https://avatars.githubusercontent.com/u/17969723?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dinakars777",
+        "avatar": "https://avatars.githubusercontent.com/u/250428393?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/mvanhorn/last30days-skill",
+    "name": "mvanhorn/last30days-skill",
+    "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary  ",
+    "language": "Python",
+    "stars": "27640",
+    "forks": "2349",
+    "increased": "199 stars today"
+  }
+]
