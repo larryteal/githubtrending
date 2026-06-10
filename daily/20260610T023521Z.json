@@ -1,0 +1,444 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/mvanhorn",
+        "avatar": "https://avatars.githubusercontent.com/u/455140?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tmchow",
+        "avatar": "https://avatars.githubusercontent.com/u/517103?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/j-sperling",
+        "avatar": "https://avatars.githubusercontent.com/u/17969723?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dinakars777",
+        "avatar": "https://avatars.githubusercontent.com/u/250428393?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/mvanhorn/last30days-skill",
+    "name": "mvanhorn/last30days-skill",
+    "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary  ",
+    "language": "Python",
+    "stars": "37530",
+    "forks": "3041",
+    "increased": "3191 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/RyanCodrai",
+        "avatar": "https://avatars.githubusercontent.com/u/10856497?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/faysou",
+        "avatar": "https://avatars.githubusercontent.com/u/893862?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/nicolas-geysse",
+        "avatar": "https://avatars.githubusercontent.com/u/8360521?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Pringled",
+        "avatar": "https://avatars.githubusercontent.com/u/12988240?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/RyanCodrai/turbovec",
+    "name": "RyanCodrai/turbovec",
+    "description": "A vector index built on TurboQuant, written in Rust with Python bindings  ",
+    "language": "Python",
+    "stars": "10260",
+    "forks": "878",
+    "increased": "1801 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/SkalskiP",
+        "avatar": "https://avatars.githubusercontent.com/u/26109316?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/onuralpszr",
+        "avatar": "https://avatars.githubusercontent.com/u/1688848?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/LinasKo",
+        "avatar": "https://avatars.githubusercontent.com/u/6500785?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/roboflow/supervision",
+    "name": "roboflow/supervision",
+    "description": "We write your reusable computer vision tools. 💜  ",
+    "language": "Python",
+    "stars": "43059",
+    "forks": "3837",
+    "increased": "733 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/alalek",
+        "avatar": "https://avatars.githubusercontent.com/u/4981219?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/asmorkalov",
+        "avatar": "https://avatars.githubusercontent.com/u/2536374?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/vpisarev",
+        "avatar": "https://avatars.githubusercontent.com/u/2110786?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mshabunin",
+        "avatar": "https://avatars.githubusercontent.com/u/3304494?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ilya-lavrenov",
+        "avatar": "https://avatars.githubusercontent.com/u/2566854?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/opencv/opencv",
+    "name": "opencv/opencv",
+    "description": "Open Source Computer Vision Library  ",
+    "language": "C++",
+    "stars": "88682",
+    "forks": "56623",
+    "increased": "102 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/LucaRonin",
+        "avatar": "https://avatars.githubusercontent.com/u/695274?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/evolanakis",
+        "avatar": "https://avatars.githubusercontent.com/u/90484?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/riipandi",
+        "avatar": "https://avatars.githubusercontent.com/u/921834?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/refactoringhq/tolaria",
+    "name": "refactoringhq/tolaria",
+    "description": "Desktop app to manage markdown knowledge bases  ",
+    "language": "TypeScript",
+    "stars": "14390",
+    "forks": "998",
+    "increased": "829 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/blackgirlbytes",
+        "avatar": "https://avatars.githubusercontent.com/u/22990146?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/angiejones",
+        "avatar": "https://avatars.githubusercontent.com/u/15972783?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dianed-square",
+        "avatar": "https://avatars.githubusercontent.com/u/73617011?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/michaelneale",
+        "avatar": "https://avatars.githubusercontent.com/u/14976?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/alexhancock",
+        "avatar": "https://avatars.githubusercontent.com/u/427516?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/aaif-goose/goose",
+    "name": "aaif-goose/goose",
+    "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM  ",
+    "language": "Rust",
+    "stars": "48526",
+    "forks": "5095",
+    "increased": "489 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Andyyyy64",
+        "avatar": "https://avatars.githubusercontent.com/u/105579829?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/devangpratap",
+        "avatar": "https://avatars.githubusercontent.com/u/115096812?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/hibiki333155555",
+        "avatar": "https://avatars.githubusercontent.com/u/105579842?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/justindotdevv",
+        "avatar": "https://avatars.githubusercontent.com/u/154703003?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Andyyyy64/whichllm",
+    "name": "Andyyyy64/whichllm",
+    "description": "Find the local LLM that actually runs and performs best on your hardware. Ranked by real, recency-aware benchmarks, not parameter count. One command, run it instantly.  ",
+    "language": "Python",
+    "stars": "4146",
+    "forks": "229",
+    "increased": "633 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/TapXWorld",
+        "avatar": "https://avatars.githubusercontent.com/u/3353541?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/keminshu",
+        "avatar": "https://avatars.githubusercontent.com/u/10050045?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/TapXWorld/ChinaTextbook",
+    "name": "TapXWorld/ChinaTextbook",
+    "description": "所有小初高、大学PDF教材。  ",
+    "language": "Roff",
+    "stars": "73545",
+    "forks": "16467",
+    "increased": "519 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/x1xhlol",
+        "avatar": "https://avatars.githubusercontent.com/u/185671340?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pricisTrail",
+        "avatar": "https://avatars.githubusercontent.com/u/214582138?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/benja",
+        "avatar": "https://avatars.githubusercontent.com/u/16625915?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/paulacavero",
+        "avatar": "https://avatars.githubusercontent.com/u/147257979?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/4regab",
+        "avatar": "https://avatars.githubusercontent.com/u/178603515?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+    "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+    "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia &amp; v0. (And other Open Sourced) System Prompts, Internal Tools &amp; AI Models  ",
+    "stars": "139209",
+    "forks": "34561",
+    "increased": "79 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/niuwenzheng",
+        "avatar": "https://avatars.githubusercontent.com/u/30893307?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/gaozhenqiang",
+        "avatar": "https://avatars.githubusercontent.com/u/88360790?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Yuuki-Sakura",
+        "avatar": "https://avatars.githubusercontent.com/u/54829481?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/gao1234-prog",
+        "avatar": "https://avatars.githubusercontent.com/u/208151450?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/whh2333",
+        "avatar": "https://avatars.githubusercontent.com/u/70197018?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/yikart/AiToEarn",
+    "name": "yikart/AiToEarn",
+    "description": "Let's use AI to Earn!  ",
+    "language": "TypeScript",
+    "stars": "20001",
+    "forks": "3025",
+    "increased": "402 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/phuryn",
+        "avatar": "https://avatars.githubusercontent.com/u/7837354?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/phuryn/pm-skills",
+    "name": "phuryn/pm-skills",
+    "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.  ",
+    "stars": "13489",
+    "forks": "1546",
+    "increased": "806 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/santifer",
+        "avatar": "https://avatars.githubusercontent.com/u/256850418?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/FReptar0",
+        "avatar": "https://avatars.githubusercontent.com/u/105244485?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/seffhunnn",
+        "avatar": "https://avatars.githubusercontent.com/u/148745794?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/santifer/career-ops",
+    "name": "santifer/career-ops",
+    "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.  ",
+    "language": "JavaScript",
+    "stars": "51767",
+    "forks": "10431",
+    "increased": "1110 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/cching-openai",
+        "avatar": "https://avatars.githubusercontent.com/u/239646192?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ashwinm-oai",
+        "avatar": "https://avatars.githubusercontent.com/u/264544061?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Aismit",
+        "avatar": "https://avatars.githubusercontent.com/u/24821844?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/vb-openai",
+        "avatar": "https://avatars.githubusercontent.com/u/250380837?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/gverma-openai",
+        "avatar": "https://avatars.githubusercontent.com/u/235382312?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/openai/plugins",
+    "name": "openai/plugins",
+    "description": "OpenAI Plugins  ",
+    "language": "JavaScript",
+    "stars": "2627",
+    "forks": "307",
+    "increased": "284 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/maziyarpanahi",
+        "avatar": "https://avatars.githubusercontent.com/u/5762953?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/thirdwing",
+        "avatar": "https://avatars.githubusercontent.com/u/1547093?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/maziyarpanahi/openmed",
+    "name": "maziyarpanahi/openmed",
+    "description": "open-source healthcare ai  ",
+    "language": "Python",
+    "stars": "1905",
+    "forks": "216",
+    "increased": "191 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/francescopace",
+        "avatar": "https://avatars.githubusercontent.com/u/11478455?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kylefmohr",
+        "avatar": "https://avatars.githubusercontent.com/u/6644803?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/hkar19",
+        "avatar": "https://avatars.githubusercontent.com/u/5562429?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mcfd",
+        "avatar": "https://avatars.githubusercontent.com/u/43702470?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/francescopace/espectre",
+    "name": "francescopace/espectre",
+    "description": "🛜 ESPectre 👻 - Motion detection system based on Wi-Fi spectre analysis (CSI), with Home Assistant integration.  ",
+    "language": "Python",
+    "stars": "8240",
+    "forks": "633",
+    "increased": "134 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/addyosmani",
+        "avatar": "https://avatars.githubusercontent.com/u/110953?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/federicobartoli",
+        "avatar": "https://avatars.githubusercontent.com/u/27234034?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/nucliweb",
+        "avatar": "https://avatars.githubusercontent.com/u/1307927?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dj2313",
+        "avatar": "https://avatars.githubusercontent.com/u/103351705?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/addyosmani/agent-skills",
+    "name": "addyosmani/agent-skills",
+    "description": "Product ion-grade engineering sk ills for AI coding agents.  ",
+    "language": "Shell",
+    "stars": "49873",
+    "forks": "5572",
+    "increased": "443 stars today"
+  }
+]

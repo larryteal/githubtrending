@@ -1,0 +1,511 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/chopratejas",
+        "avatar": "https://avatars.githubusercontent.com/u/3607994?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/JerrettDavis",
+        "avatar": "https://avatars.githubusercontent.com/u/2610199?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/gglucass",
+        "avatar": "https://avatars.githubusercontent.com/u/1226415?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/chopratejas/headroom",
+    "name": "chopratejas/headroom",
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.  ",
+    "language": "Python",
+    "stars": "20670",
+    "forks": "1328",
+    "increased": "15060 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/mvanhorn",
+        "avatar": "https://avatars.githubusercontent.com/u/455140?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tmchow",
+        "avatar": "https://avatars.githubusercontent.com/u/517103?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/j-sperling",
+        "avatar": "https://avatars.githubusercontent.com/u/17969723?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dinakars777",
+        "avatar": "https://avatars.githubusercontent.com/u/250428393?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/mvanhorn/last30days-skill",
+    "name": "mvanhorn/last30days-skill",
+    "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary  ",
+    "language": "Python",
+    "stars": "37530",
+    "forks": "3041",
+    "increased": "9307 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/afourney",
+        "avatar": "https://avatars.githubusercontent.com/u/4017093?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/gagb",
+        "avatar": "https://avatars.githubusercontent.com/u/13227607?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sugatoray",
+        "avatar": "https://avatars.githubusercontent.com/u/10201242?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/PetrAPConsulting",
+        "avatar": "https://avatars.githubusercontent.com/u/173082609?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/l-lumin",
+        "avatar": "https://avatars.githubusercontent.com/u/71011125?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/microsoft/markitdown",
+    "name": "microsoft/markitdown",
+    "description": "Python tool for converting files and office documents to Markdown.  ",
+    "language": "Python",
+    "stars": "149425",
+    "forks": "10282",
+    "increased": "8903 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/cching-openai",
+        "avatar": "https://avatars.githubusercontent.com/u/239646192?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ashwinm-oai",
+        "avatar": "https://avatars.githubusercontent.com/u/264544061?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Aismit",
+        "avatar": "https://avatars.githubusercontent.com/u/24821844?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/vb-openai",
+        "avatar": "https://avatars.githubusercontent.com/u/250380837?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/gverma-openai",
+        "avatar": "https://avatars.githubusercontent.com/u/235382312?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/openai/plugins",
+    "name": "openai/plugins",
+    "description": "OpenAI Plugins  ",
+    "language": "JavaScript",
+    "stars": "2627",
+    "forks": "307",
+    "increased": "1144 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Panniantong",
+        "avatar": "https://avatars.githubusercontent.com/u/73925474?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kadaliao",
+        "avatar": "https://avatars.githubusercontent.com/u/7401626?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/MatrixA",
+        "avatar": "https://avatars.githubusercontent.com/u/33066250?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/haosenwang1018",
+        "avatar": "https://avatars.githubusercontent.com/u/167664334?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Panniantong/Agent-Reach",
+    "name": "Panniantong/Agent-Reach",
+    "description": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.  ",
+    "language": "Python",
+    "stars": "25622",
+    "forks": "2131",
+    "increased": "4361 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Leonxlnx",
+        "avatar": "https://avatars.githubusercontent.com/u/219127460?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cursoragent",
+        "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Blueemi",
+        "avatar": "https://avatars.githubusercontent.com/u/111887417?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Leonxlnx/taste-skill",
+    "name": "Leonxlnx/taste-skill",
+    "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop  ",
+    "language": "Shell",
+    "stars": "39645",
+    "forks": "2803",
+    "increased": "7787 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/lfnovo",
+        "avatar": "https://avatars.githubusercontent.com/u/579178?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/xeader",
+        "avatar": "https://avatars.githubusercontent.com/u/1153759?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/troykelly",
+        "avatar": "https://avatars.githubusercontent.com/u/4564803?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/lfnovo/open-notebook",
+    "name": "lfnovo/open-notebook",
+    "description": "An Open Source implementation of Notebook LM with more flexibility and features  ",
+    "language": "TypeScript",
+    "stars": "28612",
+    "forks": "3239",
+    "increased": "4245 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/t41372",
+        "avatar": "https://avatars.githubusercontent.com/u/36402030?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ylxmf2005",
+        "avatar": "https://avatars.githubusercontent.com/u/42771977?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/lozion203",
+        "avatar": "https://avatars.githubusercontent.com/u/84625137?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Y0oMu",
+        "avatar": "https://avatars.githubusercontent.com/u/60679722?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/HITHZQ",
+        "avatar": "https://avatars.githubusercontent.com/u/118782309?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber",
+    "name": "Open-LLM-VTuber/Open-LLM-VTuber",
+    "description": "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running loc ally across platforms   ",
+    "language": "Python",
+    "stars": "10740",
+    "forks": "1249",
+    "increased": "2642 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/affaan-m",
+        "avatar": "https://avatars.githubusercontent.com/u/124439313?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pangerlkr",
+        "avatar": "https://avatars.githubusercontent.com/u/73515951?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/affaan-m/ECC",
+    "name": "affaan-m/ECC",
+    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.  ",
+    "language": "JavaScript",
+    "stars": "211962",
+    "forks": "32544",
+    "increased": "9025 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/knqyf263",
+        "avatar": "https://avatars.githubusercontent.com/u/2253692?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/DmitriyLewen",
+        "avatar": "https://avatars.githubusercontent.com/u/91113035?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/nikpivkin",
+        "avatar": "https://avatars.githubusercontent.com/u/100182843?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/simar7",
+        "avatar": "https://avatars.githubusercontent.com/u/1254783?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/aquasecurity/trivy",
+    "name": "aquasecurity/trivy",
+    "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more  ",
+    "language": "Go",
+    "stars": "36243",
+    "forks": "465",
+    "increased": "951 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/revfactory",
+        "avatar": "https://avatars.githubusercontent.com/u/2889542?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/hongsw",
+        "avatar": "https://avatars.githubusercontent.com/u/1100974?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/shaun0927",
+        "avatar": "https://avatars.githubusercontent.com/u/70629228?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/hnts03",
+        "avatar": "https://avatars.githubusercontent.com/u/76718646?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/revfactory/harness",
+    "name": "revfactory/harness",
+    "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.  ",
+    "language": "HTML",
+    "stars": "6679",
+    "forks": "912",
+    "increased": "1256 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/teknium1",
+        "avatar": "https://avatars.githubusercontent.com/u/127238744?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/OutThisLife",
+        "avatar": "https://avatars.githubusercontent.com/u/770929?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kshitijk4poor",
+        "avatar": "https://avatars.githubusercontent.com/u/82637225?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/0xbyt4",
+        "avatar": "https://avatars.githubusercontent.com/u/35742124?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/NousResearch/hermes-agent",
+    "name": "NousResearch/hermes-agent",
+    "description": "The agent that grows with you  ",
+    "language": "Python",
+    "stars": "188920",
+    "forks": "32586",
+    "increased": "11915 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/phuryn",
+        "avatar": "https://avatars.githubusercontent.com/u/7837354?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/phuryn/pm-skills",
+    "name": "phuryn/pm-skills",
+    "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.  ",
+    "stars": "13489",
+    "forks": "1546",
+    "increased": "1329 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Dhravya",
+        "avatar": "https://avatars.githubusercontent.com/u/63950637?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/MaheshtheDev",
+        "avatar": "https://avatars.githubusercontent.com/u/38828053?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/yxshv",
+        "avatar": "https://avatars.githubusercontent.com/u/93475253?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/CodeTorso",
+        "avatar": "https://avatars.githubusercontent.com/u/129188028?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Kinfe123",
+        "avatar": "https://avatars.githubusercontent.com/u/65047246?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/supermemoryai/supermemory",
+    "name": "supermemoryai/supermemory",
+    "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.  ",
+    "language": "TypeScript",
+    "stars": "26354",
+    "forks": "2293",
+    "increased": "1982 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/jpr5",
+        "avatar": "https://avatars.githubusercontent.com/u/86957?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ataibarkai",
+        "avatar": "https://avatars.githubusercontent.com/u/746397?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/AlemTuzlak",
+        "avatar": "https://avatars.githubusercontent.com/u/18480956?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mme",
+        "avatar": "https://avatars.githubusercontent.com/u/247775?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tylerslaton",
+        "avatar": "https://avatars.githubusercontent.com/u/54378333?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/CopilotKit/CopilotKit",
+    "name": "CopilotKit/CopilotKit",
+    "description": "The Frontend Stack for Agents &amp; Generative UI. React, Angular, Mobile, Slack, and more. Makers of the AG-UI Protocol  ",
+    "language": "TypeScript",
+    "stars": "34466",
+    "forks": "4320",
+    "increased": "2553 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/pbakaus",
+        "avatar": "https://avatars.githubusercontent.com/u/43004?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/abdulwahabone",
+        "avatar": "https://avatars.githubusercontent.com/u/32850166?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/vinaypokharkar",
+        "avatar": "https://avatars.githubusercontent.com/u/139057357?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/pbakaus/impeccable",
+    "name": "pbakaus/impeccable",
+    "description": "The design language that makes your AI har ness better at design.   ",
+    "language": "JavaScript",
+    "stars": "36830",
+    "forks": "2012",
+    "increased": "3334 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/can1357",
+        "avatar": "https://avatars.githubusercontent.com/u/11807264?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/badlogic",
+        "avatar": "https://avatars.githubusercontent.com/u/514052?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/roboomp",
+        "avatar": "https://avatars.githubusercontent.com/u/284758152?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/MiroslavDrbal",
+        "avatar": "https://avatars.githubusercontent.com/u/142213280?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jiwangyihao",
+        "avatar": "https://avatars.githubusercontent.com/u/51940778?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/can1357/oh-my-pi",
+    "name": "can1357/oh-my-pi",
+    "description": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more  ",
+    "language": "TypeScript",
+    "stars": "11551",
+    "forks": "971",
+    "increased": "1633 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/tmchow",
+        "avatar": "https://avatars.githubusercontent.com/u/517103?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kieranklaassen",
+        "avatar": "https://avatars.githubusercontent.com/u/209089?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/semantic-release-bot",
+        "avatar": "https://avatars.githubusercontent.com/u/32174276?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/EveryInc/compound-engineering-plugin",
+    "name": "EveryInc/compound-engineering-plugin",
+    "description": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more  ",
+    "language": "TypeScript",
+    "stars": "20786",
+    "forks": "1534",
+    "increased": "1442 stars this week"
+  }
+]
