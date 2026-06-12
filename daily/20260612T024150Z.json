@@ -1,0 +1,504 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/jglogan",
+        "avatar": "https://avatars.githubusercontent.com/u/1019924?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/katiewasnothere",
+        "avatar": "https://avatars.githubusercontent.com/u/14638319?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dcantah",
+        "avatar": "https://avatars.githubusercontent.com/u/36526702?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dkovba",
+        "avatar": "https://avatars.githubusercontent.com/u/206787606?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/realrajaryan",
+        "avatar": "https://avatars.githubusercontent.com/u/58954869?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/apple/container",
+    "name": "apple/container",
+    "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.  ",
+    "language": "Swift",
+    "stars": "32771",
+    "forks": "918",
+    "increased": "2430 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/addyosmani",
+        "avatar": "https://avatars.githubusercontent.com/u/110953?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/federicobartoli",
+        "avatar": "https://avatars.githubusercontent.com/u/27234034?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/nucliweb",
+        "avatar": "https://avatars.githubusercontent.com/u/1307927?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dj2313",
+        "avatar": "https://avatars.githubusercontent.com/u/103351705?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/addyosmani/agent-skills",
+    "name": "addyosmani/agent-skills",
+    "description": "Production-grade engineering skills for AI coding agents.  ",
+    "language": "Shell",
+    "stars": "54982",
+    "forks": "5965",
+    "increased": "3278 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/maziyarpanahi",
+        "avatar": "https://avatars.githubusercontent.com/u/5762953?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/thirdwing",
+        "avatar": "https://avatars.githubusercontent.com/u/1547093?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/maziyarpanahi/openmed",
+    "name": "maziyarpanahi/openmed",
+    "description": "open-source healthcare ai  ",
+    "language": "Python",
+    "stars": "2806",
+    "forks": "276",
+    "increased": "426 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/phuryn",
+        "avatar": "https://avatars.githubusercontent.com/u/7837354?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/phuryn/pm-skills",
+    "name": "phuryn/pm-skills",
+    "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.  ",
+    "stars": "16296",
+    "forks": "1695",
+    "increased": "1978 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/keshprad",
+        "avatar": "https://avatars.githubusercontent.com/u/32313895?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/lrecknagel",
+        "avatar": "https://avatars.githubusercontent.com/u/3778089?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/wernerkasselman-au",
+        "avatar": "https://avatars.githubusercontent.com/u/145896621?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/NVIDIA/SkillSpector",
+    "name": "NVIDIA/SkillSpector",
+    "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.  ",
+    "language": "Python",
+    "stars": "2747",
+    "forks": "216",
+    "increased": "319 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/soxoj",
+        "avatar": "https://avatars.githubusercontent.com/u/31013580?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kustermariocoding",
+        "avatar": "https://avatars.githubusercontent.com/u/99247491?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/fen0s",
+        "avatar": "https://avatars.githubusercontent.com/u/37670363?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/soxoj/maigret",
+    "name": "soxoj/maigret",
+    "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites  ",
+    "language": "Python",
+    "stars": "32658",
+    "forks": "2394",
+    "increased": "661 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/x1xhlol",
+        "avatar": "https://avatars.githubusercontent.com/u/185671340?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pricisTrail",
+        "avatar": "https://avatars.githubusercontent.com/u/214582138?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/benja",
+        "avatar": "https://avatars.githubusercontent.com/u/16625915?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/paulacavero",
+        "avatar": "https://avatars.githubusercontent.com/u/147257979?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/4regab",
+        "avatar": "https://avatars.githubusercontent.com/u/178603515?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+    "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+    "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia &amp; v0. (And other Open Sourced) System Prompts, Internal Tools &amp; AI Models  ",
+    "stars": "139906",
+    "forks": "34622",
+    "increased": "368 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/LucaRonin",
+        "avatar": "https://avatars.githubusercontent.com/u/695274?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/evolanakis",
+        "avatar": "https://avatars.githubusercontent.com/u/90484?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/riipandi",
+        "avatar": "https://avatars.githubusercontent.com/u/921834?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/refactoringhq/tolaria",
+    "name": "refactoringhq/tolaria",
+    "description": "Desktop app to manage markdown knowledge bases  ",
+    "language": "TypeScript",
+    "stars": "15440",
+    "forks": "1062",
+    "increased": "604 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/obra",
+        "avatar": "https://avatars.githubusercontent.com/u/45416?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/arittr",
+        "avatar": "https://avatars.githubusercontent.com/u/5742859?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/clkao",
+        "avatar": "https://avatars.githubusercontent.com/u/69736?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jjshanks",
+        "avatar": "https://avatars.githubusercontent.com/u/62661?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/obra/superpowers",
+    "name": "obra/superpowers",
+    "description": "An agentic skills framework &amp; software development methodology that works.  ",
+    "language": "Shell",
+    "stars": "224954",
+    "forks": "19997",
+    "increased": "1322 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/fd0",
+        "avatar": "https://avatars.githubusercontent.com/u/123276?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/MichaelEischer",
+        "avatar": "https://avatars.githubusercontent.com/u/9106997?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rawtaz",
+        "avatar": "https://avatars.githubusercontent.com/u/825204?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/greatroar",
+        "avatar": "https://avatars.githubusercontent.com/u/61184462?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/restic/restic",
+    "name": "restic/restic",
+    "description": "Fast, secure, efficient backup program  ",
+    "language": "Go",
+    "stars": "34197",
+    "forks": "1786",
+    "increased": "61 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/msitarzewski",
+        "avatar": "https://avatars.githubusercontent.com/u/1972242?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/epowelljr",
+        "avatar": "https://avatars.githubusercontent.com/u/7342666?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/4shil",
+        "avatar": "https://avatars.githubusercontent.com/u/166588383?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/hedonnn",
+        "avatar": "https://avatars.githubusercontent.com/u/6354660?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/msitarzewski/agency-agents",
+    "name": "msitarzewski/agency-agents",
+    "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.  ",
+    "language": "Shell",
+    "stars": "111663",
+    "forks": "18261",
+    "increased": "1599 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/masterking32",
+        "avatar": "https://avatars.githubusercontent.com/u/1076030?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/abolix",
+        "avatar": "https://avatars.githubusercontent.com/u/20380298?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/PentSec",
+        "avatar": "https://avatars.githubusercontent.com/u/11955573?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/MahdiMirzadeh",
+        "avatar": "https://avatars.githubusercontent.com/u/63877463?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/typerhack",
+        "avatar": "https://avatars.githubusercontent.com/u/22979706?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/masterking32/MasterDnsVPN",
+    "name": "masterking32/MasterDnsVPN",
+    "description": "Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high packet-loss stability and speed.  ",
+    "language": "Go",
+    "stars": "5728",
+    "forks": "520",
+    "increased": "507 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/sojan-official",
+        "avatar": "https://avatars.githubusercontent.com/u/73185?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pranavrajs",
+        "avatar": "https://avatars.githubusercontent.com/u/2246121?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/iamsivin",
+        "avatar": "https://avatars.githubusercontent.com/u/64252451?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/muhsin-k",
+        "avatar": "https://avatars.githubusercontent.com/u/12408980?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/scmmishra",
+        "avatar": "https://avatars.githubusercontent.com/u/18097732?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/chatwoot/chatwoot",
+    "name": "chatwoot/chatwoot",
+    "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬  ",
+    "language": "Ruby",
+    "stars": "30395",
+    "forks": "7507",
+    "increased": "67 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/wesm",
+        "avatar": "https://avatars.githubusercontent.com/u/329591?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mariusvniekerk",
+        "avatar": "https://avatars.githubusercontent.com/u/73973?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/userFRM",
+        "avatar": "https://avatars.githubusercontent.com/u/101120927?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/kenn-io/agentsview",
+    "name": "kenn-io/agentsview",
+    "description": "Local-first session intelligence and analytics for coding agents, supporting Claude Code, Codex, and more than 20 other agents. Also: 100x faster replacement for ccusage!  ",
+    "language": "Go",
+    "stars": "1693",
+    "forks": "174",
+    "increased": "114 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/alchaincyf",
+        "avatar": "https://avatars.githubusercontent.com/u/127714341?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/alchaincyf/zhangxuefeng-skill",
+    "name": "alchaincyf/zhangxuefeng-skill",
+    "description": "张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。  ",
+    "stars": "7989",
+    "forks": "2416",
+    "increased": "89 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/TapXWorld",
+        "avatar": "https://avatars.githubusercontent.com/u/3353541?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/keminshu",
+        "avatar": "https://avatars.githubusercontent.com/u/10050045?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/TapXWorld/ChinaTextbook",
+    "name": "TapXWorld/ChinaTextbook",
+    "description": "所有小初高、大学PDF教材。  ",
+    "language": "Roff",
+    "stars": "73966",
+    "forks": "16544",
+    "increased": "88 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/selvamHexo",
+        "avatar": "https://avatars.githubusercontent.com/u/242274038?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/chartotu19",
+        "avatar": "https://avatars.githubusercontent.com/u/946174?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/VigneshHexo",
+        "avatar": "https://avatars.githubusercontent.com/u/125873180?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/yogendrahexo",
+        "avatar": "https://avatars.githubusercontent.com/u/175135402?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/hexo-ai/sia",
+    "name": "hexo-ai/sia",
+    "description": "SIA is a Self Improving AI framework to autonomously improve the performance of any AI system (Model / Agent) on a benchmark task.  ",
+    "language": "Python",
+    "stars": "1344",
+    "forks": "162",
+    "increased": "199 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/jwilander",
+        "avatar": "https://avatars.githubusercontent.com/u/2672098?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/hmhealey",
+        "avatar": "https://avatars.githubusercontent.com/u/3277310?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/coreyhulen",
+        "avatar": "https://avatars.githubusercontent.com/u/1431746?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/crspeller",
+        "avatar": "https://avatars.githubusercontent.com/u/3191642?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mattermost-build",
+        "avatar": "https://avatars.githubusercontent.com/u/10821961?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/mattermost/mattermost",
+    "name": "mattermost/mattermost",
+    "description": "Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..  ",
+    "language": "TypeScript",
+    "stars": "37348",
+    "forks": "8699",
+    "increased": "53 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/bannedbook",
+        "avatar": "https://avatars.githubusercontent.com/u/4361923?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/crazyetiii",
+        "avatar": "https://avatars.githubusercontent.com/u/50905019?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/bannedbook/fanqiang",
+    "name": "bannedbook/fanqiang",
+    "description": "翻墙-科学上网  ",
+    "language": "Kotlin",
+    "stars": "46887",
+    "forks": "8017",
+    "increased": "161 stars today"
+  }
+]
