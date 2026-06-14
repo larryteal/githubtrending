@@ -1,0 +1,519 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/mvanhorn",
+        "avatar": "https://avatars.githubusercontent.com/u/455140?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tmchow",
+        "avatar": "https://avatars.githubusercontent.com/u/517103?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/j-sperling",
+        "avatar": "https://avatars.githubusercontent.com/u/17969723?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dinakars777",
+        "avatar": "https://avatars.githubusercontent.com/u/250428393?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/mvanhorn/last30days-skill",
+    "name": "mvanhorn/last30days-skill",
+    "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary  ",
+    "language": "Python",
+    "stars": "41304",
+    "forks": "3345",
+    "increased": "12602 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/jglogan",
+        "avatar": "https://avatars.githubusercontent.com/u/1019924?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/katiewasnothere",
+        "avatar": "https://avatars.githubusercontent.com/u/14638319?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dcantah",
+        "avatar": "https://avatars.githubusercontent.com/u/36526702?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dkovba",
+        "avatar": "https://avatars.githubusercontent.com/u/206787606?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/realrajaryan",
+        "avatar": "https://avatars.githubusercontent.com/u/58954869?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/apple/container",
+    "name": "apple/container",
+    "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.  ",
+    "language": "Swift",
+    "stars": "36362",
+    "forks": "1035",
+    "increased": "9173 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/phuryn",
+        "avatar": "https://avatars.githubusercontent.com/u/7837354?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/phuryn/pm-skills",
+    "name": "phuryn/pm-skills",
+    "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.  ",
+    "stars": "17673",
+    "forks": "1819",
+    "increased": "5408 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/chopratejas",
+        "avatar": "https://avatars.githubusercontent.com/u/3607994?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/JerrettDavis",
+        "avatar": "https://avatars.githubusercontent.com/u/2610199?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/gglucass",
+        "avatar": "https://avatars.githubusercontent.com/u/1226415?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/chopratejas/headroom",
+    "name": "chopratejas/headroom",
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.  ",
+    "language": "Python",
+    "stars": "26303",
+    "forks": "1755",
+    "increased": "10406 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/keshprad",
+        "avatar": "https://avatars.githubusercontent.com/u/32313895?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/lrecknagel",
+        "avatar": "https://avatars.githubusercontent.com/u/3778089?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/wernerkasselman-au",
+        "avatar": "https://avatars.githubusercontent.com/u/145896621?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/NVIDIA/SkillSpector",
+    "name": "NVIDIA/SkillSpector",
+    "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.  ",
+    "language": "Python",
+    "stars": "4507",
+    "forks": "343",
+    "increased": "2799 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/addyosmani",
+        "avatar": "https://avatars.githubusercontent.com/u/110953?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/federicobartoli",
+        "avatar": "https://avatars.githubusercontent.com/u/27234034?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/nucliweb",
+        "avatar": "https://avatars.githubusercontent.com/u/1307927?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dj2313",
+        "avatar": "https://avatars.githubusercontent.com/u/103351705?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/addyosmani/agent-skills",
+    "name": "addyosmani/agent-skills",
+    "description": "Production-grade engineering skills for AI coding agents.  ",
+    "language": "Shell",
+    "stars": "58479",
+    "forks": "6316",
+    "increased": "9348 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Panniantong",
+        "avatar": "https://avatars.githubusercontent.com/u/73925474?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kadaliao",
+        "avatar": "https://avatars.githubusercontent.com/u/7401626?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/hymansun",
+        "avatar": "https://avatars.githubusercontent.com/u/10735997?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/alfred1994",
+        "avatar": "https://avatars.githubusercontent.com/u/12839688?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Panniantong/Agent-Reach",
+    "name": "Panniantong/Agent-Reach",
+    "description": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.  ",
+    "language": "Python",
+    "stars": "27569",
+    "forks": "2258",
+    "increased": "5183 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/cching-openai",
+        "avatar": "https://avatars.githubusercontent.com/u/239646192?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ashwinm-oai",
+        "avatar": "https://avatars.githubusercontent.com/u/264544061?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Aismit",
+        "avatar": "https://avatars.githubusercontent.com/u/24821844?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/vb-openai",
+        "avatar": "https://avatars.githubusercontent.com/u/250380837?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/gverma-openai",
+        "avatar": "https://avatars.githubusercontent.com/u/235382312?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/openai/plugins",
+    "name": "openai/plugins",
+    "description": "OpenAI Plugins  ",
+    "language": "JavaScript",
+    "stars": "2975",
+    "forks": "345",
+    "increased": "1298 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Leonxlnx",
+        "avatar": "https://avatars.githubusercontent.com/u/219127460?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cursoragent",
+        "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/luojiyin1987",
+        "avatar": "https://avatars.githubusercontent.com/u/6524977?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jkk442",
+        "avatar": "https://avatars.githubusercontent.com/u/60716205?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Leonxlnx/taste-skill",
+    "name": "Leonxlnx/taste-skill",
+    "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop  ",
+    "language": "Shell",
+    "stars": "43137",
+    "forks": "3009",
+    "increased": "8097 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/afourney",
+        "avatar": "https://avatars.githubusercontent.com/u/4017093?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/gagb",
+        "avatar": "https://avatars.githubusercontent.com/u/13227607?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sugatoray",
+        "avatar": "https://avatars.githubusercontent.com/u/10201242?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/PetrAPConsulting",
+        "avatar": "https://avatars.githubusercontent.com/u/173082609?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/l-lumin",
+        "avatar": "https://avatars.githubusercontent.com/u/71011125?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/microsoft/markitdown",
+    "name": "microsoft/markitdown",
+    "description": "Python tool for converting files and office documents to Markdown.  ",
+    "language": "Python",
+    "stars": "152801",
+    "forks": "10568",
+    "increased": "6635 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/LucaRonin",
+        "avatar": "https://avatars.githubusercontent.com/u/695274?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/evolanakis",
+        "avatar": "https://avatars.githubusercontent.com/u/90484?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/riipandi",
+        "avatar": "https://avatars.githubusercontent.com/u/921834?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/refactoringhq/tolaria",
+    "name": "refactoringhq/tolaria",
+    "description": "Desktop app to manage markdown knowledge bases  ",
+    "language": "TypeScript",
+    "stars": "16103",
+    "forks": "1094",
+    "increased": "3708 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/lfnovo",
+        "avatar": "https://avatars.githubusercontent.com/u/579178?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/xeader",
+        "avatar": "https://avatars.githubusercontent.com/u/1153759?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/troykelly",
+        "avatar": "https://avatars.githubusercontent.com/u/4564803?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/lfnovo/open-notebook",
+    "name": "lfnovo/open-notebook",
+    "description": "An Open Source implementation of Notebook LM with more flexibility and features  ",
+    "language": "TypeScript",
+    "stars": "30166",
+    "forks": "3427",
+    "increased": "3570 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/blackgirlbytes",
+        "avatar": "https://avatars.githubusercontent.com/u/22990146?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/angiejones",
+        "avatar": "https://avatars.githubusercontent.com/u/15972783?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dianed-square",
+        "avatar": "https://avatars.githubusercontent.com/u/73617011?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/michaelneale",
+        "avatar": "https://avatars.githubusercontent.com/u/14976?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/alexhancock",
+        "avatar": "https://avatars.githubusercontent.com/u/427516?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/aaif-goose/goose",
+    "name": "aaif-goose/goose",
+    "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM  ",
+    "language": "Rust",
+    "stars": "49238",
+    "forks": "5201",
+    "increased": "2366 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/alalek",
+        "avatar": "https://avatars.githubusercontent.com/u/4981219?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/asmorkalov",
+        "avatar": "https://avatars.githubusercontent.com/u/2536374?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/vpisarev",
+        "avatar": "https://avatars.githubusercontent.com/u/2110786?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mshabunin",
+        "avatar": "https://avatars.githubusercontent.com/u/3304494?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ilya-lavrenov",
+        "avatar": "https://avatars.githubusercontent.com/u/2566854?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/opencv/opencv",
+    "name": "opencv/opencv",
+    "description": "Open Source Computer Vision Library  ",
+    "language": "C++",
+    "stars": "89075",
+    "forks": "56654",
+    "increased": "1237 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/SkalskiP",
+        "avatar": "https://avatars.githubusercontent.com/u/26109316?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/onuralpszr",
+        "avatar": "https://avatars.githubusercontent.com/u/1688848?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/LinasKo",
+        "avatar": "https://avatars.githubusercontent.com/u/6500785?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/roboflow/supervision",
+    "name": "roboflow/supervision",
+    "description": "We write your reusable computer vision tools. 💜  ",
+    "language": "Python",
+    "stars": "44094",
+    "forks": "3920",
+    "increased": "4022 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/jpr5",
+        "avatar": "https://avatars.githubusercontent.com/u/86957?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ataibarkai",
+        "avatar": "https://avatars.githubusercontent.com/u/746397?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/AlemTuzlak",
+        "avatar": "https://avatars.githubusercontent.com/u/18480956?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mme",
+        "avatar": "https://avatars.githubusercontent.com/u/247775?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tylerslaton",
+        "avatar": "https://avatars.githubusercontent.com/u/54378333?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/CopilotKit/CopilotKit",
+    "name": "CopilotKit/CopilotKit",
+    "description": "The Frontend Stack for Agents &amp; Generative UI. React, Angular, Mobile, Slack, and more. Makers of the AG-UI Protocol  ",
+    "language": "TypeScript",
+    "stars": "35015",
+    "forks": "4363",
+    "increased": "2034 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/mingyuliutw",
+        "avatar": "https://avatars.githubusercontent.com/u/8594682?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ielh1",
+        "avatar": "https://avatars.githubusercontent.com/u/193973994?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sophiahhuang",
+        "avatar": "https://avatars.githubusercontent.com/u/6860749?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/chenhsuanlin",
+        "avatar": "https://avatars.githubusercontent.com/u/9806735?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sfefilatyev",
+        "avatar": "https://avatars.githubusercontent.com/u/45137516?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/NVIDIA/cosmos",
+    "name": "NVIDIA/cosmos",
+    "description": "NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, smart infrastructure, and more.  ",
+    "language": "Jupyter Notebook",
+    "stars": "10157",
+    "forks": "658",
+    "increased": "554 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/burtenshaw",
+        "avatar": "https://avatars.githubusercontent.com/u/19620375?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sergiopaniego",
+        "avatar": "https://avatars.githubusercontent.com/u/17179696?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pankit-eng",
+        "avatar": "https://avatars.githubusercontent.com/u/29524482?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/init27",
+        "avatar": "https://avatars.githubusercontent.com/u/16226196?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/surfiniaburger",
+        "avatar": "https://avatars.githubusercontent.com/u/102007621?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/huggingface/OpenEnv",
+    "name": "huggingface/OpenEnv",
+    "description": "An interface library for RL post training with environments.  ",
+    "language": "Python",
+    "stars": "2172",
+    "forks": "392",
+    "increased": "235 stars this week"
+  }
+]
