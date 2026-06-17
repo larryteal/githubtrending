@@ -1,0 +1,588 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/jglogan",
+        "avatar": "https://avatars.githubusercontent.com/u/1019924?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/katiewasnothere",
+        "avatar": "https://avatars.githubusercontent.com/u/14638319?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dcantah",
+        "avatar": "https://avatars.githubusercontent.com/u/36526702?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dkovba",
+        "avatar": "https://avatars.githubusercontent.com/u/206787606?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/realrajaryan",
+        "avatar": "https://avatars.githubusercontent.com/u/58954869?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/apple/container",
+    "name": "apple/container",
+    "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.  ",
+    "language": "Swift",
+    "stars": "37895",
+    "forks": "1090",
+    "increased": "10896 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/keshprad",
+        "avatar": "https://avatars.githubusercontent.com/u/32313895?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/medhdj",
+        "avatar": "https://avatars.githubusercontent.com/u/7792901?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jcchavezs",
+        "avatar": "https://avatars.githubusercontent.com/u/3075074?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/lrecknagel",
+        "avatar": "https://avatars.githubusercontent.com/u/3778089?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/fallintoplace",
+        "avatar": "https://avatars.githubusercontent.com/u/38443830?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/NVIDIA/SkillSpector",
+    "name": "NVIDIA/SkillSpector",
+    "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.  ",
+    "language": "Python",
+    "stars": "7021",
+    "forks": "516",
+    "increased": "5190 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/phuryn",
+        "avatar": "https://avatars.githubusercontent.com/u/7837354?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/phuryn/pm-skills",
+    "name": "phuryn/pm-skills",
+    "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.  ",
+    "stars": "19053",
+    "forks": "1954",
+    "increased": "5775 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/addyosmani",
+        "avatar": "https://avatars.githubusercontent.com/u/110953?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/federicobartoli",
+        "avatar": "https://avatars.githubusercontent.com/u/27234034?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/nucliweb",
+        "avatar": "https://avatars.githubusercontent.com/u/1307927?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dj2313",
+        "avatar": "https://avatars.githubusercontent.com/u/103351705?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/addyosmani/agent-skills",
+    "name": "addyosmani/agent-skills",
+    "description": "Production-grade engineering skills for AI coding agents.  ",
+    "language": "Shell",
+    "stars": "61344",
+    "forks": "6636",
+    "increased": "11431 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/freearhey",
+        "avatar": "https://avatars.githubusercontent.com/u/7253922?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/BellezaEmporium",
+        "avatar": "https://avatars.githubusercontent.com/u/30985701?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Dum4G",
+        "avatar": "https://avatars.githubusercontent.com/u/5430116?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/UltraHDR",
+        "avatar": "https://avatars.githubusercontent.com/u/108294295?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/iptv-org/iptv",
+    "name": "iptv-org/iptv",
+    "description": "Collection of publicly available IPTV channels from all over the world  ",
+    "language": "TypeScript",
+    "stars": "124215",
+    "forks": "6713",
+    "increased": "6246 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/mvanhorn",
+        "avatar": "https://avatars.githubusercontent.com/u/455140?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tmchow",
+        "avatar": "https://avatars.githubusercontent.com/u/517103?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/j-sperling",
+        "avatar": "https://avatars.githubusercontent.com/u/17969723?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dinakars777",
+        "avatar": "https://avatars.githubusercontent.com/u/250428393?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/mvanhorn/last30days-skill",
+    "name": "mvanhorn/last30days-skill",
+    "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary  ",
+    "language": "Python",
+    "stars": "43547",
+    "forks": "3584",
+    "increased": "7226 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/chopratejas",
+        "avatar": "https://avatars.githubusercontent.com/u/3607994?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/JerrettDavis",
+        "avatar": "https://avatars.githubusercontent.com/u/2610199?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/gglucass",
+        "avatar": "https://avatars.githubusercontent.com/u/1226415?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/chopratejas/headroom",
+    "name": "chopratejas/headroom",
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.  ",
+    "language": "Python",
+    "stars": "30136",
+    "forks": "2035",
+    "increased": "9766 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Panniantong",
+        "avatar": "https://avatars.githubusercontent.com/u/73925474?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kadaliao",
+        "avatar": "https://avatars.githubusercontent.com/u/7401626?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/hymansun",
+        "avatar": "https://avatars.githubusercontent.com/u/10735997?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/alfred1994",
+        "avatar": "https://avatars.githubusercontent.com/u/12839688?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Panniantong/Agent-Reach",
+    "name": "Panniantong/Agent-Reach",
+    "description": "Give your AI agent eyes to see the entire internet. Read &amp; search T witter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.  ",
+    "language": "Python",
+    "stars": "32157",
+    "forks": "2590",
+    "increased": "6427 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/asgeirtj",
+        "avatar": "https://avatars.githubusercontent.com/u/27446620?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/awrreny",
+        "avatar": "https://avatars.githubusercontent.com/u/46632417?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/anonymous619259",
+        "avatar": "https://avatars.githubusercontent.com/u/87837428?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/lcebot",
+        "avatar": "https://avatars.githubusercontent.com/u/117039037?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/asgeirtj/system_prompts_leaks",
+    "name": "asgeirtj/system_prompts_leaks",
+    "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.  ",
+    "language": "JavaScript",
+    "stars": "42839",
+    "forks": "7107",
+    "increased": "1220 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/marcelveldt",
+        "avatar": "https://avatars.githubusercontent.com/u/6389780?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/MarvinSchenkel",
+        "avatar": "https://avatars.githubusercontent.com/u/17671719?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/music-assistant-machine",
+        "avatar": "https://avatars.githubusercontent.com/u/141749843?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/OzGav",
+        "avatar": "https://avatars.githubusercontent.com/u/19848947?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/music-assistant/server",
+    "name": "music-assistant/server",
+    "description": "Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike.  ",
+    "language": "Python",
+    "stars": "2580",
+    "forks": "450",
+    "increased": "865 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/LucaRonin",
+        "avatar": "https://avatars.githubusercontent.com/u/695274?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/evolanakis",
+        "avatar": "https://avatars.githubusercontent.com/u/90484?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/riipandi",
+        "avatar": "https://avatars.githubusercontent.com/u/921834?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/refactoringhq/tolaria",
+    "name": "refactoringhq/tolaria",
+    "description": "Desktop app to manage markdown knowledge bases  ",
+    "language": "TypeScript",
+    "stars": "16554",
+    "forks": "1147",
+    "increased": "2537 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/lfnovo",
+        "avatar": "https://avatars.githubusercontent.com/u/579178?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/xeader",
+        "avatar": "https://avatars.githubusercontent.com/u/1153759?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/troykelly",
+        "avatar": "https://avatars.githubusercontent.com/u/4564803?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/lfnovo/open-notebook",
+    "name": "lfnovo/open-notebook",
+    "description": "An Open Source implementation of Notebook LM with more flexibility and features  ",
+    "language": "TypeScript",
+    "stars": "31144",
+    "forks": "3533",
+    "increased": "2873 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/crutkas",
+        "avatar": "https://avatars.githubusercontent.com/u/1462282?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bao-qian",
+        "avatar": "https://avatars.githubusercontent.com/u/1169912?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/qianlifeng",
+        "avatar": "https://avatars.githubusercontent.com/u/1725475?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jaimecbernardo",
+        "avatar": "https://avatars.githubusercontent.com/u/26118718?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/niels9001",
+        "avatar": "https://avatars.githubusercontent.com/u/9866362?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/microsoft/PowerToys",
+    "name": "microsoft/PowerToys",
+    "description": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows  ",
+    "language": "C",
+    "stars": "135085",
+    "forks": "8109",
+    "increased": "1181 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/leecalcote",
+        "avatar": "https://avatars.githubusercontent.com/u/7570704?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/MUzairS15",
+        "avatar": "https://avatars.githubusercontent.com/u/79860504?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/aabidsofi19",
+        "avatar": "https://avatars.githubusercontent.com/u/65964225?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/amitamrutiya",
+        "avatar": "https://avatars.githubusercontent.com/u/91112485?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/theBeginner86",
+        "avatar": "https://avatars.githubusercontent.com/u/73700530?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/meshery/meshery",
+    "name": "meshery/meshery",
+    "description": "Meshery, the cloud native manager  ",
+    "language": "TypeScript",
+    "stars": "10867",
+    "forks": "3449",
+    "increased": "488 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/jwilander",
+        "avatar": "https://avatars.githubusercontent.com/u/2672098?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/hmhealey",
+        "avatar": "https://avatars.githubusercontent.com/u/3277310?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/coreyhulen",
+        "avatar": "https://avatars.githubusercontent.com/u/1431746?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/crspeller",
+        "avatar": "https://avatars.githubusercontent.com/u/3191642?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mattermost-build",
+        "avatar": "https://avatars.githubusercontent.com/u/10821961?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/mattermost/mattermost",
+    "name": "mattermost/mattermost",
+    "description": "Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..  ",
+    "language": "TypeScript",
+    "stars": "37968",
+    "forks": "8744",
+    "increased": "918 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/sojan-official",
+        "avatar": "https://avatars.githubusercontent.com/u/73185?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pranavrajs",
+        "avatar": "https://avatars.githubusercontent.com/u/2246121?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/iamsivin",
+        "avatar": "https://avatars.githubusercontent.com/u/64252451?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/muhsin-k",
+        "avatar": "https://avatars.githubusercontent.com/u/12408980?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/scmmishra",
+        "avatar": "https://avatars.githubusercontent.com/u/18097732?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/chatwoot/chatwoot",
+    "name": "chatwoot/chatwoot",
+    "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬  ",
+    "language": "Ruby",
+    "stars": "32069",
+    "forks": "7656",
+    "increased": "1930 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ApostaC",
+        "avatar": "https://avatars.githubusercontent.com/u/25103655?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/maobaolong",
+        "avatar": "https://avatars.githubusercontent.com/u/17329931?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/YaoJiayi",
+        "avatar": "https://avatars.githubusercontent.com/u/82156730?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sammshen",
+        "avatar": "https://avatars.githubusercontent.com/u/102553648?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/chunxiaozheng",
+        "avatar": "https://avatars.githubusercontent.com/u/55471457?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/LMCache/LMCache",
+    "name": "LMCache/LMCache",
+    "description": "LMCache: Supercharge Your LLM with the Fastest KV Cache Layer  ",
+    "language": "Python",
+    "stars": "9197",
+    "forks": "1337",
+    "increased": "eek"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/angeloskath",
+        "avatar": "https://avatars.githubusercontent.com/u/1242043?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/zcbenz",
+        "avatar": "https://avatars.githubusercontent.com/u/639601?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jagrit06",
+        "avatar": "https://avatars.githubusercontent.com/u/60373541?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/barronalex",
+        "avatar": "https://avatars.githubusercontent.com/u/12023682?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/awni",
+        "avatar": "https://avatars.githubusercontent.com/u/1542805?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/ml-explore/mlx",
+    "name": "ml-explore/mlx",
+    "description": "MLX: An array framework for Apple silicon  ",
+    "language": "C++",
+    "stars": "27076",
+    "forks": "1918",
+    "increased": "336 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/nicoddemus",
+        "avatar": "https://avatars.githubusercontent.com/u/1085180?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/hpk42",
+        "avatar": "https://avatars.githubusercontent.com/u/73579?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bluetech",
+        "avatar": "https://avatars.githubusercontent.com/u/1223550?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/blueyed",
+        "avatar": "https://avatars.githubusercontent.com/u/9766?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/RonnyPfannschmidt",
+        "avatar": "https://avatars.githubusercontent.com/u/156838?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/pytest-dev/pytest",
+    "name": "pytest-dev/pytest",
+    "description": "The pytest framework makes it easy to write small tests, yet scales to support complex functional testing  ",
+    "language": "Python",
+    "stars": "14160",
+    "forks": "3187",
+    "increased": "240 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/x1xhlol",
+        "avatar": "https://avatars.githubusercontent.com/u/185671340?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pricisTrail",
+        "avatar": "https://avatars.githubusercontent.com/u/214582138?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/benja",
+        "avatar": "https://avatars.githubusercontent.com/u/16625915?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/paulacavero",
+        "avatar": "https://avatars.githubusercontent.com/u/147257979?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/4regab",
+        "avatar": "https://avatars.githubusercontent.com/u/178603515?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+    "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+    "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia &amp; v0. (And other Open Sourced) System Prompts, Internal Tools &amp; AI Models  ",
+    "stars": "140706",
+    "forks": "34706",
+    "increased": "1731 stars this week"
+  }
+]

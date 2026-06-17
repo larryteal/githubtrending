@@ -1,0 +1,373 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ojeytonwilliams",
+        "avatar": "https://avatars.githubusercontent.com/u/15801806?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/raisedadead",
+        "avatar": "https://avatars.githubusercontent.com/u/1884376?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/camperbot",
+        "avatar": "https://avatars.githubusercontent.com/u/13561988?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/renovate-bot",
+        "avatar": "https://avatars.githubusercontent.com/u/25180681?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "name": "freeCodeCamp/freeCodeCamp",
+    "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.  ",
+    "language": "TypeScript",
+    "stars": "448631",
+    "forks": "45047",
+    "increased": "633 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/kdy1",
+        "avatar": "https://avatars.githubusercontent.com/u/29931815?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/swc-bot",
+        "avatar": "https://avatars.githubusercontent.com/u/99782286?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/alexander-akait",
+        "avatar": "https://avatars.githubusercontent.com/u/4567934?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/magic-akari",
+        "avatar": "https://avatars.githubusercontent.com/u/7829098?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kwonoj",
+        "avatar": "https://avatars.githubusercontent.com/u/1210596?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/swc-project/swc",
+    "name": "swc-project/swc",
+    "description": "Rust-based platform for the Web  ",
+    "language": "Rust",
+    "stars": "33983",
+    "forks": "1418",
+    "increased": "20 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/adriankumpf",
+        "avatar": "https://avatars.githubusercontent.com/u/8999358?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/JakobLichterfeld",
+        "avatar": "https://avatars.githubusercontent.com/u/16510328?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/swiffer",
+        "avatar": "https://avatars.githubusercontent.com/u/2990373?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/teslamate-org/teslamate",
+    "name": "teslamate-org/teslamate",
+    "description": "A self-hosted data logger for your Tesla 🚘 [main maintainer=  @JakobLichterfeld  ]  ",
+    "language": "Elixir",
+    "stars": "8424",
+    "forks": "957",
+    "increased": "215 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/freearhey",
+        "avatar": "https://avatars.githubusercontent.com/u/7253922?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/BellezaEmporium",
+        "avatar": "https://avatars.githubusercontent.com/u/30985701?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Dum4G",
+        "avatar": "https://avatars.githubusercontent.com/u/5430116?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/UltraHDR",
+        "avatar": "https://avatars.githubusercontent.com/u/108294295?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/iptv-org/iptv",
+    "name": "iptv-org/iptv",
+    "description": "Collection of publicly available IPTV channels from all over the world  ",
+    "language": "TypeScript",
+    "stars": "124215",
+    "forks": "6713",
+    "increased": "1197 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/OrKoN",
+        "avatar": "https://avatars.githubusercontent.com/u/399150?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/aslushnikov",
+        "avatar": "https://avatars.githubusercontent.com/u/746130?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Lightning00Blade",
+        "avatar": "https://avatars.githubusercontent.com/u/34244704?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/puppeteer/puppeteer",
+    "name": "puppeteer/puppeteer",
+    "description": "JavaScript API for Chrome and Firefox  ",
+    "language": "TypeScript",
+    "stars": "94914",
+    "forks": "9451",
+    "increased": "56 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/leecalcote",
+        "avatar": "https://avatars.githubusercontent.com/u/7570704?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/MUzairS15",
+        "avatar": "https://avatars.githubusercontent.com/u/79860504?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/aabidsofi19",
+        "avatar": "https://avatars.githubusercontent.com/u/65964225?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/amitamrutiya",
+        "avatar": "https://avatars.githubusercontent.com/u/91112485?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/theBeginner86",
+        "avatar": "https://avatars.githubusercontent.com/u/73700530?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/meshery/meshery",
+    "name": "meshery/meshery",
+    "description": "Meshery, the cloud native manager  ",
+    "language": "TypeScript",
+    "stars": "10867",
+    "forks": "3449",
+    "increased": "228 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/brian-mann",
+        "avatar": "https://avatars.githubusercontent.com/u/1268976?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/chrisbreiding",
+        "avatar": "https://avatars.githubusercontent.com/u/1157043?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jennifer-shehane",
+        "avatar": "https://avatars.githubusercontent.com/u/1271364?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/renovate-bot",
+        "avatar": "https://avatars.githubusercontent.com/u/25180681?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/flotwig",
+        "avatar": "https://avatars.githubusercontent.com/u/1151760?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/cypress-io/cypress",
+    "name": "cypress-io/cypress",
+    "description": "Fast, easy and reliable testing for anything that runs in a browser.  ",
+    "language": "TypeScript",
+    "stars": "50235",
+    "forks": "3426",
+    "increased": "13 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/marcelveldt",
+        "avatar": "https://avatars.githubusercontent.com/u/6389780?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/MarvinSchenkel",
+        "avatar": "https://avatars.githubusercontent.com/u/17671719?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/music-assistant-machine",
+        "avatar": "https://avatars.githubusercontent.com/u/141749843?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/OzGav",
+        "avatar": "https://avatars.githubusercontent.com/u/19848947?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/music-assistant/server",
+    "name": "music-assistant/server",
+    "description": "Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run o n an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike.  ",
+    "language": "Python",
+    "stars": "2580",
+    "forks": "450",
+    "increased": "157 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/AnonymousWP",
+        "avatar": "https://avatars.githubusercontent.com/u/50231698?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/0x192",
+        "avatar": "https://avatars.githubusercontent.com/u/55300518?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Frigyes06",
+        "avatar": "https://avatars.githubusercontent.com/u/72750891?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Rudxain",
+        "avatar": "https://avatars.githubusercontent.com/u/76864299?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/lavafroth",
+        "avatar": "https://avatars.githubusercontent.com/u/107522312?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation",
+    "name": "Universal-Debloater-Alliance/universal-android-debloater-next-generation",
+    "description": "Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.  ",
+    "language": "Rust",
+    "stars": "7350",
+    "forks": "315",
+    "increased": "146 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Labmem-Zhouyx",
+        "avatar": "https://avatars.githubusercontent.com/u/63361337?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/a710128",
+        "avatar": "https://avatars.githubusercontent.com/u/8132992?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/liuxin99",
+        "avatar": "https://avatars.githubusercontent.com/u/33060143?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/VoxInstruct",
+        "avatar": "https://avatars.githubusercontent.com/u/167593451?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/SuperMarioYL",
+        "avatar": "https://avatars.githubusercontent.com/u/20982600?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/OpenBMB/VoxCPM",
+    "name": "OpenBMB/VoxCPM",
+    "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning  ",
+    "language": "Python",
+    "stars": "30175",
+    "forks": "3408",
+    "increased": "408 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/iaojnh",
+        "avatar": "https://avatars.githubusercontent.com/u/38692278?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/feihongxu0824",
+        "avatar": "https://avatars.githubusercontent.com/u/237691413?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/egolearner",
+        "avatar": "https://avatars.githubusercontent.com/u/45122959?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/zhourrr",
+        "avatar": "https://avatars.githubusercontent.com/u/78126249?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Cuiyus",
+        "avatar": "https://avatars.githubusercontent.com/u/42903451?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/alibaba/zvec",
+    "name": "alibaba/zvec",
+    "description": "A lightweight, lightning-fast, in-process vector database  ",
+    "language": "C++",
+    "stars": "10516",
+    "forks": "610",
+    "increased": "156 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/rmyndharis",
+        "avatar": "https://avatars.githubusercontent.com/u/2390382?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/aqilaziz",
+        "avatar": "https://avatars.githubusercontent.com/u/46887634?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/amstrong-bil",
+        "avatar": "https://avatars.githubusercontent.com/u/201595245?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/MrViSiOn",
+        "avatar": "https://avatars.githubusercontent.com/u/67826?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/rmyndharis/OpenWA",
+    "name": "rmyndharis/OpenWA",
+    "description": "Free, Open Source, Self-Hosted WhatsApp API Gateway  ",
+    "language": "TypeScript",
+    "stars": "9119",
+    "forks": "2001",
+    "increased": "185 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/dignifiedquire",
+        "avatar": "https://avatars.githubusercontent.com/u/790842?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/flub",
+        "avatar": "https://avatars.githubusercontent.com/u/146720?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rklaehn",
+        "avatar": "https://avatars.githubusercontent.com/u/248257?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Frando",
+        "avatar": "https://avatars.githubusercontent.com/u/43627?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ramfox",
+        "avatar": "https://avatars.githubusercontent.com/u/17440142?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/n0-computer/iroh",
+    "name": "n0-computer/iroh",
+    "description": "IP addresses break, dial keys instead. Modular networking stack in Rust.  ",
+    "language": "Rust",
+    "stars": "9323",
+    "forks": "437",
+    "increased": "334 stars today"
+  }
+]
