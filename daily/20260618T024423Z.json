@@ -1,0 +1,594 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/DeusData",
+        "avatar": "https://avatars.githubusercontent.com/u/81762164?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/shanemccarron-maker",
+        "avatar": "https://avatars.githubusercontent.com/u/247253695?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dLo999",
+        "avatar": "https://avatars.githubusercontent.com/u/20542959?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/DeusData/codebase-memory-mcp",
+    "name": "DeusData/codebase-memory-mcp",
+    "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.  ",
+    "language": "C",
+    "stars": "5487",
+    "forks": "494",
+    "increased": "371 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/dignifiedquire",
+        "avatar": "https://avatars.githubusercontent.com/u/790842?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/flub",
+        "avatar": "https://avatars.githubusercontent.com/u/146720?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rklaehn",
+        "avatar": "https://avatars.githubusercontent.com/u/248257?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Frando",
+        "avatar": "https://avatars.githubusercontent.com/u/43627?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ramfox",
+        "avatar": "https://avatars.githubusercontent.com/u/17440142?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/n0-computer/iroh",
+    "name": "n0-computer/iroh",
+    "description": "IP addresses break, dial keys instead. Modular networking stack in Rust.  ",
+    "language": "Rust",
+    "stars": "9689",
+    "forks": "452",
+    "increased": "421 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Panniantong",
+        "avatar": "https://avatars.githubusercontent.com/u/73925474?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kadaliao",
+        "avatar": "https://avatars.githubusercontent.com/u/7401626?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/hymansun",
+        "avatar": "https://avatars.githubusercontent.com/u/10735997?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/alfred1994",
+        "avatar": "https://avatars.githubusercontent.com/u/12839688?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Panniantong/Agent-Reach",
+    "name": "Panniantong/Agent-Reach",
+    "description": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.  ",
+    "language": "Python",
+    "stars": "33327",
+    "forks": "2678",
+    "increased": "1161 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/leecalcote",
+        "avatar": "https://avatars.githubusercontent.com/u/7570704?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/MUzairS15",
+        "avatar": "https://avatars.githubusercontent.com/u/79860504?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/aabidsofi19",
+        "avatar": "https://avatars.githubusercontent.com/u/65964225?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/amitamrutiya",
+        "avatar": "https://avatars.githubusercontent.com/u/91112485?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/theBeginner86",
+        "avatar": "https://avatars.githubusercontent.com/u/73700530?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/meshery/meshery",
+    "name": "meshery/meshery",
+    "description": "Meshery, the cloud native manager  ",
+    "language": "TypeScript",
+    "stars": "11040",
+    "forks": "3458",
+    "increased": "196 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/obra",
+        "avatar": "https://avatars.githubusercontent.com/u/45416?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/arittr",
+        "avatar": "https://avatars.githubusercontent.com/u/5742859?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/clkao",
+        "avatar": "https://avatars.githubusercontent.com/u/69736?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jjshanks",
+        "avatar": "https://avatars.githubusercontent.com/u/62661?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/obra/superpowers",
+    "name": "obra/superpowers",
+    "description": "An agentic skills framework &amp; software development methodology that works.  ",
+    "language": "Shell",
+    "stars": "231197",
+    "forks": "20548",
+    "increased": "1129 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/rajatsen91",
+        "avatar": "https://avatars.githubusercontent.com/u/8039264?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/siriuz42",
+        "avatar": "https://avatars.githubusercontent.com/u/5073569?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/misha-chertushkin",
+        "avatar": "https://avatars.githubusercontent.com/u/151166456?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/darkpowerxo",
+        "avatar": "https://avatars.githubusercontent.com/u/1857776?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/JustinGuese",
+        "avatar": "https://avatars.githubusercontent.com/u/9588843?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/google-research/timesfm",
+    "name": "google-research/timesfm",
+    "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.  ",
+    "language": "Python",
+    "stars": "21958",
+    "forks": "2135",
+    "increased": "606 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/engelgabriel",
+        "avatar": "https://avatars.githubusercontent.com/u/1000217?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sampaiodiego",
+        "avatar": "https://avatars.githubusercontent.com/u/8591547?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ggazzo",
+        "avatar": "https://avatars.githubusercontent.com/u/5263975?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rodrigok",
+        "avatar": "https://avatars.githubusercontent.com/u/234261?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/MartinSchoeler",
+        "avatar": "https://avatars.githubusercontent.com/u/20868078?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/RocketChat/Rocket.Chat",
+    "name": "RocketChat/Rocket.Chat",
+    "description": "The Secure CommsOS™ for mission-critical operations  ",
+    "language": "TypeScript",
+    "stars": "45605",
+    "forks": "13657",
+    "increased": "22 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/sestinj",
+        "avatar": "https://avatars.githubusercontent.com/u/33237525?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/RomneyDa",
+        "avatar": "https://avatars.githubusercontent.com/u/6581799?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Patrick-Erichsen",
+        "avatar": "https://avatars.githubusercontent.com/u/20157849?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tomasz-stefaniak",
+        "avatar": "https://avatars.githubusercontent.com/u/7911227?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/uinstinct",
+        "avatar": "https://avatars.githubusercontent.com/u/61635505?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/continuedev/continue",
+    "name": "continuedev/continue",
+    "description": "open-source coding agent  ",
+    "language": "TypeScript",
+    "stars": "33930",
+    "forks": "4699",
+    "increased": "49 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/niwinz",
+        "avatar": "https://avatars.githubusercontent.com/u/843689?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Alotor",
+        "avatar": "https://avatars.githubusercontent.com/u/3418223?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/superalex",
+        "avatar": "https://avatars.githubusercontent.com/u/1579633?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/hirunatan",
+        "avatar": "https://avatars.githubusercontent.com/u/1483050?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/EvaMarco",
+        "avatar": "https://avatars.githubusercontent.com/u/48989967?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/penpot/penpot",
+    "name": "penpot/penpot",
+    "description": "Penpot: The open-source design tool for design and code collaboration  ",
+    "language": "Clojure",
+    "stars": "50128",
+    "forks": "3234",
+    "increased": "70 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/krahets",
+        "avatar": "https://avatars.githubusercontent.com/u/26993056?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/justin-tse",
+        "avatar": "https://avatars.githubusercontent.com/u/24556310?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/coderonion",
+        "avatar": "https://avatars.githubusercontent.com/u/99076655?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/nuomi1",
+        "avatar": "https://avatars.githubusercontent.com/u/3739017?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Gonglja",
+        "avatar": "https://avatars.githubusercontent.com/u/39959756?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/krahets/hello-algo",
+    "name": "krahets/hello-algo",
+    "description": "《Hello 算法》：动画图解 、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现  ",
+    "language": "Java",
+    "stars": "127498",
+    "forks": "15176",
+    "increased": "96 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/AnonymousWP",
+        "avatar": "https://avatars.githubusercontent.com/u/50231698?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/0x192",
+        "avatar": "https://avatars.githubusercontent.com/u/55300518?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Frigyes06",
+        "avatar": "https://avatars.githubusercontent.com/u/72750891?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Rudxain",
+        "avatar": "https://avatars.githubusercontent.com/u/76864299?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/lavafroth",
+        "avatar": "https://avatars.githubusercontent.com/u/107522312?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation",
+    "name": "Universal-Debloater-Alliance/universal-android-debloater-next-generation",
+    "description": "Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.  ",
+    "language": "Rust",
+    "stars": "7666",
+    "forks": "328",
+    "increased": "457 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/mattpocock",
+        "avatar": "https://avatars.githubusercontent.com/u/28293365?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/mattpocock/skills",
+    "name": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .claude directory.  ",
+    "language": "Shell",
+    "stars": "133767",
+    "forks": "11616",
+    "increased": "1523 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/yairm210",
+        "avatar": "https://avatars.githubusercontent.com/u/8366208?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/SomeTroglodyte",
+        "avatar": "https://avatars.githubusercontent.com/u/63000004?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Smashfanful",
+        "avatar": "https://avatars.githubusercontent.com/u/41149920?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/xlenstra",
+        "avatar": "https://avatars.githubusercontent.com/u/71121390?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Ouaz",
+        "avatar": "https://avatars.githubusercontent.com/u/11946570?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/yairm210/Unciv",
+    "name": "yairm210/Unciv",
+    "description": "Open-source Android/Desktop remake of Civ V  ",
+    "language": "Kotlin",
+    "stars": "10684",
+    "forks": "1844",
+    "increased": "24 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ojeytonwilliams",
+        "avatar": "https://avatars.githubusercontent.com/u/15801806?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/raisedadead",
+        "avatar": "https://avatars.githubusercontent.com/u/1884376?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/camperbot",
+        "avatar": "https://avatars.githubusercontent.com/u/13561988?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/renovate-bot",
+        "avatar": "https://avatars.githubusercontent.com/u/25180681?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "name": "freeCodeCamp/freeCodeCamp",
+    "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.  ",
+    "language": "TypeScript",
+    "stars": "449168",
+    "forks": "45090",
+    "increased": "757 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ulivz",
+        "avatar": "https://avatars.githubusercontent.com/u/23133919?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ycjcl868",
+        "avatar": "https://avatars.githubusercontent.com/u/13595509?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ZhaoHeh",
+        "avatar": "https://avatars.githubusercontent.com/u/38528320?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cjraft",
+        "avatar": "https://avatars.githubusercontent.com/u/13687952?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/skychx",
+        "avatar": "https://avatars.githubusercontent.com/u/24872439?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/bytedance/UI-TARS-desktop",
+    "name": "bytedance/UI-TARS-desktop",
+    "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra  ",
+    "language": "TypeScript",
+    "stars": "36717",
+    "forks": "3701",
+    "increased": "150 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/cjdsellers",
+        "avatar": "https://avatars.githubusercontent.com/u/22510164?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/limx0",
+        "avatar": "https://avatars.githubusercontent.com/u/4816153?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/filipmacek",
+        "avatar": "https://avatars.githubusercontent.com/u/16453976?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/faysou",
+        "avatar": "https://avatars.githubusercontent.com/u/893862?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/davidsblom",
+        "avatar": "https://avatars.githubusercontent.com/u/49148?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/nautechsystems/nautilus_trader",
+    "name": "nautechsystems/nautilus_trader",
+    "description": "Production-grade Rust-native trading engine with deterministic event-driven architecture  ",
+    "language": "Rust",
+    "stars": "23831",
+    "forks": "3019",
+    "increased": "98 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/sojan-official",
+        "avatar": "https://avatars.githubusercontent.com/u/73185?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pranavrajs",
+        "avatar": "https://avatars.githubusercontent.com/u/2246121?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/iamsivin",
+        "avatar": "https://avatars.githubusercontent.com/u/64252451?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/muhsin-k",
+        "avatar": "https://avatars.githubusercontent.com/u/12408980?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/scmmishra",
+        "avatar": "https://avatars.githubusercontent.com/u/18097732?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/chatwoot/chatwoot",
+    "name": "chatwoot/chatwoot",
+    "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬  ",
+    "language": "Ruby",
+    "stars": "32402",
+    "forks": "7715",
+    "increased": "264 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/calesthio",
+        "avatar": "https://avatars.githubusercontent.com/u/213189893?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/itsuzef",
+        "avatar": "https://avatars.githubusercontent.com/u/53057646?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/calesthio/OpenMontage",
+    "name": "calesthio/OpenMontage",
+    "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.  ",
+    "language": "Python",
+    "stars": "5399",
+    "forks": "1010",
+    "increased": "98 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/alexzhang13",
+        "avatar": "https://avatars.githubusercontent.com/u/13501287?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/lakshyaag",
+        "avatar": "https://avatars.githubusercontent.com/u/10924399?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rawwerks",
+        "avatar": "https://avatars.githubusercontent.com/u/19483938?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/alt-glitch",
+        "avatar": "https://avatars.githubusercontent.com/u/52913345?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/alexzhang13/rlm",
+    "name": "alexzhang13/rlm",
+    "description": "General plug-and-play inference library for Recursive Language Models (RLMs), supporting various sandboxes.  ",
+    "language": "Python",
+    "stars": "4943",
+    "forks": "824",
+    "increased": "43 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/anmolsinghbhatia",
+        "avatar": "https://avatars.githubusercontent.com/u/121005188?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/aaryan610",
+        "avatar": "https://avatars.githubusercontent.com/u/65252264?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pablohashescobar",
+        "avatar": "https://avatars.githubusercontent.com/u/118773738?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sriramveeraghanta",
+        "avatar": "https://avatars.githubusercontent.com/u/9498163?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/NarayanBavisetti",
+        "avatar": "https://avatars.githubusercontent.com/u/72156168?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/makeplane/plane",
+    "name": "makeplane/plane",
+    "description": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.  ",
+    "language": "TypeScript",
+    "stars": "51341",
+    "forks": "4564",
+    "increased": "89 stars today"
+  }
+]
