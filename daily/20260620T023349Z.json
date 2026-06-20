@@ -1,0 +1,418 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/DeusData",
+        "avatar": "https://avatars.githubusercontent.com/u/81762164?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/shanemccarron-maker",
+        "avatar": "https://avatars.githubusercontent.com/u/247253695?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dLo999",
+        "avatar": "https://avatars.githubusercontent.com/u/20542959?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/DeusData/codebase-memory-mcp",
+    "name": "DeusData/codebase-memory-mcp",
+    "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.  ",
+    "language": "C",
+    "stars": "8310",
+    "forks": "632",
+    "increased": "1058 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/rajatsen91",
+        "avatar": "https://avatars.githubusercontent.com/u/8039264?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/siriuz42",
+        "avatar": "https://avatars.githubusercontent.com/u/5073569?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/misha-chertushkin",
+        "avatar": "https://avatars.githubusercontent.com/u/151166456?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/darkpowerxo",
+        "avatar": "https://avatars.githubusercontent.com/u/1857776?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/JustinGuese",
+        "avatar": "https://avatars.githubusercontent.com/u/9588843?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/google-research/timesfm",
+    "name": "google-research/timesfm",
+    "description": "TimesFM (Time Series Foundatio n Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.  ",
+    "language": "Python",
+    "stars": "24109",
+    "forks": "2275",
+    "increased": "1510 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/htin1",
+        "avatar": "https://avatars.githubusercontent.com/u/173961715?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mricopeng",
+        "avatar": "https://avatars.githubusercontent.com/u/173961722?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cursoragent",
+        "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/palmier-io/palmier-pro",
+    "name": "palmier-io/palmier-pro",
+    "description": "macOS video editor built for AI  ",
+    "language": "Swift",
+    "stars": "1974",
+    "forks": "192",
+    "increased": "756 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/koala73",
+        "avatar": "https://avatars.githubusercontent.com/u/996596?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/SebastienMelki",
+        "avatar": "https://avatars.githubusercontent.com/u/5787993?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/NewCoder3294",
+        "avatar": "https://avatars.githubusercontent.com/u/168879994?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/lspassos1",
+        "avatar": "https://avatars.githubusercontent.com/u/220533488?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/koala73/worldmonitor",
+    "name": "koala73/worldmonitor",
+    "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface  ",
+    "language": "TypeScript",
+    "stars": "57303",
+    "forks": "9143",
+    "increased": "156 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/aishwaryanr",
+        "avatar": "https://avatars.githubusercontent.com/u/12550285?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rk-yen",
+        "avatar": "https://avatars.githubusercontent.com/u/4944665?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/doggy8088",
+        "avatar": "https://avatars.githubusercontent.com/u/88981?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Rajarshi12321",
+        "avatar": "https://avatars.githubusercontent.com/u/94736350?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/aishwaryanr/awesome-generative-ai-guide",
+    "name": "aishwaryanr/awesome-generative-ai-guide",
+    "description": "A one stop repository for generative AI research updates, interview resources, notebooks and much more!  ",
+    "language": "HTML",
+    "stars": "27652",
+    "forks": "5740",
+    "increased": "107 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/steve8708",
+        "avatar": "https://avatars.githubusercontent.com/u/844291?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/builderio-bot",
+        "avatar": "https://avatars.githubusercontent.com/u/175421836?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/zuchka",
+        "avatar": "https://avatars.githubusercontent.com/u/37156449?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/BuilderIO/agent-native",
+    "name": "BuilderIO/agent-native",
+    "description": "A framework for building agent-native applications.  ",
+    "language": "TypeScript",
+    "stars": "1068",
+    "forks": "119",
+    "increased": "147 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/chopratejas",
+        "avatar": "https://avatars.githubusercontent.com/u/3607994?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/JerrettDavis",
+        "avatar": "https://avatars.githubusercontent.com/u/2610199?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/gglucass",
+        "avatar": "https://avatars.githubusercontent.com/u/1226415?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/chopratejas/headroom",
+    "name": "chopratejas/headroom",
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.  ",
+    "language": "Python",
+    "stars": "38876",
+    "forks": "2657",
+    "increased": "ay"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/calesthio",
+        "avatar": "https://avatars.githubusercontent.com/u/213189893?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/itsuzef",
+        "avatar": "https://avatars.githubusercontent.com/u/53057646?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/calesthio/OpenMontage",
+    "name": "calesthio/OpenMontage",
+    "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.  ",
+    "language": "Python",
+    "stars": "6329",
+    "forks": "1084",
+    "increased": "156 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/zRzRzRzRzRzRzR",
+        "avatar": "https://avatars.githubusercontent.com/u/93239683?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/JaredforReal",
+        "avatar": "https://avatars.githubusercontent.com/u/142211841?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/shifengmin",
+        "avatar": "https://avatars.githubusercontent.com/u/15032169?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/nakairika",
+        "avatar": "https://avatars.githubusercontent.com/u/35144242?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/zai-org/GLM-5",
+    "name": "zai-org/GLM-5",
+    "description": "GLM-5: From Vibe Coding to Agentic Engineering  ",
+    "stars": "4603",
+    "forks": "464",
+    "increased": "480 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/FredKSchott",
+        "avatar": "https://avatars.githubusercontent.com/u/622227?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/stainlu",
+        "avatar": "https://avatars.githubusercontent.com/u/109842185?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cpojer",
+        "avatar": "https://avatars.githubusercontent.com/u/13352?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ketankhairnar",
+        "avatar": "https://avatars.githubusercontent.com/u/83536?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/withastro/flue",
+    "name": "withastro/flue",
+    "description": "The sandbox agent framework.  ",
+    "language": "TypeScript",
+    "stars": "5856",
+    "forks": "325",
+    "increased": "309 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/dignifiedquire",
+        "avatar": "https://avatars.githubusercontent.com/u/790842?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/flub",
+        "avatar": "https://avatars.githubusercontent.com/u/146720?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rklaehn",
+        "avatar": "https://avatars.githubusercontent.com/u/248257?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Frando",
+        "avatar": "https://avatars.githubusercontent.com/u/43627?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ramfox",
+        "avatar": "https://avatars.githubusercontent.com/u/17440142?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/n0-computer/iroh",
+    "name": "n0-computer/iroh",
+    "description": "IP addresses break, dial keys instead. Modular networking stack in Rust.  ",
+    "language": "Rust",
+    "stars": "10258",
+    "forks": "466",
+    "increased": "302 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/obra",
+        "avatar": "https://avatars.githubusercontent.com/u/45416?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/arittr",
+        "avatar": "https://avatars.githubusercontent.com/u/5742859?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/clkao",
+        "avatar": "https://avatars.githubusercontent.com/u/69736?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jjshanks",
+        "avatar": "https://avatars.githubusercontent.com/u/62661?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/obra/superpowers",
+    "name": "obra/superpowers",
+    "description": "An agentic skills framework &amp; software development methodology that works.  ",
+    "language": "Shell",
+    "stars": "233418",
+    "forks": "20724",
+    "increased": "1110 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/niwinz",
+        "avatar": "https://avatars.githubusercontent.com/u/843689?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Alotor",
+        "avatar": "https://avatars.githubusercontent.com/u/3418223?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/superalex",
+        "avatar": "https://avatars.githubusercontent.com/u/1579633?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/hirunatan",
+        "avatar": "https://avatars.githubusercontent.com/u/1483050?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/EvaMarco",
+        "avatar": "https://avatars.githubusercontent.com/u/48989967?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/penpot/penpot",
+    "name": "penpot/penpot",
+    "description": "Penpot: The open-source design tool for design and code collaboration  ",
+    "language": "Clojure",
+    "stars": "50618",
+    "forks": "3269",
+    "increased": "85 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/gschier",
+        "avatar": "https://avatars.githubusercontent.com/u/587576?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jackkav",
+        "avatar": "https://avatars.githubusercontent.com/u/3679927?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/develohpanda",
+        "avatar": "https://avatars.githubusercontent.com/u/4312346?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/gatzjames",
+        "avatar": "https://avatars.githubusercontent.com/u/12115431?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/filfreire",
+        "avatar": "https://avatars.githubusercontent.com/u/11976836?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Kong/insomnia",
+    "name": "Kong/insomnia",
+    "description": "The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.  ",
+    "language": "TypeScript",
+    "stars": "38995",
+    "forks": "2302",
+    "increased": "292 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/michaellightricks",
+        "avatar": "https://avatars.githubusercontent.com/u/17297304?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/AlexeyKravtsov1987",
+        "avatar": "https://avatars.githubusercontent.com/u/109453818?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Lightricks/LTX-2",
+    "name": "Lightricks/LTX-2",
+    "description": "Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model.  ",
+    "language": "Python",
+    "stars": "7681",
+    "forks": "1221",
+    "increased": "196 stars today"
+  }
+]
