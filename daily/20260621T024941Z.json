@@ -1,0 +1,472 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/htin1",
+        "avatar": "https://avatars.githubusercontent.com/u/173961715?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mricopeng",
+        "avatar": "https://avatars.githubusercontent.com/u/173961722?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cursoragent",
+        "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/palmier-io/palmier-pro",
+    "name": "palmier-io/palmier-pro",
+    "description": "macOS video editor built for AI  ",
+    "language": "Swift",
+    "stars": "3488",
+    "forks": "286",
+    "increased": "902 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/niwinz",
+        "avatar": "https://avatars.githubusercontent.com/u/843689?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Alotor",
+        "avatar": "https://avatars.githubusercontent.com/u/3418223?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/superalex",
+        "avatar": "https://avatars.githubusercontent.com/u/1579633?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/hirunatan",
+        "avatar": "https://avatars.githubusercontent.com/u/1483050?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/EvaMarco",
+        "avatar": "https://avatars.githubusercontent.com/u/48989967?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/penpot/penpot",
+    "name": "penpot/penpot",
+    "description": "Penpot: The open-source design tool for design and code collaboration  ",
+    "language": "Clojure",
+    "stars": "51503",
+    "forks": "3306",
+    "increased": "420 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/calesthio",
+        "avatar": "https://avatars.githubusercontent.com/u/213189893?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/itsuzef",
+        "avatar": "https://avatars.githubusercontent.com/u/53057646?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/calesthio/OpenMontage",
+    "name": "calesthio/OpenMontage",
+    "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.  ",
+    "language": "Python",
+    "stars": "7122",
+    "forks": "1157",
+    "increased": "677 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/penberg",
+        "avatar": "https://avatars.githubusercontent.com/u/81939?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jussisaurio",
+        "avatar": "https://avatars.githubusercontent.com/u/22619982?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/PThorpe92",
+        "avatar": "https://avatars.githubusercontent.com/u/121899304?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pedrocarlo",
+        "avatar": "https://avatars.githubusercontent.com/u/63058033?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sivukhin",
+        "avatar": "https://avatars.githubusercontent.com/u/1395040?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/tursodatabase/turso",
+    "name": "tursodatabase/turso",
+    "description": "Turso is an in-process SQL database, compatible with SQLite.  ",
+    "language": "Rust",
+    "stars": "20364",
+    "forks": "1042",
+    "increased": "801 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/DeusData",
+        "avatar": "https://avatars.githubusercontent.com/u/81762164?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/shanemccarron-maker",
+        "avatar": "https://avatars.githubusercontent.com/u/247253695?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dLo999",
+        "avatar": "https://avatars.githubusercontent.com/u/20542959?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/DeusData/codebase-memory-mcp",
+    "name": "DeusData/codebase-memory-mcp",
+    "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.  ",
+    "language": "C",
+    "stars": "9430",
+    "forks": "714",
+    "increased": "1271 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/rajatsen91",
+        "avatar": "https://avatars.githubusercontent.com/u/8039264?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/siriuz42",
+        "avatar": "https://avatars.githubusercontent.com/u/5073569?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/misha-chertushkin",
+        "avatar": "https://avatars.githubusercontent.com/u/151166456?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/darkpowerxo",
+        "avatar": "https://avatars.githubusercontent.com/u/1857776?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/JustinGuese",
+        "avatar": "https://avatars.githubusercontent.com/u/9588843?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/google-research/timesfm",
+    "name": "google-research/timesfm",
+    "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.  ",
+    "language": "Python",
+    "stars": "24578",
+    "forks": "2330",
+    "increased": "433 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/charlesBochet",
+        "avatar": "https://avatars.githubusercontent.com/u/12035771?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/FelixMalfait",
+        "avatar": "https://avatars.githubusercontent.com/u/6399865?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bosiraphael",
+        "avatar": "https://avatars.githubusercontent.com/u/71827178?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Weiko",
+        "avatar": "https://avatars.githubusercontent.com/u/1834158?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/twentyhq/twenty",
+    "name": "twentyhq/twenty",
+    "description": "The open alternative to Salesforce, designed for AI.  ",
+    "language": "TypeScript",
+    "stars": "50879",
+    "forks": "7413",
+    "increased": "140 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/gschier",
+        "avatar": "https://avatars.githubusercontent.com/u/587576?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jackkav",
+        "avatar": "https://avatars.githubusercontent.com/u/3679927?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/develohpanda",
+        "avatar": "https://avatars.githubusercontent.com/u/4312346?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/gatzjames",
+        "avatar": "https://avatars.githubusercontent.com/u/12115431?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/filfreire",
+        "avatar": "https://avatars.githubusercontent.com/u/11976836?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Kong/insomnia",
+    "name": "Kong/insomnia",
+    "description": "The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.  ",
+    "language": "TypeScript",
+    "stars": "39346",
+    "forks": "2324",
+    "increased": "329 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/tw93",
+        "avatar": "https://avatars.githubusercontent.com/u/8736212?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Tlntin",
+        "avatar": "https://avatars.githubusercontent.com/u/28218658?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jeasonnow",
+        "avatar": "https://avatars.githubusercontent.com/u/16950207?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/actions-user",
+        "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/tw93/Pake",
+    "name": "tw93/Pake",
+    "description": "🤱🏻 Turn any webpage into a desktop app with one command.  ",
+    "language": "Rust",
+    "stars": "54918",
+    "forks": "10895",
+    "increased": "2546 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/chopratejas",
+        "avatar": "https://avatars.githubusercontent.com/u/3607994?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/JerrettDavis",
+        "avatar": "https://avatars.githubusercontent.com/u/2610199?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/gglucass",
+        "avatar": "https://avatars.githubusercontent.com/u/1226415?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/chopratejas/headroom",
+    "name": "chopratejas/headroom",
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.  ",
+    "language": "Python",
+    "stars": "42021",
+    "forks": "2895",
+    "increased": "3795 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/jamiepine",
+        "avatar": "https://avatars.githubusercontent.com/u/32987599?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tomasmach",
+        "avatar": "https://avatars.githubusercontent.com/u/52257177?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mvanhorn",
+        "avatar": "https://avatars.githubusercontent.com/u/455140?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/selop",
+        "avatar": "https://avatars.githubusercontent.com/u/5173254?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/jamiepine/voicebox",
+    "name": "jamiepine/voicebox",
+    "description": "The open-source AI voice studio. Clone, dictate, create.  ",
+    "language": "TypeScript",
+    "stars": "31046",
+    "forks": "3837",
+    "increased": "145 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/thdxr",
+        "avatar": "https://avatars.githubusercontent.com/u/826656?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/adamdotdevin",
+        "avatar": "https://avatars.githubusercontent.com/u/2363879?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/markijbema",
+        "avatar": "https://avatars.githubusercontent.com/u/624143?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rekram1-node",
+        "avatar": "https://avatars.githubusercontent.com/u/63023139?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/marius-kilocode",
+        "avatar": "https://avatars.githubusercontent.com/u/247121564?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Kilo-Org/kilocode",
+    "name": "Kilo-Org/kilocode",
+    "description": "Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent.  ",
+    "language": "TypeScript",
+    "stars": "23386",
+    "forks": "2744",
+    "increased": "513 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/mattpocock",
+        "avatar": "https://avatars.githubusercontent.com/u/28293365?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/mattpocock/skills",
+    "name": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .claude directory.  ",
+    "language": "Shell",
+    "stars": "138331",
+    "forks": "12000",
+    "increased": "1395 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/FredKSchott",
+        "avatar": "https://avatars.githubusercontent.com/u/622227?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/stainlu",
+        "avatar": "https://avatars.githubusercontent.com/u/109842185?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cpojer",
+        "avatar": "https://avatars.githubusercontent.com/u/13352?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ketankhairnar",
+        "avatar": "https://avatars.githubusercontent.com/u/83536?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/withastro/flue",
+    "name": "withastro/flue",
+    "description": "The sandbox agent framework.  ",
+    "language": "TypeScript",
+    "stars": "6116",
+    "forks": "344",
+    "increased": "316 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/owainlewis",
+        "avatar": "https://avatars.githubusercontent.com/u/733944?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/iamkeyur",
+        "avatar": "https://avatars.githubusercontent.com/u/7651474?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/antonymuga",
+        "avatar": "https://avatars.githubusercontent.com/u/26705302?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ipcenas",
+        "avatar": "https://avatars.githubusercontent.com/u/47504178?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/orsenthil",
+        "avatar": "https://avatars.githubusercontent.com/u/332330?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/owainlewis/awesome-artificial-intelligence",
+    "name": "owainlewis/awesome-artificial-intelligence",
+    "description": "A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.  ",
+    "stars": "14806",
+    "forks": "2356",
+    "increased": "48 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/pppscn",
+        "avatar": "https://avatars.githubusercontent.com/u/5105854?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kvii",
+        "avatar": "https://avatars.githubusercontent.com/u/56432636?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Naccl",
+        "avatar": "https://avatars.githubusercontent.com/u/44741777?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/malsony",
+        "avatar": "https://avatars.githubusercontent.com/u/12030904?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/aoe-iu",
+        "avatar": "https://avatars.githubusercontent.com/u/84842989?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/pppscn/SmsForwarder",
+    "name": "pppscn/SmsForwarder",
+    "description": "短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是学习与自用，如有BUG请提ISSUE，同时欢迎大家提PR指正  ",
+    "language": "Kotlin",
+    "stars": "26509",
+    "forks": "3275",
+    "increased": "104 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/1jehuang",
+        "avatar": "https://avatars.githubusercontent.com/u/94247773?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/1jehuang/jcode",
+    "name": "1jehuang/jcode",
+    "description": "Coding Agent Harness  ",
+    "language": "Rust",
+    "stars": "7409",
+    "forks": "828",
+    "increased": "87 stars today"
+  }
+]
