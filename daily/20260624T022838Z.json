@@ -1,0 +1,469 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/calesthio",
+        "avatar": "https://avatars.githubusercontent.com/u/213189893?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/itsuzef",
+        "avatar": "https://avatars.githubusercontent.com/u/53057646?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/calesthio/OpenMontage",
+    "name": "calesthio/OpenMontage",
+    "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.  ",
+    "language": "Python",
+    "stars": "15950",
+    "forks": "1890",
+    "increased": "3592 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ZhuLinsen",
+        "avatar": "https://avatars.githubusercontent.com/u/42829555?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/massif-01",
+        "avatar": "https://avatars.githubusercontent.com/u/176381099?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/freesme",
+        "avatar": "https://avatars.githubusercontent.com/u/56824280?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/adminlove520",
+        "avatar": "https://avatars.githubusercontent.com/u/32920883?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Activer007",
+        "avatar": "https://avatars.githubusercontent.com/u/30621586?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/ZhuLinsen/daily_stock_analysis",
+    "name": "ZhuLinsen/daily_stock_analysis",
+    "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零 成本定时运行。 LLM -powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.  ",
+    "language": "Python",
+    "stars": "47180",
+    "forks": "42433",
+    "increased": "1119 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/mukul975",
+        "avatar": "https://avatars.githubusercontent.com/u/42860185?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/juliosuas",
+        "avatar": "https://avatars.githubusercontent.com/u/5745504?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/andrewibrah",
+        "avatar": "https://avatars.githubusercontent.com/u/157662519?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Bortlesboat",
+        "avatar": "https://avatars.githubusercontent.com/u/169967362?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+    "name": "mukul975/Anthropic-Cybersecurity-Skills",
+    "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&amp;CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF &amp; MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI &amp; 20+ platforms · 29 security domains · Apache 2.0  ",
+    "language": "Python",
+    "stars": "19781",
+    "forks": "2309",
+    "increased": "1041 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/garrytan",
+        "avatar": "https://avatars.githubusercontent.com/u/19957?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jbetala7",
+        "avatar": "https://avatars.githubusercontent.com/u/55358314?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/garagon",
+        "avatar": "https://avatars.githubusercontent.com/u/216552?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mvanhorn",
+        "avatar": "https://avatars.githubusercontent.com/u/455140?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/garrytan/gstack",
+    "name": "garrytan/gstack",
+    "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA  ",
+    "language": "TypeScript",
+    "stars": "114163",
+    "forks": "16895",
+    "increased": "1011 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/MagicCube",
+        "avatar": "https://avatars.githubusercontent.com/u/1003147?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/WillemJiang",
+        "avatar": "https://avatars.githubusercontent.com/u/219644?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/hetaoBackend",
+        "avatar": "https://avatars.githubusercontent.com/u/45447813?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/henry-byted",
+        "avatar": "https://avatars.githubusercontent.com/u/209858577?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/bytedance/deer-flow",
+    "name": "bytedance/deer-flow",
+    "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.  ",
+    "language": "Python",
+    "stars": "73979",
+    "forks": "9975",
+    "increased": "739 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/koala73",
+        "avatar": "https://avatars.githubusercontent.com/u/996596?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/SebastienMelki",
+        "avatar": "https://avatars.githubusercontent.com/u/5787993?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/NewCoder3294",
+        "avatar": "https://avatars.githubusercontent.com/u/168879994?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/lspassos1",
+        "avatar": "https://avatars.githubusercontent.com/u/220533488?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/koala73/worldmonitor",
+    "name": "koala73/worldmonitor",
+    "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface  ",
+    "language": "TypeScript",
+    "stars": "59144",
+    "forks": "9287",
+    "increased": "294 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/htin1",
+        "avatar": "https://avatars.githubusercontent.com/u/173961715?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mricopeng",
+        "avatar": "https://avatars.githubusercontent.com/u/173961722?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Ti-03",
+        "avatar": "https://avatars.githubusercontent.com/u/38795261?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/edu-lara",
+        "avatar": "https://avatars.githubusercontent.com/u/144066755?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/PriyeshPandey2000",
+        "avatar": "https://avatars.githubusercontent.com/u/144878884?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/palmier-io/palmier-pro",
+    "name": "palmier-io/palmier-pro",
+    "description": "macOS video editor built for AI  ",
+    "language": "Swift",
+    "stars": "8476",
+    "forks": "555",
+    "increased": "1630 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/bryan-anthropic",
+        "avatar": "https://avatars.githubusercontent.com/u/238056179?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tobinsouth",
+        "avatar": "https://avatars.githubusercontent.com/u/32489862?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/k6l3",
+        "avatar": "https://avatars.githubusercontent.com/u/111803974?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/anthropics/claude-plugins-official",
+    "name": "anthropics/claude-plugins-official",
+    "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.  ",
+    "language": "Python",
+    "stars": "30870",
+    "forks": "3362",
+    "increased": "77 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/shanraisshan",
+        "avatar": "https://avatars.githubusercontent.com/u/11731897?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/neutmute",
+        "avatar": "https://avatars.githubusercontent.com/u/1303131?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/shayangd",
+        "avatar": "https://avatars.githubusercontent.com/u/192189596?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/shanraisshan/claude-code-best-practice",
+    "name": "shanraisshan/claude-code-best-practice",
+    "description": "from vibe coding to agentic engineering - practice makes claude perfect  ",
+    "language": "HTML",
+    "stars": "59533",
+    "forks": "5991",
+    "increased": "344 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/revfactory",
+        "avatar": "https://avatars.githubusercontent.com/u/2889542?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Mubashirrrr",
+        "avatar": "https://avatars.githubusercontent.com/u/112580905?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/hongsw",
+        "avatar": "https://avatars.githubusercontent.com/u/1100974?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/shaun0927",
+        "avatar": "https://avatars.githubusercontent.com/u/70629228?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/revfactory/harness",
+    "name": "revfactory/harness",
+    "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.  ",
+    "language": "HTML",
+    "stars": "7462",
+    "forks": "1045",
+    "increased": "128 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/jamiepine",
+        "avatar": "https://avatars.githubusercontent.com/u/32987599?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tomasmach",
+        "avatar": "https://avatars.githubusercontent.com/u/52257177?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mvanhorn",
+        "avatar": "https://avatars.githubusercontent.com/u/455140?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/selop",
+        "avatar": "https://avatars.githubusercontent.com/u/5173254?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/jamiepine/voicebox",
+    "name": "jamiepine/voicebox",
+    "description": "The open-source AI voice studio. Clone, dictate, create.  ",
+    "language": "TypeScript",
+    "stars": "33226",
+    "forks": "4006",
+    "increased": "1045 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/JCodesMore",
+        "avatar": "https://avatars.githubusercontent.com/u/182581310?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/oz-agent",
+        "avatar": "https://avatars.githubusercontent.com/u/260729474?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rishikeshmanohar",
+        "avatar": "https://avatars.githubusercontent.com/u/55550442?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/SABUJ123472",
+        "avatar": "https://avatars.githubusercontent.com/u/132305576?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/JCodesMore/ai-website-cloner-template",
+    "name": "JCodesMore/ai-website-cloner-template",
+    "description": "Clone any website with one command using AI coding agents  ",
+    "language": "TypeScript",
+    "stars": "18617",
+    "forks": "2808",
+    "increased": "826 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/byoungd",
+        "avatar": "https://avatars.githubusercontent.com/u/16145783?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/fakesnow",
+        "avatar": "https://avatars.githubusercontent.com/u/4256108?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/holtenko",
+        "avatar": "https://avatars.githubusercontent.com/u/17680637?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/WMXPY",
+        "avatar": "https://avatars.githubusercontent.com/u/5085821?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/overtrue",
+        "avatar": "https://avatars.githubusercontent.com/u/1472352?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/byoungd/English-level-up-tips",
+    "name": "byoungd/English-level-up-tips",
+    "description": "An advanced guide to learn English which might benefit you a lot 🎉 . 人生进阶指南 离谱的人生 离谱的英语学习指南/英语学习教程/英语学习/学英语  ",
+    "stars": "54520",
+    "forks": "5586",
+    "increased": "125 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/DeusData",
+        "avatar": "https://avatars.githubusercontent.com/u/81762164?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/shanemccarron-maker",
+        "avatar": "https://avatars.githubusercontent.com/u/247253695?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dLo999",
+        "avatar": "https://avatars.githubusercontent.com/u/20542959?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/DeusData/codebase-memory-mcp",
+    "name": "DeusData/codebase-memory-mcp",
+    "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.  ",
+    "language": "C",
+    "stars": "13065",
+    "forks": "949",
+    "increased": "1300 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/teknium1",
+        "avatar": "https://avatars.githubusercontent.com/u/127238744?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/OutThisLife",
+        "avatar": "https://avatars.githubusercontent.com/u/770929?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kshitijk4poor",
+        "avatar": "https://avatars.githubusercontent.com/u/82637225?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/benbarclay",
+        "avatar": "https://avatars.githubusercontent.com/u/413810?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/NousResearch/hermes-agent",
+    "name": "NousResearch/hermes-agent",
+    "description": "The agent that grows with you  ",
+    "language": "Python",
+    "stars": "201027",
+    "forks": "35856",
+    "increased": "936 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/affaan-m",
+        "avatar": "https://avatars.githubusercontent.com/u/124439313?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pangerlkr",
+        "avatar": "https://avatars.githubusercontent.com/u/73515951?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/affaan-m/ECC",
+    "name": "affaan-m/ECC",
+    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.  ",
+    "language": "JavaScript",
+    "stars": "220589",
+    "forks": "33789",
+    "increased": "593 stars today"
+  }
+]
