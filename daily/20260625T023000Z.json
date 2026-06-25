@@ -1,0 +1,396 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/calesthio",
+        "avatar": "https://avatars.githubusercontent.com/u/213189893?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/itsuzef",
+        "avatar": "https://avatars.githubusercontent.com/u/53057646?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/CooperSheroy",
+        "avatar": "https://avatars.githubusercontent.com/u/59650384?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/shubham21155102",
+        "avatar": "https://avatars.githubusercontent.com/u/98862179?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/calesthio/OpenMontage",
+    "name": "calesthio/OpenMontage",
+    "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.  ",
+    "language": "Python",
+    "stars": "19673",
+    "forks": "2225",
+    "increased": "3719 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ZhuLinsen",
+        "avatar": "https://avatars.githubusercontent.com/u/42829555?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/massif-01",
+        "avatar": "https://avatars.githubusercontent.com/u/176381099?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/freesme",
+        "avatar": "https://avatars.githubusercontent.com/u/56824280?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/adminlove520",
+        "avatar": "https://avatars.githubusercontent.com/u/32920883?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Activer007",
+        "avatar": "https://avatars.githubusercontent.com/u/30621586?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/ZhuLinsen/daily_stock_analysis",
+    "name": "ZhuLinsen/daily_stock_analysis",
+    "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.  ",
+    "language": "Python",
+    "stars": "48630",
+    "forks": "43014",
+    "increased": "1468 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/jglogan",
+        "avatar": "https://avatars.githubusercontent.com/u/1019924?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/katiewasnothere",
+        "avatar": "https://avatars.githubusercontent.com/u/14638319?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dcantah",
+        "avatar": "https://avatars.githubusercontent.com/u/36526702?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dkovba",
+        "avatar": "https://avatars.githubusercontent.com/u/206787606?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/realrajaryan",
+        "avatar": "https://avatars.githubusercontent.com/u/58954869?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/apple/container",
+    "name": "apple/container",
+    "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.  ",
+    "language": "Swift",
+    "stars": "42314",
+    "forks": "1244",
+    "increased": "1838 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/sp2hari",
+        "avatar": "https://avatars.githubusercontent.com/u/39041?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/anxkhn-hacker",
+        "avatar": "https://avatars.githubusercontent.com/u/193470987?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kaushalkrgupta02",
+        "avatar": "https://avatars.githubusercontent.com/u/114843073?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/G26karthik",
+        "avatar": "https://avatars.githubusercontent.com/u/144328549?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/singla-rhydham",
+        "avatar": "https://avatars.githubusercontent.com/u/100041941?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/interviewstreet/hiring-agent",
+    "name": "interviewstreet/hiring-agent",
+    "description": "AI agent to evaluate and score resumes.  ",
+    "language": "Python",
+    "stars": "2257",
+    "forks": "601",
+    "increased": "203 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/JCodesMore",
+        "avatar": "https://avatars.githubusercontent.com/u/182581310?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/oz-agent",
+        "avatar": "https://avatars.githubusercontent.com/u/260729474?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rishikeshmanohar",
+        "avatar": "https://avatars.githubusercontent.com/u/55550442?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/SABUJ123472",
+        "avatar": "https://avatars.githubusercontent.com/u/132305576?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/JCodesMore/ai-website-cloner-template",
+    "name": "JCodesMore/ai-website-cloner-template",
+    "description": "Clone any website with one command using AI coding agents  ",
+    "language": "TypeScript",
+    "stars": "19401",
+    "forks": "2892",
+    "increased": "692 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/revfactory",
+        "avatar": "https://avatars.githubusercontent.com/u/2889542?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Mubashirrrr",
+        "avatar": "https://avatars.githubusercontent.com/u/112580905?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/hongsw",
+        "avatar": "https://avatars.githubusercontent.com/u/1100974?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/shaun0927",
+        "avatar": "https://avatars.githubusercontent.com/u/70629228?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/revfactory/harness",
+    "name": "revfactory/harness",
+    "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.  ",
+    "language": "HTML",
+    "stars": "7771",
+    "forks": "1058",
+    "increased": "277 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/skia-flutter-autoroll",
+        "avatar": "https://avatars.githubusercontent.com/u/37626415?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/engine-flutter-autoroll",
+        "avatar": "https://avatars.githubusercontent.com/u/42042535?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/abarth",
+        "avatar": "https://avatars.githubusercontent.com/u/112007?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Hixie",
+        "avatar": "https://avatars.githubusercontent.com/u/551196?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jason-simmons",
+        "avatar": "https://avatars.githubusercontent.com/u/14226037?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/flutter/flutter",
+    "name": "flutter/flutter",
+    "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond  ",
+    "language": "Dart",
+    "stars": "177369",
+    "forks": "30545",
+    "increased": "73 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/andreknieriem",
+        "avatar": "https://avatars.githubusercontent.com/u/4500367?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/andrecuellar",
+        "avatar": "https://avatars.githubusercontent.com/u/7474035?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tsabaia",
+        "avatar": "https://avatars.githubusercontent.com/u/15067718?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/nicoruy",
+        "avatar": "https://avatars.githubusercontent.com/u/11979039?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/andreknieriem/headunit-revived",
+    "name": "andreknieriem/headunit-revived",
+    "description": "Headunit App for displaying Android Auto  ",
+    "language": "Kotlin",
+    "stars": "1436",
+    "forks": "112",
+    "increased": "41 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/nwparker",
+        "avatar": "https://avatars.githubusercontent.com/u/4138956?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/AmethystLiang",
+        "avatar": "https://avatars.githubusercontent.com/u/6427696?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/orca-ide",
+        "avatar": "https://avatars.githubusercontent.com/u/277417572?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Jinwoo-H",
+        "avatar": "https://avatars.githubusercontent.com/u/73622457?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/brennanb2025",
+        "avatar": "https://avatars.githubusercontent.com/u/79079362?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/stablyai/orca",
+    "name": "stablyai/orca",
+    "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.  ",
+    "language": "TypeScript",
+    "stars": "6856",
+    "forks": "495",
+    "increased": "331 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/davideast",
+        "avatar": "https://avatars.githubusercontent.com/u/4570265?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/xkxx",
+        "avatar": "https://avatars.githubusercontent.com/u/824246?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mvanhorn",
+        "avatar": "https://avatars.githubusercontent.com/u/455140?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tejas100",
+        "avatar": "https://avatars.githubusercontent.com/u/33960750?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dalmaer",
+        "avatar": "https://avatars.githubusercontent.com/u/4770?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/google-labs-code/design.md",
+    "name": "google-labs-code/design.md",
+    "description": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.  ",
+    "language": "TypeScript",
+    "stars": "17427",
+    "forks": "1569",
+    "increased": "619 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Flowseal",
+        "avatar": "https://avatars.githubusercontent.com/u/50780822?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/V3nilla",
+        "avatar": "https://avatars.githubusercontent.com/u/48512277?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ekungurov",
+        "avatar": "https://avatars.githubusercontent.com/u/8576664?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/fridorin",
+        "avatar": "https://avatars.githubusercontent.com/u/93490920?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/amozebus",
+        "avatar": "https://avatars.githubusercontent.com/u/190386872?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Flowseal/zapret-discord-youtube",
+    "name": "Flowseal/zapret-discord-youtube",
+    "language": "Batchfile",
+    "stars": "30031",
+    "forks": "2342",
+    "increased": "61 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/kunchenguid",
+        "avatar": "https://avatars.githubusercontent.com/u/3233006?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ghyghoo8",
+        "avatar": "https://avatars.githubusercontent.com/u/363129?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/e-jung",
+        "avatar": "https://avatars.githubusercontent.com/u/8334081?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/kunchenguid/no-mistakes",
+    "name": "kunchenguid/no-mistakes",
+    "description": "git push no-mistakes  ",
+    "language": "Go",
+    "stars": "2219",
+    "forks": "149",
+    "increased": "110 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/teknium1",
+        "avatar": "https://avatars.githubusercontent.com/u/127238744?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/OutThisLife",
+        "avatar": "https://avatars.githubusercontent.com/u/770929?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kshitijk4poor",
+        "avatar": "https://avatars.githubusercontent.com/u/82637225?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/benbarclay",
+        "avatar": "https://avatars.githubusercontent.com/u/413810?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/NousResearch/hermes-agent",
+    "name": "NousResearch/hermes-agent",
+    "description": "The agent that grows with you  ",
+    "language": "Python",
+    "stars": "202138",
+    "forks": "36123",
+    "increased": "1178 stars today"
+  }
+]
