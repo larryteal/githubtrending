@@ -1,0 +1,368 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/epoberezkin",
+        "avatar": "https://avatars.githubusercontent.com/u/2769109?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/spaced4ndy",
+        "avatar": "https://avatars.githubusercontent.com/u/8711996?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/avently",
+        "avatar": "https://avatars.githubusercontent.com/u/7953703?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/shumvgolove",
+        "avatar": "https://avatars.githubusercontent.com/u/37271604?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mlanp",
+        "avatar": "https://avatars.githubusercontent.com/u/112780386?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/simplex-chat/simplex-chat",
+    "name": "simplex-chat/simplex-chat",
+    "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!  ",
+    "language": "Haskell",
+    "stars": "15175",
+    "forks": "870",
+    "increased": "1180 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ripienaar",
+        "avatar": "https://avatars.githubusercontent.com/u/82342?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/FatGrizzly",
+        "avatar": "https://avatars.githubusercontent.com/u/66728880?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Skxxtz",
+        "avatar": "https://avatars.githubusercontent.com/u/63540046?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/thispsj",
+        "avatar": "https://avatars.githubusercontent.com/u/51746608?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/TraderStf",
+        "avatar": "https://avatars.githubusercontent.com/u/5954335?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/ripienaar/free-for-dev",
+    "name": "ripienaar/free-for-dev",
+    "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev  ",
+    "language": "HTML",
+    "stars": "125403",
+    "forks": "13181",
+    "increased": "495 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/adeebshihadeh",
+        "avatar": "https://avatars.githubusercontent.com/u/8762862?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sshane",
+        "avatar": "https://avatars.githubusercontent.com/u/25857203?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/deanlee",
+        "avatar": "https://avatars.githubusercontent.com/u/27770?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pd0wm",
+        "avatar": "https://avatars.githubusercontent.com/u/1314752?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/haraschax",
+        "avatar": "https://avatars.githubusercontent.com/u/6804392?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/commaai/openpilot",
+    "name": "commaai/openpilot",
+    "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.  ",
+    "language": "Python",
+    "stars": "62441",
+    "forks": "11096",
+    "increased": "266 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/xbtlin",
+        "avatar": "https://avatars.githubusercontent.com/u/6993203?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/CooperSheroy",
+        "avatar": "https://avatars.githubusercontent.com/u/59650384?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/xbtlin/ai-berkshire",
+    "name": "xbtlin/ai-berkshire",
+    "description": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.  ",
+    "language": "Python",
+    "stars": "5489",
+    "forks": "738",
+    "increased": "1445 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/LinZhuoChen",
+        "avatar": "https://avatars.githubusercontent.com/u/32637882?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/justimyhxu",
+        "avatar": "https://avatars.githubusercontent.com/u/29980330?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Robbyant/lingbot-map",
+    "name": "Robbyant/lingbot-map",
+    "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data  ",
+    "language": "Python",
+    "stars": "8273",
+    "forks": "805",
+    "increased": "372 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/DeusData",
+        "avatar": "https://avatars.githubusercontent.com/u/81762164?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/shanemccarron-maker",
+        "avatar": "https://avatars.githubusercontent.com/u/247253695?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dLo999",
+        "avatar": "https://avatars.githubusercontent.com/u/20542959?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/DeusData/codebase-memory-mcp",
+    "name": "DeusData/codebase-memory-mcp",
+    "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.  ",
+    "language": "C",
+    "stars": "19883",
+    "forks": "1436",
+    "increased": "2190 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/kmaehashi",
+        "avatar": "https://avatars.githubusercontent.com/u/939877?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/leofang",
+        "avatar": "https://avatars.githubusercontent.com/u/5534781?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/okuta",
+        "avatar": "https://avatars.githubusercontent.com/u/7133388?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/unnonouno",
+        "avatar": "https://avatars.githubusercontent.com/u/740680?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/takagi",
+        "avatar": "https://avatars.githubusercontent.com/u/1224375?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/cupy/cupy",
+    "name": "cupy/cupy",
+    "description": "NumPy &amp; SciPy for GPU  ",
+    "language": "Python",
+    "stars": "11553",
+    "forks": "1069",
+    "increased": "174 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/altic-dev",
+        "avatar": "https://avatars.githubusercontent.com/u/224717674?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/grohith327",
+        "avatar": "https://avatars.githubusercontent.com/u/36641932?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/BarathwajAnandan",
+        "avatar": "https://avatars.githubusercontent.com/u/58961993?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/yelloduxx",
+        "avatar": "https://avatars.githubusercontent.com/u/104713086?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/altic-dev/FluidVoice",
+    "name": "altic-dev/FluidVoice",
+    "description": "FluidVoice - Fastest macOS Offline Dictation app - Voice to Text fully Local. One ⭐ takes us a long way :))  ",
+    "language": "Swift",
+    "stars": "3799",
+    "forks": "240",
+    "increased": "365 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/myhloli",
+        "avatar": "https://avatars.githubusercontent.com/u/11393164?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Sidney233",
+        "avatar": "https://avatars.githubusercontent.com/u/54933042?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dt-yy",
+        "avatar": "https://avatars.githubusercontent.com/u/102640628?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/opendatalab/MinerU",
+    "name": "opendatalab/MinerU",
+    "description": "Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.  ",
+    "language": "Python",
+    "stars": "71690",
+    "forks": "6019",
+    "increased": "380 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/warren618",
+        "avatar": "https://avatars.githubusercontent.com/u/127300695?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Teerapat-Vatpitak",
+        "avatar": "https://avatars.githubusercontent.com/u/155278130?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Robin1987China",
+        "avatar": "https://avatars.githubusercontent.com/u/41602358?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/shadowinlife",
+        "avatar": "https://avatars.githubusercontent.com/u/2840631?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Hinotoi-agent",
+        "avatar": "https://avatars.githubusercontent.com/u/275430060?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/HKUDS/Vibe-Trading",
+    "name": "HKUDS/Vibe-Trading",
+    "description": "\"Vibe-Trading: Your Personal Trading Agent\"  ",
+    "language": "Python",
+    "stars": "14409",
+    "forks": "2636",
+    "increased": "492 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/slam",
+        "avatar": "https://avatars.githubusercontent.com/u/50348?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/nilbuild",
+        "avatar": "https://avatars.githubusercontent.com/u/4921183?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/LombardiDaniel",
+        "avatar": "https://avatars.githubusercontent.com/u/50521908?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Stephanvs",
+        "avatar": "https://avatars.githubusercontent.com/u/375631?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/alastairp",
+        "avatar": "https://avatars.githubusercontent.com/u/1277202?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/ByteByteGoHq/system-design-101",
+    "name": "ByteByteGoHq/system-design-101",
+    "description": "Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.  ",
+    "stars": "84548",
+    "forks": "9356",
+    "increased": "250 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/0xallam",
+        "avatar": "https://avatars.githubusercontent.com/u/49919286?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bearsyankees",
+        "avatar": "https://avatars.githubusercontent.com/u/46074070?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/octovimmer",
+        "avatar": "https://avatars.githubusercontent.com/u/260551972?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/usestrix/strix",
+    "name": "usestrix/strix",
+    "description": "Open-source AI hackers to find and fix your app’s vulnerabilities.  ",
+    "language": "Python",
+    "stars": "26798",
+    "forks": "2990",
+    "increased": "122 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/gregpr07",
+        "avatar": "https://avatars.githubusercontent.com/u/36313686?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/antoinersx",
+        "avatar": "https://avatars.githubusercontent.com/u/118331084?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ShawnPana",
+        "avatar": "https://avatars.githubusercontent.com/u/129362299?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/miguel-heygen",
+        "avatar": "https://avatars.githubusercontent.com/u/229591595?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/browser-use/video-use",
+    "name": "browser-use/video-use",
+    "description": "Edit videos with coding agents  ",
+    "language": "Python",
+    "stars": "11153",
+    "forks": "1529",
+    "increased": "196 stars today"
+  }
+]
