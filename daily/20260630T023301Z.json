@@ -1,0 +1,443 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/epoberezkin",
+        "avatar": "https://avatars.githubusercontent.com/u/2769109?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/spaced4ndy",
+        "avatar": "https://avatars.githubusercontent.com/u/8711996?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/avently",
+        "avatar": "https://avatars.githubusercontent.com/u/7953703?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/shumvgolove",
+        "avatar": "https://avatars.githubusercontent.com/u/37271604?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mlanp",
+        "avatar": "https://avatars.githubusercontent.com/u/112780386?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/simplex-chat/simplex-chat",
+    "name": "simplex-chat/simplex-chat",
+    "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!  ",
+    "language": "Haskell",
+    "stars": "16685",
+    "forks": "966",
+    "increased": "1607 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/msitarzewski",
+        "avatar": "https://avatars.githubusercontent.com/u/1972242?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/epowelljr",
+        "avatar": "https://avatars.githubusercontent.com/u/7342666?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/4shil",
+        "avatar": "https://avatars.githubusercontent.com/u/166588383?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/hedonnn",
+        "avatar": "https://avatars.githubusercontent.com/u/6354660?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/msitarzewski/agency-agents",
+    "name": "msitarzewski/agency-agents",
+    "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.  ",
+    "language": "Shell",
+    "stars": "119037",
+    "forks": "19489",
+    "increased": "1425 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/kmaehashi",
+        "avatar": "https://avatars.githubusercontent.com/u/939877?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/leofang",
+        "avatar": "https://avatars.githubusercontent.com/u/5534781?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/okuta",
+        "avatar": "https://avatars.githubusercontent.com/u/7133388?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/unnonouno",
+        "avatar": "https://avatars.githubusercontent.com/u/740680?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/takagi",
+        "avatar": "https://avatars.githubusercontent.com/u/1224375?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/cupy/cupy",
+    "name": "cupy/cupy",
+    "description": "NumPy &amp; SciPy for GPU  ",
+    "language": "Python",
+    "stars": "11857",
+    "forks": "1083",
+    "increased": "352 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/altic-dev",
+        "avatar": "https://avatars.githubusercontent.com/u/224717674?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/grohith327",
+        "avatar": "https://avatars.githubusercontent.com/u/36641932?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/BarathwajAnandan",
+        "avatar": "https://avatars.githubusercontent.com/u/58961993?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/yelloduxx",
+        "avatar": "https://avatars.githubusercontent.com/u/104713086?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/altic-dev/FluidVoice",
+    "name": "altic-dev/FluidVoice",
+    "description": "FluidVoice - Fastest macOS Offline Dictation app - Voice to Text fully Local. One ⭐ takes us a long way :))  ",
+    "language": "Swift",
+    "stars": "4430",
+    "forks": "279",
+    "increased": "830 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/soxoj",
+        "avatar": "https://avatars.githubusercontent.com/u/31013580?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kustermariocoding",
+        "avatar": "https://avatars.githubusercontent.com/u/99247491?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/fen0s",
+        "avatar": "https://avatars.githubusercontent.com/u/37670363?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/soxoj/maigret",
+    "name": "soxoj/maigret",
+    "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites  ",
+    "language": "Python",
+    "stars": "34428",
+    "forks": "2602",
+    "increased": "224 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/adeebshihadeh",
+        "avatar": "https://avatars.githubusercontent.com/u/8762862?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sshane",
+        "avatar": "https://avatars.githubusercontent.com/u/25857203?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/deanlee",
+        "avatar": "https://avatars.githubusercontent.com/u/27770?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pd0wm",
+        "avatar": "https://avatars.githubusercontent.com/u/1314752?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/haraschax",
+        "avatar": "https://avatars.githubusercontent.com/u/6804392?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/commaai/openpilot",
+    "name": "commaai/openpilot",
+    "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.  ",
+    "language": "Python",
+    "stars": "62790",
+    "forks": "11112",
+    "increased": "458 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ripienaar",
+        "avatar": "https://avatars.githubusercontent.com/u/82342?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/FatGrizzly",
+        "avatar": "https://avatars.githubusercontent.com/u/66728880?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Skxxtz",
+        "avatar": "https://avatars.githubusercontent.com/u/63540046?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/thispsj",
+        "avatar": "https://avatars.githubusercontent.com/u/51746608?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/TraderStf",
+        "avatar": "https://avatars.githubusercontent.com/u/5954335?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/ripienaar/free-for-dev",
+    "name": "ripienaar/free-for-dev",
+    "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev  ",
+    "language": "HTML",
+    "stars": "126778",
+    "forks": "13265",
+    "increased": "1935 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/gao-sun",
+        "avatar": "https://avatars.githubusercontent.com/u/14722250?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/simeng-li",
+        "avatar": "https://avatars.githubusercontent.com/u/36393111?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/charIeszhao",
+        "avatar": "https://avatars.githubusercontent.com/u/12833674?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/xiaoyijun",
+        "avatar": "https://avatars.githubusercontent.com/u/10806653?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/wangsijie",
+        "avatar": "https://avatars.githubusercontent.com/u/5717882?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/logto-io/logto",
+    "name": "logto-io/logto",
+    "description": "🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.  ",
+    "language": "TypeScript",
+    "stars": "12710",
+    "forks": "871",
+    "increased": "158 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/xbtlin",
+        "avatar": "https://avatars.githubusercontent.com/u/6993203?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/CooperSheroy",
+        "avatar": "https://avatars.githubusercontent.com/u/59650384?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/xbtlin/ai-berkshire",
+    "name": "xbtlin/ai-berkshire",
+    "description": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.  ",
+    "language": "Python",
+    "stars": "6723",
+    "forks": "873",
+    "increased": "1386 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/gregpr07",
+        "avatar": "https://avatars.githubusercontent.com/u/36313686?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/antoinersx",
+        "avatar": "https://avatars.githubusercontent.com/u/118331084?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ShawnPana",
+        "avatar": "https://avatars.githubusercontent.com/u/129362299?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/miguel-heygen",
+        "avatar": "https://avatars.githubusercontent.com/u/229591595?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/browser-use/video-use",
+    "name": "browser-use/video-use",
+    "description": "Edit videos with coding agents  ",
+    "language": "Python",
+    "stars": "11989",
+    "forks": "1573",
+    "increased": "967 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Unclecheng-li",
+        "avatar": "https://avatars.githubusercontent.com/u/55303635?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ww455",
+        "avatar": "https://avatars.githubusercontent.com/u/78286113?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Attack-Phantom",
+        "avatar": "https://avatars.githubusercontent.com/u/158583494?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Nyaecho",
+        "avatar": "https://avatars.githubusercontent.com/u/185469450?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sjkxq",
+        "avatar": "https://avatars.githubusercontent.com/u/127030214?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Unclecheng-li/VulnClaw",
+    "name": "Unclecheng-li/VulnClaw",
+    "description": "基于 AI Agent + MCP 工具链 + 渗透 Skill 编排， 配合大语言模型， 自然语言输入 → 自动完成「信息收集 → 漏洞发现 → 漏洞利用 → 报告生成」全流程。  ",
+    "language": "Python",
+    "stars": "1188",
+    "forks": "177",
+    "increased": "129 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/0xNyk",
+        "avatar": "https://avatars.githubusercontent.com/u/93952610?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/miakhan",
+        "avatar": "https://avatars.githubusercontent.com/u/11549687?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Alpsource",
+        "avatar": "https://avatars.githubusercontent.com/u/60017699?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/SelahattinSert",
+        "avatar": "https://avatars.githubusercontent.com/u/98191442?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/0xNyk/council-of-high-intelligence",
+    "name": "0xNyk/council-of-high-intelligence",
+    "description": "18 AI personas deliberate your hardest decisions across multiple LLM providers. Aristotle, Feynman, Kahneman, Torvalds &amp; more — structured multi-round deliberation with genuine model diversity. One command: /council  ",
+    "language": "Shell",
+    "stars": "1949",
+    "forks": "204",
+    "increased": "331 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/warren618",
+        "avatar": "https://avatars.githubusercontent.com/u/127300695?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Teerapat-Vatpitak",
+        "avatar": "https://avatars.githubusercontent.com/u/155278130?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/shadowinlife",
+        "avatar": "https://avatars.githubusercontent.com/u/2840631?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Robin1987China",
+        "avatar": "https://avatars.githubusercontent.com/u/41602358?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mvanhorn",
+        "avatar": "https://avatars.githubusercontent.com/u/455140?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/HKUDS/Vibe-Trading",
+    "name": "HKUDS/Vibe-Trading",
+    "description": "\"Vibe-Trading: Your Personal Trading Agent\"  ",
+    "language": "Python",
+    "stars": "15147",
+    "forks": "2691",
+    "increased": "ay"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/LucaRonin",
+        "avatar": "https://avatars.githubusercontent.com/u/695274?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/evolanakis",
+        "avatar": "https://avatars.githubusercontent.com/u/90484?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/riipandi",
+        "avatar": "https://avatars.githubusercontent.com/u/921834?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/refactoringhq/tolaria",
+    "name": "refactoringhq/tolaria",
+    "description": "Desktop app to manage markdown knowledge bases  ",
+    "language": "TypeScript",
+    "stars": "17551",
+    "forks": "1206",
+    "increased": "280 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/idrassi",
+        "avatar": "https://avatars.githubusercontent.com/u/4698669?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Jertzukka",
+        "avatar": "https://avatars.githubusercontent.com/u/28263033?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sandakersmann",
+        "avatar": "https://avatars.githubusercontent.com/u/6118832?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Patriccollu",
+        "avatar": "https://avatars.githubusercontent.com/u/22452654?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Matthaiks",
+        "avatar": "https://avatars.githubusercontent.com/u/3577122?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/veracrypt/VeraCrypt",
+    "name": "veracrypt/VeraCrypt",
+    "description": "Disk encryption with strong security based on TrueCrypt  ",
+    "language": "C",
+    "stars": "10506",
+    "forks": "1231",
+    "increased": "186 stars today"
+  }
+]
