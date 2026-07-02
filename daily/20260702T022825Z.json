@@ -1,0 +1,586 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/msitarzewski",
+        "avatar": "https://avatars.githubusercontent.com/u/1972242?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/epowelljr",
+        "avatar": "https://avatars.githubusercontent.com/u/7342666?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/4shil",
+        "avatar": "https://avatars.githubusercontent.com/u/166588383?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/hedonnn",
+        "avatar": "https://avatars.githubusercontent.com/u/6354660?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/msitarzewski/agency-agents",
+    "name": "msitarzewski/agency-agents",
+    "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.  ",
+    "language": "Shell",
+    "stars": "123625",
+    "forks": "20110",
+    "increased": "2114 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/0xallam",
+        "avatar": "https://avatars.githubusercontent.com/u/49919286?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bearsyankees",
+        "avatar": "https://avatars.githubusercontent.com/u/46074070?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/octovimmer",
+        "avatar": "https://avatars.githubusercontent.com/u/260551972?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/usestrix/strix",
+    "name": "usestrix/strix",
+    "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.  ",
+    "language": "Python",
+    "stars": "29837",
+    "forks": "3232",
+    "increased": "1211 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/warren618",
+        "avatar": "https://avatars.githubusercontent.com/u/127300695?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Teerapat-Vatpitak",
+        "avatar": "https://avatars.githubusercontent.com/u/155278130?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/shadowinlife",
+        "avatar": "https://avatars.githubusercontent.com/u/2840631?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Robin1987China",
+        "avatar": "https://avatars.githubusercontent.com/u/41602358?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mvanhorn",
+        "avatar": "https://avatars.githubusercontent.com/u/455140?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/HKUDS/Vibe-Trading",
+    "name": "HKUDS/Vibe-Trading",
+    "description": "\"Vibe-Trading: Your Personal Trading Agent\"  ",
+    "language": "Python",
+    "stars": "16610",
+    "forks": "2814",
+    "increased": "694 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/hasaneyldrm",
+        "avatar": "https://avatars.githubusercontent.com/u/28005450?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/anderboski",
+        "avatar": "https://avatars.githubusercontent.com/u/44262177?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/wacko-io",
+        "avatar": "https://avatars.githubusercontent.com/u/120308299?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/alfredo0592",
+        "avatar": "https://avatars.githubusercontent.com/u/157413099?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/hasaneyldrm/exercises-dataset",
+    "name": "hasaneyldrm/exercises-dataset",
+    "description": "A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.  ",
+    "language": "HTML",
+    "stars": "8481",
+    "forks": "957",
+    "increased": "2470 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/cixzhang",
+        "avatar": "https://avatars.githubusercontent.com/u/2781099?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rubyycheung",
+        "avatar": "https://avatars.githubusercontent.com/u/254546175?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/josephfarina",
+        "avatar": "https://avatars.githubusercontent.com/u/17398284?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kentonquatman",
+        "avatar": "https://avatars.githubusercontent.com/u/847306?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ernestt",
+        "avatar": "https://avatars.githubusercontent.com/u/5867373?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/facebook/astryx",
+    "name": "facebook/astryx",
+    "description": "An open source design system that's fully customizable and agent ready  ",
+    "language": "TypeScript",
+    "stars": "2716",
+    "forks": "143",
+    "increased": "708 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/diegosouzapw",
+        "avatar": "https://avatars.githubusercontent.com/u/8016841?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/oyi77",
+        "avatar": "https://avatars.githubusercontent.com/u/14921983?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rdself",
+        "avatar": "https://avatars.githubusercontent.com/u/55005611?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/diegosouzapw/OmniRoute",
+    "name": "diegosouzapw/OmniRoute",
+    "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline &amp; Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.  ",
+    "language": "TypeScript",
+    "stars": "9597",
+    "forks": "1474",
+    "increased": "1010 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/jakep-allenai",
+        "avatar": "https://avatars.githubusercontent.com/u/178819005?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/aman-17",
+        "avatar": "https://avatars.githubusercontent.com/u/44740048?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kyleclo",
+        "avatar": "https://avatars.githubusercontent.com/u/13603748?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cmwilhelm",
+        "avatar": "https://avatars.githubusercontent.com/u/1287054?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/haydn-jones",
+        "avatar": "https://avatars.githubusercontent.com/u/9584084?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/allenai/olmocr",
+    "name": "allenai/olmocr",
+    "description": "Toolkit for linearizing PDFs for LLM datasets/training  ",
+    "language": "Python",
+    "stars": "18307",
+    "forks": "1506",
+    "increased": "334 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/gao-sun",
+        "avatar": "https://avatars.githubusercontent.com/u/14722250?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/simeng-li",
+        "avatar": "https://avatars.githubusercontent.com/u/36393111?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/charIeszhao",
+        "avatar": "https://avatars.githubusercontent.com/u/12833674?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/wangsijie",
+        "avatar": "https://avatars.githubusercontent.com/u/5717882?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/xiaoyijun",
+        "avatar": "https://avatars.githubusercontent.com/u/10806653?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/logto-io/logto",
+    "name": "logto-io/logto",
+    "description": "🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.  ",
+    "language": "TypeScript",
+    "stars": "13291",
+    "forks": "906",
+    "increased": "113 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/togatoga",
+        "avatar": "https://avatars.githubusercontent.com/u/7335831?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/togatoga/karukan",
+    "name": "togatoga/karukan",
+    "description": "Japanese Input Method System for Linux, macOS, Neural Kana-Kanji Conversion Engine  ",
+    "language": "Rust",
+    "stars": "591",
+    "forks": "36",
+    "increased": "42 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Mebus",
+        "avatar": "https://avatars.githubusercontent.com/u/271557?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/quantumcore",
+        "avatar": "https://avatars.githubusercontent.com/u/34606382?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/herrBez",
+        "avatar": "https://avatars.githubusercontent.com/u/6976484?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/EdwardBetts",
+        "avatar": "https://avatars.githubusercontent.com/u/3818?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/plex3r",
+        "avatar": "https://avatars.githubusercontent.com/u/4057454?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Mebus/cupp",
+    "name": "Mebus/cupp",
+    "description": "Common User Passwords Profiler (CUPP)  ",
+    "language": "Python",
+    "stars": "6254",
+    "forks": "2065",
+    "increased": "184 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Unclecheng-li",
+        "avatar": "https://avatars.githubusercontent.com/u/55303635?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ww455",
+        "avatar": "https://avatars.githubusercontent.com/u/78286113?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Attack-Phantom",
+        "avatar": "https://avatars.githubusercontent.com/u/158583494?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Nyaecho",
+        "avatar": "https://avatars.githubusercontent.com/u/185469450?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sjkxq",
+        "avatar": "https://avatars.githubusercontent.com/u/127030214?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Unclecheng-li/VulnClaw",
+    "name": "Unclecheng-li/VulnClaw",
+    "description": "基于 AI Agent + MCP 工具链 + 渗透 Skill 编排， 配合大语言模型， 自然语言输入 → 自动完成「信息收集 → 漏洞发现 → 漏洞利用 → 报告生成」全流程。  ",
+    "language": "Python",
+    "stars": "1595",
+    "forks": "220",
+    "increased": "132 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/leestott",
+        "avatar": "https://avatars.githubusercontent.com/u/2511341?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/skytin1004",
+        "avatar": "https://avatars.githubusercontent.com/u/99078115?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jlooper",
+        "avatar": "https://avatars.githubusercontent.com/u/1450004?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/shwars",
+        "avatar": "https://avatars.githubusercontent.com/u/2892110?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/BethanyJep",
+        "avatar": "https://avatars.githubusercontent.com/u/44121227?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/microsoft/AI-For-Beginners",
+    "name": "microsoft/AI-For-Beginners",
+    "description": "12 Weeks, 24 Lessons, AI for All!  ",
+    "language": "Jupyter Notebook",
+    "stars": "50520",
+    "forks": "10260",
+    "increased": "1096 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/LucaRonin",
+        "avatar": "https://avatars.githubusercontent.com/u/695274?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/evolanakis",
+        "avatar": "https://avatars.githubusercontent.com/u/90484?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/riipandi",
+        "avatar": "https://avatars.githubusercontent.com/u/921834?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/refactoringhq/tolaria",
+    "name": "refactoringhq/tolaria",
+    "description": "Desktop app to manage markdown knowledge bases  ",
+    "language": "TypeScript",
+    "stars": "18042",
+    "forks": "1224",
+    "increased": "150 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ogulcancelik",
+        "avatar": "https://avatars.githubusercontent.com/u/7064011?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kangal-bot",
+        "avatar": "https://avatars.githubusercontent.com/u/285672167?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Golden-Pigeon",
+        "avatar": "https://avatars.githubusercontent.com/u/20119392?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/othavi0",
+        "avatar": "https://avatars.githubusercontent.com/u/98116082?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/ogulcancelik/herdr",
+    "name": "ogulcancelik/herdr",
+    "description": "agent multiplexer that lives in your terminal.  ",
+    "language": "Rust",
+    "stars": "9646",
+    "forks": "567",
+    "increased": "609 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/0xNyk",
+        "avatar": "https://avatars.githubusercontent.com/u/93952610?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/miakhan",
+        "avatar": "https://avatars.githubusercontent.com/u/11549687?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Alpsource",
+        "avatar": "https://avatars.githubusercontent.com/u/60017699?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/SelahattinSert",
+        "avatar": "https://avatars.githubusercontent.com/u/98191442?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/0xNyk/council-of-high-intelligence",
+    "name": "0xNyk/council-of-high-intelligence",
+    "description": "18 AI personas deliberate your hardest decisions across multiple LLM providers. Aristotle, Feynman, Kahneman, Torvalds &amp; more — structured multi-round deliberation with genuine model diversity. One command: /council  ",
+    "language": "Shell",
+    "stars": "2665",
+    "forks": "245",
+    "increased": "161 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/altic-dev",
+        "avatar": "https://avatars.githubusercontent.com/u/224717674?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/grohith327",
+        "avatar": "https://avatars.githubusercontent.com/u/36641932?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/BarathwajAnandan",
+        "avatar": "https://avatars.githubusercontent.com/u/58961993?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/yelloduxx",
+        "avatar": "https://avatars.githubusercontent.com/u/104713086?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/altic-dev/FluidVoice",
+    "name": "altic-dev/FluidVoice",
+    "description": "Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model - Local Wispr Flow alternative. One ⭐ takes us a long way :)) Windows, iOS and Linux coming soon.  ",
+    "language": "Swift",
+    "stars": "5528",
+    "forks": "332",
+    "increased": "572 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/DavidBabinec",
+        "avatar": "https://avatars.githubusercontent.com/u/49069339?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Mariomarquezt",
+        "avatar": "https://avatars.githubusercontent.com/u/60635115?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/nguyenngothuong",
+        "avatar": "https://avatars.githubusercontent.com/u/83950837?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/CoreBunch/Instatic",
+    "name": "CoreBunch/Instatic",
+    "description": "Instatic is a modern self-hosted visual CMS - get it running in 1 minute  ",
+    "language": "TypeScript",
+    "stars": "2032",
+    "forks": "167",
+    "increased": "508 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/fslongjin",
+        "avatar": "https://avatars.githubusercontent.com/u/63215266?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/chenhengqi",
+        "avatar": "https://avatars.githubusercontent.com/u/4277743?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ls-ggg",
+        "avatar": "https://avatars.githubusercontent.com/u/48054568?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/lisongqian",
+        "avatar": "https://avatars.githubusercontent.com/u/25759760?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/zyl1121",
+        "avatar": "https://avatars.githubusercontent.com/u/62997582?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/TencentCloud/CubeSandbox",
+    "name": "TencentCloud/CubeSandbox",
+    "description": "Instant, Concurrent, Secure &amp; Lightweight Sandbox for AI Agents.  ",
+    "language": "Rust",
+    "stars": "6822",
+    "forks": "570",
+    "increased": "79 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/gregpr07",
+        "avatar": "https://avatars.githubusercontent.com/u/36313686?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ShawnPana",
+        "avatar": "https://avatars.githubusercontent.com/u/129362299?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/antoinersx",
+        "avatar": "https://avatars.githubusercontent.com/u/118331084?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/miguel-heygen",
+        "avatar": "https://avatars.githubusercontent.com/u/229591595?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/browser-use/video-use",
+    "name": "browser-use/video-use",
+    "description": "Edit videos with coding agents  ",
+    "language": "Python",
+    "stars": "13258",
+    "forks": "1658",
+    "increased": "693 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/niuwenzheng",
+        "avatar": "https://avatars.githubusercontent.com/u/30893307?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/gaozhenqiang",
+        "avatar": "https://avatars.githubusercontent.com/u/88360790?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Yuuki-Sakura",
+        "avatar": "https://avatars.githubusercontent.com/u/54829481?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/whh2333",
+        "avatar": "https://avatars.githubusercontent.com/u/70197018?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/gao1234-prog",
+        "avatar": "https://avatars.githubusercontent.com/u/208151450?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/yikart/AiToEarn",
+    "name": "yikart/AiToEarn",
+    "description": "Let's use AI to Earn!  ",
+    "language": "TypeScript",
+    "stars": "22583",
+    "forks": "3406",
+    "increased": "116 stars today"
+  }
+]
