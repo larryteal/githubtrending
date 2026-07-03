@@ -1,0 +1,493 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/0xallam",
+        "avatar": "https://avatars.githubusercontent.com/u/49919286?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bearsyankees",
+        "avatar": "https://avatars.githubusercontent.com/u/46074070?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/octovimmer",
+        "avatar": "https://avatars.githubusercontent.com/u/260551972?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/usestrix/strix",
+    "name": "usestrix/strix",
+    "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.  ",
+    "language": "Python",
+    "stars": "32345",
+    "forks": "3383",
+    "increased": "2137 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/JuliusBrussee",
+        "avatar": "https://avatars.githubusercontent.com/u/104168679?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sebastianbreguel",
+        "avatar": "https://avatars.githubusercontent.com/u/62109266?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/vraj00222",
+        "avatar": "https://avatars.githubusercontent.com/u/87225460?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/JuliusBrussee/caveman",
+    "name": "JuliusBrussee/caveman",
+    "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman  ",
+    "language": "JavaScript",
+    "stars": "81066",
+    "forks": "4533",
+    "increased": "926 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/msitarzewski",
+        "avatar": "https://avatars.githubusercontent.com/u/1972242?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/epowelljr",
+        "avatar": "https://avatars.githubusercontent.com/u/7342666?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/4shil",
+        "avatar": "https://avatars.githubusercontent.com/u/166588383?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/hedonnn",
+        "avatar": "https://avatars.githubusercontent.com/u/6354660?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/msitarzewski/agency-agents",
+    "name": "msitarzewski/agency-agents",
+    "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.  ",
+    "language": "Shell",
+    "stars": "125566",
+    "forks": "20375",
+    "increased": "3032 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/hasaneyldrm",
+        "avatar": "https://avatars.githubusercontent.com/u/28005450?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/anderboski",
+        "avatar": "https://avatars.githubusercontent.com/u/44262177?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/wacko-io",
+        "avatar": "https://avatars.githubusercontent.com/u/120308299?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/alfredo0592",
+        "avatar": "https://avatars.githubusercontent.com/u/157413099?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/hasaneyldrm/exercises-dataset",
+    "name": "hasaneyldrm/exercises-dataset",
+    "description": "A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.  ",
+    "language": "HTML",
+    "stars": "9296",
+    "forks": "1039",
+    "increased": "938 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/santifer",
+        "avatar": "https://avatars.githubusercontent.com/u/256850418?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/FReptar0",
+        "avatar": "https://avatars.githubusercontent.com/u/105244485?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/luochen211",
+        "avatar": "https://avatars.githubusercontent.com/u/188724350?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/SparshGarg999",
+        "avatar": "https://avatars.githubusercontent.com/u/76697238?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/santifer/career-ops",
+    "name": "santifer/career-ops",
+    "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.  ",
+    "language": "JavaScript",
+    "stars": "57879",
+    "forks": "11394",
+    "increased": "372 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/obra",
+        "avatar": "https://avatars.githubusercontent.com/u/45416?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/arittr",
+        "avatar": "https://avatars.githubusercontent.com/u/5742859?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/clkao",
+        "avatar": "https://avatars.githubusercontent.com/u/69736?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jjshanks",
+        "avatar": "https://avatars.githubusercontent.com/u/62661?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/obra/superpowers",
+    "name": "obra/superpowers",
+    "description": "An agentic skills framework &amp; software development methodology that works.  ",
+    "language": "Shell",
+    "stars": "244487",
+    "forks": "21689",
+    "increased": "897 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/OrKoN",
+        "avatar": "https://avatars.githubusercontent.com/u/399150?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Lightning00Blade",
+        "avatar": "https://avatars.githubusercontent.com/u/34244704?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/browser-automation-bot",
+        "avatar": "https://avatars.githubusercontent.com/u/133232582?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/nroscino",
+        "avatar": "https://avatars.githubusercontent.com/u/230381409?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+    "name": "ChromeDevTools/chrome-devtools-mcp",
+    "description": "Chrome DevTools for coding agents  ",
+    "language": "TypeScript",
+    "stars": "45106",
+    "forks": "2934",
+    "increased": "104 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/gregpr07",
+        "avatar": "https://avatars.githubusercontent.com/u/36313686?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ShawnPana",
+        "avatar": "https://avatars.githubusercontent.com/u/129362299?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/antoinersx",
+        "avatar": "https://avatars.githubusercontent.com/u/118331084?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/miguel-heygen",
+        "avatar": "https://avatars.githubusercontent.com/u/229591595?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/browser-use/video-use",
+    "name": "browser-use/video-use",
+    "description": "Edit videos with coding agents  ",
+    "language": "Python",
+    "stars": "13835",
+    "forks": "1695",
+    "increased": "554 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ericsciple",
+        "avatar": "https://avatars.githubusercontent.com/u/12102068?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cory-miller",
+        "avatar": "https://avatars.githubusercontent.com/u/13227161?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jww3",
+        "avatar": "https://avatars.githubusercontent.com/u/81404201?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/thboop",
+        "avatar": "https://avatars.githubusercontent.com/u/52323235?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/actions/checkout",
+    "name": "actions/checkout",
+    "description": "Action for checking out a repo  ",
+    "language": "TypeScript",
+    "stars": "8168",
+    "forks": "2527",
+    "increased": "26 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/affaan-m",
+        "avatar": "https://avatars.githubusercontent.com/u/124439313?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pangerlkr",
+        "avatar": "https://avatars.githubusercontent.com/u/73515951?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/affaan-m/ECC",
+    "name": "affaan-m/ECC",
+    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.  ",
+    "language": "JavaScript",
+    "stars": "225219",
+    "forks": "34461",
+    "increased": "486 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/warren618",
+        "avatar": "https://avatars.githubusercontent.com/u/127300695?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Teerapat-Vatpitak",
+        "avatar": "https://avatars.githubusercontent.com/u/155278130?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/shadowinlife",
+        "avatar": "https://avatars.githubusercontent.com/u/2840631?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Robin1987China",
+        "avatar": "https://avatars.githubusercontent.com/u/41602358?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mvanhorn",
+        "avatar": "https://avatars.githubusercontent.com/u/455140?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/HKUDS/Vibe-Trading",
+    "name": "HKUDS/Vibe-Trading",
+    "description": "\"Vibe-Trading: Your Personal Trading Agent\"  ",
+    "language": "Python",
+    "stars": "17371",
+    "forks": "2886",
+    "increased": "939 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/jonathanhefner",
+        "avatar": "https://avatars.githubusercontent.com/u/771968?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ericharmeling",
+        "avatar": "https://avatars.githubusercontent.com/u/27286675?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/klazuka",
+        "avatar": "https://avatars.githubusercontent.com/u/84525?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/maheshmurag",
+        "avatar": "https://avatars.githubusercontent.com/u/5667029?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/agentskills/agentskills",
+    "name": "agentskills/agentskills",
+    "description": "Specification and documentation for Agent Skills  ",
+    "language": "Python",
+    "stars": "21634",
+    "forks": "75",
+    "increased": "86 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/dkundel-openai",
+        "avatar": "https://avatars.githubusercontent.com/u/200841172?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/VOIDXAI",
+        "avatar": "https://avatars.githubusercontent.com/u/267589254?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/xiaolai",
+        "avatar": "https://avatars.githubusercontent.com/u/152970?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/zeta987",
+        "avatar": "https://avatars.githubusercontent.com/u/126369952?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/openai/codex-plugin-cc",
+    "name": "openai/codex-plugin-cc",
+    "description": "Use Codex from Claude Code to review code or delegate tasks.  ",
+    "language": "JavaScript",
+    "stars": "22657",
+    "forks": "1378",
+    "increased": "352 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ogabrielluiz",
+        "avatar": "https://avatars.githubusercontent.com/u/24829397?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/anovazzi1",
+        "avatar": "https://avatars.githubusercontent.com/u/70824914?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Cristhianzl",
+        "avatar": "https://avatars.githubusercontent.com/u/72977554?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/lucaseduoli",
+        "avatar": "https://avatars.githubusercontent.com/u/62335616?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/langflow-ai/langflow",
+    "name": "langflow-ai/langflow",
+    "description": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.  ",
+    "language": "Python",
+    "stars": "150765",
+    "forks": "9397",
+    "increased": "117 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/pytorchmergebot",
+        "avatar": "https://avatars.githubusercontent.com/u/97764156?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ezyang",
+        "avatar": "https://avatars.githubusercontent.com/u/13564?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/malfet",
+        "avatar": "https://avatars.githubusercontent.com/u/2453524?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/zou3519",
+        "avatar": "https://avatars.githubusercontent.com/u/5652049?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cyyever",
+        "avatar": "https://avatars.githubusercontent.com/u/17618148?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/pytorch/pytorch",
+    "name": "pytorch/pytorch",
+    "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration  ",
+    "language": "Python",
+    "stars": "101242",
+    "forks": "28228",
+    "increased": "65 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/profvjreddi",
+        "avatar": "https://avatars.githubusercontent.com/u/6807956?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/hzeljko",
+        "avatar": "https://avatars.githubusercontent.com/u/36451783?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/harvard-edge/cs249r_book",
+    "name": "harvard-edge/cs249r_book",
+    "description": "Machine Learning Systems  ",
+    "language": "Python",
+    "stars": "25617",
+    "forks": "3069",
+    "increased": "68 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ryanmcdermott",
+        "avatar": "https://avatars.githubusercontent.com/u/5114666?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/vsemozhetbyt",
+        "avatar": "https://avatars.githubusercontent.com/u/10393198?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/frappacchio",
+        "avatar": "https://avatars.githubusercontent.com/u/4427246?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/b0yfriend",
+        "avatar": "https://avatars.githubusercontent.com/u/7927517?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/DavidVujic",
+        "avatar": "https://avatars.githubusercontent.com/u/301286?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/ryanmcdermott/clean-code-javascript",
+    "name": "ryanmcdermott/clean-code-javascript",
+    "description": "Clean Code concepts adapted for JavaScript  ",
+    "language": "JavaScript",
+    "stars": "94577",
+    "forks": "12474",
+    "increased": "27 stars today"
+  }
+]

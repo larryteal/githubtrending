@@ -1,0 +1,581 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/jglogan",
+        "avatar": "https://avatars.githubusercontent.com/u/1019924?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/katiewasnothere",
+        "avatar": "https://avatars.githubusercontent.com/u/14638319?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dcantah",
+        "avatar": "https://avatars.githubusercontent.com/u/36526702?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dkovba",
+        "avatar": "https://avatars.githubusercontent.com/u/206787606?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/realrajaryan",
+        "avatar": "https://avatars.githubusercontent.com/u/58954869?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/apple/container",
+    "name": "apple/container",
+    "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.  ",
+    "language": "Swift",
+    "stars": "45890",
+    "forks": "1367",
+    "increased": "19269 stars this month"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/DeusData",
+        "avatar": "https://avatars.githubusercontent.com/u/81762164?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/shanemccarron-maker",
+        "avatar": "https://avatars.githubusercontent.com/u/247253695?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mvanhorn",
+        "avatar": "https://avatars.githubusercontent.com/u/455140?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/DeusData/codebase-memory-mcp",
+    "name": "DeusData/codebase-memory-mcp",
+    "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.  ",
+    "language": "C",
+    "stars": "24723",
+    "forks": "1833",
+    "increased": "21580 stars this month"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/calesthio",
+        "avatar": "https://avatars.githubusercontent.com/u/213189893?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/0xDevNinja",
+        "avatar": "https://avatars.githubusercontent.com/u/102245100?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/martimramos",
+        "avatar": "https://avatars.githubusercontent.com/u/17984618?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/itsuzef",
+        "avatar": "https://avatars.githubusercontent.com/u/53057646?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/calesthio/OpenMontage",
+    "name": "calesthio/OpenMontage",
+    "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.  ",
+    "language": "Python",
+    "stars": "31776",
+    "forks": "3608",
+    "increased": "27370 stars this month"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Panniantong",
+        "avatar": "https://avatars.githubusercontent.com/u/73925474?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/nyxst4ck",
+        "avatar": "https://avatars.githubusercontent.com/u/289980115?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kadaliao",
+        "avatar": "https://avatars.githubusercontent.com/u/7401626?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/hymansun",
+        "avatar": "https://avatars.githubusercontent.com/u/10735997?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Panniantong/Agent-Reach",
+    "name": "Panniantong/Agent-Reach",
+    "description": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.  ",
+    "language": "Python",
+    "stars": "49169",
+    "forks": "3921",
+    "increased": "28309 stars this month"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/mvanhorn",
+        "avatar": "https://avatars.githubusercontent.com/u/455140?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tmchow",
+        "avatar": "https://avatars.githubusercontent.com/u/517103?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/j-sperling",
+        "avatar": "https://avatars.githubusercontent.com/u/17969723?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/23241a6749",
+        "avatar": "https://avatars.githubusercontent.com/u/146319052?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/mvanhorn/last30days-skill",
+    "name": "mvanhorn/last30days-skill",
+    "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary  ",
+    "language": "Python",
+    "stars": "48510",
+    "forks": "4015",
+    "increased": "21774 stars this month"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/freearhey",
+        "avatar": "https://avatars.githubusercontent.com/u/7253922?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/BellezaEmporium",
+        "avatar": "https://avatars.githubusercontent.com/u/30985701?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Dum4G",
+        "avatar": "https://avatars.githubusercontent.com/u/5430116?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/UltraHDR",
+        "avatar": "https://avatars.githubusercontent.com/u/108294295?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/iptv-org/iptv",
+    "name": "iptv-org/iptv",
+    "description": "Collection of publicly available IPTV channels from all over the world  ",
+    "language": "TypeScript",
+    "stars": "130034",
+    "forks": "7211",
+    "increased": "13585 stars this month"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/phuryn",
+        "avatar": "https://avatars.githubusercontent.com/u/7837354?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/phuryn/pm-skills",
+    "name": "phuryn/pm-skills",
+    "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.  ",
+    "stars": "22205",
+    "forks": "2238",
+    "increased": "10418 stars this month"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/lfnovo",
+        "avatar": "https://avatars.githubusercontent.com/u/579178?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ProfTrader",
+        "avatar": "https://avatars.githubusercontent.com/u/169579479?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/xeader",
+        "avatar": "https://avatars.githubusercontent.com/u/1153759?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/lfnovo/open-notebook",
+    "name": "lfnovo/open-notebook",
+    "description": "An Open Source implementation of Notebook LM with more flexibility and features  ",
+    "language": "TypeScript",
+    "stars": "34533",
+    "forks": "3843",
+    "increased": "10623 stars this month"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/mingyuliutw",
+        "avatar": "https://avatars.githubusercontent.com/u/8594682?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ielh1",
+        "avatar": "https://avatars.githubusercontent.com/u/193973994?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sophiahhuang",
+        "avatar": "https://avatars.githubusercontent.com/u/6860749?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/chenhsuanlin",
+        "avatar": "https://avatars.githubusercontent.com/u/9806735?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/prithv1",
+        "avatar": "https://avatars.githubusercontent.com/u/9397727?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/NVIDIA/cosmos",
+    "name": "NVIDIA/cosmos",
+    "description": "NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, smart infrastructure, and more.  ",
+    "language": "Jupyter Notebook",
+    "stars": "10814",
+    "forks": "736",
+    "increased": "2315 stars this month"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/asgeirtj",
+        "avatar": "https://avatars.githubusercontent.com/u/27446620?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/awrreny",
+        "avatar": "https://avatars.githubusercontent.com/u/46632417?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/anonymous619259",
+        "avatar": "https://avatars.githubusercontent.com/u/87837428?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/lcebot",
+        "avatar": "https://avatars.githubusercontent.com/u/117039037?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/asgeirtj/system_prompts_leaks",
+    "name": "asgeirtj/system_prompts_leaks",
+    "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.  ",
+    "language": "JavaScript",
+    "stars": "47875",
+    "forks": "7796",
+    "increased": "6834 stars this month"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/cching-openai",
+        "avatar": "https://avatars.githubusercontent.com/u/239646192?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ashwinm-oai",
+        "avatar": "https://avatars.githubusercontent.com/u/264544061?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Aismit",
+        "avatar": "https://avatars.githubusercontent.com/u/24821844?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/vb-openai",
+        "avatar": "https://avatars.githubusercontent.com/u/250380837?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/gverma-openai",
+        "avatar": "https://avatars.githubusercontent.com/u/235382312?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/openai/plugins",
+    "name": "openai/plugins",
+    "description": "OpenAI Plugins  ",
+    "language": "JavaScript",
+    "stars": "3936",
+    "forks": "462",
+    "increased": "2606 stars this month"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/iaojnh",
+        "avatar": "https://avatars.githubusercontent.com/u/38692278?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/feihongxu0824",
+        "avatar": "https://avatars.githubusercontent.com/u/237691413?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/egolearner",
+        "avatar": "https://avatars.githubusercontent.com/u/45122959?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/zhourrr",
+        "avatar": "https://avatars.githubusercontent.com/u/78126249?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Cuiyus",
+        "avatar": "https://avatars.githubusercontent.com/u/42903451?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/alibaba/zvec",
+    "name": "alibaba/zvec",
+    "description": "A lightweight, lightning-fast, in-process vector database  ",
+    "language": "C++",
+    "stars": "12720",
+    "forks": "756",
+    "increased": "3005 stars this month"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ogulcancelik",
+        "avatar": "https://avatars.githubusercontent.com/u/7064011?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kangal-bot",
+        "avatar": "https://avatars.githubusercontent.com/u/285672167?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Golden-Pigeon",
+        "avatar": "https://avatars.githubusercontent.com/u/20119392?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/othavi0",
+        "avatar": "https://avatars.githubusercontent.com/u/98116082?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/ogulcancelik/herdr",
+    "name": "ogulcancelik/herdr",
+    "description": "agent multiplexer that lives in your terminal.  ",
+    "language": "Rust",
+    "stars": "10201",
+    "forks": "600",
+    "increased": "6210 stars this month"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/nwparker",
+        "avatar": "https://avatars.githubusercontent.com/u/4138956?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/orca-ide",
+        "avatar": "https://avatars.githubusercontent.com/u/277417572?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/AmethystLiang",
+        "avatar": "https://avatars.githubusercontent.com/u/6427696?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Jinwoo-H",
+        "avatar": "https://avatars.githubusercontent.com/u/73622457?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/brennanb2025",
+        "avatar": "https://avatars.githubusercontent.com/u/79079362?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/stablyai/orca",
+    "name": "stablyai/orca",
+    "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.  ",
+    "language": "TypeScript",
+    "stars": "11077",
+    "forks": "732",
+    "increased": "6875 stars this month"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Leonxlnx",
+        "avatar": "https://avatars.githubusercontent.com/u/219127460?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cursoragent",
+        "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/luojiyin1987",
+        "avatar": "https://avatars.githubusercontent.com/u/6524977?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jkk442",
+        "avatar": "https://avatars.githubusercontent.com/u/60716205?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Leonxlnx/taste-skill",
+    "name": "Leonxlnx/taste-skill",
+    "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop  ",
+    "language": "JavaScript",
+    "stars": "55044",
+    "forks": "3775",
+    "increased": "23665 stars this month"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/t8y2",
+        "avatar": "https://avatars.githubusercontent.com/u/77960507?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/zipg",
+        "avatar": "https://avatars.githubusercontent.com/u/4047349?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Illuminated2020",
+        "avatar": "https://avatars.githubusercontent.com/u/95458741?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Abeautifulsnow",
+        "avatar": "https://avatars.githubusercontent.com/u/28704977?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/t8y2/dbx",
+    "name": "t8y2/dbx",
+    "description": "15MB, lightweight, cross-platform database client. Supports MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, ClickHouse, SQL Server and more.15MB，轻量级跨平台数据库客户端、数据库管理工具。支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、DuckDB、ClickHouse、SQL Server 等。  ",
+    "language": "Rust",
+    "stars": "8269",
+    "forks": "711",
+    "increased": "5093 stars this month"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/harry0703",
+        "avatar": "https://avatars.githubusercontent.com/u/4928832?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/yyhhyyyyyy",
+        "avatar": "https://avatars.githubusercontent.com/u/95077259?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/vuisme",
+        "avatar": "https://avatars.githubusercontent.com/u/96235876?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/KevinZhang19870314",
+        "avatar": "https://avatars.githubusercontent.com/u/13794286?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/harry0703/MoneyPrinterTurbo",
+    "name": "harry0703/MoneyPrinterTurbo",
+    "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.  ",
+    "language": "Python",
+    "stars": "95285",
+    "forks": "13857",
+    "increased": "18098 stars this month"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/dignifiedquire",
+        "avatar": "https://avatars.githubusercontent.com/u/790842?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/flub",
+        "avatar": "https://avatars.githubusercontent.com/u/146720?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rklaehn",
+        "avatar": "https://avatars.githubusercontent.com/u/248257?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Frando",
+        "avatar": "https://avatars.githubusercontent.com/u/43627?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ramfox",
+        "avatar": "https://avatars.githubusercontent.com/u/17440142?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/n0-computer/iroh",
+    "name": "n0-computer/iroh",
+    "description": "IP addresses break, dial keys instead. A library that adds QUIC + NAT Traversal to your apps.  ",
+    "language": "Rust",
+    "stars": "11016",
+    "forks": "509",
+    "increased": "2370 stars this month"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/SkalskiP",
+        "avatar": "https://avatars.githubusercontent.com/u/26109316?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/onuralpszr",
+        "avatar": "https://avatars.githubusercontent.com/u/1688848?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Borda",
+        "avatar": "https://avatars.githubusercontent.com/u/6035284?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/roboflow/supervision",
+    "name": "roboflow/supervision",
+    "description": "We write your reusable computer vision tools. 💜  ",
+    "language": "Python",
+    "stars": "46294",
+    "forks": "4104",
+    "increased": "6556 stars this month"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/mazeincoding",
+        "avatar": "https://avatars.githubusercontent.com/u/167211895?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/izadoesdev",
+        "avatar": "https://avatars.githubusercontent.com/u/59828082?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/anwarulislam",
+        "avatar": "https://avatars.githubusercontent.com/u/26295990?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/khanguyen74",
+        "avatar": "https://avatars.githubusercontent.com/u/50540913?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/DevloperAmanSingh",
+        "avatar": "https://avatars.githubusercontent.com/u/80804989?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/OpenCut-app/OpenCut",
+    "name": "OpenCut-app/OpenCut",
+    "description": "The open-source CapCut alternative  ",
+    "language": "TypeScript",
+    "stars": "61368",
+    "forks": "6612",
+    "increased": "9235 stars this month"
+  }
+]
