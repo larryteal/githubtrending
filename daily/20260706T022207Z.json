@@ -1,0 +1,616 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/sujithatzackriya",
+        "avatar": "https://avatars.githubusercontent.com/u/85450497?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/safvanatzack",
+        "avatar": "https://avatars.githubusercontent.com/u/213172806?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mohammedsafvan",
+        "avatar": "https://avatars.githubusercontent.com/u/37416474?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/athulchandroth",
+        "avatar": "https://avatars.githubusercontent.com/u/87969134?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/p-s-vishnu",
+        "avatar": "https://avatars.githubusercontent.com/u/14847870?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Zackriya-Solutions/meetily",
+    "name": "Zackriya-Solutions/meetily",
+    "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai -  https://meetily.ai  ) is the #1 Self-hosted, Ope n-source Ai meeting note taker for macOS &amp; Windows.  ",
+    "language": "Rust",
+    "stars": "17200",
+    "forks": "1813",
+    "increased": "1409 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/dkundel-openai",
+        "avatar": "https://avatars.githubusercontent.com/u/200841172?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/VOIDXAI",
+        "avatar": "https://avatars.githubusercontent.com/u/267589254?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/xiaolai",
+        "avatar": "https://avatars.githubusercontent.com/u/152970?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/zeta987",
+        "avatar": "https://avatars.githubusercontent.com/u/126369952?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/openai/codex-plugin-cc",
+    "name": "openai/codex-plugin-cc",
+    "description": "Use Codex from Claude Code to review code or delegate tasks.  ",
+    "language": "JavaScript",
+    "stars": "25545",
+    "forks": "1543",
+    "increased": "1532 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/asgeirtj",
+        "avatar": "https://avatars.githubusercontent.com/u/27446620?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/awrreny",
+        "avatar": "https://avatars.githubusercontent.com/u/46632417?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/anonymous619259",
+        "avatar": "https://avatars.githubusercontent.com/u/87837428?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/lcebot",
+        "avatar": "https://avatars.githubusercontent.com/u/117039037?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/asgeirtj/system_prompts_leaks",
+    "name": "asgeirtj/system_prompts_leaks",
+    "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.  ",
+    "language": "JavaScript",
+    "stars": "50068",
+    "forks": "8189",
+    "increased": "981 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Leonxlnx",
+        "avatar": "https://avatars.githubusercontent.com/u/219127460?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cursoragent",
+        "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/luojiyin1987",
+        "avatar": "https://avatars.githubusercontent.com/u/6524977?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jkk442",
+        "avatar": "https://avatars.githubusercontent.com/u/60716205?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Leonxlnx/taste-skill",
+    "name": "Leonxlnx/taste-skill",
+    "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop  ",
+    "language": "JavaScript",
+    "stars": "57614",
+    "forks": "3940",
+    "increased": "863 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/alirezarezvani",
+        "avatar": "https://avatars.githubusercontent.com/u/5697919?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/olgasafonova",
+        "avatar": "https://avatars.githubusercontent.com/u/23409189?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/fernandezbaptiste",
+        "avatar": "https://avatars.githubusercontent.com/u/83458751?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ikala-shawn",
+        "avatar": "https://avatars.githubusercontent.com/u/111341595?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/alirezarezvani/claude-skills",
+    "name": "alirezarezvani/claude-skills",
+    "description": "337 Claude Code skills &amp; agent skills &amp; plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial &amp; finance, and your daily productivity skills.  ",
+    "language": "Python",
+    "stars": "20622",
+    "forks": "2796",
+    "increased": "392 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/zurdi15",
+        "avatar": "https://avatars.githubusercontent.com/u/34356590?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/gantoine",
+        "avatar": "https://avatars.githubusercontent.com/u/3247106?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/adamantike",
+        "avatar": "https://avatars.githubusercontent.com/u/3867850?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/rommapp/romm",
+    "name": "rommapp/romm",
+    "description": "A beautiful, powerful, self-hosted rom manager and player.  ",
+    "language": "Python",
+    "stars": "10570",
+    "forks": "505",
+    "increased": "410 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ogulcancelik",
+        "avatar": "https://avatars.githubusercontent.com/u/7064011?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kangal-bot",
+        "avatar": "https://avatars.githubusercontent.com/u/285672167?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dmmulroy",
+        "avatar": "https://avatars.githubusercontent.com/u/2755722?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Golden-Pigeon",
+        "avatar": "https://avatars.githubusercontent.com/u/20119392?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/ogulcancelik/herdr",
+    "name": "ogulcancelik/herdr",
+    "description": "agent multiplexer that lives in your terminal.  ",
+    "language": "Rust",
+    "stars": "12125",
+    "forks": "707",
+    "increased": "651 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/gaomeng1900",
+        "avatar": "https://avatars.githubusercontent.com/u/10131203?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/JasonOA888",
+        "avatar": "https://avatars.githubusercontent.com/u/101583541?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/linked-danis",
+        "avatar": "https://avatars.githubusercontent.com/u/246056357?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/alibaba/page-agent",
+    "name": "alibaba/page-agent",
+    "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.  ",
+    "language": "TypeScript",
+    "stars": "23969",
+    "forks": "2063",
+    "increased": "805 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/profvjreddi",
+        "avatar": "https://avatars.githubusercontent.com/u/6807956?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/hzeljko",
+        "avatar": "https://avatars.githubusercontent.com/u/36451783?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/harvard-edge/cs249r_book",
+    "name": "harvard-edge/cs249r_book",
+    "description": "Machine Learning Systems  ",
+    "language": "Python",
+    "stars": "26870",
+    "forks": "3196",
+    "increased": "329 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/0xallam",
+        "avatar": "https://avatars.githubusercontent.com/u/49919286?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bearsyankees",
+        "avatar": "https://avatars.githubusercontent.com/u/46074070?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/octovimmer",
+        "avatar": "https://avatars.githubusercontent.com/u/260551972?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/usestrix/strix",
+    "name": "usestrix/strix",
+    "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.  ",
+    "language": "Python",
+    "stars": "37197",
+    "forks": "3778",
+    "increased": "1114 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/hesreallyhim",
+        "avatar": "https://avatars.githubusercontent.com/u/172150522?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tninja",
+        "avatar": "https://avatars.githubusercontent.com/u/714625?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/hesreallyhim/awesome-claude-code",
+    "name": "hesreallyhim/awesome-claude-code",
+    "description": "A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC. A delectable showcase of top tier skills, ambidextrous agents, scintillating status lines, top notch developer tooling, and also we have plugins  ",
+    "language": "Python",
+    "stars": "48405",
+    "forks": "4235",
+    "increased": "148 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/coreyhaines31",
+        "avatar": "https://avatars.githubusercontent.com/u/34802794?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/njcameron",
+        "avatar": "https://avatars.githubusercontent.com/u/1101879?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Jiliac",
+        "avatar": "https://avatars.githubusercontent.com/u/5956866?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/basseko",
+        "avatar": "https://avatars.githubusercontent.com/u/20099808?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/coreyhaines31/marketingskills",
+    "name": "coreyhaines31/marketingskills",
+    "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.  ",
+    "language": "JavaScript",
+    "stars": "36475",
+    "forks": "5896",
+    "increased": "145 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/JuliusBrussee",
+        "avatar": "https://avatars.githubusercontent.com/u/104168679?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sebastianbreguel",
+        "avatar": "https://avatars.githubusercontent.com/u/62109266?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/vraj00222",
+        "avatar": "https://avatars.githubusercontent.com/u/87225460?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/JuliusBrussee/caveman",
+    "name": "JuliusBrussee/caveman",
+    "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman  ",
+    "language": "JavaScript",
+    "stars": "84926",
+    "forks": "4722",
+    "increased": "1052 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Scriptwonder",
+        "avatar": "https://avatars.githubusercontent.com/u/51266340?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dsarno",
+        "avatar": "https://avatars.githubusercontent.com/u/2432103?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/actions-user",
+        "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/msanatan",
+        "avatar": "https://avatars.githubusercontent.com/u/2119378?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/CoplayDev/unity-mcp",
+    "name": "CoplayDev/unity-mcp",
+    "description": "Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tools to manage assets, control scenes, edit scripts, and automate tasks within Unity.  ",
+    "language": "C#",
+    "stars": "11960",
+    "forks": "1281",
+    "increased": "414 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/cixzhang",
+        "avatar": "https://avatars.githubusercontent.com/u/2781099?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rubyycheung",
+        "avatar": "https://avatars.githubusercontent.com/u/254546175?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/josephfarina",
+        "avatar": "https://avatars.githubusercontent.com/u/17398284?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kentonquatman",
+        "avatar": "https://avatars.githubusercontent.com/u/847306?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/facebook/astryx",
+    "name": "facebook/astryx",
+    "description": "An open source design system that's fully customizable and agent ready  ",
+    "language": "TypeScript",
+    "stars": "5941",
+    "forks": "376",
+    "increased": "522 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/alextran1502",
+        "avatar": "https://avatars.githubusercontent.com/u/27055614?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jrasm91",
+        "avatar": "https://avatars.githubusercontent.com/u/4334196?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/danieldietzler",
+        "avatar": "https://avatars.githubusercontent.com/u/36593685?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mertalev",
+        "avatar": "https://avatars.githubusercontent.com/u/101130780?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/immich-app/immich",
+    "name": "immich-app/immich",
+    "description": "High performance self-hosted photo and video management solution.  ",
+    "language": "TypeScript",
+    "stars": "106145",
+    "forks": "6061",
+    "increased": "470 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ruvnet",
+        "avatar": "https://avatars.githubusercontent.com/u/2934394?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/fr4iser90",
+        "avatar": "https://avatars.githubusercontent.com/u/123288736?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/ruvnet/RuView",
+    "name": "ruvnet/RuView",
+    "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.  ",
+    "language": "Rust",
+    "stars": "76747",
+    "forks": "10287",
+    "increased": "161 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/steveyegge",
+        "avatar": "https://avatars.githubusercontent.com/u/613744?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/julianknutsen",
+        "avatar": "https://avatars.githubusercontent.com/u/8082291?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Thalia-geraghty",
+        "avatar": "https://avatars.githubusercontent.com/u/176345210?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/seanbearden",
+        "avatar": "https://avatars.githubusercontent.com/u/72461227?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/gastownhall/gastown",
+    "name": "gastownhall/gastown",
+    "description": "Gas Town - multi-agent workspace manager  ",
+    "language": "Go",
+    "stars": "16399",
+    "forks": "1520",
+    "increased": "51 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ViktorHofer",
+        "avatar": "https://avatars.githubusercontent.com/u/7412651?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Evangelink",
+        "avatar": "https://avatars.githubusercontent.com/u/11340282?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/JanKrivanek",
+        "avatar": "https://avatars.githubusercontent.com/u/3809076?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/dotnet/skills",
+    "name": "dotnet/skills",
+    "description": "Repository for skills to assist AI coding agents with .NET and C#  ",
+    "language": "C#",
+    "stars": "4057",
+    "forks": "303",
+    "increased": "246 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/OthmanAdi",
+        "avatar": "https://avatars.githubusercontent.com/u/78882424?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kaichen",
+        "avatar": "https://avatars.githubusercontent.com/u/4048?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mvanhorn",
+        "avatar": "https://avatars.githubusercontent.com/u/455140?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ebrevdo",
+        "avatar": "https://avatars.githubusercontent.com/u/1794715?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/OthmanAdi/planning-with-files",
+    "name": "OthmanAdi/planning-with-files",
+    "description": "Persistent file-based planning for AI coding agents and long-running agentic tasks. Crash-proof markdown plans that survive context loss and /clear, plus a deterministic completion gate and multi-agent shared state on disk. Manus-style. Works with Claude Code, Codex CLI, Cursor, Kiro, OpenCode and 60+ agents via the SKILL.md standard.  ",
+    "language": "Python",
+    "stars": "24741",
+    "forks": "2106",
+    "increased": "66 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/steipete",
+        "avatar": "https://avatars.githubusercontent.com/u/58493?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ratulsarna",
+        "avatar": "https://avatars.githubusercontent.com/u/105903728?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Yuxin-Qiao",
+        "avatar": "https://avatars.githubusercontent.com/u/104957188?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bcharleson",
+        "avatar": "https://avatars.githubusercontent.com/u/170791?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/steipete/CodexBar",
+    "name": "steipete/CodexBar",
+    "description": "Show usage stats for OpenAI Codex and Claude Code, without having to login.  ",
+    "language": "Swift",
+    "stars": "16268",
+    "forks": "1353",
+    "increased": "153 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/actions-user",
+        "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bcherny",
+        "avatar": "https://avatars.githubusercontent.com/u/1761758?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ant-kurt",
+        "avatar": "https://avatars.githubusercontent.com/u/209710463?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ashwin-ant",
+        "avatar": "https://avatars.githubusercontent.com/u/178951676?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/anthropics/claude-code",
+    "name": "anthropics/claude-code",
+    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.  ",
+    "language": "Python",
+    "stars": "136321",
+    "forks": "21908",
+    "increased": "156 stars today"
+  }
+]
