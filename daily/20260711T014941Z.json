@@ -1,0 +1,555 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/wonderwhy-er",
+        "avatar": "https://avatars.githubusercontent.com/u/1150639?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/serg33v",
+        "avatar": "https://avatars.githubusercontent.com/u/989699?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/edgarsskore",
+        "avatar": "https://avatars.githubusercontent.com/u/22543693?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dmitry-ottic-ai",
+        "avatar": "https://avatars.githubusercontent.com/u/181032508?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
+    "name": "wonderwhy-er/DesktopCommanderMCP",
+    "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capab ilities  ",
+    "language": "TypeScript",
+    "stars": "7320",
+    "forks": "931",
+    "increased": "328 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Jarred-Sumner",
+        "avatar": "https://avatars.githubusercontent.com/u/709451?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/robobun",
+        "avatar": "https://avatars.githubusercontent.com/u/117481402?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dylan-conway",
+        "avatar": "https://avatars.githubusercontent.com/u/35280289?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/nektro",
+        "avatar": "https://avatars.githubusercontent.com/u/5464072?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/oven-sh/bun",
+    "name": "oven-sh/bun",
+    "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one  ",
+    "language": "Rust",
+    "stars": "94251",
+    "forks": "4940",
+    "increased": "209 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/derekmauro",
+        "avatar": "https://avatars.githubusercontent.com/u/761129?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ezbr",
+        "avatar": "https://avatars.githubusercontent.com/u/69321728?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/goldvitaly",
+        "avatar": "https://avatars.githubusercontent.com/u/1177862?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dinord",
+        "avatar": "https://avatars.githubusercontent.com/u/7139495?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/abseil/abseil-cpp",
+    "name": "abseil/abseil-cpp",
+    "description": "Abseil Common Libraries (C++)  ",
+    "language": "C++",
+    "stars": "17523",
+    "forks": "3194",
+    "increased": "89 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/addyosmani",
+        "avatar": "https://avatars.githubusercontent.com/u/110953?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/nucliweb",
+        "avatar": "https://avatars.githubusercontent.com/u/1307927?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/federicobartoli",
+        "avatar": "https://avatars.githubusercontent.com/u/27234034?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dj2313",
+        "avatar": "https://avatars.githubusercontent.com/u/103351705?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/addyosmani/agent-skills",
+    "name": "addyosmani/agent-skills",
+    "description": "Production-grade engineering skills for AI coding agents.  ",
+    "language": "JavaScript",
+    "stars": "76840",
+    "forks": "8252",
+    "increased": "1116 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/jbeder",
+        "avatar": "https://avatars.githubusercontent.com/u/1059334?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/SGSSGene",
+        "avatar": "https://avatars.githubusercontent.com/u/456045?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dota17",
+        "avatar": "https://avatars.githubusercontent.com/u/50514813?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/asmaloney",
+        "avatar": "https://avatars.githubusercontent.com/u/391371?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/neheb",
+        "avatar": "https://avatars.githubusercontent.com/u/2918873?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/jbeder/yaml-cpp",
+    "name": "jbeder/yaml-cpp",
+    "description": "A YAML parser and emitter in C++  ",
+    "language": "C++",
+    "stars": "6082",
+    "forks": "2257",
+    "increased": "69 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/mattpocock",
+        "avatar": "https://avatars.githubusercontent.com/u/28293365?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/mattpocock/skills",
+    "name": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .claude directory.  ",
+    "language": "Shell",
+    "stars": "164681",
+    "forks": "14169",
+    "increased": "1712 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/obra",
+        "avatar": "https://avatars.githubusercontent.com/u/45416?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/arittr",
+        "avatar": "https://avatars.githubusercontent.com/u/5742859?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/clkao",
+        "avatar": "https://avatars.githubusercontent.com/u/69736?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jjshanks",
+        "avatar": "https://avatars.githubusercontent.com/u/62661?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/obra/superpowers",
+    "name": "obra/superpowers",
+    "description": "An agentic skills framework &amp; software development methodology that works.  ",
+    "language": "Shell",
+    "stars": "251804",
+    "forks": "22471",
+    "increased": "1013 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ahejlsberg",
+        "avatar": "https://avatars.githubusercontent.com/u/4226954?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sheetalkamat",
+        "avatar": "https://avatars.githubusercontent.com/u/8052792?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/DanielRosenwasser",
+        "avatar": "https://avatars.githubusercontent.com/u/972891?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sandersn",
+        "avatar": "https://avatars.githubusercontent.com/u/293473?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mhegazy",
+        "avatar": "https://avatars.githubusercontent.com/u/8000722?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/microsoft/TypeScript",
+    "name": "microsoft/TypeScript",
+    "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.  ",
+    "language": "TypeScript",
+    "stars": "109781",
+    "forks": "13632",
+    "increased": "177 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/horenmar",
+        "avatar": "https://avatars.githubusercontent.com/u/9026413?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/philsquared",
+        "avatar": "https://avatars.githubusercontent.com/u/92878?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ChrisThrasher",
+        "avatar": "https://avatars.githubusercontent.com/u/39244355?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claremacrae",
+        "avatar": "https://avatars.githubusercontent.com/u/4840096?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/JoeyGrajciar",
+        "avatar": "https://avatars.githubusercontent.com/u/5606370?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/catchorg/Catch2",
+    "name": "catchorg/Catch2",
+    "description": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)  ",
+    "language": "C++",
+    "stars": "20616",
+    "forks": "3409",
+    "increased": "76 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/chriskohlhoff",
+        "avatar": "https://avatars.githubusercontent.com/u/462538?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/klemens-morgenstern",
+        "avatar": "https://avatars.githubusercontent.com/u/8020376?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/xavier2k6",
+        "avatar": "https://avatars.githubusercontent.com/u/42386382?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/vinipsmaker",
+        "avatar": "https://avatars.githubusercontent.com/u/865914?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jcelerier",
+        "avatar": "https://avatars.githubusercontent.com/u/2772730?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/chriskohlhoff/asio",
+    "name": "chriskohlhoff/asio",
+    "description": "Asio C++ Library  ",
+    "language": "C++",
+    "stars": "6073",
+    "forks": "1500",
+    "increased": "92 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Yuntong8888",
+        "avatar": "https://avatars.githubusercontent.com/u/277734672?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Maxwell-Code07",
+        "avatar": "https://avatars.githubusercontent.com/u/95488710?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Huang10q",
+        "avatar": "https://avatars.githubusercontent.com/u/114647511?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/YOMXXX",
+        "avatar": "https://avatars.githubusercontent.com/u/18409951?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/akhilesharora",
+        "avatar": "https://avatars.githubusercontent.com/u/484069?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+    "name": "TencentCloud/TencentDB-Agent-Memory",
+    "description": "TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies.  ",
+    "language": "TypeScript",
+    "stars": "8249",
+    "forks": "760",
+    "increased": "123 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/davila7",
+        "avatar": "https://avatars.githubusercontent.com/u/6216945?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/davila7/claude-code-templates",
+    "name": "davila7/claude-code-templates",
+    "description": "CLI tool for configuring and monitoring Claude Code  ",
+    "language": "Python",
+    "stars": "28775",
+    "forks": "3163",
+    "increased": "118 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/zeux",
+        "avatar": "https://avatars.githubusercontent.com/u/1106629?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mosra",
+        "avatar": "https://avatars.githubusercontent.com/u/344828?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/corporateshark",
+        "avatar": "https://avatars.githubusercontent.com/u/2510143?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dtrebilco",
+        "avatar": "https://avatars.githubusercontent.com/u/7506147?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/l0calh05t",
+        "avatar": "https://avatars.githubusercontent.com/u/1749069?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/zeux/meshoptimizer",
+    "name": "zeux/meshoptimizer",
+    "description": "Mesh optimization library that makes meshes smaller and faster to render  ",
+    "language": "C++",
+    "stars": "8026",
+    "forks": "784",
+    "increased": "91 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/bradfitz",
+        "avatar": "https://avatars.githubusercontent.com/u/2621?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/danderson",
+        "avatar": "https://avatars.githubusercontent.com/u/1918?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/josharian",
+        "avatar": "https://avatars.githubusercontent.com/u/67496?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/raggi",
+        "avatar": "https://avatars.githubusercontent.com/u/348?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/andrew-d",
+        "avatar": "https://avatars.githubusercontent.com/u/1079173?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/tailscale/tailscale",
+    "name": "tailscale/tailscale",
+    "description": "The easiest, most secure way to use WireGuard and 2FA.  ",
+    "language": "Go",
+    "stars": "33661",
+    "forks": "2914",
+    "increased": "143 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/JLXIA",
+        "avatar": "https://avatars.githubusercontent.com/u/43076783?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/davideast",
+        "avatar": "https://avatars.githubusercontent.com/u/4570265?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dalmaer",
+        "avatar": "https://avatars.githubusercontent.com/u/4770?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/meeChn",
+        "avatar": "https://avatars.githubusercontent.com/u/1460397?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/vinothsubramanian",
+        "avatar": "https://avatars.githubusercontent.com/u/7145760?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/google-labs-code/stitch-skills",
+    "name": "google-labs-code/stitch-skills",
+    "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.  ",
+    "language": "TypeScript",
+    "stars": "6753",
+    "forks": "929",
+    "increased": "117 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/goworm",
+        "avatar": "https://avatars.githubusercontent.com/u/28083037?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/IceyLiu",
+        "avatar": "https://avatars.githubusercontent.com/u/10683426?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ringringlin",
+        "avatar": "https://avatars.githubusercontent.com/u/226215277?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/iOfficeAI/OfficeCLI",
+    "name": "iOfficeAI/OfficeCLI",
+    "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.  ",
+    "language": "C#",
+    "stars": "14453",
+    "forks": "986",
+    "increased": "1224 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/jbardin",
+        "avatar": "https://avatars.githubusercontent.com/u/35067?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mitchellh",
+        "avatar": "https://avatars.githubusercontent.com/u/1299?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/apparentlymart",
+        "avatar": "https://avatars.githubusercontent.com/u/20180?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/stack72",
+        "avatar": "https://avatars.githubusercontent.com/u/227823?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/catsby",
+        "avatar": "https://avatars.githubusercontent.com/u/61721?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/hashicorp/terraform",
+    "name": "hashicorp/terraform",
+    "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.  ",
+    "language": "Go",
+    "stars": "49172",
+    "forks": "10675",
+    "increased": "172 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ctiller",
+        "avatar": "https://avatars.githubusercontent.com/u/10120821?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jtattermusch",
+        "avatar": "https://avatars.githubusercontent.com/u/9939684?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/markdroth",
+        "avatar": "https://avatars.githubusercontent.com/u/18664614?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/vjpai",
+        "avatar": "https://avatars.githubusercontent.com/u/8864912?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/yashykt",
+        "avatar": "https://avatars.githubusercontent.com/u/4181124?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/grpc/grpc",
+    "name": "grpc/grpc",
+    "description": "C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)  ",
+    "language": "C++",
+    "stars": "45139",
+    "forks": "11322",
+    "increased": "78 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ijjk",
+        "avatar": "https://avatars.githubusercontent.com/u/22380829?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/timneutkens",
+        "avatar": "https://avatars.githubusercontent.com/u/6324199?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sokra",
+        "avatar": "https://avatars.githubusercontent.com/u/1365881?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/vercel-release-bot",
+        "avatar": "https://avatars.githubusercontent.com/u/88769842?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/huozhi",
+        "avatar": "https://avatars.githubusercontent.com/u/4800338?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/vercel/next.js",
+    "name": "vercel/next.js",
+    "description": "The React Framework  ",
+    "language": "JavaScript",
+    "stars": "140715",
+    "forks": "31525",
+    "increased": "191 stars today"
+  }
+]
