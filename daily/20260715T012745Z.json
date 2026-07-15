@@ -1,0 +1,435 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Shubhamsaboo",
+        "avatar": "https://avatars.githubusercontent.com/u/31396011?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Madhuvod",
+        "avatar": "https://avatars.githubusercontent.com/u/124294538?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/onestardao",
+        "avatar": "https://avatars.githubusercontent.com/u/212544643?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/libw0430",
+        "avatar": "https://avatars.githubusercontent.com/u/102198332?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+    "name": "Shubhamsaboo/awesome-llm-apps",
+    "description": "100+ AI Agent &amp; RAG apps you can actually run — clone, customize, ship.  ",
+    "language": "Python",
+    "stars": "120822",
+    "forks": "17878",
+    "increased": "1106 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/mattpocock",
+        "avatar": "https://avatars.githubusercontent.com/u/28293365?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/gabimoncha",
+        "avatar": "https://avatars.githubusercontent.com/u/39256258?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/mattpocock/skills",
+    "name": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .claude directory.  ",
+    "language": "Shell",
+    "stars": "170279",
+    "forks": "14650",
+    "increased": "1679 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Dicklesworthstone",
+        "avatar": "https://avatars.githubusercontent.com/u/35050222?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/codex",
+        "avatar": "https://avatars.githubusercontent.com/u/267193182?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Dicklesworthstone/destructive_command_guard",
+    "name": "Dicklesworthstone/destructive_command_guard",
+    "description": "The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.  ",
+    "language": "Rust",
+    "stars": "4419",
+    "forks": "165",
+    "increased": "473 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/mazeincoding",
+        "avatar": "https://avatars.githubusercontent.com/u/167211895?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/izadoesdev",
+        "avatar": "https://avatars.githubusercontent.com/u/59828082?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/anwarulislam",
+        "avatar": "https://avatars.githubusercontent.com/u/26295990?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/khanguyen74",
+        "avatar": "https://avatars.githubusercontent.com/u/50540913?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/DevloperAmanSingh",
+        "avatar": "https://avatars.githubusercontent.com/u/80804989?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/OpenCut-app/OpenCut",
+    "name": "OpenCut-app/OpenCut",
+    "description": "The open-source CapCut alternative  ",
+    "language": "TypeScript",
+    "stars": "69229",
+    "forks": "7213",
+    "increased": "4276 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/virattt",
+        "avatar": "https://avatars.githubusercontent.com/u/901795?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/arsaboo",
+        "avatar": "https://avatars.githubusercontent.com/u/18319734?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/KittatamSaisaard",
+        "avatar": "https://avatars.githubusercontent.com/u/50354903?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jsemldonado",
+        "avatar": "https://avatars.githubusercontent.com/u/172995042?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/virattt/ai-hedge-fund",
+    "name": "virattt/ai-hedge-fund",
+    "description": "An AI Hedge Fund Team  ",
+    "language": "Python",
+    "stars": "61888",
+    "forks": "10914",
+    "increased": "109 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Luffixos",
+        "avatar": "https://avatars.githubusercontent.com/u/154055839?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Nutlope",
+        "avatar": "https://avatars.githubusercontent.com/u/63742054?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/riccardogiorato",
+        "avatar": "https://avatars.githubusercontent.com/u/4527364?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/JaySmith502",
+        "avatar": "https://avatars.githubusercontent.com/u/8827236?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Nutlope/hallmark",
+    "name": "Nutlope/hallmark",
+    "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.  ",
+    "language": "CSS",
+    "stars": "6167",
+    "forks": "354",
+    "increased": "1015 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/warren618",
+        "avatar": "https://avatars.githubusercontent.com/u/127300695?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/shadowinlife",
+        "avatar": "https://avatars.githubusercontent.com/u/2840631?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Elfsa-Miranda",
+        "avatar": "https://avatars.githubusercontent.com/u/230687636?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Teerapat-Vatpitak",
+        "avatar": "https://avatars.githubusercontent.com/u/155278130?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/HKUDS/Vibe-Trading",
+    "name": "HKUDS/Vibe-Trading",
+    "description": "\"Vibe-Trading: Your Personal Trading Agent\"  ",
+    "language": "Python",
+    "stars": "22875",
+    "forks": "3925",
+    "increased": "1256 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Raphire",
+        "avatar": "https://avatars.githubusercontent.com/u/9938813?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/HetCreep",
+        "avatar": "https://avatars.githubusercontent.com/u/239326951?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/SashankBhamidi",
+        "avatar": "https://avatars.githubusercontent.com/u/66299104?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/N0tHorizon",
+        "avatar": "https://avatars.githubusercontent.com/u/100943586?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tsumi",
+        "avatar": "https://avatars.githubusercontent.com/u/1663025?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Raphire/Win11Debloat",
+    "name": "Raphire/Win11Debloat",
+    "description": "A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.  ",
+    "language": "PowerShell",
+    "stars": "51709",
+    "forks": "2131",
+    "increased": "783 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/hasaneyldrm",
+        "avatar": "https://avatars.githubusercontent.com/u/28005450?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/anderboski",
+        "avatar": "https://avatars.githubusercontent.com/u/44262177?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/wacko-io",
+        "avatar": "https://avatars.githubusercontent.com/u/120308299?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/alfredo0592",
+        "avatar": "https://avatars.githubusercontent.com/u/157413099?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/hasaneyldrm/exercises-dataset",
+    "name": "hasaneyldrm/exercises-dataset",
+    "description": "1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group &amp; equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.  ",
+    "language": "HTML",
+    "stars": "13538",
+    "forks": "1617",
+    "increased": "851 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/niwinz",
+        "avatar": "https://avatars.githubusercontent.com/u/843689?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Alotor",
+        "avatar": "https://avatars.githubusercontent.com/u/3418223?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/superalex",
+        "avatar": "https://avatars.githubusercontent.com/u/1579633?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/hirunatan",
+        "avatar": "https://avatars.githubusercontent.com/u/1483050?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/EvaMarco",
+        "avatar": "https://avatars.githubusercontent.com/u/48989967?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/penpot/penpot",
+    "name": "penpot/penpot",
+    "description": "Penpot: The open-source design platform for Product teams that need scalable collaboration.  ",
+    "language": "Clojure",
+    "stars": "56165",
+    "forks": "3694",
+    "increased": "395 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/AIEraDev",
+        "avatar": "https://avatars.githubusercontent.com/u/80651195?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/theunavailableguy",
+        "avatar": "https://avatars.githubusercontent.com/u/143669042?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cursoragent",
+        "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/AIEraDev/Clypra",
+    "name": "AIEraDev/Clypra",
+    "description": "A modern video editor built with Tauri, React, and TypeScript. Focus on building free capabilities of premium capcut functionalities  ",
+    "language": "TypeScript",
+    "stars": "2628",
+    "forks": "279",
+    "increased": "85 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/par274",
+        "avatar": "https://avatars.githubusercontent.com/u/12572227?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/MikeSaito",
+        "avatar": "https://avatars.githubusercontent.com/u/183648742?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/YkPhysics",
+        "avatar": "https://avatars.githubusercontent.com/u/222535002?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kostyaff",
+        "avatar": "https://avatars.githubusercontent.com/u/257561424?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Spooks4576",
+        "avatar": "https://avatars.githubusercontent.com/u/62370103?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/par274/sharpemu",
+    "name": "par274/sharpemu",
+    "description": "An experimental PlayStation 5 emulator project.  ",
+    "language": "C#",
+    "stars": "140",
+    "forks": "137",
+    "increased": "332 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/chenyme",
+        "avatar": "https://avatars.githubusercontent.com/u/118253778?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/lijirou12",
+        "avatar": "https://avatars.githubusercontent.com/u/121499347?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/piexian",
+        "avatar": "https://avatars.githubusercontent.com/u/64474352?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Soein",
+        "avatar": "https://avatars.githubusercontent.com/u/46989741?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/chenyme/grok2api",
+    "name": "chenyme/grok2api",
+    "description": "面向 Grok Build、Grok Web 与 Grok Console 的多账号 API 网关  ",
+    "language": "Go",
+    "stars": "5858",
+    "forks": "1926",
+    "increased": "186 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/safishamsi",
+        "avatar": "https://avatars.githubusercontent.com/u/216348667?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/TPAteeq",
+        "avatar": "https://avatars.githubusercontent.com/u/88542309?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Synvoya",
+        "avatar": "https://avatars.githubusercontent.com/u/16019863?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/oleksii-tumanov",
+        "avatar": "https://avatars.githubusercontent.com/u/6143578?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Graphify-Labs/graphify",
+    "name": "Graphify-Labs/graphify",
+    "description": "AI coding assistant skill (Claud e Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.  ",
+    "language": "Python",
+    "stars": "86410",
+    "forks": "8500",
+    "increased": "1851 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/HenryNdubuaku",
+        "avatar": "https://avatars.githubusercontent.com/u/26547576?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/KDachev4",
+        "avatar": "https://avatars.githubusercontent.com/u/68513852?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/nitturkaryash",
+        "avatar": "https://avatars.githubusercontent.com/u/100251269?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium",
+    "name": "HenryNdubuaku/maths-cs-ai-compendium",
+    "description": "Become a cracked AI/ML Research Engineer  ",
+    "language": "TypeScript",
+    "stars": "5257",
+    "forks": "702",
+    "increased": "112 stars today"
+  }
+]
