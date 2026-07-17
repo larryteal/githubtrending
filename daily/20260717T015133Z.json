@@ -1,0 +1,497 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/khush-bhatia",
+        "avatar": "https://avatars.githubusercontent.com/u/11509354?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kurtStirewalt",
+        "avatar": "https://avatars.githubusercontent.com/u/5403609?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/karanasher",
+        "avatar": "https://avatars.githubusercontent.com/u/10433441?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sfc-gh-kbhatia",
+        "avatar": "https://avatars.githubusercontent.com/u/65572406?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/apache/ossie",
+    "name": "apache/ossie",
+    "description": "Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, providing a vendor neutral, single source of truth for semantic data  ",
+    "language": "Python",
+    "stars": "915",
+    "forks": "134",
+    "increased": "60 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Luffixos",
+        "avatar": "https://avatars.githubusercontent.com/u/154055839?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Nutlope",
+        "avatar": "https://avatars.githubusercontent.com/u/63742054?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/riccardogiorato",
+        "avatar": "https://avatars.githubusercontent.com/u/4527364?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/JaySmith502",
+        "avatar": "https://avatars.githubusercontent.com/u/8827236?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Nutlope/hallmark",
+    "name": "Nutlope/hallmark",
+    "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.  ",
+    "language": "CSS",
+    "stars": "10955",
+    "forks": "541",
+    "increased": "3372 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/mazeincoding",
+        "avatar": "https://avatars.githubusercontent.com/u/167211895?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/izadoesdev",
+        "avatar": "https://avatars.githubusercontent.com/u/59828082?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/anwarulislam",
+        "avatar": "https://avatars.githubusercontent.com/u/26295990?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/khanguyen74",
+        "avatar": "https://avatars.githubusercontent.com/u/50540913?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/DevloperAmanSingh",
+        "avatar": "https://avatars.githubusercontent.com/u/80804989?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/OpenCut-app/OpenCut",
+    "name": "OpenCut-app/OpenCut",
+    "description": "The open-source CapCut alternative  ",
+    "language": "TypeScript",
+    "stars": "74049",
+    "forks": "7484",
+    "increased": "3537 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/pauldambra",
+        "avatar": "https://avatars.githubusercontent.com/u/984817?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Twixes",
+        "avatar": "https://avatars.githubusercontent.com/u/4550621?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mariusandra",
+        "avatar": "https://avatars.githubusercontent.com/u/53387?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/PostHog/posthog",
+    "name": "PostHog/posthog",
+    "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.  ",
+    "language": "Python",
+    "stars": "35855",
+    "forks": "2992",
+    "increased": "77 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/jif-oai",
+        "avatar": "https://avatars.githubusercontent.com/u/230027070?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bolinfest",
+        "avatar": "https://avatars.githubusercontent.com/u/655869?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/aibrahim-oai",
+        "avatar": "https://avatars.githubusercontent.com/u/219906144?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pakrym-oai",
+        "avatar": "https://avatars.githubusercontent.com/u/204937752?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/etraut-openai",
+        "avatar": "https://avatars.githubusercontent.com/u/223546144?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/openinterpreter/openinterpreter",
+    "name": "openinterpreter/openinterpreter",
+    "description": "A coding agent for open models like Kimi K3  ",
+    "language": "Rust",
+    "stars": "65990",
+    "forks": "5675",
+    "increased": "661 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/khosravipasha",
+        "avatar": "https://avatars.githubusercontent.com/u/2780093?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bheyfitch",
+        "avatar": "https://avatars.githubusercontent.com/u/136202469?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/PrismML-Eng/Bonsai-demo",
+    "name": "PrismML-Eng/Bonsai-demo",
+    "description": "Bonsai Demo  ",
+    "language": "Shell",
+    "stars": "1525",
+    "forks": "153",
+    "increased": "196 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/hasaneyldrm",
+        "avatar": "https://avatars.githubusercontent.com/u/28005450?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/umutcakirai",
+        "avatar": "https://avatars.githubusercontent.com/u/78622391?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/anderboski",
+        "avatar": "https://avatars.githubusercontent.com/u/44262177?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/wacko-io",
+        "avatar": "https://avatars.githubusercontent.com/u/120308299?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/hasaneyldrm/exercises-dataset",
+    "name": "hasaneyldrm/exercises-dataset",
+    "description": "1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group &amp; equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.  ",
+    "language": "HTML",
+    "stars": "15053",
+    "forks": "1807",
+    "increased": "710 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Shubhamsaboo",
+        "avatar": "https://avatars.githubusercontent.com/u/31396011?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Madhuvod",
+        "avatar": "https://avatars.githubusercontent.com/u/124294538?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/onestardao",
+        "avatar": "https://avatars.githubusercontent.com/u/212544643?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/libw0430",
+        "avatar": "https://avatars.githubusercontent.com/u/102198332?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+    "name": "Shubhamsaboo/awesome-llm-apps",
+    "description": "100+ AI Agent &amp; RAG apps you can actually run — clone, customize, ship.  ",
+    "language": "Python",
+    "stars": "122921",
+    "forks": "18126",
+    "increased": "923 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/arvinxx",
+        "avatar": "https://avatars.githubusercontent.com/u/28616219?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/semantic-release-bot",
+        "avatar": "https://avatars.githubusercontent.com/u/32174276?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/lobehubbot",
+        "avatar": "https://avatars.githubusercontent.com/u/134299653?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tjx666",
+        "avatar": "https://avatars.githubusercontent.com/u/41773861?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/lobehub/lobehub",
+    "name": "lobehub/lobehub",
+    "description": "🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.  ",
+    "language": "TypeScript",
+    "stars": "80175",
+    "forks": "15613",
+    "increased": "71 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/maybegreat48",
+        "avatar": "https://avatars.githubusercontent.com/u/96936658?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ShinyWasabi",
+        "avatar": "https://avatars.githubusercontent.com/u/121949966?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/playday3008",
+        "avatar": "https://avatars.githubusercontent.com/u/18056374?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Mr-X-GTA",
+        "avatar": "https://avatars.githubusercontent.com/u/110748953?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Deadlineem",
+        "avatar": "https://avatars.githubusercontent.com/u/24372625?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/YimMenu/YimMenuV2",
+    "name": "YimMenu/YimMenuV2",
+    "description": "Experimental menu for GTA 5: Enhanced  ",
+    "language": "C++",
+    "stars": "1506",
+    "forks": "361",
+    "increased": "128 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/pancacake",
+        "avatar": "https://avatars.githubusercontent.com/u/150592536?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Pinkllow",
+        "avatar": "https://avatars.githubusercontent.com/u/272976591?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tusharkhatriofficial",
+        "avatar": "https://avatars.githubusercontent.com/u/64004539?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/HKUDS/DeepTutor",
+    "name": "HKUDS/DeepTutor",
+    "description": "DeepTutor: Lifelong Personalized Tutoring.  https://deeptutor.info/  .  ",
+    "language": "Python",
+    "stars": "26884",
+    "forks": "3614",
+    "increased": "656 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/mattpocock",
+        "avatar": "https://avatars.githubusercontent.com/u/28293365?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/gabimoncha",
+        "avatar": "https://avatars.githubusercontent.com/u/39256258?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/mattpocock/skills",
+    "name": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .claude directory.  ",
+    "language": "Shell",
+    "stars": "174308",
+    "forks": "14958",
+    "increased": "2060 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/stephentoub",
+        "avatar": "https://avatars.githubusercontent.com/u/2642209?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/SteveSandersonMS",
+        "avatar": "https://avatars.githubusercontent.com/u/1101362?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/edburns",
+        "avatar": "https://avatars.githubusercontent.com/u/75821?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/github/copilot-sdk",
+    "name": "github/copilot-sdk",
+    "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services  ",
+    "language": "Java",
+    "stars": "9648",
+    "forks": "1318",
+    "increased": "13 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ibelick",
+        "avatar": "https://avatars.githubusercontent.com/u/14288396?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/fernandezbaptiste",
+        "avatar": "https://avatars.githubusercontent.com/u/83458751?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/saadeghi",
+        "avatar": "https://avatars.githubusercontent.com/u/7342023?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/arifszn",
+        "avatar": "https://avatars.githubusercontent.com/u/45073703?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/ibelick/ui-skills",
+    "name": "ibelick/ui-skills",
+    "description": "Skills for Design Engineers  ",
+    "language": "TypeScript",
+    "stars": "4287",
+    "forks": "181",
+    "increased": "178 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/safishamsi",
+        "avatar": "https://avatars.githubusercontent.com/u/216348667?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/TPAteeq",
+        "avatar": "https://avatars.githubusercontent.com/u/88542309?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Synvoya",
+        "avatar": "https://avatars.githubusercontent.com/u/16019863?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/oleksii-tumanov",
+        "avatar": "https://avatars.githubusercontent.com/u/6143578?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Graphify-Labs/graphify",
+    "name": "Graphify-Labs/graphify",
+    "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.  ",
+    "language": "Python",
+    "stars": "89114",
+    "forks": "8706",
+    "increased": "1107 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/danistefanovic",
+        "avatar": "https://avatars.githubusercontent.com/u/1736595?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rohitpaulk",
+        "avatar": "https://avatars.githubusercontent.com/u/3893573?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sarupbanskota",
+        "avatar": "https://avatars.githubusercontent.com/u/3149580?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/fake-rookie",
+        "avatar": "https://avatars.githubusercontent.com/u/61480354?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bauripalash",
+        "avatar": "https://avatars.githubusercontent.com/u/16154204?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/codecrafters-io/build-your-own-x",
+    "name": "codecrafters-io/build-your-own-x",
+    "description": "Master programming by recreating your favorite technologies from scratch.  ",
+    "language": "Markdown",
+    "stars": "526342",
+    "forks": "49799",
+    "increased": "435 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ericdouglas",
+        "avatar": "https://avatars.githubusercontent.com/u/4119931?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/waciumawanjohi",
+        "avatar": "https://avatars.githubusercontent.com/u/18407643?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/joshmhanson",
+        "avatar": "https://avatars.githubusercontent.com/u/5695330?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mkghosh",
+        "avatar": "https://avatars.githubusercontent.com/u/10495809?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pulkitkrishna00",
+        "avatar": "https://avatars.githubusercontent.com/u/72264063?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/ossu/computer-science",
+    "name": "ossu/computer-science",
+    "description": "🎓 Path to a free self-taught education in Computer Science!  ",
+    "language": "HTML",
+    "stars": "206537",
+    "forks": "25631",
+    "increased": "107 stars today"
+  }
+]
