@@ -1,0 +1,407 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/danistefanovic",
+        "avatar": "https://avatars.githubusercontent.com/u/1736595?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rohitpaulk",
+        "avatar": "https://avatars.githubusercontent.com/u/3893573?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sarupbanskota",
+        "avatar": "https://avatars.githubusercontent.com/u/3149580?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/fake-rookie",
+        "avatar": "https://avatars.githubusercontent.com/u/61480354?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bauripalash",
+        "avatar": "https://avatars.githubusercontent.com/u/16154204?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/codecrafters-io/build-your-own-x",
+    "name": "codecrafters-io/build-your-own-x",
+    "description": "Master programming by recreating your favorite technologies from scratch.  ",
+    "language": "Markdown",
+    "stars": "527393",
+    "forks": "49907",
+    "increased": "1068 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/pauldambra",
+        "avatar": "https://avatars.githubusercontent.com/u/984817?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Twixes",
+        "avatar": "https://avatars.githubusercontent.com/u/4550621?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mariusandra",
+        "avatar": "https://avatars.githubusercontent.com/u/53387?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/PostHog/posthog",
+    "name": "PostHog/posthog",
+    "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.  ",
+    "language": "Python",
+    "stars": "36201",
+    "forks": "3010",
+    "increased": "438 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/HenryNdubuaku",
+        "avatar": "https://avatars.githubusercontent.com/u/26547576?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/KDachev4",
+        "avatar": "https://avatars.githubusercontent.com/u/68513852?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/shmWorks",
+        "avatar": "https://avatars.githubusercontent.com/u/76952202?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/nitturkaryash",
+        "avatar": "https://avatars.githubusercontent.com/u/100251269?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/MeGaurav4",
+        "avatar": "https://avatars.githubusercontent.com/u/160158213?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium",
+    "name": "HenryNdubuaku/maths-cs-ai-compendium",
+    "description": "Become a cracked AI/ML Research Engineer  ",
+    "language": "TypeScript",
+    "stars": "6632",
+    "forks": "811",
+    "increased": "200 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Luffixos",
+        "avatar": "https://avatars.githubusercontent.com/u/154055839?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Nutlope",
+        "avatar": "https://avatars.githubusercontent.com/u/63742054?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/riccardogiorato",
+        "avatar": "https://avatars.githubusercontent.com/u/4527364?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/JaySmith502",
+        "avatar": "https://avatars.githubusercontent.com/u/8827236?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Nutlope/hallmark",
+    "name": "Nutlope/hallmark",
+    "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.  ",
+    "language": "CSS",
+    "stars": "12053",
+    "forks": "601",
+    "increased": "1485 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/stephentoub",
+        "avatar": "https://avatars.githubusercontent.com/u/2642209?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/SteveSandersonMS",
+        "avatar": "https://avatars.githubusercontent.com/u/1101362?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/edburns",
+        "avatar": "https://avatars.githubusercontent.com/u/75821?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/github/copilot-sdk",
+    "name": "github/copilot-sdk",
+    "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services  ",
+    "language": "Java",
+    "stars": "9800",
+    "forks": "1331",
+    "increased": "233 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/michael-cohen-io",
+        "avatar": "https://avatars.githubusercontent.com/u/293203?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jeffcurry-ant",
+        "avatar": "https://avatars.githubusercontent.com/u/270788884?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mroknich",
+        "avatar": "https://avatars.githubusercontent.com/u/7988094?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/felixfbecker",
+        "avatar": "https://avatars.githubusercontent.com/u/10532611?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/anthropics/cwc-workshops",
+    "name": "anthropics/cwc-workshops",
+    "language": "TypeScript",
+    "stars": "1589",
+    "forks": "490",
+    "increased": "45 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/khosravipasha",
+        "avatar": "https://avatars.githubusercontent.com/u/2780093?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bheyfitch",
+        "avatar": "https://avatars.githubusercontent.com/u/136202469?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/PrismML-Eng/Bonsai-demo",
+    "name": "PrismML-Eng/Bonsai-demo",
+    "description": "Bonsai Demo  ",
+    "language": "Shell",
+    "stars": "1715",
+    "forks": "167",
+    "increased": "278 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/protobuf-github-bot",
+        "avatar": "https://avatars.githubusercontent.com/u/106703886?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/haberman",
+        "avatar": "https://avatars.githubusercontent.com/u/1270?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/protobuf-team-bot",
+        "avatar": "https://avatars.githubusercontent.com/u/105450428?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mkruskal-google",
+        "avatar": "https://avatars.githubusercontent.com/u/62662355?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/xfxyjwf",
+        "avatar": "https://avatars.githubusercontent.com/u/8551050?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/protocolbuffers/protobuf",
+    "name": "protocolbuffers/protobuf",
+    "description": "Protocol Buffers - Google's data interchange format  ",
+    "language": "C++",
+    "stars": "71541",
+    "forks": "16192",
+    "increased": "11 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/tirth8205",
+        "avatar": "https://avatars.githubusercontent.com/u/68604113?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/michael-denyer",
+        "avatar": "https://avatars.githubusercontent.com/u/97485362?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/gzenz",
+        "avatar": "https://avatars.githubusercontent.com/u/91069374?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Minidoracat",
+        "avatar": "https://avatars.githubusercontent.com/u/11269639?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/tirth8205/code-review-graph",
+    "name": "tirth8205/code-review-graph",
+    "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.  ",
+    "language": "Python",
+    "stars": "19765",
+    "forks": "2107",
+    "increased": "74 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/omohokcoj",
+        "avatar": "https://avatars.githubusercontent.com/u/5418788?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/AlexBTurchyn",
+        "avatar": "https://avatars.githubusercontent.com/u/1176367?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jbenguira",
+        "avatar": "https://avatars.githubusercontent.com/u/1835561?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/imchairmanm",
+        "avatar": "https://avatars.githubusercontent.com/u/3957147?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/docusealco/docuseal",
+    "name": "docusealco/docuseal",
+    "description": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️  ",
+    "language": "Ruby",
+    "stars": "17854",
+    "forks": "1771",
+    "increased": "91 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/jif-oai",
+        "avatar": "https://avatars.githubusercontent.com/u/230027070?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bolinfest",
+        "avatar": "https://avatars.githubusercontent.com/u/655869?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/aibrahim-oai",
+        "avatar": "https://avatars.githubusercontent.com/u/219906144?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pakrym-oai",
+        "avatar": "https://avatars.githubusercontent.com/u/204937752?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/etraut-openai",
+        "avatar": "https://avatars.githubusercontent.com/u/223546144?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/openinterpreter/openinterpreter",
+    "name": "openinterpreter/openinterpreter",
+    "description": "A coding agent for open models like Kimi K3  ",
+    "language": "Rust",
+    "stars": "66383",
+    "forks": "5705",
+    "increased": "431 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/RyanCodrai",
+        "avatar": "https://avatars.githubusercontent.com/u/10856497?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/faysou",
+        "avatar": "https://avatars.githubusercontent.com/u/893862?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/nicolas-geysse",
+        "avatar": "https://avatars.githubusercontent.com/u/8360521?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Pringled",
+        "avatar": "https://avatars.githubusercontent.com/u/12988240?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/RyanCodrai/turbovec",
+    "name": "RyanCodrai/turbovec",
+    "description": "A vector index built on TurboQuant, written in Rust with Python bindings  ",
+    "language": "Python",
+    "stars": "13321",
+    "forks": "1179",
+    "increased": "280 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/pancacake",
+        "avatar": "https://avatars.githubusercontent.com/u/150592536?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Pinkllow",
+        "avatar": "https://avatars.githubusercontent.com/u/272976591?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tusharkhatriofficial",
+        "avatar": "https://avatars.githubusercontent.com/u/64004539?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/HKUDS/DeepTutor",
+    "name": "HKUDS/DeepTutor",
+    "description": "DeepTutor: Lifelong Personalized Tutoring.  https://deeptutor.info/  .  ",
+    "language": "Python",
+    "stars": "27369",
+    "forks": "3647",
+    "increased": "531 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/mazeincoding",
+        "avatar": "https://avatars.githubusercontent.com/u/167211895?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/izadoesdev",
+        "avatar": "https://avatars.githubusercontent.com/u/59828082?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/anwarulislam",
+        "avatar": "https://avatars.githubusercontent.com/u/26295990?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/khanguyen74",
+        "avatar": "https://avatars.githubusercontent.com/u/50540913?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/DevloperAmanSingh",
+        "avatar": "https://avatars.githubusercontent.com/u/80804989?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/OpenCut-app/OpenCut",
+    "name": "OpenCut-app/OpenCut",
+    "description": "The open-source CapCut alternative  ",
+    "language": "TypeScript",
+    "stars": "74890",
+    "forks": "7551",
+    "increased": "074 stars today"
+  }
+]
