@@ -1,0 +1,562 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/tirth8205",
+        "avatar": "https://avatars.githubusercontent.com/u/68604113?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/gzenz",
+        "avatar": "https://avatars.githubusercontent.com/u/91069374?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jaissebastian",
+        "avatar": "https://avatars.githubusercontent.com/u/171774615?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/michael-denyer",
+        "avatar": "https://avatars.githubusercontent.com/u/97485362?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/tirth8205/code-review-graph",
+    "name": "tirth8205/code-review-graph",
+    "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.  ",
+    "language": "Python",
+    "stars": "23279",
+    "forks": "2278",
+    "increased": "1833 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/1jehuang",
+        "avatar": "https://avatars.githubusercontent.com/u/94247773?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/FabianAmherd",
+        "avatar": "https://avatars.githubusercontent.com/u/56603175?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/hongnoul",
+        "avatar": "https://avatars.githubusercontent.com/u/139717591?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/AlazBatu",
+        "avatar": "https://avatars.githubusercontent.com/u/182092373?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/1jehuang/jcode",
+    "name": "1jehuang/jcode",
+    "description": "The most intelligent agent harness for code  ",
+    "language": "Rust",
+    "stars": "9669",
+    "forks": "1084",
+    "increased": "568 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/diegosouzapw",
+        "avatar": "https://avatars.githubusercontent.com/u/8016841?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/oyi77",
+        "avatar": "https://avatars.githubusercontent.com/u/14921983?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rdself",
+        "avatar": "https://avatars.githubusercontent.com/u/55005611?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/diegosouzapw/OmniRoute",
+    "name": "diegosouzapw/OmniRoute",
+    "description": "Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Claude, GPT, Gemini, Kimi K3, GLM, DeepSeek. Works with Claude Code, Codex, Cursor, Cline &amp; Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, multimodal, Desktop/PWA. Built by 500+ contributors.  ",
+    "language": "TypeScript",
+    "stars": "21921",
+    "forks": "2967",
+    "increased": "1107 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/rohitg00",
+        "avatar": "https://avatars.githubusercontent.com/u/48523873?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/abhinav-m22",
+        "avatar": "https://avatars.githubusercontent.com/u/113239388?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/thereisnotime",
+        "avatar": "https://avatars.githubusercontent.com/u/37583483?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pzy0006",
+        "avatar": "https://avatars.githubusercontent.com/u/42953002?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/rohitg00/ai-engineering-from-scratch",
+    "name": "rohitg00/ai-engineering-from-scratch",
+    "description": "Learn it. Build it. Ship it for others.  ",
+    "language": "Python",
+    "stars": "40580",
+    "forks": "6727",
+    "increased": "823 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/msitarzewski",
+        "avatar": "https://avatars.githubusercontent.com/u/1972242?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/epowelljr",
+        "avatar": "https://avatars.githubusercontent.com/u/7342666?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/4shil",
+        "avatar": "https://avatars.githubusercontent.com/u/166588383?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/hedonnn",
+        "avatar": "https://avatars.githubusercontent.com/u/6354660?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/msitarzewski/agency-agents",
+    "name": "msitarzewski/agency-agents",
+    "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.   ",
+    "language": "Shell",
+    "stars": "134748",
+    "forks": "21971",
+    "increased": "862 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Atream",
+        "avatar": "https://avatars.githubusercontent.com/u/80757050?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/KMSorSMS",
+        "avatar": "https://avatars.githubusercontent.com/u/82826507?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Azure-Tang",
+        "avatar": "https://avatars.githubusercontent.com/u/50126533?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ovowei",
+        "avatar": "https://avatars.githubusercontent.com/u/80044717?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/qiyuxinlin",
+        "avatar": "https://avatars.githubusercontent.com/u/44601537?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/kvcache-ai/ktransformers",
+    "name": "kvcache-ai/ktransformers",
+    "description": "A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations  ",
+    "language": "Python",
+    "stars": "18750",
+    "forks": "1463",
+    "increased": "458 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/jamiepine",
+        "avatar": "https://avatars.githubusercontent.com/u/32987599?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tomasmach",
+        "avatar": "https://avatars.githubusercontent.com/u/52257177?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mvanhorn",
+        "avatar": "https://avatars.githubusercontent.com/u/455140?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/selop",
+        "avatar": "https://avatars.githubusercontent.com/u/5173254?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/jamiepine/voicebox",
+    "name": "jamiepine/voicebox",
+    "description": "The open-source AI voice studio. Clone, dictate, create.  ",
+    "language": "TypeScript",
+    "stars": "44206",
+    "forks": "5370",
+    "increased": "821 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Vasilije1990",
+        "avatar": "https://avatars.githubusercontent.com/u/8619304?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dexters1",
+        "avatar": "https://avatars.githubusercontent.com/u/30923996?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/hajdul88",
+        "avatar": "https://avatars.githubusercontent.com/u/52442977?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/borisarzentar",
+        "avatar": "https://avatars.githubusercontent.com/u/5081379?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/topoteretes/cognee",
+    "name": "topoteretes/cognee",
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.  ",
+    "language": "Python",
+    "stars": "28807",
+    "forks": "2743",
+    "increased": "234 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/LinZhuoChen",
+        "avatar": "https://avatars.githubusercontent.com/u/32637882?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/justimyhxu",
+        "avatar": "https://avatars.githubusercontent.com/u/29980330?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Robbyant/lingbot-map",
+    "name": "Robbyant/lingbot-map",
+    "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data  ",
+    "language": "Python",
+    "stars": "14264",
+    "forks": "1484",
+    "increased": "565 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/bensenescu",
+        "avatar": "https://avatars.githubusercontent.com/u/44480372?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bookingseo",
+        "avatar": "https://avatars.githubusercontent.com/u/68512992?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mvanhorn",
+        "avatar": "https://avatars.githubusercontent.com/u/455140?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mattmacrocket",
+        "avatar": "https://avatars.githubusercontent.com/u/247222255?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/every-app/open-seo",
+    "name": "every-app/open-seo",
+    "description": "Open source alternative to Semrush and Ahrefs  ",
+    "language": "TypeScript",
+    "stars": "5886",
+    "forks": "651",
+    "increased": "939 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/stdrc",
+        "avatar": "https://avatars.githubusercontent.com/u/5317095?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/RealKai42",
+        "avatar": "https://avatars.githubusercontent.com/u/44634134?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/xxchan",
+        "avatar": "https://avatars.githubusercontent.com/u/37948597?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/n-WN",
+        "avatar": "https://avatars.githubusercontent.com/u/30841158?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/MoonshotAI/kimi-cli",
+    "name": "MoonshotAI/kimi-cli",
+    "description": "Kimi Code CLI is your next CLI agent.  ",
+    "language": "Python",
+    "stars": "10256",
+    "forks": "1219",
+    "increased": "410 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Soulter",
+        "avatar": "https://avatars.githubusercontent.com/u/37870767?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Raven95676",
+        "avatar": "https://avatars.githubusercontent.com/u/176760093?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/RC-CHN",
+        "avatar": "https://avatars.githubusercontent.com/u/67079377?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/zouyonghe",
+        "avatar": "https://avatars.githubusercontent.com/u/62183434?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/LIghtJUNction",
+        "avatar": "https://avatars.githubusercontent.com/u/106986785?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/AstrBotDevs/AstrBot",
+    "name": "AstrBotDevs/AstrBot",
+    "description": "AI Agent Assistant &amp; development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨  ",
+    "language": "Python",
+    "stars": "37121",
+    "forks": "2582",
+    "increased": "317 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/jlowin",
+        "avatar": "https://avatars.githubusercontent.com/u/153965?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/strawgate",
+        "avatar": "https://avatars.githubusercontent.com/u/6384545?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/zzstoatzz",
+        "avatar": "https://avatars.githubusercontent.com/u/31014960?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/PrefectHQ/fastmcp",
+    "name": "PrefectHQ/fastmcp",
+    "description": "🚀 The fast, Pythonic way to build MCP servers and clients.  ",
+    "language": "Python",
+    "stars": "26553",
+    "forks": "2165",
+    "increased": "96 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/KnockOutEZ",
+        "avatar": "https://avatars.githubusercontent.com/u/70368615?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/YoshiTabletopGamer",
+        "avatar": "https://avatars.githubusercontent.com/u/88633614?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/gitcommit90",
+        "avatar": "https://avatars.githubusercontent.com/u/294273268?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/KnockOutEZ/wigolo",
+    "name": "KnockOutEZ/wigolo",
+    "description": "The go-to web for your AI coding agent — local-first search, fetch, crawl &amp; research over MCP. No API keys, no cloud, $0/query. Public beta.  ",
+    "language": "TypeScript",
+    "stars": "2578",
+    "forks": "153",
+    "increased": "689 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/pikaju",
+        "avatar": "https://avatars.githubusercontent.com/u/8947616?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/akoll",
+        "avatar": "https://avatars.githubusercontent.com/u/31693992?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/carllerche",
+        "avatar": "https://avatars.githubusercontent.com/u/6180?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claymcleod",
+        "avatar": "https://avatars.githubusercontent.com/u/3411613?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/tokio-rs/topcoat",
+    "name": "tokio-rs/topcoat",
+    "description": "A batteries-included framework for building web apps  ",
+    "language": "Rust",
+    "stars": "1574",
+    "forks": "40",
+    "increased": "371 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/freearhey",
+        "avatar": "https://avatars.githubusercontent.com/u/7253922?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/BellezaEmporium",
+        "avatar": "https://avatars.githubusercontent.com/u/30985701?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Dum4G",
+        "avatar": "https://avatars.githubusercontent.com/u/5430116?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/UltraHDR",
+        "avatar": "https://avatars.githubusercontent.com/u/108294295?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/iptv-org/iptv",
+    "name": "iptv-org/iptv",
+    "description": "Collection of publicly available IPTV channels from all over the world  ",
+    "language": "TypeScript",
+    "stars": "133790",
+    "forks": "7565",
+    "increased": "240 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Hydralerne",
+        "avatar": "https://avatars.githubusercontent.com/u/162022179?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rizwannur",
+        "avatar": "https://avatars.githubusercontent.com/u/107238304?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/inoguerols",
+        "avatar": "https://avatars.githubusercontent.com/u/113433463?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/shiv19",
+        "avatar": "https://avatars.githubusercontent.com/u/9407019?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/oblien/openship",
+    "name": "oblien/openship",
+    "description": "Self-hosted deployment platform  ",
+    "language": "TypeScript",
+    "stars": "4865",
+    "forks": "336",
+    "increased": "1641 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/videlalvaro",
+        "avatar": "https://avatars.githubusercontent.com/u/30834?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/vaibhavius",
+        "avatar": "https://avatars.githubusercontent.com/u/92145322?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bbreugel",
+        "avatar": "https://avatars.githubusercontent.com/u/52239119?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/RaviChanduEdru",
+        "avatar": "https://avatars.githubusercontent.com/u/92777166?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/microsoft/Ontology-Playground",
+    "name": "microsoft/Ontology-Playground",
+    "description": "Free, open-source web app for learning about ontologies and Microsoft Fabric IQ. Explore a catalogue of pre-built ontologies, design your own visually, export as RDF/XML, and share interactive diagrams. Zero backend, fully static.  ",
+    "language": "TypeScript",
+    "stars": "1750",
+    "forks": "234",
+    "increased": "464 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/cjpais",
+        "avatar": "https://avatars.githubusercontent.com/u/1559480?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/handy-computer/transcribe.cpp",
+    "name": "handy-computer/transcribe.cpp",
+    "description": "ggml speech-to-text inference for 16+ model families  ",
+    "language": "C++",
+    "stars": "1280",
+    "forks": "31",
+    "increased": "395 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/evmaki",
+        "avatar": "https://avatars.githubusercontent.com/u/15764776?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kylehowells",
+        "avatar": "https://avatars.githubusercontent.com/u/301036?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/petewarden",
+        "avatar": "https://avatars.githubusercontent.com/u/161459?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/giovanninibarbosa",
+        "avatar": "https://avatars.githubusercontent.com/u/15006337?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/andimarafioti",
+        "avatar": "https://avatars.githubusercontent.com/u/9143109?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/moonshine-ai/moonshine",
+    "name": "moonshine-ai/moonshine",
+    "description": "Very low latency speech to text, intent recognition, and text to speech, for building voice agents and interfaces  ",
+    "language": "C++",
+    "stars": "9880",
+    "forks": "518",
+    "increased": "282 stars today"
+  }
+]
