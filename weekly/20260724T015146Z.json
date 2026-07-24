@@ -1,0 +1,493 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/tirth8205",
+        "avatar": "https://avatars.githubusercontent.com/u/68604113?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/gzenz",
+        "avatar": "https://avatars.githubusercontent.com/u/91069374?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jaissebastian",
+        "avatar": "https://avatars.githubusercontent.com/u/171774615?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/michael-denyer",
+        "avatar": "https://avatars.githubusercontent.com/u/97485362?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/tirth8205/code-review-graph",
+    "name": "tirth8205/code-review-graph",
+    "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.  ",
+    "language": "Python",
+    "stars": "25870",
+    "forks": "2428",
+    "increased": "6257 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Luffixos",
+        "avatar": "https://avatars.githubusercontent.com/u/154055839?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Nutlope",
+        "avatar": "https://avatars.githubusercontent.com/u/63742054?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/riccardogiorato",
+        "avatar": "https://avatars.githubusercontent.com/u/4527364?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/JaySmith502",
+        "avatar": "https://avatars.githubusercontent.com/u/8827236?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Nutlope/hallmark",
+    "name": "Nutlope/hallmark",
+    "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.  ",
+    "language": "CSS",
+    "stars": "16283",
+    "forks": "816",
+    "increased": "5797 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/liruifengv",
+        "avatar": "https://avatars.githubusercontent.com/u/25167721?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/wbxl2000",
+        "avatar": "https://avatars.githubusercontent.com/u/57169560?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sailist",
+        "avatar": "https://avatars.githubusercontent.com/u/25661058?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kermanx",
+        "avatar": "https://avatars.githubusercontent.com/u/63178754?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/RealKai42",
+        "avatar": "https://avatars.githubusercontent.com/u/44634134?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/MoonshotAI/kimi-code",
+    "name": "MoonshotAI/kimi-code",
+    "description": "Kimi Code CLI — The Starting Point for Next-Gen Agents  ",
+    "language": "TypeScript",
+    "stars": "4793",
+    "forks": "705",
+    "increased": "1610 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/koala73",
+        "avatar": "https://avatars.githubusercontent.com/u/996596?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/SebastienMelki",
+        "avatar": "https://avatars.githubusercontent.com/u/5787993?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/NewCoder3294",
+        "avatar": "https://avatars.githubusercontent.com/u/168879994?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/lspassos1",
+        "avatar": "https://avatars.githubusercontent.com/u/220533488?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/koala73/worldmonitor",
+    "name": "koala73/worldmonitor",
+    "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface  ",
+    "language": "TypeScript",
+    "stars": "71695",
+    "forks": "10804",
+    "increased": "9054 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/1jehuang",
+        "avatar": "https://avatars.githubusercontent.com/u/94247773?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/FabianAmherd",
+        "avatar": "https://avatars.githubusercontent.com/u/56603175?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/hongnoul",
+        "avatar": "https://avatars.githubusercontent.com/u/139717591?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/AlazBatu",
+        "avatar": "https://avatars.githubusercontent.com/u/182092373?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/1jehuang/jcode",
+    "name": "1jehuang/jcode",
+    "description": "The most intelligent agent harness for code  ",
+    "language": "Rust",
+    "stars": "11004",
+    "forks": "1203",
+    "increased": "2586 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/pancacake",
+        "avatar": "https://avatars.githubusercontent.com/u/150592536?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Pinkllow",
+        "avatar": "https://avatars.githubusercontent.com/u/272976591?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tusharkhatriofficial",
+        "avatar": "https://avatars.githubusercontent.com/u/64004539?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/HKUDS/DeepTutor",
+    "name": "HKUDS/DeepTutor",
+    "description": "DeepTutor: Lifelong Personalized Tutoring.  https://deeptutor.info/  .  ",
+    "language": "Python",
+    "stars": "29387",
+    "forks": "3870",
+    "increased": "2661 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/khosravipasha",
+        "avatar": "https://avatars.githubusercontent.com/u/2780093?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/manjunathshiva",
+        "avatar": "https://avatars.githubusercontent.com/u/35326118?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/PrismML-Eng/Bonsai-demo",
+    "name": "PrismML-Eng/Bonsai-demo",
+    "description": "Bonsai Demo  ",
+    "language": "Shell",
+    "stars": "1980",
+    "forks": "197",
+    "increased": "553 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ibelick",
+        "avatar": "https://avatars.githubusercontent.com/u/14288396?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/fernandezbaptiste",
+        "avatar": "https://avatars.githubusercontent.com/u/83458751?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/saadeghi",
+        "avatar": "https://avatars.githubusercontent.com/u/7342023?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/arifszn",
+        "avatar": "https://avatars.githubusercontent.com/u/45073703?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/ibelick/ui-skills",
+    "name": "ibelick/ui-skills",
+    "description": "Skills for Design Engineers  ",
+    "language": "TypeScript",
+    "stars": "6172",
+    "forks": "269",
+    "increased": "2139 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/diegosouzapw",
+        "avatar": "https://avatars.githubusercontent.com/u/8016841?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/oyi77",
+        "avatar": "https://avatars.githubusercontent.com/u/14921983?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rdself",
+        "avatar": "https://avatars.githubusercontent.com/u/55005611?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/diegosouzapw/OmniRoute",
+    "name": "diegosouzapw/OmniRoute",
+    "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline &amp; Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors  ",
+    "language": "TypeScript",
+    "stars": "27274",
+    "forks": "3575",
+    "increased": "8673 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/stdrc",
+        "avatar": "https://avatars.githubusercontent.com/u/5317095?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/RealKai42",
+        "avatar": "https://avatars.githubusercontent.com/u/44634134?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/xxchan",
+        "avatar": "https://avatars.githubusercontent.com/u/37948597?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/n-WN",
+        "avatar": "https://avatars.githubusercontent.com/u/30841158?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/MoonshotAI/kimi-cli",
+    "name": "MoonshotAI/kimi-cli",
+    "description": "Kimi Code CLI is your next CLI agent.  ",
+    "language": "Python",
+    "stars": "10708",
+    "forks": "1248",
+    "increased": "1528 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/agegr",
+        "avatar": "https://avatars.githubusercontent.com/u/12794925?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/lifu963",
+        "avatar": "https://avatars.githubusercontent.com/u/56394323?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/fallleave",
+        "avatar": "https://avatars.githubusercontent.com/u/12383159?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/zhudatou630",
+        "avatar": "https://avatars.githubusercontent.com/u/26293970?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Kabochar",
+        "avatar": "https://avatars.githubusercontent.com/u/38752750?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/agegr/pi-web",
+    "name": "agegr/pi-web",
+    "description": "Web UI for the pi coding agent  ",
+    "language": "TypeScript",
+    "stars": "2381",
+    "forks": "327",
+    "increased": "1050 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/badlogic",
+        "avatar": "https://avatars.githubusercontent.com/u/514052?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mitsuhiko",
+        "avatar": "https://avatars.githubusercontent.com/u/7396?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cristinaponcela",
+        "avatar": "https://avatars.githubusercontent.com/u/140309543?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/hjanuschka",
+        "avatar": "https://avatars.githubusercontent.com/u/2891702?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/earendil-works/pi",
+    "name": "earendil-works/pi",
+    "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI  ",
+    "language": "TypeScript",
+    "stars": "46",
+    "forks": "9394",
+    "increased": "4495 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/LinZhuoChen",
+        "avatar": "https://avatars.githubusercontent.com/u/32637882?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/justimyhxu",
+        "avatar": "https://avatars.githubusercontent.com/u/29980330?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Robbyant/lingbot-map",
+    "name": "Robbyant/lingbot-map",
+    "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data  ",
+    "language": "Python",
+    "stars": "15127",
+    "forks": "1561",
+    "increased": "4435 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/khush-bhatia",
+        "avatar": "https://avatars.githubusercontent.com/u/11509354?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kurtStirewalt",
+        "avatar": "https://avatars.githubusercontent.com/u/5403609?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/karanasher",
+        "avatar": "https://avatars.githubusercontent.com/u/10433441?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sfc-gh-kbhatia",
+        "avatar": "https://avatars.githubusercontent.com/u/65572406?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/apache/ossie",
+    "name": "apache/ossie",
+    "description": "Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, providing a vendor neutral, single source of truth for semantic data  ",
+    "language": "Python",
+    "stars": "1556",
+    "forks": "181",
+    "increased": "764 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Shubhamsaboo",
+        "avatar": "https://avatars.githubusercontent.com/u/31396011?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Madhuvod",
+        "avatar": "https://avatars.githubusercontent.com/u/124294538?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/onestardao",
+        "avatar": "https://avatars.githubusercontent.com/u/212544643?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/libw0430",
+        "avatar": "https://avatars.githubusercontent.com/u/102198332?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+    "name": "Shubhamsaboo/awesome-llm-apps",
+    "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.  ",
+    "language": "Python",
+    "stars": "126933",
+    "forks": "18718",
+    "increased": "4390 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/danistefanovic",
+        "avatar": "https://avatars.githubusercontent.com/u/1736595?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rohitpaulk",
+        "avatar": "https://avatars.githubusercontent.com/u/3893573?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sarupbanskota",
+        "avatar": "https://avatars.githubusercontent.com/u/3149580?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/fake-rookie",
+        "avatar": "https://avatars.githubusercontent.com/u/61480354?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bauripalash",
+        "avatar": "https://avatars.githubusercontent.com/u/16154204?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/codecrafters-io/build-your-own-x",
+    "name": "codecrafters-io/build-your-own-x",
+    "description": "Master programming by recreating your favorite technologies from scratch.  ",
+    "language": "Markdown",
+    "stars": "530865",
+    "forks": "50215",
+    "increased": "4964 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Atream",
+        "avatar": "https://avatars.githubusercontent.com/u/80757050?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/KMSorSMS",
+        "avatar": "https://avatars.githubusercontent.com/u/82826507?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Azure-Tang",
+        "avatar": "https://avatars.githubusercontent.com/u/50126533?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ovowei",
+        "avatar": "https://avatars.githubusercontent.com/u/80044717?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/qiyuxinlin",
+        "avatar": "https://avatars.githubusercontent.com/u/44601537?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/kvcache-ai/ktransformers",
+    "name": "kvcache-ai/ktransformers",
+    "description": "A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations  ",
+    "language": "Python",
+    "stars": "18950",
+    "forks": "1482",
+    "increased": "1507 stars this week"
+  }
+]
