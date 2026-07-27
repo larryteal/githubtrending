@@ -1,0 +1,512 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/jackjackbits",
+        "avatar": "https://avatars.githubusercontent.com/u/212554440?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/qalandarov",
+        "avatar": "https://avatars.githubusercontent.com/u/2553451?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/actions-user",
+        "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/callebtc",
+        "avatar": "https://avatars.githubusercontent.com/u/93376500?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/permissionlesstech/bitchat",
+    "name": "permissionlesstech/bitchat",
+    "description": "bluetooth mesh chat, IRC vibes  ",
+    "language": "Swift",
+    "stars": "30444",
+    "forks": "4732",
+    "increased": "1166 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/section9-lab",
+        "avatar": "https://avatars.githubusercontent.com/u/22140958?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/WUXM5",
+        "avatar": "https://avatars.githubusercontent.com/u/77671587?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/aute",
+        "avatar": "https://avatars.githubusercontent.com/u/17873165?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/braxtonROSE4",
+        "avatar": "https://avatars.githubusercontent.com/u/84236270?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/citrolabs/ego-lite",
+    "name": "citrolabs/ego-lite",
+    "description": "The fastest browser for AI agents to run web automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.  ",
+    "language": "JavaScript",
+    "stars": "4623",
+    "forks": "227",
+    "increased": "900 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/wesbillman",
+        "avatar": "https://avatars.githubusercontent.com/u/51647?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/wpfleger96",
+        "avatar": "https://avatars.githubusercontent.com/u/15384764?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tlongwell-block",
+        "avatar": "https://avatars.githubusercontent.com/u/109685178?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/klopez4212",
+        "avatar": "https://avatars.githubusercontent.com/u/7863796?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/block/buzz",
+    "name": "block/buzz",
+    "description": "A hive mind communication platform  ",
+    "language": "Rust",
+    "stars": "13363",
+    "forks": "1100",
+    "increased": "1710 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/juliusmarminge",
+        "avatar": "https://avatars.githubusercontent.com/u/51714798?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/codex",
+        "avatar": "https://avatars.githubusercontent.com/u/267193182?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/t3dotgg",
+        "avatar": "https://avatars.githubusercontent.com/u/6751787?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cursoragent",
+        "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/pingdotgg/t3code",
+    "name": "pingdotgg/t3code",
+    "language": "TypeScript",
+    "stars": "15070",
+    "forks": "3309",
+    "increased": "149 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/DavidBabinec",
+        "avatar": "https://avatars.githubusercontent.com/u/49069339?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/RemiAsselin42",
+        "avatar": "https://avatars.githubusercontent.com/u/139657357?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/hrq-chiuchi",
+        "avatar": "https://avatars.githubusercontent.com/u/227859002?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mvanhorn",
+        "avatar": "https://avatars.githubusercontent.com/u/455140?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/CoreBunch/Instatic",
+    "name": "CoreBunch/Instatic",
+    "description": "The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there.  ",
+    "language": "TypeScript",
+    "stars": "5703",
+    "forks": "521",
+    "increased": "888 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/yorukot",
+        "avatar": "https://avatars.githubusercontent.com/u/107802416?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/lazysegtree",
+        "avatar": "https://avatars.githubusercontent.com/u/59679977?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/nonepork",
+        "avatar": "https://avatars.githubusercontent.com/u/59335048?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/AnshumanNeon",
+        "avatar": "https://avatars.githubusercontent.com/u/110094421?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/yorukot/superfile",
+    "name": "yorukot/superfile",
+    "description": "Pretty fancy and modern terminal file manager  ",
+    "language": "Go",
+    "stars": "20267",
+    "forks": "639",
+    "increased": "131 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Trott",
+        "avatar": "https://avatars.githubusercontent.com/u/718899?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ry",
+        "avatar": "https://avatars.githubusercontent.com/u/80?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bnoordhuis",
+        "avatar": "https://avatars.githubusercontent.com/u/275871?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/addaleax",
+        "avatar": "https://avatars.githubusercontent.com/u/899444?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/isaacs",
+        "avatar": "https://avatars.githubusercontent.com/u/9287?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/nodejs/node",
+    "name": "nodejs/node",
+    "description": "Node.js JavaScript runtime ✨🐢🚀✨  ",
+    "language": "JavaScript",
+    "stars": "118481",
+    "forks": "36178",
+    "increased": "36 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/shanhexi",
+        "avatar": "https://avatars.githubusercontent.com/u/86969353?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Chat2DB-Pro",
+        "avatar": "https://avatars.githubusercontent.com/u/22975773?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/JerryFan626",
+        "avatar": "https://avatars.githubusercontent.com/u/7688101?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/chat2db-jerry",
+        "avatar": "https://avatars.githubusercontent.com/u/137198536?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/robinji0",
+        "avatar": "https://avatars.githubusercontent.com/u/137188352?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/OtterMind/Chat2DB",
+    "name": "OtterMind/Chat2DB",
+    "description": "🔥🔥🔥 AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.  ",
+    "language": "Java",
+    "stars": "27149",
+    "forks": "2944",
+    "increased": "398 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/pbakaus",
+        "avatar": "https://avatars.githubusercontent.com/u/43004?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/abdulwahabone",
+        "avatar": "https://avatars.githubusercontent.com/u/32850166?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/pbakaus/impeccable",
+    "name": "pbakaus/impeccable",
+    "description": "The design language that makes your AI harness better at design.  ",
+    "language": "aScript",
+    "stars": "50719",
+    "forks": "2989",
+    "increased": "413 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/shiyu-coder",
+        "avatar": "https://avatars.githubusercontent.com/u/65760973?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Luciferbobo",
+        "avatar": "https://avatars.githubusercontent.com/u/54936491?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/CharlesJ-ABu",
+        "avatar": "https://avatars.githubusercontent.com/u/18326516?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/AnMakc",
+        "avatar": "https://avatars.githubusercontent.com/u/1777564?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/randyy179",
+        "avatar": "https://avatars.githubusercontent.com/u/129808685?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/shiyu-coder/Kronos",
+    "name": "shiyu-coder/Kronos",
+    "description": "Kronos: A Foundation Model for the Language of Financial Markets  ",
+    "language": "Python",
+    "stars": "34188",
+    "forks": "5758",
+    "increased": "321 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/lizhengfeng101",
+        "avatar": "https://avatars.githubusercontent.com/u/254839944?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/chethanuk",
+        "avatar": "https://avatars.githubusercontent.com/u/16241795?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/stay-foolish-forever",
+        "avatar": "https://avatars.githubusercontent.com/u/61303077?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/MuoDoo",
+        "avatar": "https://avatars.githubusercontent.com/u/36472129?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/alibaba/open-code-review",
+    "name": "alibaba/open-code-review",
+    "description": "Open-source &amp; free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.  ",
+    "language": "Go",
+    "stars": "13889",
+    "forks": "941",
+    "increased": "832 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/rohitprasad15",
+        "avatar": "https://avatars.githubusercontent.com/u/1796239?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/drp8226",
+        "avatar": "https://avatars.githubusercontent.com/u/291557675?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ksolo",
+        "avatar": "https://avatars.githubusercontent.com/u/103829?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/standsleeping",
+        "avatar": "https://avatars.githubusercontent.com/u/5633095?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tavinashb",
+        "avatar": "https://avatars.githubusercontent.com/u/7972024?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/andrewyng/aisuite",
+    "name": "andrewyng/aisuite",
+    "description": "Simple, unified interface to multiple Generative AI providers  ",
+    "language": "Python",
+    "stars": "15412",
+    "forks": "1629",
+    "increased": "187 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/zealoushacker",
+        "avatar": "https://avatars.githubusercontent.com/u/346275?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/alexalbertt",
+        "avatar": "https://avatars.githubusercontent.com/u/34638987?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/PedramNavid",
+        "avatar": "https://avatars.githubusercontent.com/u/1045990?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/saflamini",
+        "avatar": "https://avatars.githubusercontent.com/u/43142465?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/anthropics/claude-cookbooks",
+    "name": "anthropics/claude-cookbooks",
+    "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.  ",
+    "language": "Jupyter Notebook",
+    "stars": "50245",
+    "forks": "5922",
+    "increased": "379 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Snowiiii",
+        "avatar": "https://avatars.githubusercontent.com/u/71594357?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kralverde",
+        "avatar": "https://avatars.githubusercontent.com/u/80051564?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Bryntet",
+        "avatar": "https://avatars.githubusercontent.com/u/39092238?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/lukas0008",
+        "avatar": "https://avatars.githubusercontent.com/u/70709598?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Purdze",
+        "avatar": "https://avatars.githubusercontent.com/u/29306641?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Pumpkin-MC/Pumpkin",
+    "name": "Pumpkin-MC/Pumpkin",
+    "description": "Empowering everyone to host fast and efficient Minecraft servers.  ",
+    "language": "Rust",
+    "stars": "10024",
+    "forks": "672",
+    "increased": "338 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/callebtc",
+        "avatar": "https://avatars.githubusercontent.com/u/93376500?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/actions-user",
+        "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/a1denvalu3",
+        "avatar": "https://avatars.githubusercontent.com/u/43107113?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/hector6872",
+        "avatar": "https://avatars.githubusercontent.com/u/5445152?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/yet300",
+        "avatar": "https://avatars.githubusercontent.com/u/96379204?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/permissionlesstech/bitchat-android",
+    "name": "permissionlesstech/bitchat-android",
+    "description": "bluetooth mesh chat, IRC vibes  ",
+    "language": "Kotlin",
+    "stars": "6728",
+    "forks": "1596",
+    "increased": "260 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/kohsuke",
+        "avatar": "https://avatars.githubusercontent.com/u/50003?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jglick",
+        "avatar": "https://avatars.githubusercontent.com/u/154109?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/daniel-beck",
+        "avatar": "https://avatars.githubusercontent.com/u/1831569?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/oleg-nenashev",
+        "avatar": "https://avatars.githubusercontent.com/u/3000480?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/jenkinsci/jenkins",
+    "name": "jenkinsci/jenkins",
+    "description": "Jenkins automation server  ",
+    "language": "Java",
+    "stars": "25713",
+    "forks": "9655",
+    "increased": "18 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/pokamest",
+        "avatar": "https://avatars.githubusercontent.com/u/23482029?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Nethius",
+        "avatar": "https://avatars.githubusercontent.com/u/15364855?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/albexk",
+        "avatar": "https://avatars.githubusercontent.com/u/141177744?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/outspace",
+        "avatar": "https://avatars.githubusercontent.com/u/5472761?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/vkamn",
+        "avatar": "https://avatars.githubusercontent.com/u/226339429?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/amnezia-vpn/amnezia-client",
+    "name": "amnezia-vpn/amnezia-client",
+    "description": "Amnezia VPN Client (Desktop+Mobile)  ",
+    "language": "C++",
+    "stars": "13340",
+    "forks": "1011",
+    "increased": "35 stars today"
+  }
+]
