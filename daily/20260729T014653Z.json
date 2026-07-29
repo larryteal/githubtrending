@@ -1,0 +1,341 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/wass08",
+        "avatar": "https://avatars.githubusercontent.com/u/6551176?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Aymericr",
+        "avatar": "https://avatars.githubusercontent.com/u/4444492?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sudhir9297",
+        "avatar": "https://avatars.githubusercontent.com/u/19578447?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/open-pascal",
+        "avatar": "https://avatars.githubusercontent.com/u/271033448?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/pascalorg/editor",
+    "name": "pascalorg/editor",
+    "description": "Create and share 3D architectural projects.  ",
+    "language": "TypeScript",
+    "stars": "18753",
+    "forks": "2528",
+    "increased": "341 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/kohsuke",
+        "avatar": "https://avatars.githubusercontent.com/u/50003?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jglick",
+        "avatar": "https://avatars.githubusercontent.com/u/154109?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/daniel-beck",
+        "avatar": "https://avatars.githubusercontent.com/u/1831569?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/oleg-nenashev",
+        "avatar": "https://avatars.githubusercontent.com/u/3000480?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/jenkinsci/jenkins",
+    "name": "jenkinsci/jenkins",
+    "description": "Jenkins automation server  ",
+    "language": "Java",
+    "stars": "26079",
+    "forks": "9687",
+    "increased": "180 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/nekomeowww",
+        "avatar": "https://avatars.githubusercontent.com/u/11081491?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/luoling8192",
+        "avatar": "https://avatars.githubusercontent.com/u/44741987?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/shinohara-rin",
+        "avatar": "https://avatars.githubusercontent.com/u/25588514?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sumimakito",
+        "avatar": "https://avatars.githubusercontent.com/u/5277268?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/moeru-ai/airi",
+    "name": "moeru-ai/airi",
+    "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.  ",
+    "language": "TypeScript",
+    "stars": "44790",
+    "forks": "4451",
+    "increased": "797 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/rohitprasad15",
+        "avatar": "https://avatars.githubusercontent.com/u/1796239?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/drp8226",
+        "avatar": "https://avatars.githubusercontent.com/u/291557675?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ksolo",
+        "avatar": "https://avatars.githubusercontent.com/u/103829?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/standsleeping",
+        "avatar": "https://avatars.githubusercontent.com/u/5633095?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tavinashb",
+        "avatar": "https://avatars.githubusercontent.com/u/7972024?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/andrewyng/aisuite",
+    "name": "andrewyng/aisuite",
+    "description": "Simple, unified interface to multiple Generative AI providers  ",
+    "language": "Python",
+    "stars": "15695",
+    "forks": "1656",
+    "increased": "62 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/affaan-m",
+        "avatar": "https://avatars.githubusercontent.com/u/124439313?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pangerlkr",
+        "avatar": "https://avatars.githubusercontent.com/u/73515951?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/affaan-m/ECC",
+    "name": "affaan-m/ECC",
+    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.  ",
+    "language": "JavaScript",
+    "stars": "234840",
+    "forks": "35785",
+    "increased": "636 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/hello245m",
+        "avatar": "https://avatars.githubusercontent.com/u/72144633?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cursoragent",
+        "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/AudreyEthan",
+        "avatar": "https://avatars.githubusercontent.com/u/277227100?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/hello245m/free-stockdb",
+    "name": "hello245m/free-stockdb",
+    "description": "面向 A 股日K、分钟K与ETF分钟数据的本地量化引擎，集成增量同步、本地缓存、复权、批量查询、回测与指标计算。  ",
+    "language": "HTML",
+    "stars": "1309",
+    "forks": "213",
+    "increased": "50 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/andimarafioti",
+        "avatar": "https://avatars.githubusercontent.com/u/9143109?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/eustlb",
+        "avatar": "https://avatars.githubusercontent.com/u/94853470?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/A-Mahla",
+        "avatar": "https://avatars.githubusercontent.com/u/89754740?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ylacombe",
+        "avatar": "https://avatars.githubusercontent.com/u/52246514?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/huggingface/speech-to-speech",
+    "name": "huggingface/speech-to-speech",
+    "description": "Build local voice agents with open-source models  ",
+    "language": "Python",
+    "stars": "7281",
+    "forks": "957",
+    "increased": "227 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/virgiliojr94",
+        "avatar": "https://avatars.githubusercontent.com/u/23645449?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dex0shubham",
+        "avatar": "https://avatars.githubusercontent.com/u/183437397?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Marcelluxx",
+        "avatar": "https://avatars.githubusercontent.com/u/38981901?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/virgiliojr94/book-to-skill",
+    "name": "virgiliojr94/book-to-skill",
+    "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.  ",
+    "language": "Python",
+    "stars": "11456",
+    "forks": "1344",
+    "increased": "423 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/giswqs",
+        "avatar": "https://avatars.githubusercontent.com/u/5016453?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/amir-rezaei",
+        "avatar": "https://avatars.githubusercontent.com/u/31731671?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/opengeos/GeoLibre",
+    "name": "opengeos/GeoLibre",
+    "description": "A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.  ",
+    "language": "TypeScript",
+    "stars": "3421",
+    "forks": "392",
+    "increased": "607 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/edarchimbaud",
+        "avatar": "https://avatars.githubusercontent.com/u/13941363?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jamesmunro",
+        "avatar": "https://avatars.githubusercontent.com/u/283605?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ss18",
+        "avatar": "https://avatars.githubusercontent.com/u/832917?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/leftys",
+        "avatar": "https://avatars.githubusercontent.com/u/1970226?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/iamjinlei",
+        "avatar": "https://avatars.githubusercontent.com/u/6463139?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/paperswithbacktest/awesome-systematic-trading",
+    "name": "paperswithbacktest/awesome-systematic-trading",
+    "description": "A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.  ",
+    "language": "Python",
+    "stars": "9642",
+    "forks": "1297",
+    "increased": "309 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/imran-siddique",
+        "avatar": "https://avatars.githubusercontent.com/u/45405841?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/finnoybu",
+        "avatar": "https://avatars.githubusercontent.com/u/21694570?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/microsoft/agent-governance-toolkit",
+    "name": "microsoft/agent-governance-toolkit",
+    "description": "AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.  ",
+    "language": "Python",
+    "stars": "5220",
+    "forks": "833",
+    "increased": "46 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/yorukot",
+        "avatar": "https://avatars.githubusercontent.com/u/107802416?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/lazysegtree",
+        "avatar": "https://avatars.githubusercontent.com/u/59679977?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/nonepork",
+        "avatar": "https://avatars.githubusercontent.com/u/59335048?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/AnshumanNeon",
+        "avatar": "https://avatars.githubusercontent.com/u/110094421?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/yorukot/superfile",
+    "name": "yorukot/superfile",
+    "description": "Pretty fancy and modern terminal file manager  ",
+    "language": "Go",
+    "stars": "21498",
+    "forks": "698",
+    "increased": "662 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bradautomates",
+        "avatar": "https://avatars.githubusercontent.com/u/186665980?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/bradautomates/claude-video",
+    "name": "bradautomates/claude-video",
+    "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.  ",
+    "language": "Python",
+    "stars": "12127",
+    "forks": "1219",
+    "increased": "988 stars today"
+  }
+]
