@@ -1,0 +1,616 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/wesbillman",
+        "avatar": "https://avatars.githubusercontent.com/u/51647?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/wpfleger96",
+        "avatar": "https://avatars.githubusercontent.com/u/15384764?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tlongwell-block",
+        "avatar": "https://avatars.githubusercontent.com/u/109685178?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/klopez4212",
+        "avatar": "https://avatars.githubusercontent.com/u/7863796?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/block/buzz",
+    "name": "block/buzz",
+    "description": "A hive mind communication platform  ",
+    "language": "Rust",
+    "stars": "17160",
+    "forks": "1621",
+    "increased": "13317 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/koala73",
+        "avatar": "https://avatars.githubusercontent.com/u/996596?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/SebastienMelki",
+        "avatar": "https://avatars.githubusercontent.com/u/5787993?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/NewCoder3294",
+        "avatar": "https://avatars.githubusercontent.com/u/168879994?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/lspassos1",
+        "avatar": "https://avatars.githubusercontent.com/u/220533488?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/koala73/worldmonitor",
+    "name": "koala73/worldmonitor",
+    "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface  ",
+    "language": "TypeScript",
+    "stars": "76511",
+    "forks": "11426",
+    "increased": "8681 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ayghri",
+        "avatar": "https://avatars.githubusercontent.com/u/32200675?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/thejesh23",
+        "avatar": "https://avatars.githubusercontent.com/u/35212698?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jabrahamtech",
+        "avatar": "https://avatars.githubusercontent.com/u/86552437?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/isatimur",
+        "avatar": "https://avatars.githubusercontent.com/u/2364511?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/ayghri/i-have-adhd",
+    "name": "ayghri/i-have-adhd",
+    "description": "A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.  ",
+    "language": "Python",
+    "stars": "13554",
+    "forks": "714",
+    "increased": "5544 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/section9-lab",
+        "avatar": "https://avatars.githubusercontent.com/u/22140958?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/WUXM5",
+        "avatar": "https://avatars.githubusercontent.com/u/77671587?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/aute",
+        "avatar": "https://avatars.githubusercontent.com/u/17873165?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/braxtonROSE4",
+        "avatar": "https://avatars.githubusercontent.com/u/84236270?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/citrolabs/ego-lite",
+    "name": "citrolabs/ego-lite",
+    "description": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.  ",
+    "language": "JavaScript",
+    "stars": "6034",
+    "forks": "299",
+    "increased": "4863 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/bojieli",
+        "avatar": "https://avatars.githubusercontent.com/u/1421793?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/santhreal",
+        "avatar": "https://avatars.githubusercontent.com/u/64453045?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/thejesh23",
+        "avatar": "https://avatars.githubusercontent.com/u/35212698?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/phaethix",
+        "avatar": "https://avatars.githubusercontent.com/u/53891741?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/bojieli/ai-agent-book",
+    "name": "bojieli/ai-agent-book",
+    "description": "《深入理解 AI Agent：设计原理与工程实践》（ 李博杰 著）开源主 仓库：全书正文、编译版 PDF 与按章配套代码  ",
+    "language": "Python",
+    "stars": "26298",
+    "forks": "2748",
+    "increased": "8998 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/diegosouzapw",
+        "avatar": "https://avatars.githubusercontent.com/u/8016841?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/oyi77",
+        "avatar": "https://avatars.githubusercontent.com/u/14921983?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rdself",
+        "avatar": "https://avatars.githubusercontent.com/u/55005611?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/diegosouzapw/OmniRoute",
+    "name": "diegosouzapw/OmniRoute",
+    "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline &amp; Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors  ",
+    "language": "TypeScript",
+    "stars": "34173",
+    "forks": "4411",
+    "increased": "9420 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/mattpocock",
+        "avatar": "https://avatars.githubusercontent.com/u/28293365?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/gabimoncha",
+        "avatar": "https://avatars.githubusercontent.com/u/39256258?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/mattpocock/skills",
+    "name": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .agents directory.  ",
+    "language": "Shell",
+    "stars": "194637",
+    "forks": "16763",
+    "increased": "12680 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/shiyu-coder",
+        "avatar": "https://avatars.githubusercontent.com/u/65760973?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Luciferbobo",
+        "avatar": "https://avatars.githubusercontent.com/u/54936491?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/CharlesJ-ABu",
+        "avatar": "https://avatars.githubusercontent.com/u/18326516?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/AnMakc",
+        "avatar": "https://avatars.githubusercontent.com/u/1777564?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/randyy179",
+        "avatar": "https://avatars.githubusercontent.com/u/129808685?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/shiyu-coder/Kronos",
+    "name": "shiyu-coder/Kronos",
+    "description": "Kronos: A Foundation Model for the Language of Financial Markets  ",
+    "language": "Python",
+    "stars": "34976",
+    "forks": "5835",
+    "increased": "2516 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/UditAkhourii",
+        "avatar": "https://avatars.githubusercontent.com/u/156824020?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/chechman",
+        "avatar": "https://avatars.githubusercontent.com/u/13511070?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/nandnijaiswal",
+        "avatar": "https://avatars.githubusercontent.com/u/156901639?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/UditAkhourii/adhd",
+    "name": "UditAkhourii/adhd",
+    "description": "ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude &amp; Codex Agent SDK. Fans out parallel divergent thoughts under different cognitive frames, scores, prunes traps, deepens the survivors. The no-brainer skill for creative and interdisciplinary work.  ",
+    "language": "TypeScript",
+    "stars": "2736",
+    "forks": "211",
+    "increased": "996 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/lizhengfeng101",
+        "avatar": "https://avatars.githubusercontent.com/u/254839944?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/chethanuk",
+        "avatar": "https://avatars.githubusercontent.com/u/16241795?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/stay-foolish-forever",
+        "avatar": "https://avatars.githubusercontent.com/u/61303077?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/MuoDoo",
+        "avatar": "https://avatars.githubusercontent.com/u/36472129?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/alibaba/open-code-review",
+    "name": "alibaba/open-code-review",
+    "description": "Open-source &amp; free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.  ",
+    "language": "Go",
+    "stars": "16024",
+    "forks": "1081",
+    "increased": "4875 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/DavidBabinec",
+        "avatar": "https://avatars.githubusercontent.com/u/49069339?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/RemiAsselin42",
+        "avatar": "https://avatars.githubusercontent.com/u/139657357?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/hrq-chiuchi",
+        "avatar": "https://avatars.githubusercontent.com/u/227859002?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mvanhorn",
+        "avatar": "https://avatars.githubusercontent.com/u/455140?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/CoreBunch/Instatic",
+    "name": "CoreBunch/Instatic",
+    "description": "The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there.  ",
+    "language": "TypeScript",
+    "stars": "6619",
+    "forks": "582",
+    "increased": "2892 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/1jehuang",
+        "avatar": "https://avatars.githubusercontent.com/u/94247773?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/FabianAmherd",
+        "avatar": "https://avatars.githubusercontent.com/u/56603175?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/hongnoul",
+        "avatar": "https://avatars.githubusercontent.com/u/139717591?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/AlazBatu",
+        "avatar": "https://avatars.githubusercontent.com/u/182092373?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/1jehuang/jcode",
+    "name": "1jehuang/jcode",
+    "description": "The most RAM efficient harness  ",
+    "language": "Rust",
+    "stars": "13480",
+    "forks": "1478",
+    "increased": "2594 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Snowiiii",
+        "avatar": "https://avatars.githubusercontent.com/u/71594357?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kralverde",
+        "avatar": "https://avatars.githubusercontent.com/u/80051564?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Bryntet",
+        "avatar": "https://avatars.githubusercontent.com/u/39092238?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/lukas0008",
+        "avatar": "https://avatars.githubusercontent.com/u/70709598?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Purdze",
+        "avatar": "https://avatars.githubusercontent.com/u/29306641?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Pumpkin-MC/Pumpkin",
+    "name": "Pumpkin-MC/Pumpkin",
+    "description": "Empowering everyone to host fast and efficient Minecraft servers.  ",
+    "language": "Rust",
+    "stars": "10380",
+    "forks": "692",
+    "increased": "2199 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/agegr",
+        "avatar": "https://avatars.githubusercontent.com/u/12794925?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Kabochar",
+        "avatar": "https://avatars.githubusercontent.com/u/38752750?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/fallleave",
+        "avatar": "https://avatars.githubusercontent.com/u/12383159?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/zhudatou630",
+        "avatar": "https://avatars.githubusercontent.com/u/26293970?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/lifu963",
+        "avatar": "https://avatars.githubusercontent.com/u/56394323?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/agegr/pi-web",
+    "name": "agegr/pi-web",
+    "description": "Web UI for the pi coding agent  ",
+    "language": "TypeScript",
+    "stars": "3232",
+    "forks": "429",
+    "increased": "1260 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/badlogic",
+        "avatar": "https://avatars.githubusercontent.com/u/514052?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mitsuhiko",
+        "avatar": "https://avatars.githubusercontent.com/u/7396?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cristinaponcela",
+        "avatar": "https://avatars.githubusercontent.com/u/140309543?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/hjanuschka",
+        "avatar": "https://avatars.githubusercontent.com/u/2891702?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/earendil-works/pi",
+    "name": "earendil-works/pi",
+    "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI  ",
+    "language": "TypeScript",
+    "stars": "372",
+    "forks": "9889",
+    "increased": "4979 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/juliusmarminge",
+        "avatar": "https://avatars.githubusercontent.com/u/51714798?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/codex",
+        "avatar": "https://avatars.githubusercontent.com/u/267193182?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/t3dotgg",
+        "avatar": "https://avatars.githubusercontent.com/u/6751787?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cursoragent",
+        "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/pingdotgg/t3code",
+    "name": "pingdotgg/t3code",
+    "language": "TypeScript",
+    "stars": "15640",
+    "forks": "3449",
+    "increased": "1296 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Hydralerne",
+        "avatar": "https://avatars.githubusercontent.com/u/162022179?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Rish-it",
+        "avatar": "https://avatars.githubusercontent.com/u/104666906?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/shuvamk",
+        "avatar": "https://avatars.githubusercontent.com/u/145355204?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Rajioba1",
+        "avatar": "https://avatars.githubusercontent.com/u/196587943?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/oblien/openship",
+    "name": "oblien/openship",
+    "description": " Self-hosted deployment platform  ",
+    "language": "TypeScript",
+    "stars": "9744",
+    "forks": "772",
+    "increased": "2743 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ruvnet",
+        "avatar": "https://avatars.githubusercontent.com/u/2934394?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/proffesor-for-testing",
+        "avatar": "https://avatars.githubusercontent.com/u/214853444?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/ruvnet/RuView",
+    "name": "ruvnet/RuView",
+    "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.  ",
+    "language": "Rust",
+    "stars": "87536",
+    "forks": "11629",
+    "increased": "4504 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/bensenescu",
+        "avatar": "https://avatars.githubusercontent.com/u/44480372?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bookingseo",
+        "avatar": "https://avatars.githubusercontent.com/u/68512992?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mvanhorn",
+        "avatar": "https://avatars.githubusercontent.com/u/455140?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/shuvamk",
+        "avatar": "https://avatars.githubusercontent.com/u/145355204?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/every-app/open-seo",
+    "name": "every-app/open-seo",
+    "description": "Open source alternative to Semrush and Ahrefs  ",
+    "language": "TypeScript",
+    "stars": "9376",
+    "forks": "1068",
+    "increased": "2332 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/rohitg00",
+        "avatar": "https://avatars.githubusercontent.com/u/48523873?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/abhinav-m22",
+        "avatar": "https://avatars.githubusercontent.com/u/113239388?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/thereisnotime",
+        "avatar": "https://avatars.githubusercontent.com/u/37583483?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/thejesh23",
+        "avatar": "https://avatars.githubusercontent.com/u/35212698?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/rohitg00/ai-engineering-from-scratch",
+    "name": "rohitg00/ai-engineering-from-scratch",
+    "description": "Learn it. Build it. Ship it for others.  ",
+    "language": "Python",
+    "stars": "44915",
+    "forks": "7620",
+    "increased": "2965 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/earthtojake",
+        "avatar": "https://avatars.githubusercontent.com/u/10742417?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/arronzhang",
+        "avatar": "https://avatars.githubusercontent.com/u/53879?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/vasco3",
+        "avatar": "https://avatars.githubusercontent.com/u/804301?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/earthtojake/text-to-cad",
+    "name": "earthtojake/text-to-cad",
+    "description": "A collection of agent skills for CAD, robotics and hardwa re design  ",
+    "language": "JavaScript",
+    "stars": "11865",
+    "forks": "1269",
+    "increased": "2242 stars this week"
+  }
+]
