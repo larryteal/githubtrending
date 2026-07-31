@@ -1,0 +1,408 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/andimarafioti",
+        "avatar": "https://avatars.githubusercontent.com/u/9143109?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/eustlb",
+        "avatar": "https://avatars.githubusercontent.com/u/94853470?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/A-Mahla",
+        "avatar": "https://avatars.githubusercontent.com/u/89754740?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ylacombe",
+        "avatar": "https://avatars.githubusercontent.com/u/52246514?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/huggingface/speech-to-speech",
+    "name": "huggingface/speech-to-speech",
+    "description": "Build local voice agents with open-source models  ",
+    "language": "Python",
+    "stars": "8931",
+    "forks": "1098",
+    "increased": "628 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/leestott",
+        "avatar": "https://avatars.githubusercontent.com/u/2511341?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/skytin1004",
+        "avatar": "https://avatars.githubusercontent.com/u/99078115?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jlooper",
+        "avatar": "https://avatars.githubusercontent.com/u/1450004?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/shwars",
+        "avatar": "https://avatars.githubusercontent.com/u/2892110?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/BethanyJep",
+        "avatar": "https://avatars.githubusercontent.com/u/44121227?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/microsoft/AI-For-Beginners",
+    "name": "microsoft/AI-For-Beginners",
+    "description": "12 Weeks, 24 Lessons, AI for All!  ",
+    "language": "Jupyter Notebook",
+    "stars": "54047",
+    "forks": "10962",
+    "increased": "155 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/edarchimbaud",
+        "avatar": "https://avatars.githubusercontent.com/u/13941363?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jamesmunro",
+        "avatar": "https://avatars.githubusercontent.com/u/283605?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ss18",
+        "avatar": "https://avatars.githubusercontent.com/u/832917?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/leftys",
+        "avatar": "https://avatars.githubusercontent.com/u/1970226?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/iamjinlei",
+        "avatar": "https://avatars.githubusercontent.com/u/6463139?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/paperswithbacktest/awesome-systematic-trading",
+    "name": "paperswithbacktest/awesome-systematic-trading",
+    "description": "A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.  ",
+    "language": "Python",
+    "stars": "11090",
+    "forks": "1419",
+    "increased": "621 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/benjaminshafii",
+        "avatar": "https://avatars.githubusercontent.com/u/11430621?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/src-opn",
+        "avatar": "https://avatars.githubusercontent.com/u/270187002?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jcllobet",
+        "avatar": "https://avatars.githubusercontent.com/u/22689750?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/release-bot",
+        "avatar": "https://avatars.githubusercontent.com/u/6581690?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/actions-user",
+        "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/different-ai/openwork",
+    "name": "different-ai/openwork",
+    "description": "The open-source alternative to Claude Cowork (powered by opencode)  ",
+    "language": "TypeScript",
+    "stars": "18777",
+    "forks": "1910",
+    "increased": "915 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/adiwajshing",
+        "avatar": "https://avatars.githubusercontent.com/u/8328864?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/purpshell",
+        "avatar": "https://avatars.githubusercontent.com/u/52720753?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/edgardmessias",
+        "avatar": "https://avatars.githubusercontent.com/u/1530997?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jlucaso1",
+        "avatar": "https://avatars.githubusercontent.com/u/55464917?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/WhiskeySockets/Baileys",
+    "name": "WhiskeySockets/Baileys",
+    "description": "Socket-based TS/JavaScript API for WhatsApp Web  ",
+    "language": "JavaScript",
+    "stars": "10444",
+    "forks": "3254",
+    "increased": "19 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/wass08",
+        "avatar": "https://avatars.githubusercontent.com/u/6551176?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Aymericr",
+        "avatar": "https://avatars.githubusercontent.com/u/4444492?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sudhir9297",
+        "avatar": "https://avatars.githubusercontent.com/u/19578447?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/open-pascal",
+        "avatar": "https://avatars.githubusercontent.com/u/271033448?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/pascalorg/editor",
+    "name": "pascalorg/editor",
+    "description": "Create and share 3D architectural projects.  ",
+    "language": "TypeScript",
+    "stars": "20141",
+    "forks": "2621",
+    "increased": "625 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/mvanhorn",
+        "avatar": "https://avatars.githubusercontent.com/u/455140?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tmchow",
+        "avatar": "https://avatars.githubusercontent.com/u/517103?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/23241a6749",
+        "avatar": "https://avatars.githubusercontent.com/u/146319052?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/j-sperling",
+        "avatar": "https://avatars.githubusercontent.com/u/17969723?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/mvanhorn/last30days-skill",
+    "name": "mvanhorn/last30days-skill",
+    "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary  ",
+    "language": "Python",
+    "stars": "55580",
+    "forks": "4788",
+    "increased": "378 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/pranavkm",
+        "avatar": "https://avatars.githubusercontent.com/u/174281?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/aspnetci",
+        "avatar": "https://avatars.githubusercontent.com/u/23037549?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dougbu",
+        "avatar": "https://avatars.githubusercontent.com/u/6431421?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Tratcher",
+        "avatar": "https://avatars.githubusercontent.com/u/1821173?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/dotnet/aspnetcore",
+    "name": "dotnet/aspnetcore",
+    "description": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.  ",
+    "language": "C#",
+    "stars": "38299",
+    "forks": "10859",
+    "increased": "7 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/crutkas",
+        "avatar": "https://avatars.githubusercontent.com/u/1462282?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bao-qian",
+        "avatar": "https://avatars.githubusercontent.com/u/1169912?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/qianlifeng",
+        "avatar": "https://avatars.githubusercontent.com/u/1725475?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/niels9001",
+        "avatar": "https://avatars.githubusercontent.com/u/9866362?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jaimecbernardo",
+        "avatar": "https://avatars.githubusercontent.com/u/26118718?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/microsoft/PowerToys",
+    "name": "microsoft/PowerToys",
+    "description": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows  ",
+    "language": "C",
+    "stars": "137143",
+    "forks": "8364",
+    "increased": "70 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/bcoca",
+        "avatar": "https://avatars.githubusercontent.com/u/836171?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mpdehaan",
+        "avatar": "https://avatars.githubusercontent.com/u/17700?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mattclay",
+        "avatar": "https://avatars.githubusercontent.com/u/806360?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jimi-c",
+        "avatar": "https://avatars.githubusercontent.com/u/26403?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/abadger",
+        "avatar": "https://avatars.githubusercontent.com/u/209242?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/ansible/ansible",
+    "name": "ansible/ansible",
+    "description": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a la nguage that approaches p lain English, using SSH, with no agents to install on remote systems.  https://docs.ansible.com  .  ",
+    "language": "Python",
+    "stars": "69894",
+    "forks": "24252",
+    "increased": "29 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/OrKoN",
+        "avatar": "https://avatars.githubusercontent.com/u/399150?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Lightning00Blade",
+        "avatar": "https://avatars.githubusercontent.com/u/34244704?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/browser-automation-bot",
+        "avatar": "https://avatars.githubusercontent.com/u/133232582?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/nroscino",
+        "avatar": "https://avatars.githubusercontent.com/u/230381409?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+    "name": "ChromeDevTools/chrome-devtools-mcp",
+    "description": "Chrome DevTools for coding agents  ",
+    "language": "TypeScript",
+    "stars": "48076",
+    "forks": "3261",
+    "increased": "80 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/kohsuke",
+        "avatar": "https://avatars.githubusercontent.com/u/50003?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jglick",
+        "avatar": "https://avatars.githubusercontent.com/u/154109?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/daniel-beck",
+        "avatar": "https://avatars.githubusercontent.com/u/1831569?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/oleg-nenashev",
+        "avatar": "https://avatars.githubusercontent.com/u/3000480?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/jenkinsci/jenkins",
+    "name": "jenkinsci/jenkins",
+    "description": "Jenkins automation server  ",
+    "language": "Java",
+    "stars": "26303",
+    "forks": "9718",
+    "increased": "25 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/agavra",
+        "avatar": "https://avatars.githubusercontent.com/u/3172405?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/martintrojer",
+        "avatar": "https://avatars.githubusercontent.com/u/1161940?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ptoussai",
+        "avatar": "https://avatars.githubusercontent.com/u/35198053?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/agavra/tuicr",
+    "name": "agavra/tuicr",
+    "description": "a code review TUI with vim keybindings  ",
+    "language": "Rust",
+    "stars": "1877",
+    "forks": "161",
+    "increased": "190 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/affaan-m",
+        "avatar": "https://avatars.githubusercontent.com/u/124439313?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pangerlkr",
+        "avatar": "https://avatars.githubusercontent.com/u/73515951?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/affaan-m/ECC",
+    "name": "affaan-m/ECC",
+    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.  ",
+    "language": "JavaScript",
+    "stars": "236248",
+    "forks": "35926",
+    "increased": "804 stars today"
+  }
+]
