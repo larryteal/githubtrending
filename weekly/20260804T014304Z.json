@@ -1,0 +1,492 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/wesbillman",
+        "avatar": "https://avatars.githubusercontent.com/u/51647?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/wpfleger96",
+        "avatar": "https://avatars.githubusercontent.com/u/15384764?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tlongwell-block",
+        "avatar": "https://avatars.githubusercontent.com/u/109685178?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/klopez4212",
+        "avatar": "https://avatars.githubusercontent.com/u/7863796?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/block/buzz",
+    "name": "block/buzz",
+    "description": "A hive mind communication platform  ",
+    "language": "Rust",
+    "stars": "21867",
+    "forks": "2393",
+    "increased": "7372 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/leestott",
+        "avatar": "https://avatars.githubusercontent.com/u/2511341?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/skytin1004",
+        "avatar": "https://avatars.githubusercontent.com/u/99078115?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jlooper",
+        "avatar": "https://avatars.githubusercontent.com/u/1450004?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/shwars",
+        "avatar": "https://avatars.githubusercontent.com/u/2892110?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/BethanyJep",
+        "avatar": "https://avatars.githubusercontent.com/u/44121227?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/microsoft/AI-For-Beginners",
+    "name": "microsoft/AI-For-Beginners",
+    "description": "12 Weeks, 24 Lessons, AI for All!  ",
+    "language": "Jupyter Notebook",
+    "stars": "60788",
+    "forks": "11838",
+    "increased": "7554 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/virgiliojr94",
+        "avatar": "https://avatars.githubusercontent.com/u/23645449?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dex0shubham",
+        "avatar": "https://avatars.githubusercontent.com/u/183437397?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Marcelluxx",
+        "avatar": "https://avatars.githubusercontent.com/u/38981901?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/virgiliojr94/book-to-skill",
+    "name": "virgiliojr94/book-to-skill",
+    "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.  ",
+    "language": "Python",
+    "stars": "15939",
+    "forks": "1705",
+    "increased": "5405 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/zhaoxuya520",
+        "avatar": "https://avatars.githubusercontent.com/u/147215175?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sakukir",
+        "avatar": "https://avatars.githubusercontent.com/u/140924318?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dhicoc",
+        "avatar": "https://avatars.githubusercontent.com/u/94750419?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/doublecurry",
+        "avatar": "https://avatars.githubusercontent.com/u/30251656?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/zhaoxuya",
+        "avatar": "https://avatars.githubusercontent.com/u/32364788?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/zhaoxuya520/reverse-skill",
+    "name": "zhaoxuya520/reverse-skill",
+    "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端  ",
+    "language": "PowerShell",
+    "stars": "15869",
+    "forks": "2236",
+    "increased": "6154 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ayghri",
+        "avatar": "https://avatars.githubusercontent.com/u/32200675?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/thejesh23",
+        "avatar": "https://avatars.githubusercontent.com/u/35212698?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jabrahamtech",
+        "avatar": "https://avatars.githubusercontent.com/u/86552437?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/isatimur",
+        "avatar": "https://avatars.githubusercontent.com/u/2364511?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/ayghri/i-have-adhd",
+    "name": "ayghri/i-have-adhd",
+    "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.  ",
+    "language": "Python",
+    "stars": "16310",
+    "forks": "918",
+    "increased": "5012 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/1jehuang",
+        "avatar": "https://avatars.githubusercontent.com/u/94247773?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/luciusrockwing",
+        "avatar": "https://avatars.githubusercontent.com/u/2353385?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/FabianAmherd",
+        "avatar": "https://avatars.githubusercontent.com/u/56603175?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/hongnoul",
+        "avatar": "https://avatars.githubusercontent.com/u/139717591?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/1jehuang/jcode",
+    "name": "1jehuang/jcode",
+    "description": "The most RAM efficient harness  ",
+    "language": "Rust",
+    "stars": "15597",
+    "forks": "1720",
+    "increased": "3735 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/nekomeowww",
+        "avatar": "https://avatars.githubusercontent.com/u/11081491?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/luoling8192",
+        "avatar": "https://avatars.githubusercontent.com/u/44741987?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/shinohara-rin",
+        "avatar": "https://avatars.githubusercontent.com/u/25588514?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sumimakito",
+        "avatar": "https://avatars.githubusercontent.com/u/5277268?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/moeru-ai/airi",
+    "name": "moeru-ai/airi",
+    "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.  ",
+    "language": "TypeScript",
+    "stars": "46717",
+    "forks": "4609",
+    "increased": "2978 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/giswqs",
+        "avatar": "https://avatars.githubusercontent.com/u/5016453?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Ayush7614",
+        "avatar": "https://avatars.githubusercontent.com/u/67006255?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/opengeos/GeoLibre",
+    "name": "opengeos/GeoLibre",
+    "description": "A lightw eight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.  ",
+    "language": "TypeScript",
+    "stars": "5210",
+    "forks": "517",
+    "increased": "2630 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/wass08",
+        "avatar": "https://avatars.githubusercontent.com/u/6551176?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Aymericr",
+        "avatar": "https://avatars.githubusercontent.com/u/4444492?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sudhir9297",
+        "avatar": "https://avatars.githubusercontent.com/u/19578447?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/open-pascal",
+        "avatar": "https://avatars.githubusercontent.com/u/271033448?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/pascalorg/editor",
+    "name": "pascalorg/editor",
+    "description": "Create and share 3D architectural projects.  ",
+    "language": "TypeScript",
+    "stars": "20940",
+    "forks": "2678",
+    "increased": "2953 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/benjaminshafii",
+        "avatar": "https://avatars.githubusercontent.com/u/11430621?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/src-opn",
+        "avatar": "https://avatars.githubusercontent.com/u/270187002?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jcllobet",
+        "avatar": "https://avatars.githubusercontent.com/u/22689750?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/release-bot",
+        "avatar": "https://avatars.githubusercontent.com/u/6581690?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/actions-user",
+        "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/different-ai/openwork",
+    "name": "different-ai/openwork",
+    "description": "The open-source alternative to Claude Cowork (powered by opencode)  ",
+    "language": "TypeScript",
+    "stars": "20685",
+    "forks": "2033",
+    "increased": "3429 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/rohitprasad15",
+        "avatar": "https://avatars.githubusercontent.com/u/1796239?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/drp8226",
+        "avatar": "https://avatars.githubusercontent.com/u/291557675?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ksolo",
+        "avatar": "https://avatars.githubusercontent.com/u/103829?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/standsleeping",
+        "avatar": "https://avatars.githubusercontent.com/u/5633095?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tavinashb",
+        "avatar": "https://avatars.githubusercontent.com/u/7972024?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/andrewyng/aisuite",
+    "name": "andrewyng/aisuite",
+    "description": "Simple, unified interface to multiple Generative AI pr oviders  ",
+    "language": "Python",
+    "stars": "15964",
+    "forks": "1684",
+    "increased": "444 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/lizhengfeng101",
+        "avatar": "https://avatars.githubusercontent.com/u/254839944?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/chethanuk",
+        "avatar": "https://avatars.githubusercontent.com/u/16241795?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/stay-foolish-forever",
+        "avatar": "https://avatars.githubusercontent.com/u/61303077?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/MuoDoo",
+        "avatar": "https://avatars.githubusercontent.com/u/36472129?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/alibaba/open-code-review",
+    "name": "alibaba/open-code-review",
+    "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.  ",
+    "language": "Go",
+    "stars": "18455",
+    "forks": "1243",
+    "increased": "3881 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/section9-lab",
+        "avatar": "https://avatars.githubusercontent.com/u/22140958?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/WUXM5",
+        "avatar": "https://avatars.githubusercontent.com/u/77671587?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/aute",
+        "avatar": "https://avatars.githubusercontent.com/u/17873165?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/braxtonROSE4",
+        "avatar": "https://avatars.githubusercontent.com/u/84236270?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/citrolabs/ego-lite",
+    "name": "citrolabs/ego-lite",
+    "description": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.  ",
+    "language": "JavaScript",
+    "stars": "8044",
+    "forks": "394",
+    "increased": "2625 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/juliusmarminge",
+        "avatar": "https://avatars.githubusercontent.com/u/51714798?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/codex",
+        "avatar": "https://avatars.githubusercontent.com/u/267193182?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/t3dotgg",
+        "avatar": "https://avatars.githubusercontent.com/u/6751787?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cursoragent",
+        "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/pingdotgg/t3code",
+    "name": "pingdotgg/t3code",
+    "language": "TypeScript",
+    "stars": "16510",
+    "forks": "3695",
+    "increased": "1270 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/JeffreyXiang",
+        "avatar": "https://avatars.githubusercontent.com/u/45420254?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/microsoft/TRELLIS.2",
+    "name": "microsoft/TRELLIS.2",
+    "description": "Native and Compact Structured Latents for 3D Generation  ",
+    "language": "Python",
+    "stars": "10318",
+    "forks": "1235",
+    "increased": "1250 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/earthtojake",
+        "avatar": "https://avatars.githubusercontent.com/u/10742417?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rootsbymenda",
+        "avatar": "https://avatars.githubusercontent.com/u/259458795?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/arronzhang",
+        "avatar": "https://avatars.githubusercontent.com/u/53879?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/earthtojake/text-to-cad",
+    "name": "earthtojake/text-to-cad",
+    "description": "A library of agent skills for CAD, CAE and CAM  ",
+    "language": "JavaScript",
+    "stars": "12695",
+    "forks": "1342",
+    "increased": "1908 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/lyogavin",
+        "avatar": "https://avatars.githubusercontent.com/u/1113905?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cursoragent",
+        "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/eltociear",
+        "avatar": "https://avatars.githubusercontent.com/u/22633385?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/NavodPeiris",
+        "avatar": "https://avatars.githubusercontent.com/u/69672640?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/lyogavin/airllm",
+    "name": "lyogavin/airllm",
+    "description": "AirLLM 70B inference with single 4GB GPU  ",
+    "language": "Jupyter Notebook",
+    "stars": "27177",
+    "forks": "2976",
+    "increased": "2410 stars this week"
+  }
+]
