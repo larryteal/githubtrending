@@ -1,0 +1,373 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/aron-cf",
+        "avatar": "https://avatars.githubusercontent.com/u/263346377?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ndisidore",
+        "avatar": "https://avatars.githubusercontent.com/u/1103087?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ghostwriternr",
+        "avatar": "https://avatars.githubusercontent.com/u/10023615?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mattzcarey",
+        "avatar": "https://avatars.githubusercontent.com/u/77928207?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/cloudflare/computer",
+    "name": "cloudflare/computer",
+    "description": "Give your agent a computer 👾  ",
+    "language": "TypeScript",
+    "stars": "3056",
+    "forks": "140",
+    "increased": "891 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/huangruiteng",
+        "avatar": "https://avatars.githubusercontent.com/u/14976749?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cocolord",
+        "avatar": "https://avatars.githubusercontent.com/u/17559402?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ZaynJarvis",
+        "avatar": "https://avatars.githubusercontent.com/u/31875147?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Hoey041",
+        "avatar": "https://avatars.githubusercontent.com/u/291707971?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Ray0907",
+        "avatar": "https://avatars.githubusercontent.com/u/29456968?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/huangruiteng/loopx",
+    "name": "huangruiteng/loopx",
+    "description": "Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs.  ",
+    "language": "Python",
+    "stars": "2164",
+    "forks": "163",
+    "increased": "326 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Maxwell-Code07",
+        "avatar": "https://avatars.githubusercontent.com/u/95488710?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Yuntong8888",
+        "avatar": "https://avatars.githubusercontent.com/u/277734672?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+    "name": "TencentCloud/TencentDB-Agent-Memory",
+    "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.  ",
+    "language": "TypeScript",
+    "stars": "15103",
+    "forks": "1374",
+    "increased": "1892 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/donnemartin",
+        "avatar": "https://avatars.githubusercontent.com/u/5458997?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cclauss",
+        "avatar": "https://avatars.githubusercontent.com/u/3709715?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/satob",
+        "avatar": "https://avatars.githubusercontent.com/u/171818?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/fluency03",
+        "avatar": "https://avatars.githubusercontent.com/u/7440735?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/luisbg",
+        "avatar": "https://avatars.githubusercontent.com/u/303663?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/donnemartin/system-design-primer",
+    "name": "donnemartin/system-design-primer",
+    "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.  ",
+    "language": "Python",
+    "stars": "361567",
+    "forks": "57653",
+    "increased": "303 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/abimaelmartell",
+        "avatar": "https://avatars.githubusercontent.com/u/1450169?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cursoragent",
+        "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rth",
+        "avatar": "https://avatars.githubusercontent.com/u/630936?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bryan",
+        "avatar": "https://avatars.githubusercontent.com/u/2567118?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/firecrawl/pdf-inspector",
+    "name": "firecrawl/pdf-inspector",
+    "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.  ",
+    "language": "Rust",
+    "stars": "11498",
+    "forks": "770",
+    "increased": "1582 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/SivanCola",
+        "avatar": "https://avatars.githubusercontent.com/u/32437197?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/esengine",
+        "avatar": "https://avatars.githubusercontent.com/u/18465053?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ttmouse",
+        "avatar": "https://avatars.githubusercontent.com/u/8982044?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/lifu963",
+        "avatar": "https://avatars.githubusercontent.com/u/56394323?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cursoragent",
+        "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/esengine/DeepSeek-Reasonix",
+    "name": "esengine/DeepSeek-Reasonix",
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.  ",
+    "language": "Go",
+    "stars": "31661",
+    "forks": "2033",
+    "increased": "747 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/addyosmani",
+        "avatar": "https://avatars.githubusercontent.com/u/110953?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/nucliweb",
+        "avatar": "https://avatars.githubusercontent.com/u/1307927?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/federicobartoli",
+        "avatar": "https://avatars.githubusercontent.com/u/27234034?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dj2313",
+        "avatar": "https://avatars.githubusercontent.com/u/103351705?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/addyosmani/agent-skills",
+    "name": "addyosmani/agent-skills",
+    "description": "Production-grade engineering skills for AI coding agents.  ",
+    "language": "JavaScript",
+    "stars": "82004",
+    "forks": "8824",
+    "increased": "226 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/obra",
+        "avatar": "https://avatars.githubusercontent.com/u/45416?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/arittr",
+        "avatar": "https://avatars.githubusercontent.com/u/5742859?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/clkao",
+        "avatar": "https://avatars.githubusercontent.com/u/69736?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jjshanks",
+        "avatar": "https://avatars.githubusercontent.com/u/62661?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/obra/superpowers",
+    "name": "obra/superpowers",
+    "description": "An agentic skills framework &amp; software development methodology that works.  ",
+    "language": "Shell",
+    "stars": "267326",
+    "forks": "23886",
+    "increased": "931 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/SkalskiP",
+        "avatar": "https://avatars.githubusercontent.com/u/26109316?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/onuralpszr",
+        "avatar": "https://avatars.githubusercontent.com/u/1688848?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Borda",
+        "avatar": "https://avatars.githubusercontent.com/u/6035284?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/roboflow/supervision",
+    "name": "roboflow/supervision",
+    "description": "We write your reusable computer vision tools. 💜  ",
+    "language": "Python",
+    "stars": "48934",
+    "forks": "4618",
+    "increased": "146 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ijjk",
+        "avatar": "https://avatars.githubusercontent.com/u/22380829?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/timneutkens",
+        "avatar": "https://avatars.githubusercontent.com/u/6324199?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sokra",
+        "avatar": "https://avatars.githubusercontent.com/u/1365881?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/vercel-release-bot",
+        "avatar": "https://avatars.githubusercontent.com/u/88769842?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/huozhi",
+        "avatar": "https://avatars.githubusercontent.com/u/4800338?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/vercel/next.js",
+    "name": "vercel/next.js",
+    "description": "The React Framework  ",
+    "language": "JavaScript",
+    "stars": "141561",
+    "forks": "31681",
+    "increased": "68 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/adamwathan",
+        "avatar": "https://avatars.githubusercontent.com/u/4323180?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/RobinMalfait",
+        "avatar": "https://avatars.githubusercontent.com/u/1834413?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/thecrypticace",
+        "avatar": "https://avatars.githubusercontent.com/u/614993?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/reinink",
+        "avatar": "https://avatars.githubusercontent.com/u/882133?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/tailwindlabs/tailwindcss",
+    "name": "tailwindlabs/tailwindcss",
+    "description": "A utility-first CSS framework for rapid UI development.  ",
+    "language": "TypeScript",
+    "stars": "96870",
+    "forks": "5549",
+    "increased": "408 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/lghupan",
+        "avatar": "https://avatars.githubusercontent.com/u/2167458?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cmvan",
+        "avatar": "https://avatars.githubusercontent.com/u/66971827?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cm-howard",
+        "avatar": "https://avatars.githubusercontent.com/u/71087272?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/barisozbas",
+        "avatar": "https://avatars.githubusercontent.com/u/32777706?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/uber/ADR",
+    "name": "uber/ADR",
+    "description": "ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber.  ",
+    "language": "Python",
+    "stars": "1059",
+    "forks": "85",
+    "increased": "354 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/lyogavin",
+        "avatar": "https://avatars.githubusercontent.com/u/1113905?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cursoragent",
+        "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/eltociear",
+        "avatar": "https://avatars.githubusercontent.com/u/22633385?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/NavodPeiris",
+        "avatar": "https://avatars.githubusercontent.com/u/69672640?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/lyogavin/airllm",
+    "name": "lyogavin/airllm",
+    "description": "AirLLM 70B inference with single 4GB GPU  ",
+    "language": "Jupyter Notebook",
+    "stars": "29111",
+    "forks": "3127",
+    "increased": "833 stars today"
+  }
+]
