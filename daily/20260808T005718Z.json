@@ -1,0 +1,460 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/kevinjosethomas",
+        "avatar": "https://avatars.githubusercontent.com/u/46242684?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/snimu",
+        "avatar": "https://avatars.githubusercontent.com/u/110109193?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sethkarten",
+        "avatar": "https://avatars.githubusercontent.com/u/32787133?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/alexzhang13",
+        "avatar": "https://avatars.githubusercontent.com/u/13501287?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/samsja",
+        "avatar": "https://avatars.githubusercontent.com/u/55492238?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/PrimeIntellect-ai/prime-agent",
+    "name": "PrimeIntellect-ai/prime-agent",
+    "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.  ",
+    "language": "TypeScript",
+    "stars": "6533",
+    "forks": "520",
+    "increased": "2293 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/addyosmani",
+        "avatar": "https://avatars.githubusercontent.com/u/110953?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/nucliweb",
+        "avatar": "https://avatars.githubusercontent.com/u/1307927?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/federicobartoli",
+        "avatar": "https://avatars.githubusercontent.com/u/27234034?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Liyuk",
+        "avatar": "https://avatars.githubusercontent.com/u/5470381?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/addyosmani/agent-skills",
+    "name": "addyosmani/agent-skills",
+    "description": "Production-grade engineering skills for AI coding agents.  ",
+    "language": "JavaScript",
+    "stars": "83903",
+    "forks": "8965",
+    "increased": "1131 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/aron-cf",
+        "avatar": "https://avatars.githubusercontent.com/u/263346377?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ndisidore",
+        "avatar": "https://avatars.githubusercontent.com/u/1103087?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ghostwriternr",
+        "avatar": "https://avatars.githubusercontent.com/u/10023615?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mattzcarey",
+        "avatar": "https://avatars.githubusercontent.com/u/77928207?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/cloudflare/computer",
+    "name": "cloudflare/computer",
+    "description": "Give your agent a computer 👾  ",
+    "language": "TypeScript",
+    "stars": "5717",
+    "forks": "289",
+    "increased": "872 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/mattpocock",
+        "avatar": "https://avatars.githubusercontent.com/u/28293365?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/gabimoncha",
+        "avatar": "https://avatars.githubusercontent.com/u/39256258?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/mattpocock/skills",
+    "name": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .agents directory.  ",
+    "language": "Shell",
+    "stars": "208819",
+    "forks": "18023",
+    "increased": "2152 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/obra",
+        "avatar": "https://avatars.githubusercontent.com/u/45416?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/arittr",
+        "avatar": "https://avatars.githubusercontent.com/u/5742859?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/clkao",
+        "avatar": "https://avatars.githubusercontent.com/u/69736?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jjshanks",
+        "avatar": "https://avatars.githubusercontent.com/u/62661?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/obra/superpowers",
+    "name": "obra/superpowers",
+    "description": "An agentic skills framework &amp; software development methodology that works.  ",
+    "language": "Shell",
+    "stars": "268747",
+    "forks": "23998",
+    "increased": "782 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/BeryJu",
+        "avatar": "https://avatars.githubusercontent.com/u/1932513?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rissson",
+        "avatar": "https://avatars.githubusercontent.com/u/18313093?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/goauthentik/authentik",
+    "name": "goauthentik/authentik",
+    "description": "The authentication glue you need.  ",
+    "language": "Python",
+    "stars": "23597",
+    "forks": "1804",
+    "increased": "530 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/KaifAhmad1",
+        "avatar": "https://avatars.githubusercontent.com/u/98801504?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Sameer6305",
+        "avatar": "https://avatars.githubusercontent.com/u/169603553?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ZohaibHassan16",
+        "avatar": "https://avatars.githubusercontent.com/u/109234410?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/semantica-agi/semantica",
+    "name": "semantica-agi/semantica",
+    "description": "Graph-Native Infrastructure for Context and Accountable AI Systems  ",
+    "language": "Python",
+    "stars": "2347",
+    "forks": "305",
+    "increased": "122 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/666ghj",
+        "avatar": "https://avatars.githubusercontent.com/u/110395318?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Ghostubborn",
+        "avatar": "https://avatars.githubusercontent.com/u/15389158?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/anupamme",
+        "avatar": "https://avatars.githubusercontent.com/u/667857?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/harshitanand",
+        "avatar": "https://avatars.githubusercontent.com/u/8389627?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/666ghj/MiroFish",
+    "name": "666ghj/MiroFish",
+    "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物  ",
+    "language": "Python",
+    "stars": "70508",
+    "forks": "10988",
+    "increased": "141 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/chenyme",
+        "avatar": "https://avatars.githubusercontent.com/u/118253778?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/piexian",
+        "avatar": "https://avatars.githubusercontent.com/u/64474352?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/lijirou12",
+        "avatar": "https://avatars.githubusercontent.com/u/121499347?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Soein",
+        "avatar": "https://avatars.githubusercontent.com/u/46989741?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Huan-zhaojun",
+        "avatar": "https://avatars.githubusercontent.com/u/111294954?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/chenyme/grok2api",
+    "name": "chenyme/grok2api",
+    "description": "Multi-account API gateway for Grok Build, Grok Web, and Grok Console  ",
+    "language": "Go",
+    "stars": "7141",
+    "forks": "2170",
+    "increased": "55 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/jdx",
+        "avatar": "https://avatars.githubusercontent.com/u/216188?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mise-en-dev",
+        "avatar": "https://avatars.githubusercontent.com/u/123107610?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/jdx/mise",
+    "name": "jdx/mise",
+    "description": "dev tools, env vars, task runner  ",
+    "language": "Rust",
+    "stars": "32069",
+    "forks": "1332",
+    "increased": "135 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Pwuts",
+        "avatar": "https://avatars.githubusercontent.com/u/12185583?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/majdyz",
+        "avatar": "https://avatars.githubusercontent.com/u/76959103?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Auto-GPT-Bot",
+        "avatar": "https://avatars.githubusercontent.com/u/133978099?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ntindle",
+        "avatar": "https://avatars.githubusercontent.com/u/8845353?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Swiftyos",
+        "avatar": "https://avatars.githubusercontent.com/u/10382233?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Significant-Gravitas/AutoGPT",
+    "name": "Significant-Gravitas/AutoGPT",
+    "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.  ",
+    "language": "Python",
+    "stars": "186322",
+    "forks": "46061",
+    "increased": "355 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/cpovirk",
+        "avatar": "https://avatars.githubusercontent.com/u/1703908?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cgdecker",
+        "avatar": "https://avatars.githubusercontent.com/u/101568?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kluever",
+        "avatar": "https://avatars.githubusercontent.com/u/2036304?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/lowasser",
+        "avatar": "https://avatars.githubusercontent.com/u/544569?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/google/guava",
+    "name": "google/guava",
+    "description": "Google core libraries for Java  ",
+    "language": "Java",
+    "stars": "51761",
+    "forks": "11173",
+    "increased": "152 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/unclebob",
+        "avatar": "https://avatars.githubusercontent.com/u/36901?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/LupusDei",
+        "avatar": "https://avatars.githubusercontent.com/u/36439?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/janschill",
+        "avatar": "https://avatars.githubusercontent.com/u/26876570?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/unclebob/swarm-forge",
+    "name": "unclebob/swarm-forge",
+    "description": "A simple tool for coordinating several AI agents.  ",
+    "language": "Clojure",
+    "stars": "1831",
+    "forks": "201",
+    "increased": "81 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ry",
+        "avatar": "https://avatars.githubusercontent.com/u/80?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/magurotuna",
+        "avatar": "https://avatars.githubusercontent.com/u/23649474?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/wperron",
+        "avatar": "https://avatars.githubusercontent.com/u/37561740?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/denoland/celld",
+    "name": "denoland/celld",
+    "description": "self-hosted, distributed Durable Objects  ",
+    "language": "Rust",
+    "stars": "2206",
+    "forks": "62",
+    "increased": "516 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/K2SOsint",
+        "avatar": "https://avatars.githubusercontent.com/u/85451432?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/alievinfo",
+        "avatar": "https://avatars.githubusercontent.com/u/4084014?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/stanfrbd",
+        "avatar": "https://avatars.githubusercontent.com/u/44167150?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/K2SOsint/Legendary_OSINT",
+    "name": "K2SOsint/Legendary_OSINT",
+    "description": "A list of OSINT tools &amp; resources for (fraud-)investigators, CTI-analysts, KYC, AML and more.  ",
+    "stars": "1428",
+    "forks": "189",
+    "increased": "109 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/pranshuparmar",
+        "avatar": "https://avatars.githubusercontent.com/u/4262592?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/chojs23",
+        "avatar": "https://avatars.githubusercontent.com/u/55792153?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/gaod",
+        "avatar": "https://avatars.githubusercontent.com/u/78291?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/pranshuparmar/witr",
+    "name": "pranshuparmar/witr",
+    "description": "Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.  ",
+    "language": "Go",
+    "stars": "19749",
+    "forks": "639",
+    "increased": "234 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/cloud-ix-copybara",
+        "avatar": "https://avatars.githubusercontent.com/u/277152880?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/holtskinner",
+        "avatar": "https://avatars.githubusercontent.com/u/13262395?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/martinvarelaj",
+        "avatar": "https://avatars.githubusercontent.com/u/52255361?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/helloeve",
+        "avatar": "https://avatars.githubusercontent.com/u/2510012?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jsondai",
+        "avatar": "https://avatars.githubusercontent.com/u/44714045?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/google/skills",
+    "name": "google/skills",
+    "description": "Agent Skills for Google products and technologies  ",
+    "language": "Python",
+    "stars": "16249",
+    "forks": "1289",
+    "increased": "327 stars today"
+  }
+]
