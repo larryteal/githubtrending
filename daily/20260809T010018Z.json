@@ -1,0 +1,313 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/kevinjosethomas",
+        "avatar": "https://avatars.githubusercontent.com/u/46242684?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/snimu",
+        "avatar": "https://avatars.githubusercontent.com/u/110109193?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sethkarten",
+        "avatar": "https://avatars.githubusercontent.com/u/32787133?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/alexzhang13",
+        "avatar": "https://avatars.githubusercontent.com/u/13501287?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/samsja",
+        "avatar": "https://avatars.githubusercontent.com/u/55492238?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/PrimeIntellect-ai/prime-agent",
+    "name": "PrimeIntellect-ai/prime-agent",
+    "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.  ",
+    "language": "TypeScript",
+    "stars": "8954",
+    "forks": "858",
+    "increased": "2483 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/addyosmani",
+        "avatar": "https://avatars.githubusercontent.com/u/110953?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/nucliweb",
+        "avatar": "https://avatars.githubusercontent.com/u/1307927?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/federicobartoli",
+        "avatar": "https://avatars.githubusercontent.com/u/27234034?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Liyuk",
+        "avatar": "https://avatars.githubusercontent.com/u/5470381?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/addyosmani/agent-skills",
+    "name": "addyosmani/agent-skills",
+    "description": "Production-grade engineering skills for AI coding agents.  ",
+    "language": "JavaScript",
+    "stars": "84569",
+    "forks": "9107",
+    "increased": "779 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/TapXWorld",
+        "avatar": "https://avatars.githubusercontent.com/u/3353541?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/keminshu",
+        "avatar": "https://avatars.githubusercontent.com/u/10050045?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/TapXWorld/ChinaTextbook",
+    "name": "TapXWorld/ChinaTextbook",
+    "description": "所有小初高、大学PDF教材。  ",
+    "language": "Roff",
+    "stars": "77934",
+    "forks": "17654",
+    "increased": "118 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/cloud-ix-copybara",
+        "avatar": "https://avatars.githubusercontent.com/u/277152880?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/holtskinner",
+        "avatar": "https://avatars.githubusercontent.com/u/13262395?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/martinvarelaj",
+        "avatar": "https://avatars.githubusercontent.com/u/52255361?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/helloeve",
+        "avatar": "https://avatars.githubusercontent.com/u/2510012?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jsondai",
+        "avatar": "https://avatars.githubusercontent.com/u/44714045?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/google/skills",
+    "name": "google/skills",
+    "description": "Agent Skills for Google products and technologies  ",
+    "language": "Python",
+    "stars": "16737",
+    "forks": "1370",
+    "increased": "481 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/mattpocock",
+        "avatar": "https://avatars.githubusercontent.com/u/28293365?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/gabimoncha",
+        "avatar": "https://avatars.githubusercontent.com/u/39256258?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/mattpocock/skills",
+    "name": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .agents directory.  ",
+    "language": "Shell",
+    "stars": "210019",
+    "forks": "18142",
+    "increased": "1359 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/BeryJu",
+        "avatar": "https://avatars.githubusercontent.com/u/1932513?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rissson",
+        "avatar": "https://avatars.githubusercontent.com/u/18313093?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/goauthentik/authentik",
+    "name": "goauthentik/authentik",
+    "description": "The authentication glue you need.  ",
+    "language": "Python",
+    "stars": "23976",
+    "forks": "1836",
+    "increased": "467 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Yijia-Xiao",
+        "avatar": "https://avatars.githubusercontent.com/u/48253104?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/EdwardoSunny",
+        "avatar": "https://avatars.githubusercontent.com/u/68405458?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/CadeYu",
+        "avatar": "https://avatars.githubusercontent.com/u/91041827?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/luohy15",
+        "avatar": "https://avatars.githubusercontent.com/u/15189961?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/TauricResearch/TradingAgents",
+    "name": "TauricResearch/TradingAgents",
+    "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework  ",
+    "language": "Python",
+    "stars": "96477",
+    "forks": "18654",
+    "increased": "153 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/cpovirk",
+        "avatar": "https://avatars.githubusercontent.com/u/1703908?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cgdecker",
+        "avatar": "https://avatars.githubusercontent.com/u/101568?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kluever",
+        "avatar": "https://avatars.githubusercontent.com/u/2036304?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/lowasser",
+        "avatar": "https://avatars.githubusercontent.com/u/544569?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/google/guava",
+    "name": "google/guava",
+    "description": "Google core libraries for Java  ",
+    "language": "Java",
+    "stars": "51851",
+    "forks": "11180",
+    "increased": "93 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/awesomekling",
+        "avatar": "https://avatars.githubusercontent.com/u/5954907?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/trflynn89",
+        "avatar": "https://avatars.githubusercontent.com/u/5600524?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/AtkinsSJ",
+        "avatar": "https://avatars.githubusercontent.com/u/222642?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/linusg",
+        "avatar": "https://avatars.githubusercontent.com/u/19366641?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kalenikaliaksandr",
+        "avatar": "https://avatars.githubusercontent.com/u/45686940?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/LadybirdBrowser/ladybird",
+    "name": "LadybirdBrowser/ladybird",
+    "description": "Truly ind ependent web browser   ",
+    "language": "C++",
+    "stars": "64988",
+    "forks": "3104",
+    "increased": "48 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ry",
+        "avatar": "https://avatars.githubusercontent.com/u/80?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/magurotuna",
+        "avatar": "https://avatars.githubusercontent.com/u/23649474?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/wperron",
+        "avatar": "https://avatars.githubusercontent.com/u/37561740?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/denoland/celld",
+    "name": "denoland/celld",
+    "description": "self-hosted, distributed Durable Objects  ",
+    "language": "Rust",
+    "stars": "2571",
+    "forks": "72",
+    "increased": "432 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/litu54",
+        "avatar": "https://avatars.githubusercontent.com/u/79752469?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/iam-veeramalla",
+        "avatar": "https://avatars.githubusercontent.com/u/43399466?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/TahirAkhlaq",
+        "avatar": "https://avatars.githubusercontent.com/u/20920506?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/chauhanniks",
+        "avatar": "https://avatars.githubusercontent.com/u/95372233?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/litu54/DevOps-Interview-Guide",
+    "name": "litu54/DevOps-Interview-Guide",
+    "description": "DevOps Interview Guide  ",
+    "stars": "706",
+    "forks": "884",
+    "increased": "68 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/bannedbook",
+        "avatar": "https://avatars.githubusercontent.com/u/4361923?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/crazyetiii",
+        "avatar": "https://avatars.githubusercontent.com/u/50905019?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/bannedbook/fanqiang",
+    "name": "bannedbook/fanqiang",
+    "description": "翻墙-科学上网  ",
+    "language": "Kotlin",
+    "stars": "49882",
+    "forks": "8254",
+    "increased": "101 stars today"
+  }
+]
