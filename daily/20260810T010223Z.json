@@ -1,0 +1,379 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/kevinjosethomas",
+        "avatar": "https://avatars.githubusercontent.com/u/46242684?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/snimu",
+        "avatar": "https://avatars.githubusercontent.com/u/110109193?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sethkarten",
+        "avatar": "https://avatars.githubusercontent.com/u/32787133?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/alexzhang13",
+        "avatar": "https://avatars.githubusercontent.com/u/13501287?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/samsja",
+        "avatar": "https://avatars.githubusercontent.com/u/55492238?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/PrimeIntellect-ai/prime-agent",
+    "name": "PrimeIntellect-ai/prime-agent",
+    "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.  ",
+    "language": "TypeScript",
+    "stars": "11099",
+    "forks": "1154",
+    "increased": "2356 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/vitali87",
+        "avatar": "https://avatars.githubusercontent.com/u/22404335?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ZuebeyirEser",
+        "avatar": "https://avatars.githubusercontent.com/u/140069682?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/vitali87/code-graph-rag",
+    "name": "vitali87/code-graph-rag",
+    "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs  ",
+    "language": "Python",
+    "stars": "2985",
+    "forks": "519",
+    "increased": "96 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/rasbt",
+        "avatar": "https://avatars.githubusercontent.com/u/5618407?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/d-kleine",
+        "avatar": "https://avatars.githubusercontent.com/u/53251018?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Intelligence-Manifesto",
+        "avatar": "https://avatars.githubusercontent.com/u/155522535?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/casinca",
+        "avatar": "https://avatars.githubusercontent.com/u/47400729?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rayed-therap",
+        "avatar": "https://avatars.githubusercontent.com/u/4649183?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/rasbt/LLMs-from-scratch",
+    "name": "rasbt/LLMs-from-scratch",
+    "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step  ",
+    "language": "Jupyter Notebook",
+    "stars": "102051",
+    "forks": "15639",
+    "increased": "611 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/msitarzewski",
+        "avatar": "https://avatars.githubusercontent.com/u/1972242?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/epowelljr",
+        "avatar": "https://avatars.githubusercontent.com/u/7342666?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/4shil",
+        "avatar": "https://avatars.githubusercontent.com/u/166588383?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Hotragn",
+        "avatar": "https://avatars.githubusercontent.com/u/103170876?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/msitarzewski/agency-agents",
+    "name": "msitarzewski/agency-agents",
+    "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.  ",
+    "language": "Shell",
+    "stars": "140682",
+    "forks": "22982",
+    "increased": "858 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/pranshuparmar",
+        "avatar": "https://avatars.githubusercontent.com/u/4262592?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/chojs23",
+        "avatar": "https://avatars.githubusercontent.com/u/55792153?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/gaod",
+        "avatar": "https://avatars.githubusercontent.com/u/78291?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/pranshuparmar/witr",
+    "name": "pranshuparmar/witr",
+    "description": "Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.  ",
+    "language": "Go",
+    "stars": "20662",
+    "forks": "726",
+    "increased": "210 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/alvarosg",
+        "avatar": "https://avatars.githubusercontent.com/u/12649253?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/andrewlkd",
+        "avatar": "https://avatars.githubusercontent.com/u/60822006?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mjwillson",
+        "avatar": "https://avatars.githubusercontent.com/u/4502?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/voctav",
+        "avatar": "https://avatars.githubusercontent.com/u/1809626?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/danielsuo",
+        "avatar": "https://avatars.githubusercontent.com/u/2692566?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/google-deepmind/weathernext",
+    "name": "google-deepmind/weathernext",
+    "language": "Python",
+    "stars": "7089",
+    "forks": "938",
+    "increased": "86 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/addyosmani",
+        "avatar": "https://avatars.githubusercontent.com/u/110953?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/nucliweb",
+        "avatar": "https://avatars.githubusercontent.com/u/1307927?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/federicobartoli",
+        "avatar": "https://avatars.githubusercontent.com/u/27234034?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Liyuk",
+        "avatar": "https://avatars.githubusercontent.com/u/5470381?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/addyosmani/agent-skills",
+    "name": "addyosmani/agent-skills",
+    "description": "Production-grade engineering skills for AI coding agents.  ",
+    "language": "JavaScript",
+    "stars": "85141",
+    "forks": "9162",
+    "increased": "680 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ZhuLinsen",
+        "avatar": "https://avatars.githubusercontent.com/u/42829555?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/massif-01",
+        "avatar": "https://avatars.githubusercontent.com/u/176381099?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/freesme",
+        "avatar": "https://avatars.githubusercontent.com/u/56824280?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Activer007",
+        "avatar": "https://avatars.githubusercontent.com/u/30621586?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/birdxs",
+        "avatar": "https://avatars.githubusercontent.com/u/36181736?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/ZhuLinsen/daily_stock_analysis",
+    "name": "ZhuLinsen/daily_stock_analysis",
+    "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.  ",
+    "language": "Python",
+    "stars": "61193",
+    "forks": "51997",
+    "increased": "306 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/BeryJu",
+        "avatar": "https://avatars.githubusercontent.com/u/1932513?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rissson",
+        "avatar": "https://avatars.githubusercontent.com/u/18313093?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/goauthentik/authentik",
+    "name": "goauthentik/authentik",
+    "description": "The authentication glue you need.  ",
+    "language": "Python",
+    "stars": "24274",
+    "forks": "1858",
+    "increased": "310 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/cloud-ix-copybara",
+        "avatar": "https://avatars.githubusercontent.com/u/277152880?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/holtskinner",
+        "avatar": "https://avatars.githubusercontent.com/u/13262395?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/martinvarelaj",
+        "avatar": "https://avatars.githubusercontent.com/u/52255361?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/helloeve",
+        "avatar": "https://avatars.githubusercontent.com/u/2510012?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jsondai",
+        "avatar": "https://avatars.githubusercontent.com/u/44714045?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/google/skills",
+    "name": "google/skills",
+    "description": "Agent Skills for Google products and technologies  ",
+    "language": "Python",
+    "stars": "17225",
+    "forks": "1393",
+    "increased": "528 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/comfyanonymous",
+        "avatar": "https://avatars.githubusercontent.com/u/121283862?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bigcat88",
+        "avatar": "https://avatars.githubusercontent.com/u/13381981?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pythongosssss",
+        "avatar": "https://avatars.githubusercontent.com/u/125205205?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/comfyui-wiki",
+        "avatar": "https://avatars.githubusercontent.com/u/192523189?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rattus128",
+        "avatar": "https://avatars.githubusercontent.com/u/46076784?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Comfy-Org/ComfyUI",
+    "name": "Comfy-Org/ComfyUI",
+    "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.  ",
+    "language": "Python",
+    "stars": "125523",
+    "forks": "14842",
+    "increased": "365 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/spencerp",
+        "avatar": "https://avatars.githubusercontent.com/u/1254056?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/JulioPereyra93",
+        "avatar": "https://avatars.githubusercontent.com/u/119368867?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ngrupen",
+        "avatar": "https://avatars.githubusercontent.com/u/7979515?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/calvinqi",
+        "avatar": "https://avatars.githubusercontent.com/u/13633268?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/harveyai/harvey-labs",
+    "name": "harveyai/harvey-labs",
+    "description": "A benchmark built to evaluate and improve agent capabilities for supporting legal work.  ",
+    "language": "Python",
+    "stars": "827",
+    "forks": "176",
+    "increased": "47 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/juliusmarminge",
+        "avatar": "https://avatars.githubusercontent.com/u/51714798?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/codex",
+        "avatar": "https://avatars.githubusercontent.com/u/267193182?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/t3dotgg",
+        "avatar": "https://avatars.githubusercontent.com/u/6751787?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cursoragent",
+        "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/pingdotgg/t3code",
+    "name": "pingdotgg/t3code",
+    "language": "TypeScript",
+    "stars": "17660",
+    "forks": "4011",
+    "increased": "163 stars today"
+  }
+]
