@@ -1,0 +1,512 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/cathrynlavery",
+        "avatar": "https://avatars.githubusercontent.com/u/50469282?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mvanhorn",
+        "avatar": "https://avatars.githubusercontent.com/u/455140?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/web-flow",
+        "avatar": "https://avatars.githubusercontent.com/u/19864447?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/parveen0029",
+        "avatar": "https://avatars.githubusercontent.com/u/174610155?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/daanmlab",
+        "avatar": "https://avatars.githubusercontent.com/u/57676953?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/cathrynlavery/diagram-design",
+    "name": "cathrynlavery/diagram-design",
+    "description": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.  ",
+    "language": "HTML",
+    "stars": "10458",
+    "forks": "675",
+    "increased": "2855 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/whutchinson98",
+        "avatar": "https://avatars.githubusercontent.com/u/6412775?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/gbirman",
+        "avatar": "https://avatars.githubusercontent.com/u/25272206?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/synoet",
+        "avatar": "https://avatars.githubusercontent.com/u/10552019?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sedson",
+        "avatar": "https://avatars.githubusercontent.com/u/11590722?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/evanhutnik",
+        "avatar": "https://avatars.githubusercontent.com/u/35308761?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/macro-inc/macro",
+    "name": "macro-inc/macro",
+    "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.  ",
+    "language": "Rust",
+    "stars": "1818",
+    "forks": "225",
+    "increased": "227 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/KaifAhmad1",
+        "avatar": "https://avatars.githubusercontent.com/u/98801504?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Sameer6305",
+        "avatar": "https://avatars.githubusercontent.com/u/169603553?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ZohaibHassan16",
+        "avatar": "https://avatars.githubusercontent.com/u/109234410?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/semantica-agi/semantica",
+    "name": "semantica-agi/semantica",
+    "description": "Graph-Native Infrastructure for Context and Accountable AI Systems  ",
+    "language": "Python",
+    "stars": "5722",
+    "forks": "624",
+    "increased": "845 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/nwparker",
+        "avatar": "https://avatars.githubusercontent.com/u/4138956?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/orca-ide",
+        "avatar": "https://avatars.githubusercontent.com/u/277417572?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/AmethystLiang",
+        "avatar": "https://avatars.githubusercontent.com/u/6427696?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/brennanb2025",
+        "avatar": "https://avatars.githubusercontent.com/u/79079362?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Jinwoo-H",
+        "avatar": "https://avatars.githubusercontent.com/u/73622457?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/stablyai/orca",
+    "name": "stablyai/orca",
+    "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.  ",
+    "language": "TypeScript",
+    "stars": "43897",
+    "forks": "3057",
+    "increased": "1235 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/msitarzewski",
+        "avatar": "https://avatars.githubusercontent.com/u/1972242?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/epowelljr",
+        "avatar": "https://avatars.githubusercontent.com/u/7342666?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/4shil",
+        "avatar": "https://avatars.githubusercontent.com/u/166588383?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Hotragn",
+        "avatar": "https://avatars.githubusercontent.com/u/103170876?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/msitarzewski/agency-agents",
+    "name": "msitarzewski/agency-agents",
+    "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.  ",
+    "language": "Shell",
+    "stars": "144574",
+    "forks": "23418",
+    "increased": "1873 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/shiyu-coder",
+        "avatar": "https://avatars.githubusercontent.com/u/65760973?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Luciferbobo",
+        "avatar": "https://avatars.githubusercontent.com/u/54936491?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/CharlesJ-ABu",
+        "avatar": "https://avatars.githubusercontent.com/u/18326516?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/AnMakc",
+        "avatar": "https://avatars.githubusercontent.com/u/1777564?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/randyy179",
+        "avatar": "https://avatars.githubusercontent.com/u/129808685?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/shiyu-coder/Kronos",
+    "name": "shiyu-coder/Kronos",
+    "description": "Kronos: A Foundation Model for the Language of Financial Markets  ",
+    "language": "Python",
+    "stars": "36943",
+    "forks": "6150",
+    "increased": "266 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/NanmiCoder",
+        "avatar": "https://avatars.githubusercontent.com/u/47178017?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/2513502304",
+        "avatar": "https://avatars.githubusercontent.com/u/129171955?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/gaoxiaobei",
+        "avatar": "https://avatars.githubusercontent.com/u/99178334?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/persist-1",
+        "avatar": "https://avatars.githubusercontent.com/u/206997360?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/NanmiCoder/MediaCrawler",
+    "name": "NanmiCoder/MediaCrawler",
+    "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫  ",
+    "language": "Python",
+    "stars": "61974",
+    "forks": "12125",
+    "increased": "215 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/hugohe3",
+        "avatar": "https://avatars.githubusercontent.com/u/188330578?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/WodenJay",
+        "avatar": "https://avatars.githubusercontent.com/u/185591438?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/shenqili",
+        "avatar": "https://avatars.githubusercontent.com/u/22169353?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/shandianchengzi",
+        "avatar": "https://avatars.githubusercontent.com/u/58585665?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/hugohe3/ppt-master",
+    "name": "hugohe3/ppt-master",
+    "description": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He  ",
+    "language": "Python",
+    "stars": "45585",
+    "forks": "3715",
+    "increased": "476 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/cike8899",
+        "avatar": "https://avatars.githubusercontent.com/u/8089971?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/KevinHuSh",
+        "avatar": "https://avatars.githubusercontent.com/u/12318111?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/JinHai-CN",
+        "avatar": "https://avatars.githubusercontent.com/u/33142505?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/writinwaters",
+        "avatar": "https://avatars.githubusercontent.com/u/93570324?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/yuzhichang",
+        "avatar": "https://avatars.githubusercontent.com/u/153784?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/infiniflow/ragflow",
+    "name": "infiniflow/ragflow",
+    "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs  ",
+    "language": "Go",
+    "stars": "87551",
+    "forks": "10310",
+    "increased": "139 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/cryppadotta",
+        "avatar": "https://avatars.githubusercontent.com/u/34892728?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Paperclip-Paperclip",
+        "avatar": "https://avatars.githubusercontent.com/u/271391591?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/devinfoley",
+        "avatar": "https://avatars.githubusercontent.com/u/139239?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/forgottendev",
+        "avatar": "https://avatars.githubusercontent.com/u/88843729?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/paperclipai/paperclip",
+    "name": "paperclipai/paperclip",
+    "description": "The open-source app everyone uses to manage agents at work  ",
+    "language": "TypeScript",
+    "stars": "77741",
+    "forks": "14299",
+    "increased": "571 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/nachiketb-nvidia",
+        "avatar": "https://avatars.githubusercontent.com/u/197974741?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/elyasmnvidian",
+        "avatar": "https://avatars.githubusercontent.com/u/186739590?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/grahamking",
+        "avatar": "https://avatars.githubusercontent.com/u/180418?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ayushag-nv",
+        "avatar": "https://avatars.githubusercontent.com/u/208532109?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ryan-lempka",
+        "avatar": "https://avatars.githubusercontent.com/u/196090752?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/NVIDIA-NeMo/Switchyard",
+    "name": "NVIDIA-NeMo/Switchyard",
+    "language": "Rust",
+    "stars": "826",
+    "forks": "86",
+    "increased": "421 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/an-lee",
+        "avatar": "https://avatars.githubusercontent.com/u/22209056?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/xiaolai",
+        "avatar": "https://avatars.githubusercontent.com/u/152970?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/lyricat",
+        "avatar": "https://avatars.githubusercontent.com/u/67439?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/zgw010",
+        "avatar": "https://avatars.githubusercontent.com/u/26003810?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/divisey",
+        "avatar": "https://avatars.githubusercontent.com/u/26423172?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/ZuodaoTech/everyone-can-use-english",
+    "name": "ZuodaoTech/everyone-can-use-english",
+    "description": "人人都能用英语  ",
+    "language": "TypeScript",
+    "stars": "36078",
+    "forks": "5027",
+    "increased": "86 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/smicallef",
+        "avatar": "https://avatars.githubusercontent.com/u/1687345?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bcoles",
+        "avatar": "https://avatars.githubusercontent.com/u/434827?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/krishnasism",
+        "avatar": "https://avatars.githubusercontent.com/u/21293324?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/amrawadk",
+        "avatar": "https://avatars.githubusercontent.com/u/29049599?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/leotrubach",
+        "avatar": "https://avatars.githubusercontent.com/u/890689?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/smicallef/spiderfoot",
+    "name": "smicallef/spiderfoot",
+    "description": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.  ",
+    "language": "Python",
+    "stars": "20350",
+    "forks": "3300",
+    "increased": "74 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Tienisto",
+        "avatar": "https://avatars.githubusercontent.com/u/38380847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sergd88",
+        "avatar": "https://avatars.githubusercontent.com/u/125032334?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ShlomoCode",
+        "avatar": "https://avatars.githubusercontent.com/u/78599753?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/TheGB0077",
+        "avatar": "https://avatars.githubusercontent.com/u/39922116?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/gidano",
+        "avatar": "https://avatars.githubusercontent.com/u/4068977?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/localsend/localsend",
+    "name": "localsend/localsend",
+    "description": "An open-source cross-platform alternative to AirDrop  ",
+    "language": "Dart",
+    "stars": "87815",
+    "forks": "4872",
+    "increased": "213 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/michaellightricks",
+        "avatar": "https://avatars.githubusercontent.com/u/17297304?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/AlexeyKravtsov1987",
+        "avatar": "https://avatars.githubusercontent.com/u/109453818?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Lightricks/LTX-2",
+    "name": "Lightricks/LTX-2",
+    "description": "Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model.  ",
+    "language": "Python",
+    "stars": "8713",
+    "forks": "1397",
+    "increased": "65 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/johnsonr",
+        "avatar": "https://avatars.githubusercontent.com/u/1916583?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/alexheifetz",
+        "avatar": "https://avatars.githubusercontent.com/u/2858254?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/igordayen",
+        "avatar": "https://avatars.githubusercontent.com/u/165492669?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jasperblues",
+        "avatar": "https://avatars.githubusercontent.com/u/430321?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/poutsma",
+        "avatar": "https://avatars.githubusercontent.com/u/330665?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/embabel/embabel-agent",
+    "name": "embabel/embabel-agent",
+    "description": "Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/  ",
+    "language": "Kotlin",
+    "stars": "4225",
+    "forks": "411",
+    "increased": "40 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/HenryNdubuaku",
+        "avatar": "https://avatars.githubusercontent.com/u/26547576?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ncylich",
+        "avatar": "https://avatars.githubusercontent.com/u/75380243?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kar-m",
+        "avatar": "https://avatars.githubusercontent.com/u/52249278?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/justinl66",
+        "avatar": "https://avatars.githubusercontent.com/u/128657146?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jakmro",
+        "avatar": "https://avatars.githubusercontent.com/u/115979017?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/cactus-compute/needle",
+    "name": "cactus-compute/needle",
+    "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.  ",
+    "language": "Python",
+    "stars": "4230",
+    "forks": "304",
+    "increased": "315 stars today"
+  }
+]
