@@ -1,0 +1,215 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/shigma",
+        "avatar": "https://avatars.githubusercontent.com/u/33423008?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Hieuzest",
+        "avatar": "https://avatars.githubusercontent.com/u/16983883?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/undefined-moe",
+        "avatar": "https://avatars.githubusercontent.com/u/29992205?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/CyanChanges",
+        "avatar": "https://avatars.githubusercontent.com/u/68551684?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/imccyu",
+        "avatar": "https://avatars.githubusercontent.com/u/276526105?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/cordiverse/cordis",
+    "name": "cordiverse/cordis",
+    "description": "Meta-Framework of Spatiotemporal Composability  ",
+    "language": "TypeScript",
+    "stars": "4715",
+    "forks": "249",
+    "increased": "720 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/dhh",
+        "avatar": "https://avatars.githubusercontent.com/u/2741?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ryanrhughes",
+        "avatar": "https://avatars.githubusercontent.com/u/1630358?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tahayvr",
+        "avatar": "https://avatars.githubusercontent.com/u/77543049?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pomartel",
+        "avatar": "https://avatars.githubusercontent.com/u/26983?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/basecamp/omarchy",
+    "name": "basecamp/omarchy",
+    "description": "Beautiful, Modern &amp; Opinionated Linux  ",
+    "language": "Shell",
+    "stars": "25374",
+    "forks": "2589",
+    "increased": "270 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/danielhanchen",
+        "avatar": "https://avatars.githubusercontent.com/u/23090290?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/shimmyshimmer",
+        "avatar": "https://avatars.githubusercontent.com/u/107991372?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/wasimysaid",
+        "avatar": "https://avatars.githubusercontent.com/u/112766706?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Datta0",
+        "avatar": "https://avatars.githubusercontent.com/u/39181234?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/unslothai/unsloth",
+    "name": "unslothai/unsloth",
+    "description": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.  ",
+    "language": "Python",
+    "stars": "72571",
+    "forks": "6545",
+    "increased": "572 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/mazeincoding",
+        "avatar": "https://avatars.githubusercontent.com/u/167211895?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/izadoesdev",
+        "avatar": "https://avatars.githubusercontent.com/u/59828082?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/anwarulislam",
+        "avatar": "https://avatars.githubusercontent.com/u/26295990?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/khanguyen74",
+        "avatar": "https://avatars.githubusercontent.com/u/50540913?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/DevloperAmanSingh",
+        "avatar": "https://avatars.githubusercontent.com/u/80804989?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/OpenCut-app/OpenCut",
+    "name": "OpenCut-app/OpenCut",
+    "description": "The open-source CapCut alternative  ",
+    "language": "TypeScript",
+    "stars": "83887",
+    "forks": "8283",
+    "increased": "150 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/matheusfelipeog",
+        "avatar": "https://avatars.githubusercontent.com/u/50463866?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/davemachado",
+        "avatar": "https://avatars.githubusercontent.com/u/15134885?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ArindamOSS",
+        "avatar": "https://avatars.githubusercontent.com/u/278394627?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pawelborkar",
+        "avatar": "https://avatars.githubusercontent.com/u/36134699?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jbrooksuk",
+        "avatar": "https://avatars.githubusercontent.com/u/246103?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/public-apis/public-apis",
+    "name": "public-apis/public-apis",
+    "description": "A collective list of free APIs  ",
+    "language": "Python",
+    "stars": "461745",
+    "forks": "51006",
+    "increased": "1588 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/johnsoncherian",
+        "avatar": "https://avatars.githubusercontent.com/u/57667706?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/adishM98",
+        "avatar": "https://avatars.githubusercontent.com/u/44204658?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Navaneeth-pk",
+        "avatar": "https://avatars.githubusercontent.com/u/7828962?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/gsmithun4",
+        "avatar": "https://avatars.githubusercontent.com/u/3417097?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/arpitnath",
+        "avatar": "https://avatars.githubusercontent.com/u/67645175?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/ToolJet/ToolJet",
+    "name": "ToolJet/ToolJet",
+    "description": "ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀  ",
+    "language": "JavaScript",
+    "stars": "40025",
+    "forks": "5330",
+    "increased": "452 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/HenryNdubuaku",
+        "avatar": "https://avatars.githubusercontent.com/u/26547576?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ncylich",
+        "avatar": "https://avatars.githubusercontent.com/u/75380243?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kar-m",
+        "avatar": "https://avatars.githubusercontent.com/u/52249278?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/justinl66",
+        "avatar": "https://avatars.githubusercontent.com/u/128657146?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jakmro",
+        "avatar": "https://avatars.githubusercontent.com/u/115979017?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/cactus-compute/needle",
+    "name": "cactus-compute/needle",
+    "description": " 14MB foundation model for tiny devices; phones, wearables, smart home, and robots.  ",
+    "language": "Python",
+    "stars": "6563",
+    "forks": "433",
+    "increased": "443 stars today"
+  }
+]
