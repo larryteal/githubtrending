@@ -1,0 +1,396 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/harry0703",
+        "avatar": "https://avatars.githubusercontent.com/u/4928832?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/yyhhyyyyyy",
+        "avatar": "https://avatars.githubusercontent.com/u/95077259?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/vuisme",
+        "avatar": "https://avatars.githubusercontent.com/u/96235876?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pcbntt",
+        "avatar": "https://avatars.githubusercontent.com/u/54718731?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/harry0703/MoneyPrinterTurbo",
+    "name": "harry0703/MoneyPrinterTurbo",
+    "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.  ",
+    "language": "Python",
+    "stars": "108522",
+    "forks": "16475",
+    "increased": "2304 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/chaitanyagiri",
+        "avatar": "https://avatars.githubusercontent.com/u/26071627?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pdurlej",
+        "avatar": "https://avatars.githubusercontent.com/u/1210027?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/qschmick",
+        "avatar": "https://avatars.githubusercontent.com/u/5342767?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/chaitanyagiri/munder-difflin",
+    "name": "chaitanyagiri/munder-difflin",
+    "description": "local multi-agent harness  ",
+    "language": "TypeScript",
+    "stars": "2030",
+    "forks": "239",
+    "increased": "306 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/akitaonrails",
+        "avatar": "https://avatars.githubusercontent.com/u/2840?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/djalmajr",
+        "avatar": "https://avatars.githubusercontent.com/u/1858147?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/wblech",
+        "avatar": "https://avatars.githubusercontent.com/u/8575320?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rthiago",
+        "avatar": "https://avatars.githubusercontent.com/u/1322752?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/akitaonrails/ai-memory",
+    "name": "akitaonrails/ai-memory",
+    "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors  ",
+    "language": "Rust",
+    "stars": "2721",
+    "forks": "232",
+    "increased": "648 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/qin-ctx",
+        "avatar": "https://avatars.githubusercontent.com/u/234610432?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/zhoujh01",
+        "avatar": "https://avatars.githubusercontent.com/u/242402223?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ZaynJarvis",
+        "avatar": "https://avatars.githubusercontent.com/u/31875147?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/r266-tech",
+        "avatar": "https://avatars.githubusercontent.com/u/233881301?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/volcengine/OpenViking",
+    "name": "volcengine/OpenViking",
+    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.  ",
+    "language": "Python",
+    "stars": "29374",
+    "forks": "2305",
+    "increased": "213 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/mukul975",
+        "avatar": "https://avatars.githubusercontent.com/u/42860185?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/valorisa",
+        "avatar": "https://avatars.githubusercontent.com/u/13067566?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/juliosuas",
+        "avatar": "https://avatars.githubusercontent.com/u/5745504?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/andrewibrah",
+        "avatar": "https://avatars.githubusercontent.com/u/157662519?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+    "name": "mukul975/Anthropic-Cybersecurity-Skills",
+    "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&amp;CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF &amp; MITRE F3 (Fight F raud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI &amp; 20+ platforms · 29 security domains · Apache 2.0  ",
+    "language": "Python",
+    "stars": "29186",
+    "forks": "3494",
+    "increased": "730 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/matheusfelipeog",
+        "avatar": "https://avatars.githubusercontent.com/u/50463866?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/davemachado",
+        "avatar": "https://avatars.githubusercontent.com/u/15134885?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ArindamOSS",
+        "avatar": "https://avatars.githubusercontent.com/u/278394627?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pawelborkar",
+        "avatar": "https://avatars.githubusercontent.com/u/36134699?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jbrooksuk",
+        "avatar": "https://avatars.githubusercontent.com/u/246103?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/public-apis/public-apis",
+    "name": "public-apis/public-apis",
+    "description": "A collective list of free APIs  ",
+    "language": "Python",
+    "stars": "464546",
+    "forks": "51316",
+    "increased": "1005 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/dhh",
+        "avatar": "https://avatars.githubusercontent.com/u/2741?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ryanrhughes",
+        "avatar": "https://avatars.githubusercontent.com/u/1630358?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tahayvr",
+        "avatar": "https://avatars.githubusercontent.com/u/77543049?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pomartel",
+        "avatar": "https://avatars.githubusercontent.com/u/26983?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/basecamp/omarchy",
+    "name": "basecamp/omarchy",
+    "description": "Beautiful, Modern &amp; Opinionated Linux  ",
+    "language": "Shell",
+    "stars": "26422",
+    "forks": "2688",
+    "increased": "356 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/agalwood",
+        "avatar": "https://avatars.githubusercontent.com/u/1032175?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/shatyuka",
+        "avatar": "https://avatars.githubusercontent.com/u/31368738?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dicarne",
+        "avatar": "https://avatars.githubusercontent.com/u/10357789?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kant",
+        "avatar": "https://avatars.githubusercontent.com/u/32717?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Raistlin916",
+        "avatar": "https://avatars.githubusercontent.com/u/2560402?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/agalwood/Motrix",
+    "name": "agalwood/Motrix",
+    "description": "A full-featured download manager.  ",
+    "language": "TypeScript",
+    "stars": "53656",
+    "forks": "4949",
+    "increased": "609 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/JJassonn69",
+        "avatar": "https://avatars.githubusercontent.com/u/83615043?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/NawfalMotii79",
+        "avatar": "https://avatars.githubusercontent.com/u/215612484?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/joyshmitz",
+        "avatar": "https://avatars.githubusercontent.com/u/11138019?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/shaun0927",
+        "avatar": "https://avatars.githubusercontent.com/u/70629228?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/3aLaee",
+        "avatar": "https://avatars.githubusercontent.com/u/102328514?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/NawfalMotii79/PLFM_RADAR",
+    "name": "NawfalMotii79/PLFM_RADAR",
+    "description": "Open-source, low-cost 10.5 GHz PLFM phased array RADAR system  ",
+    "language": "PLSQL",
+    "stars": "24298",
+    "forks": "5587",
+    "increased": "192 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/jundot",
+        "avatar": "https://avatars.githubusercontent.com/u/64250138?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cfbraun",
+        "avatar": "https://avatars.githubusercontent.com/u/6842433?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/JimStenstrom",
+        "avatar": "https://avatars.githubusercontent.com/u/30080538?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/jundot/omlx",
+    "name": "jundot/omlx",
+    "description": "LLM inference server with continuous batching &amp; SSD caching for Apple Silicon — managed from the macOS menu bar  ",
+    "language": "Python",
+    "stars": "19394",
+    "forks": "1669",
+    "increased": "370 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/bojieli",
+        "avatar": "https://avatars.githubusercontent.com/u/1421793?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/santhreal",
+        "avatar": "https://avatars.githubusercontent.com/u/64453045?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/whanyu1212",
+        "avatar": "https://avatars.githubusercontent.com/u/107110503?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/thejesh23",
+        "avatar": "https://avatars.githubusercontent.com/u/35212698?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/bojieli/ai-agent-book",
+    "name": "bojieli/ai-agent-book",
+    "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码  ",
+    "language": "Python",
+    "stars": "39105",
+    "forks": "4311",
+    "increased": "543 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/cristiam86",
+        "avatar": "https://avatars.githubusercontent.com/u/4550355?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/MuncleUscles",
+        "avatar": "https://avatars.githubusercontent.com/u/2372232?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/danieljrc888",
+        "avatar": "https://avatars.githubusercontent.com/u/185248547?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/albert-mr",
+        "avatar": "https://avatars.githubusercontent.com/u/58224660?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/JoaquinBN",
+        "avatar": "https://avatars.githubusercontent.com/u/47780609?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/genlayerlabs/genlayer-project-boilerplate",
+    "name": "genlayerlabs/genlayer-project-boilerplate",
+    "language": "TypeScript",
+    "stars": "15938",
+    "forks": "801",
+    "increased": "535 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/mazeincoding",
+        "avatar": "https://avatars.githubusercontent.com/u/167211895?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/izadoesdev",
+        "avatar": "https://avatars.githubusercontent.com/u/59828082?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/anwarulislam",
+        "avatar": "https://avatars.githubusercontent.com/u/26295990?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/khanguyen74",
+        "avatar": "https://avatars.githubusercontent.com/u/50540913?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/DevloperAmanSingh",
+        "avatar": "https://avatars.githubusercontent.com/u/80804989?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/OpenCut-app/OpenCut",
+    "name": "OpenCut-app/OpenCut",
+    "description": "The open-source CapCut alternative  ",
+    "language": "TypeScript",
+    "stars": "84775",
+    "forks": "8352",
+    "increased": "192 stars today"
+  }
+]

@@ -1,0 +1,423 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/cathrynlavery",
+        "avatar": "https://avatars.githubusercontent.com/u/50469282?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/parveen0029",
+        "avatar": "https://avatars.githubusercontent.com/u/174610155?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mvanhorn",
+        "avatar": "https://avatars.githubusercontent.com/u/455140?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/web-flow",
+        "avatar": "https://avatars.githubusercontent.com/u/19864447?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ggplab",
+        "avatar": "https://avatars.githubusercontent.com/u/39439424?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/cathrynlavery/diagram-design",
+    "name": "cathrynlavery/diagram-design",
+    "description": "27 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.  ",
+    "language": "HTML",
+    "stars": "21805",
+    "forks": "1334",
+    "increased": "15812 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/KaifAhmad1",
+        "avatar": "https://avatars.githubusercontent.com/u/98801504?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Sameer6305",
+        "avatar": "https://avatars.githubusercontent.com/u/169603553?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ZohaibHassan16",
+        "avatar": "https://avatars.githubusercontent.com/u/109234410?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/semantica-agi/semantica",
+    "name": "semantica-agi/semantica",
+    "description": "Graph-Native Infrastructure for Context and Accountable AI Systems  ",
+    "language": "Python",
+    "stars": "9008",
+    "forks": "928",
+    "increased": "4304 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/HenryNdubuaku",
+        "avatar": "https://avatars.githubusercontent.com/u/26547576?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ncylich",
+        "avatar": "https://avatars.githubusercontent.com/u/75380243?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kar-m",
+        "avatar": "https://avatars.githubusercontent.com/u/52249278?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/justinl66",
+        "avatar": "https://avatars.githubusercontent.com/u/128657146?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jakmro",
+        "avatar": "https://avatars.githubusercontent.com/u/115979017?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/cactus-compute/needle",
+    "name": "cactus-compute/needle",
+    "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.  ",
+    "language": "Python",
+    "stars": "7507",
+    "forks": "482",
+    "increased": "3772 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/megadose",
+        "avatar": "https://avatars.githubusercontent.com/u/51822495?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Eriys",
+        "avatar": "https://avatars.githubusercontent.com/u/70079220?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/novitae",
+        "avatar": "https://avatars.githubusercontent.com/u/85891169?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mxrch",
+        "avatar": "https://avatars.githubusercontent.com/u/17338428?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/byt3loss",
+        "avatar": "https://avatars.githubusercontent.com/u/72035730?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/megadose/holehe",
+    "name": "megadose/holehe",
+    "description": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.  ",
+    "language": "Python",
+    "stars": "13605",
+    "forks": "1787",
+    "increased": "1568 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/dhh",
+        "avatar": "https://avatars.githubusercontent.com/u/2741?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ryanrhughes",
+        "avatar": "https://avatars.githubusercontent.com/u/1630358?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tahayvr",
+        "avatar": "https://avatars.githubusercontent.com/u/77543049?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pomartel",
+        "avatar": "https://avatars.githubusercontent.com/u/26983?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/basecamp/omarchy",
+    "name": "basecamp/omarchy",
+    "description": "Beautiful, Modern &amp; Opinionated Linux  ",
+    "language": "Shell",
+    "stars": "26422",
+    "forks": "2688",
+    "increased": "1802 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/whutchinson98",
+        "avatar": "https://avatars.githubusercontent.com/u/6412775?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/gbirman",
+        "avatar": "https://avatars.githubusercontent.com/u/25272206?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/synoet",
+        "avatar": "https://avatars.githubusercontent.com/u/10552019?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sedson",
+        "avatar": "https://avatars.githubusercontent.com/u/11590722?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/evanhutnik",
+        "avatar": "https://avatars.githubusercontent.com/u/35308761?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/macro-inc/macro",
+    "name": "macro-inc/macro",
+    "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.  ",
+    "language": "Rust",
+    "stars": "3673",
+    "forks": "361",
+    "increased": "2627 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/danielhanchen",
+        "avatar": "https://avatars.githubusercontent.com/u/23090290?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/shimmyshimmer",
+        "avatar": "https://avatars.githubusercontent.com/u/107991372?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/wasimysaid",
+        "avatar": "https://avatars.githubusercontent.com/u/112766706?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Datta0",
+        "avatar": "https://avatars.githubusercontent.com/u/39181234?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/unslothai/unsloth",
+    "name": "unslothai/unsloth",
+    "description": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4 , DeepSeek-V4, FLUX and more.  ",
+    "language": "Python",
+    "stars": "73589",
+    "forks": "6647",
+    "increased": "3636 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/lightningpixel",
+        "avatar": "https://avatars.githubusercontent.com/u/63157773?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Lorchie",
+        "avatar": "https://avatars.githubusercontent.com/u/16082197?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/iammojogo-sudo",
+        "avatar": "https://avatars.githubusercontent.com/u/240378348?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/DrHepa",
+        "avatar": "https://avatars.githubusercontent.com/u/162889656?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jokrasno",
+        "avatar": "https://avatars.githubusercontent.com/u/157744625?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/lightningpixel/modly",
+    "name": "lightningpixel/modly",
+    "description": "Desktop app to generate 3D models from images or prompt using local AI — runs entirely on your GPU  ",
+    "language": "TypeScript",
+    "stars": "6689",
+    "forks": "654",
+    "increased": "1600 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/AlexsJones",
+        "avatar": "https://avatars.githubusercontent.com/u/1235925?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/three-foxes-in-a-trenchcoat",
+        "avatar": "https://avatars.githubusercontent.com/u/261414774?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/AlexsJones/llmfit",
+    "name": "AlexsJones/llmfit",
+    "description": "Hundreds of models &amp; providers. One command to find what runs on your hardware.  ",
+    "language": "Rust",
+    "stars": "32728",
+    "forks": "2021",
+    "increased": "1316 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/matheusfelipeog",
+        "avatar": "https://avatars.githubusercontent.com/u/50463866?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/davemachado",
+        "avatar": "https://avatars.githubusercontent.com/u/15134885?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ArindamOSS",
+        "avatar": "https://avatars.githubusercontent.com/u/278394627?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pawelborkar",
+        "avatar": "https://avatars.githubusercontent.com/u/36134699?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jbrooksuk",
+        "avatar": "https://avatars.githubusercontent.com/u/246103?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/public-apis/public-apis",
+    "name": "public-apis/public-apis",
+    "description": "A collective list of free APIs  ",
+    "language": "Python",
+    "stars": "464546",
+    "forks": "51316",
+    "increased": "8646 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/kevinjosethomas",
+        "avatar": "https://avatars.githubusercontent.com/u/46242684?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/snimu",
+        "avatar": "https://avatars.githubusercontent.com/u/110109193?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sethkarten",
+        "avatar": "https://avatars.githubusercontent.com/u/32787133?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/alexzhang13",
+        "avatar": "https://avatars.githubusercontent.com/u/13501287?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/samsja",
+        "avatar": "https://avatars.githubusercontent.com/u/55492238?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/PrimeIntellect-ai/prime-agent",
+    "name": "PrimeIntellect-ai/prime-agent",
+    "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.  ",
+    "language": "TypeScript",
+    "stars": "17192",
+    "forks": "1848",
+    "increased": "3475 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/3b1b",
+        "avatar": "https://avatars.githubusercontent.com/u/11601040?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/TonyCrane",
+        "avatar": "https://avatars.githubusercontent.com/u/44120331?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bhbr",
+        "avatar": "https://avatars.githubusercontent.com/u/13440601?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/YishiMichael",
+        "avatar": "https://avatars.githubusercontent.com/u/50232075?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/eulertour",
+        "avatar": "https://avatars.githubusercontent.com/u/43117506?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/3b1b/manim",
+    "name": "3b1b/manim",
+    "description": "Animation engine for explanatory math videos  ",
+    "language": "Python",
+    "stars": "91630",
+    "forks": "7564",
+    "increased": "1646 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/michaellightricks",
+        "avatar": "https://avatars.githubusercontent.com/u/17297304?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Bmantl",
+        "avatar": "https://avatars.githubusercontent.com/u/11200432?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/AlexeyKravtsov1987",
+        "avatar": "https://avatars.githubusercontent.com/u/109453818?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Lightricks/LTX-2",
+    "name": "Lightricks/LTX-2",
+    "description": "Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model.  ",
+    "language": "Python",
+    "stars": "9135",
+    "forks": "1436",
+    "increased": "556 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/vitali87",
+        "avatar": "https://avatars.githubusercontent.com/u/22404335?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ZuebeyirEser",
+        "avatar": "https://avatars.githubusercontent.com/u/140069682?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/vitali87/code-graph-rag",
+    "name": "vitali87/code-graph-rag",
+    "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs  ",
+    "language": "Python",
+    "stars": "4623",
+    "forks": "615",
+    "increased": "910 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/appcypher",
+        "avatar": "https://avatars.githubusercontent.com/u/20358651?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/toksdotdev",
+        "avatar": "https://avatars.githubusercontent.com/u/11903253?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/superradcompany/microsandbox",
+    "name": "superradcompany/microsandbox",
+    "description": "🧱 easy fast local-first microVM runtime and library  ",
+    "language": "Rust",
+    "stars": "7667",
+    "forks": "408",
+    "increased": "350 stars this week"
+  }
+]
