@@ -1,0 +1,379 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/harry0703",
+        "avatar": "https://avatars.githubusercontent.com/u/4928832?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/yyhhyyyyyy",
+        "avatar": "https://avatars.githubusercontent.com/u/95077259?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/vuisme",
+        "avatar": "https://avatars.githubusercontent.com/u/96235876?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pcbntt",
+        "avatar": "https://avatars.githubusercontent.com/u/54718731?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/harry0703/MoneyPrinterTurbo",
+    "name": "harry0703/MoneyPrinterTurbo",
+    "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.  ",
+    "language": "Python",
+    "stars": "110636",
+    "forks": "16784",
+    "increased": "2221 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/qin-ctx",
+        "avatar": "https://avatars.githubusercontent.com/u/234610432?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/zhoujh01",
+        "avatar": "https://avatars.githubusercontent.com/u/242402223?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ZaynJarvis",
+        "avatar": "https://avatars.githubusercontent.com/u/31875147?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/r266-tech",
+        "avatar": "https://avatars.githubusercontent.com/u/233881301?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/volcengine/OpenViking",
+    "name": "volcengine/OpenViking",
+    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.  ",
+    "language": "Python",
+    "stars": "30176",
+    "forks": "2335",
+    "increased": "804 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/chaitanyagiri",
+        "avatar": "https://avatars.githubusercontent.com/u/26071627?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pdurlej",
+        "avatar": "https://avatars.githubusercontent.com/u/1210027?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/qschmick",
+        "avatar": "https://avatars.githubusercontent.com/u/5342767?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/chaitanyagiri/munder-difflin",
+    "name": "chaitanyagiri/munder-difflin",
+    "description": "local multi-agent harness  ",
+    "language": "TypeScript",
+    "stars": "2687",
+    "forks": "321",
+    "increased": "795 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/mukul975",
+        "avatar": "https://avatars.githubusercontent.com/u/42860185?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/valorisa",
+        "avatar": "https://avatars.githubusercontent.com/u/13067566?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/juliosuas",
+        "avatar": "https://avatars.githubusercontent.com/u/5745504?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/andrewibrah",
+        "avatar": "https://avatars.githubusercontent.com/u/157662519?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+    "name": "mukul975/Anthropic-Cybersecurity-Skills",
+    "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&amp;CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF &amp; MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI &amp; 20+ platforms · 29 security domains · Apache 2.0  ",
+    "language": "Python",
+    "stars": "29836",
+    "forks": "3537",
+    "increased": "766 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/cjdsellers",
+        "avatar": "https://avatars.githubusercontent.com/u/22510164?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/limx0",
+        "avatar": "https://avatars.githubusercontent.com/u/4816153?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/filipmacek",
+        "avatar": "https://avatars.githubusercontent.com/u/16453976?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/faysou",
+        "avatar": "https://avatars.githubusercontent.com/u/893862?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/davidsblom",
+        "avatar": "https://avatars.githubusercontent.com/u/49148?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/nautechsystems/nautilus_trader",
+    "name": "nautechsystems/nautilus_trader",
+    "description": "Production-grade Rust-native trading engine with deterministic event-driven architecture  ",
+    "language": "Rust",
+    "stars": "26441",
+    "forks": "3419",
+    "increased": "80 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/mattpocock",
+        "avatar": "https://avatars.githubusercontent.com/u/28293365?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/gabimoncha",
+        "avatar": "https://avatars.githubusercontent.com/u/39256258?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/mattpocock/skills",
+    "name": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .agents directory.  ",
+    "language": "Shell",
+    "stars": "223793",
+    "forks": "19253",
+    "increased": "1894 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/obra",
+        "avatar": "https://avatars.githubusercontent.com/u/45416?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/arittr",
+        "avatar": "https://avatars.githubusercontent.com/u/5742859?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/clkao",
+        "avatar": "https://avatars.githubusercontent.com/u/69736?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jjshanks",
+        "avatar": "https://avatars.githubusercontent.com/u/62661?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/obra/superpowers",
+    "name": "obra/superpowers",
+    "description": "An agentic skills framework &amp; software development methodology that works.  ",
+    "language": "Shell",
+    "stars": "274264",
+    "forks": "24555",
+    "increased": "557 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/jundot",
+        "avatar": "https://avatars.githubusercontent.com/u/64250138?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cfbraun",
+        "avatar": "https://avatars.githubusercontent.com/u/6842433?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/JimStenstrom",
+        "avatar": "https://avatars.githubusercontent.com/u/30080538?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/jundot/omlx",
+    "name": "jundot/omlx",
+    "description": "LLM inference server with continuous batching &amp; SSD caching for Apple Silicon — managed from the macOS menu bar  ",
+    "language": "Python",
+    "stars": "19834",
+    "forks": "1690",
+    "increased": "472 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/santifer",
+        "avatar": "https://avatars.githubusercontent.com/u/256850418?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Schlaflied",
+        "avatar": "https://avatars.githubusercontent.com/u/187913759?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Scott-Emberson",
+        "avatar": "https://avatars.githubusercontent.com/u/8268155?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/abankar1",
+        "avatar": "https://avatars.githubusercontent.com/u/47008224?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/santifer/career-ops",
+    "name": "santifer/career-ops",
+    "description": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)  ",
+    "language": "JavaScript",
+    "stars": "65785",
+    "forks": "12739",
+    "increased": "198 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/alextran1502",
+        "avatar": "https://avatars.githubusercontent.com/u/27055614?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jrasm91",
+        "avatar": "https://avatars.githubusercontent.com/u/4334196?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/danieldietzler",
+        "avatar": "https://avatars.githubusercontent.com/u/36593685?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/shenlong-tanwen",
+        "avatar": "https://avatars.githubusercontent.com/u/139912620?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/immich-app/immich",
+    "name": "immich-app/immich",
+    "description": "High performance self-hosted photo and video management solution.  ",
+    "language": "TypeScript",
+    "stars": "111871",
+    "forks": "6628",
+    "increased": "128 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/vans163",
+        "avatar": "https://avatars.githubusercontent.com/u/3028982?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sdancer",
+        "avatar": "https://avatars.githubusercontent.com/u/2032197?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/valentynfaychuk",
+        "avatar": "https://avatars.githubusercontent.com/u/18701555?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Talentnodes",
+        "avatar": "https://avatars.githubusercontent.com/u/196571474?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/amadeusprotocol/node",
+    "name": "amadeusprotocol/node",
+    "language": "Rust",
+    "stars": "4540",
+    "forks": "85",
+    "increased": "1397 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/marceloprates",
+        "avatar": "https://avatars.githubusercontent.com/u/1848024?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/chrieke",
+        "avatar": "https://avatars.githubusercontent.com/u/12833517?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/G21-Goose",
+        "avatar": "https://avatars.githubusercontent.com/u/55803987?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/arichnad",
+        "avatar": "https://avatars.githubusercontent.com/u/501773?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/marceloprates/prettymaps",
+    "name": "marceloprates/prettymaps",
+    "description": "Draw pretty maps from OpenStreetMap data! Built with osmnx +matplotlib + shapely  ",
+    "language": "Python",
+    "stars": "13112",
+    "forks": "658",
+    "increased": "63 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/cristiam86",
+        "avatar": "https://avatars.githubusercontent.com/u/4550355?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/MuncleUscles",
+        "avatar": "https://avatars.githubusercontent.com/u/2372232?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/danieljrc888",
+        "avatar": "https://avatars.githubusercontent.com/u/185248547?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/albert-mr",
+        "avatar": "https://avatars.githubusercontent.com/u/58224660?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/JoaquinBN",
+        "avatar": "https://avatars.githubusercontent.com/u/47780609?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/genlayerlabs/genlayer-project-boilerplate",
+    "name": "genlayerlabs/genlayer-project-boilerplate",
+    "language": "TypeScript",
+    "stars": "16224",
+    "forks": "809",
+    "increased": "430 stars today"
+  }
+]
