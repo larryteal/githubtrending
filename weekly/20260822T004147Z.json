@@ -1,0 +1,474 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/shigma",
+        "avatar": "https://avatars.githubusercontent.com/u/33423008?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Hieuzest",
+        "avatar": "https://avatars.githubusercontent.com/u/16983883?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/undefined-moe",
+        "avatar": "https://avatars.githubusercontent.com/u/29992205?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/CyanChanges",
+        "avatar": "https://avatars.githubusercontent.com/u/68551684?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/imccyu",
+        "avatar": "https://avatars.githubusercontent.com/u/276526105?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/cordiverse/cordis",
+    "name": "cordiverse/cordis",
+    "description": "Meta-Framework of Spatiotemporal Composability  ",
+    "language": "TypeScript",
+    "stars": "6954",
+    "forks": "402",
+    "increased": "3614 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/cathrynlavery",
+        "avatar": "https://avatars.githubusercontent.com/u/50469282?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/parveen0029",
+        "avatar": "https://avatars.githubusercontent.com/u/174610155?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mvanhorn",
+        "avatar": "https://avatars.githubusercontent.com/u/455140?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/web-flow",
+        "avatar": "https://avatars.githubusercontent.com/u/19864447?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/0xDarkMatter",
+        "avatar": "https://avatars.githubusercontent.com/u/143511969?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/cathrynlavery/diagram-design",
+    "name": "cathrynlavery/diagram-design",
+    "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.  ",
+    "language": "HTML",
+    "stars": "25001",
+    "forks": "1522",
+    "increased": "8457 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/poteto",
+        "avatar": "https://avatars.githubusercontent.com/u/1390709?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cursoragent",
+        "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ericzakariasson",
+        "avatar": "https://avatars.githubusercontent.com/u/25622412?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/n2parko",
+        "avatar": "https://avatars.githubusercontent.com/u/5743232?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/SamSokolin",
+        "avatar": "https://avatars.githubusercontent.com/u/10885502?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/cursor/plugins",
+    "name": "cursor/plugins",
+    "description": "Cursor plugin specification and official plugins  ",
+    "language": "TypeScript",
+    "stars": "4398",
+    "forks": "366",
+    "increased": "1582 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/qin-ctx",
+        "avatar": "https://avatars.githubusercontent.com/u/234610432?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/zhoujh01",
+        "avatar": "https://avatars.githubusercontent.com/u/242402223?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ZaynJarvis",
+        "avatar": "https://avatars.githubusercontent.com/u/31875147?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/r266-tech",
+        "avatar": "https://avatars.githubusercontent.com/u/233881301?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/volcengine/OpenViking",
+    "name": "volcengine/OpenViking",
+    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.  ",
+    "language": "Python",
+    "stars": "31656",
+    "forks": "2424",
+    "increased": "3033 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/dhh",
+        "avatar": "https://avatars.githubusercontent.com/u/2741?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ryanrhughes",
+        "avatar": "https://avatars.githubusercontent.com/u/1630358?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tahayvr",
+        "avatar": "https://avatars.githubusercontent.com/u/77543049?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pomartel",
+        "avatar": "https://avatars.githubusercontent.com/u/26983?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/basecamp/omarchy",
+    "name": "basecamp/omarchy",
+    "description": "Beautiful, Modern &amp; Opinionated Linux  ",
+    "language": "Shell",
+    "stars": "27532",
+    "forks": "2817",
+    "increased": "2565 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/abduld",
+        "avatar": "https://avatars.githubusercontent.com/u/1404191?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/lattner",
+        "avatar": "https://avatars.githubusercontent.com/u/15152540?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/JoeLoser",
+        "avatar": "https://avatars.githubusercontent.com/u/6462525?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/keith",
+        "avatar": "https://avatars.githubusercontent.com/u/283886?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/atomicapple0",
+        "avatar": "https://avatars.githubusercontent.com/u/30697412?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/modular/modular",
+    "name": "modular/modular",
+    "description": "The Modular Platform (includes MAX &amp; Mojo)  ",
+    "language": "Mojo",
+    "stars": "28684",
+    "forks": "3053",
+    "increased": "1643 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/harry0703",
+        "avatar": "https://avatars.githubusercontent.com/u/4928832?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/yyhhyyyyyy",
+        "avatar": "https://avatars.githubusercontent.com/u/95077259?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/vuisme",
+        "avatar": "https://avatars.githubusercontent.com/u/96235876?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pcbntt",
+        "avatar": "https://avatars.githubusercontent.com/u/54718731?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/harry0703/MoneyPrinterTurbo",
+    "name": "harry0703/MoneyPrinterTurbo",
+    "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.  ",
+    "language": "Python",
+    "stars": "113905",
+    "forks": "17284",
+    "increased": "10470 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/matheusfelipeog",
+        "avatar": "https://avatars.githubusercontent.com/u/50463866?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/davemachado",
+        "avatar": "https://avatars.githubusercontent.com/u/15134885?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ArindamOSS",
+        "avatar": "https://avatars.githubusercontent.com/u/278394627?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pawelborkar",
+        "avatar": "https://avatars.githubusercontent.com/u/36134699?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jbrooksuk",
+        "avatar": "https://avatars.githubusercontent.com/u/246103?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/public-apis/public-apis",
+    "name": "public-apis/public-apis",
+    "description": "A collective list of free APIs  ",
+    "language": "Python",
+    "stars": "467998",
+    "forks": "51632",
+    "increased": "10990 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/KaifAhmad1",
+        "avatar": "https://avatars.githubusercontent.com/u/98801504?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Sameer6305",
+        "avatar": "https://avatars.githubusercontent.com/u/169603553?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ZohaibHassan16",
+        "avatar": "https://avatars.githubusercontent.com/u/109234410?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/semantica-agi/semantica",
+    "name": "semantica-agi/semantica",
+    "description": "Graph-Native Infrastructure for Context and Accountable AI Systems  ",
+    "language": "Python",
+    "stars": "10077",
+    "forks": "1077",
+    "increased": "2755 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/AprilNEA",
+        "avatar": "https://avatars.githubusercontent.com/u/37977109?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/davidbudnick",
+        "avatar": "https://avatars.githubusercontent.com/u/18271248?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cserby",
+        "avatar": "https://avatars.githubusercontent.com/u/14993439?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tagawa0525",
+        "avatar": "https://avatars.githubusercontent.com/u/108535?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/AprilNEA/OpenLogi",
+    "name": "AprilNEA/OpenLogi",
+    "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.   ",
+    "language": "Rust",
+    "stars": "12929",
+    "forks": "351",
+    "increased": "4054 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/HenryNdubuaku",
+        "avatar": "https://avatars.githubusercontent.com/u/26547576?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ncylich",
+        "avatar": "https://avatars.githubusercontent.com/u/75380243?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kar-m",
+        "avatar": "https://avatars.githubusercontent.com/u/52249278?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/justinl66",
+        "avatar": "https://avatars.githubusercontent.com/u/128657146?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/LeonSGP43",
+        "avatar": "https://avatars.githubusercontent.com/u/154585401?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/cactus-compute/needle",
+    "name": "cactus-compute/needle",
+    "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.  ",
+    "language": "Python",
+    "stars": "8338",
+    "forks": "537",
+    "increased": "2985 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/nachiketb-nvidia",
+        "avatar": "https://avatars.githubusercontent.com/u/197974741?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/elyasmnvidian",
+        "avatar": "https://avatars.githubusercontent.com/u/186739590?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/grahamking",
+        "avatar": "https://avatars.githubusercontent.com/u/180418?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ayushag-nv",
+        "avatar": "https://avatars.githubusercontent.com/u/208532109?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ryan-lempka",
+        "avatar": "https://avatars.githubusercontent.com/u/196090752?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/NVIDIA-NeMo/Switchyard",
+    "name": "NVIDIA-NeMo/Switchyard",
+    "description": "Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic API compatibility - enabling flexible model selection, benchmarking, and cost/performance optimization.  ",
+    "language": "Rust",
+    "stars": "2061",
+    "forks": "184",
+    "increased": "642 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/akitaonrails",
+        "avatar": "https://avatars.githubusercontent.com/u/2840?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/djalmajr",
+        "avatar": "https://avatars.githubusercontent.com/u/1858147?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/wblech",
+        "avatar": "https://avatars.githubusercontent.com/u/8575320?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rthiago",
+        "avatar": "https://avatars.githubusercontent.com/u/1322752?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/akitaonrails/ai-memory",
+    "name": "akitaonrails/ai-memory",
+    "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors  ",
+    "language": "Rust",
+    "stars": "3943",
+    "forks": "297",
+    "increased": "2404 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/AlexsJones",
+        "avatar": "https://avatars.githubusercontent.com/u/1235925?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/three-foxes-in-a-trenchcoat",
+        "avatar": "https://avatars.githubusercontent.com/u/261414774?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/AlexsJones/llmfit",
+    "name": "AlexsJones/llmfit",
+    "description": "Hundreds of models &amp; providers. One command to find what runs on your hardware.  ",
+    "language": "Rust",
+    "stars": "33448",
+    "forks": "2078",
+    "increased": "1991 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/danielhanchen",
+        "avatar": "https://avatars.githubusercontent.com/u/23090290?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/shimmyshimmer",
+        "avatar": "https://avatars.githubusercontent.com/u/107991372?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/wasimysaid",
+        "avatar": "https://avatars.githubusercontent.com/u/112766706?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Datta0",
+        "avatar": "https://avatars.githubusercontent.com/u/39181234?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/unslothai/unsloth",
+    "name": "unslothai/unsloth",
+    "description": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.  ",
+    "language": "Python",
+    "stars": "74269",
+    "forks": "6713",
+    "increased": "2987 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/jundot",
+        "avatar": "https://avatars.githubusercontent.com/u/64250138?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cfbraun",
+        "avatar": "https://avatars.githubusercontent.com/u/6842433?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/JimStenstrom",
+        "avatar": "https://avatars.githubusercontent.com/u/30080538?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/jundot/omlx",
+    "name": "jundot/omlx",
+    "description": "LLM inference server with continuous batching &amp; SSD caching for Apple Silicon — managed from the macOS menu bar  ",
+    "language": "Python",
+    "stars": "20224",
+    "forks": "1716",
+    "increased": "1536 stars this week"
+  }
+]
