@@ -1,0 +1,469 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/freestylefly",
+        "avatar": "https://avatars.githubusercontent.com/u/43960064?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ImgBotApp",
+        "avatar": "https://avatars.githubusercontent.com/u/31427850?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/LengShangbai",
+        "avatar": "https://avatars.githubusercontent.com/u/155434161?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sscodeai",
+        "avatar": "https://avatars.githubusercontent.com/u/284359760?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/freestylefly/awesome-gpt-image-2",
+    "name": "freestylefly/awesome-gpt-image-2",
+    "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中  ",
+    "language": "JavaScript",
+    "stars": "17728",
+    "forks": "1834",
+    "increased": "1698 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/bryan-anthropic",
+        "avatar": "https://avatars.githubusercontent.com/u/238056179?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tobinsouth",
+        "avatar": "https://avatars.githubusercontent.com/u/32489862?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ThariqS",
+        "avatar": "https://avatars.githubusercontent.com/u/140827?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/anthropics/claude-plugins-community",
+    "name": "anthropics/claude-plugins-community",
+    "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.  ",
+    "language": "Python",
+    "stars": "1746",
+    "forks": "178",
+    "increased": "351 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/MadsLorentzen",
+        "avatar": "https://avatars.githubusercontent.com/u/50207393?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ayobamiseun",
+        "avatar": "https://avatars.githubusercontent.com/u/66267222?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/oscarbol09",
+        "avatar": "https://avatars.githubusercontent.com/u/80536682?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/LeoWinston-9596",
+        "avatar": "https://avatars.githubusercontent.com/u/183295539?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/MadsLorentzen/ai-job-search",
+    "name": "MadsLorentzen/ai-job-search",
+    "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.  ",
+    "language": "Python",
+    "stars": "35264",
+    "forks": "12133",
+    "increased": "1265 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/jackwener",
+        "avatar": "https://avatars.githubusercontent.com/u/30525741?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Astro-Han",
+        "avatar": "https://avatars.githubusercontent.com/u/255364436?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/likun666661",
+        "avatar": "https://avatars.githubusercontent.com/u/90952590?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/M4n5ter",
+        "avatar": "https://avatars.githubusercontent.com/u/68144809?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/hqhq1025",
+        "avatar": "https://avatars.githubusercontent.com/u/78337154?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/apache/maka",
+    "name": "apache/maka",
+    "description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.  ",
+    "language": "TypeScript",
+    "stars": "3328",
+    "forks": "330",
+    "increased": "543 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Yijia-Xiao",
+        "avatar": "https://avatars.githubusercontent.com/u/48253104?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/EdwardoSunny",
+        "avatar": "https://avatars.githubusercontent.com/u/68405458?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/CadeYu",
+        "avatar": "https://avatars.githubusercontent.com/u/91041827?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/luohy15",
+        "avatar": "https://avatars.githubusercontent.com/u/15189961?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/TauricResearch/TradingAgents",
+    "name": "TauricResearch/TradingAgents",
+    "description": "TradingAgents: Multi- Agents LLM Financial Tra ding Framework  ",
+    "language": "Python",
+    "stars": "100243",
+    "forks": "19352",
+    "increased": "218 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/AgriciDaniel",
+        "avatar": "https://avatars.githubusercontent.com/u/223140489?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/AgriciDaniel/claude-obsidian",
+    "name": "AgriciDaniel/claude-obsidian",
+    "description": "Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal knowledge management (PKM), and an open-source Notion alternative. Based on Karpathy's LLM Wiki pattern.  ",
+    "language": "Python",
+    "stars": "12711",
+    "forks": "1380",
+    "increased": "813 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/rohitg00",
+        "avatar": "https://avatars.githubusercontent.com/u/48523873?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/abhinav-m22",
+        "avatar": "https://avatars.githubusercontent.com/u/113239388?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/thereisnotime",
+        "avatar": "https://avatars.githubusercontent.com/u/37583483?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/thejesh23",
+        "avatar": "https://avatars.githubusercontent.com/u/35212698?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/rohitg00/ai-engineering-from-scratch",
+    "name": "rohitg00/ai-engineering-from-scratch",
+    "description": "Learn it. Build it. Ship it for others.  ",
+    "language": "Python",
+    "stars": "48964",
+    "forks": "8564",
+    "increased": "569 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/senamakel",
+        "avatar": "https://avatars.githubusercontent.com/u/31011319?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/medullabot",
+        "avatar": "https://avatars.githubusercontent.com/u/306684653?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/graycyrus",
+        "avatar": "https://avatars.githubusercontent.com/u/144336577?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/M3gA-Mind",
+        "avatar": "https://avatars.githubusercontent.com/u/146339422?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/tinyhumansai/openhuman",
+    "name": "tinyhumansai/openhuman",
+    "description": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.  ",
+    "language": "Rust",
+    "stars": "37770",
+    "forks": "3735",
+    "increased": "542 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/dhh",
+        "avatar": "https://avatars.githubusercontent.com/u/2741?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ryanrhughes",
+        "avatar": "https://avatars.githubusercontent.com/u/1630358?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/omarchybot",
+        "avatar": "https://avatars.githubusercontent.com/u/317366263?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tahayvr",
+        "avatar": "https://avatars.githubusercontent.com/u/77543049?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/basecamp/omarchy",
+    "name": "basecamp/omarchy",
+    "description": "Beautiful, Modern &amp; Opinionated Linux  ",
+    "language": "Shell",
+    "stars": "31256",
+    "forks": "3180",
+    "increased": "1083 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Shubhamsaboo",
+        "avatar": "https://avatars.githubusercontent.com/u/31396011?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Madhuvod",
+        "avatar": "https://avatars.githubusercontent.com/u/124294538?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/onestardao",
+        "avatar": "https://avatars.githubusercontent.com/u/212544643?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/thejesh23",
+        "avatar": "https://avatars.githubusercontent.com/u/35212698?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+    "name": "Shubhamsaboo/awesome-llm-apps",
+    "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.  ",
+    "language": "Python",
+    "stars": "134225",
+    "forks": "19742",
+    "increased": "161 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/forrestchang",
+        "avatar": "https://avatars.githubusercontent.com/u/7857126?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/back1ply",
+        "avatar": "https://avatars.githubusercontent.com/u/45536170?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/herobrine19",
+        "avatar": "https://avatars.githubusercontent.com/u/45513138?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/szkocot",
+        "avatar": "https://avatars.githubusercontent.com/u/478549?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/multica-ai/andrej-karpathy-skills",
+    "name": "multica-ai/andrej-karpathy-skills",
+    "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.  ",
+    "stars": "207199",
+    "forks": "21144",
+    "increased": "830 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/jif-oai",
+        "avatar": "https://avatars.githubusercontent.com/u/230027070?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bolinfest",
+        "avatar": "https://avatars.githubusercontent.com/u/655869?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/aibrahim-oai",
+        "avatar": "https://avatars.githubusercontent.com/u/219906144?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/etraut-openai",
+        "avatar": "https://avatars.githubusercontent.com/u/223546144?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pakrym-oai",
+        "avatar": "https://avatars.githubusercontent.com/u/204937752?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/openai/codex",
+    "name": "openai/codex",
+    "description": "Lightweight coding agent that runs in your terminal  ",
+    "language": "Rust",
+    "stars": "118101",
+    "forks": "17995",
+    "increased": "1181 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/dlwh",
+        "avatar": "https://avatars.githubusercontent.com/u/9633?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rjpower",
+        "avatar": "https://avatars.githubusercontent.com/u/607207?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/BabyChouSr",
+        "avatar": "https://avatars.githubusercontent.com/u/49086305?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/abhinavg4",
+        "avatar": "https://avatars.githubusercontent.com/u/12746692?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ravwojdyla",
+        "avatar": "https://avatars.githubusercontent.com/u/1419010?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/marin-community/marin",
+    "name": "marin-community/marin",
+    "description": "Open-source framework for the research and development of foundation models.  ",
+    "language": "Python",
+    "stars": "2100",
+    "forks": "192",
+    "increased": "231 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/DietrichGebert",
+        "avatar": "https://avatars.githubusercontent.com/u/137048761?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Lakshya77089",
+        "avatar": "https://avatars.githubusercontent.com/u/169168095?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ousamabenyounes",
+        "avatar": "https://avatars.githubusercontent.com/u/2910651?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dhedhialy",
+        "avatar": "https://avatars.githubusercontent.com/u/91044156?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/DietrichGebert/ponytail",
+    "name": "DietrichGebert/ponytail",
+    "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.  ",
+    "language": "JavaScript",
+    "stars": "111008",
+    "forks": "6098",
+    "increased": "982 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/bryan-anthropic",
+        "avatar": "https://avatars.githubusercontent.com/u/238056179?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tobinsouth",
+        "avatar": "https://avatars.githubusercontent.com/u/32489862?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/k6l3",
+        "avatar": "https://avatars.githubusercontent.com/u/111803974?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/anthropics/claude-plugins-official",
+    "name": "anthropics/claude-plugins-official",
+    "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.  ",
+    "language": "Python",
+    "stars": "34089",
+    "forks": "3869",
+    "increased": "55 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/asciimoo",
+        "avatar": "https://avatars.githubusercontent.com/u/20240?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/4evy",
+        "avatar": "https://avatars.githubusercontent.com/u/57304299?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ISSOtm",
+        "avatar": "https://avatars.githubusercontent.com/u/15271137?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Shadowbee27",
+        "avatar": "https://avatars.githubusercontent.com/u/169397554?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/asciimoo/hister",
+    "name": "asciimoo/hister",
+    "description": "Your own search engine  ",
+    "language": "Go",
+    "stars": "2773",
+    "forks": "122",
+    "increased": "98 stars today"
+  }
+]
