@@ -1,0 +1,553 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/wyuc",
+        "avatar": "https://avatars.githubusercontent.com/u/18752201?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cosarah",
+        "avatar": "https://avatars.githubusercontent.com/u/117187635?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/YizukiAme",
+        "avatar": "https://avatars.githubusercontent.com/u/104178195?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ly-wang19",
+        "avatar": "https://avatars.githubusercontent.com/u/94427531?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/THU-MAIC/OpenMAIC",
+    "name": "THU-MAIC/OpenMAIC",
+    "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click  ",
+    "language": "TypeScript",
+    "stars": "24308",
+    "forks": "4503",
+    "increased": "1370 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/TKassis",
+        "avatar": "https://avatars.githubusercontent.com/u/9168908?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cursoragent",
+        "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/borealBytes",
+        "avatar": "https://avatars.githubusercontent.com/u/206480607?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/K-Dense-AI/scientific-agent-skills",
+    "name": "K-Dense-AI/scientific-agent-skills",
+    "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.  ",
+    "language": "Python",
+    "stars": "39405",
+    "forks": "3666",
+    "increased": "1114 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Lakr233",
+        "avatar": "https://avatars.githubusercontent.com/u/25259084?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/zqxwce",
+        "avatar": "https://avatars.githubusercontent.com/u/19415570?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/TastyHeadphones",
+        "avatar": "https://avatars.githubusercontent.com/u/76083688?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mpass99",
+        "avatar": "https://avatars.githubusercontent.com/u/22845248?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Lakr233/vphone-cli",
+    "name": "Lakr233/vphone-cli",
+    "language": "Swift",
+    "stars": "9680",
+    "forks": "1291",
+    "increased": "361 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/tt-a1i",
+        "avatar": "https://avatars.githubusercontent.com/u/53142663?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sunsunsun-java",
+        "avatar": "https://avatars.githubusercontent.com/u/55621390?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/YunyueLi",
+        "avatar": "https://avatars.githubusercontent.com/u/44204222?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cursoragent",
+        "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/tt-a1i/archify",
+    "name": "tt-a1i/archify",
+    "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.  ",
+    "language": "JavaScript",
+    "stars": "35011",
+    "forks": "2232",
+    "increased": "3722 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/p-e-w",
+        "avatar": "https://avatars.githubusercontent.com/u/2702526?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Vinay-Umrethe",
+        "avatar": "https://avatars.githubusercontent.com/u/175500353?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/anrp",
+        "avatar": "https://avatars.githubusercontent.com/u/1325515?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/spikymoth",
+        "avatar": "https://avatars.githubusercontent.com/u/133602907?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/p-e-w/heretic",
+    "name": "p-e-w/heretic",
+    "description": "Fully automatic censorship removal for language models  ",
+    "language": "Python",
+    "stars": "29217",
+    "forks": "3207",
+    "increased": "369 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/unclecode",
+        "avatar": "https://avatars.githubusercontent.com/u/12494079?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ntohidi",
+        "avatar": "https://avatars.githubusercontent.com/u/17140097?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/aravindkarnam",
+        "avatar": "https://avatars.githubusercontent.com/u/15815124?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/SohamKukreti",
+        "avatar": "https://avatars.githubusercontent.com/u/114597712?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/unclecode/crawl4ai",
+    "name": "unclecode/crawl4ai",
+    "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler &amp; Scraper. Don't be shy, join here:  https://discord.gg/jP8KfhDhyN    ",
+    "language": "Python",
+    "stars": "80279",
+    "forks": "8309",
+    "increased": "221 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/mvanhorn",
+        "avatar": "https://avatars.githubusercontent.com/u/455140?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tmchow",
+        "avatar": "https://avatars.githubusercontent.com/u/517103?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/23241a6749",
+        "avatar": "https://avatars.githubusercontent.com/u/146319052?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/mvanhorn/last30days-skill",
+    "name": "mvanhorn/last30days-skill",
+    "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary  ",
+    "language": "Python",
+    "stars": "60534",
+    "forks": "5298",
+    "increased": "230 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/majd",
+        "avatar": "https://avatars.githubusercontent.com/u/1644696?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ViRb3",
+        "avatar": "https://avatars.githubusercontent.com/u/2650170?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tux-mind",
+        "avatar": "https://avatars.githubusercontent.com/u/1824153?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/testwill",
+        "avatar": "https://avatars.githubusercontent.com/u/8717479?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/majd/ipatool",
+    "name": "majd/ipatool",
+    "description": "Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store.  ",
+    "language": "Go",
+    "stars": "10245",
+    "forks": "883",
+    "increased": "58 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/punkpeye",
+        "avatar": "https://avatars.githubusercontent.com/u/108313943?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/SecretiveShell",
+        "avatar": "https://avatars.githubusercontent.com/u/84923604?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kukapay",
+        "avatar": "https://avatars.githubusercontent.com/u/201164822?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cursoragent",
+        "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/punkpeye/awesome-mcp-servers",
+    "name": "punkpeye/awesome-mcp-servers",
+    "description": "A collection of MCP servers.  ",
+    "stars": "93369",
+    "forks": "15318",
+    "increased": "96 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/romani",
+        "avatar": "https://avatars.githubusercontent.com/u/812984?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/oburn",
+        "avatar": "https://avatars.githubusercontent.com/u/5170945?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rnveach",
+        "avatar": "https://avatars.githubusercontent.com/u/5427943?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mkordas",
+        "avatar": "https://avatars.githubusercontent.com/u/5467276?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/checkstyle/checkstyle",
+    "name": "checkstyle/checkstyle",
+    "description": "Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program.  ",
+    "language": "Java",
+    "stars": "9221",
+    "forks": "4195",
+    "increased": "115 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ryanmkurtz",
+        "avatar": "https://avatars.githubusercontent.com/u/5378554?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ghidra1",
+        "avatar": "https://avatars.githubusercontent.com/u/48333017?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dragonmacher",
+        "avatar": "https://avatars.githubusercontent.com/u/48328597?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/nsadeveloper789",
+        "avatar": "https://avatars.githubusercontent.com/u/46821332?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/caheckman",
+        "avatar": "https://avatars.githubusercontent.com/u/48068198?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/NationalSecurityAgency/ghidra",
+    "name": "NationalSecurityAgency/ghidra",
+    "description": "Ghidra is a software reverse engineering (SRE) framework  ",
+    "language": "Java",
+    "stars": "73931",
+    "forks": "8065",
+    "increased": "198 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/apirrone",
+        "avatar": "https://avatars.githubusercontent.com/u/6552564?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Drenayaz",
+        "avatar": "https://avatars.githubusercontent.com/u/72405531?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/darkseed",
+        "avatar": "https://avatars.githubusercontent.com/u/76959?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tfrere",
+        "avatar": "https://avatars.githubusercontent.com/u/6255609?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/andrewginns",
+        "avatar": "https://avatars.githubusercontent.com/u/25386449?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/pollen-robotics/microduck_rl",
+    "name": "pollen-robotics/microduck_rl",
+    "description": "RL training environments for Microduck (mjlab)  ",
+    "language": "Python",
+    "stars": "819",
+    "forks": "143",
+    "increased": "168 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/handsomestWei",
+        "avatar": "https://avatars.githubusercontent.com/u/36500279?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/917Dhj",
+        "avatar": "https://avatars.githubusercontent.com/u/135248415?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/handsomestWei/patent-disclosure-skill",
+    "name": "handsomestWei/patent-disclosure-skill",
+    "description": "中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。  ",
+    "language": "Python",
+    "stars": "5744",
+    "forks": "701",
+    "increased": "62 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/devjain32",
+        "avatar": "https://avatars.githubusercontent.com/u/50637008?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mukul7661",
+        "avatar": "https://avatars.githubusercontent.com/u/130670365?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Dhirenderchoudhary",
+        "avatar": "https://avatars.githubusercontent.com/u/200262251?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/yuvrxj-afk",
+        "avatar": "https://avatars.githubusercontent.com/u/63532070?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ambikeesshh",
+        "avatar": "https://avatars.githubusercontent.com/u/224122452?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/corsairdev/corsair",
+    "name": "corsairdev/corsair",
+    "description": "Connect your users to their apps  ",
+    "language": "TypeScript",
+    "stars": "10977",
+    "forks": "526",
+    "increased": "126 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/bensenescu",
+        "avatar": "https://avatars.githubusercontent.com/u/44480372?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jeremypenguin-max",
+        "avatar": "https://avatars.githubusercontent.com/u/287046313?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bookingseo",
+        "avatar": "https://avatars.githubusercontent.com/u/68512992?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mvanhorn",
+        "avatar": "https://avatars.githubusercontent.com/u/455140?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/every-app/open-seo",
+    "name": "every-app/open-seo",
+    "description": "Open source alternative to Semrush and Ahrefs  ",
+    "language": "TypeScript",
+    "stars": "15204",
+    "forks": "1821",
+    "increased": "469 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/colinhacks",
+        "avatar": "https://avatars.githubusercontent.com/u/3084745?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/JacobWeisenburger",
+        "avatar": "https://avatars.githubusercontent.com/u/31667350?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/scotttrinh",
+        "avatar": "https://avatars.githubusercontent.com/u/1682194?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/igalklebanov",
+        "avatar": "https://avatars.githubusercontent.com/u/14938291?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/colinhacks/zod",
+    "name": "colinhacks/zod",
+    "description": "TypeScript-first schema validation with static type inference  ",
+    "language": "TypeScript",
+    "stars": "43659",
+    "forks": "2157",
+    "increased": "31 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/tashfeenahmed",
+        "avatar": "https://avatars.githubusercontent.com/u/9307356?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/suantea",
+        "avatar": "https://avatars.githubusercontent.com/u/108558399?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/OhOkThisIsFine",
+        "avatar": "https://avatars.githubusercontent.com/u/102485413?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tashdroid",
+        "avatar": "https://avatars.githubusercontent.com/u/319142293?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/tashfeenahmed/freellmapi",
+    "name": "tashfeenahmed/freellmapi",
+    "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.  ",
+    "language": "TypeScript",
+    "stars": "22858",
+    "forks": "3155",
+    "increased": "504 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/theomonnom",
+        "avatar": "https://avatars.githubusercontent.com/u/14841632?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/longcw",
+        "avatar": "https://avatars.githubusercontent.com/u/6198400?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/davidzhao",
+        "avatar": "https://avatars.githubusercontent.com/u/320582?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/keepingitneil",
+        "avatar": "https://avatars.githubusercontent.com/u/8453967?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tinalenguyen",
+        "avatar": "https://avatars.githubusercontent.com/u/72938484?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/livekit/agents",
+    "name": "livekit/agents",
+    "description": "A framework for building realtime voice AI agents 🤖🎙️📹  ",
+    "language": "Python",
+    "stars": "13775",
+    "forks": "3660",
+    "increased": "132 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/magyargergo",
+        "avatar": "https://avatars.githubusercontent.com/u/11230420?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/abhigyanpatwari",
+        "avatar": "https://avatars.githubusercontent.com/u/126312502?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/azizur100389",
+        "avatar": "https://avatars.githubusercontent.com/u/180941991?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/abhigyanpatwari/GitNexus",
+    "name": "abhigyanpatwari/GitNexus",
+    "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a git repository (Github, Gitlab, Azure, Local) or ZIP file, and get an interactive knowledge graph with a built in Graph RAG Agent. Perfect for code exploration  ",
+    "language": "TypeScript",
+    "stars": "46589",
+    "forks": "5128",
+    "increased": "182 stars today"
+  }
+]
