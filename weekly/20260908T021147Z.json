@@ -1,0 +1,563 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/anerli",
+        "avatar": "https://avatars.githubusercontent.com/u/28166244?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/thrgreenwald",
+        "avatar": "https://avatars.githubusercontent.com/u/32600629?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/fabianhug",
+        "avatar": "https://avatars.githubusercontent.com/u/1196732?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/lloydgreenwald",
+        "avatar": "https://avatars.githubusercontent.com/u/120605515?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/magnitudedev/magnitude",
+    "name": "magnitudedev/magnitude",
+    "description": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.  ",
+    "language": "TypeScript",
+    "stars": "4057",
+    "forks": "291",
+    "increased": "2430 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/tt-a1i",
+        "avatar": "https://avatars.githubusercontent.com/u/53142663?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sunsunsun-java",
+        "avatar": "https://avatars.githubusercontent.com/u/55621390?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/YunyueLi",
+        "avatar": "https://avatars.githubusercontent.com/u/44204222?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cursoragent",
+        "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/tt-a1i/archify",
+    "name": "tt-a1i/archify",
+    "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.  ",
+    "language": "JavaScript",
+    "stars": "53060",
+    "forks": "3472",
+    "increased": "14946 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/kevincodex1",
+        "avatar": "https://avatars.githubusercontent.com/u/268502447?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/chioarub",
+        "avatar": "https://avatars.githubusercontent.com/u/59725767?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jatmn",
+        "avatar": "https://avatars.githubusercontent.com/u/12479882?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/0xfandom",
+        "avatar": "https://avatars.githubusercontent.com/u/50949929?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Gitlawb/openclaude",
+    "name": "Gitlawb/openclaude",
+    "description": "runs anywhere. uses anything  ",
+    "language": "TypeScript",
+    "stars": "32950",
+    "forks": "9066",
+    "increased": "2040 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/wyuc",
+        "avatar": "https://avatars.githubusercontent.com/u/18752201?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cosarah",
+        "avatar": "https://avatars.githubusercontent.com/u/117187635?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/YizukiAme",
+        "avatar": "https://avatars.githubusercontent.com/u/104178195?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ly-wang19",
+        "avatar": "https://avatars.githubusercontent.com/u/94427531?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/THU-MAIC/OpenMAIC",
+    "name": "THU-MAIC/OpenMAIC",
+    "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click  ",
+    "language": "TypeScript",
+    "stars": "33112",
+    "forks": "5376",
+    "increased": "6934 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/rajatsen91",
+        "avatar": "https://avatars.githubusercontent.com/u/8039264?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/siriuz42",
+        "avatar": "https://avatars.githubusercontent.com/u/5073569?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/misha-chertushkin",
+        "avatar": "https://avatars.githubusercontent.com/u/151166456?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/darkpowerxo",
+        "avatar": "https://avatars.githubusercontent.com/u/1857776?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/JustinGuese",
+        "avatar": "https://avatars.githubusercontent.com/u/9588843?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/google-research/timesfm",
+    "name": "google-research/timesfm",
+    "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.  ",
+    "language": "Python",
+    "stars": "31850",
+    "forks": "3041",
+    "increased": "3506 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/jingyaogong",
+        "avatar": "https://avatars.githubusercontent.com/u/62287848?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/iomgaa-ycz",
+        "avatar": "https://avatars.githubusercontent.com/u/124225682?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/readlnh",
+        "avatar": "https://avatars.githubusercontent.com/u/16349082?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/wangzhaode",
+        "avatar": "https://avatars.githubusercontent.com/u/8401806?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/JustinGuese",
+        "avatar": "https://avatars.githubusercontent.com/u/9588843?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/jingyaogong/minimind",
+    "name": "jingyaogong/minimind",
+    "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!  ",
+    "language": "Python",
+    "stars": "59546",
+    "forks": "7718",
+    "increased": "3633 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/apirrone",
+        "avatar": "https://avatars.githubusercontent.com/u/6552564?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Drenayaz",
+        "avatar": "https://avatars.githubusercontent.com/u/72405531?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/darkseed",
+        "avatar": "https://avatars.githubusercontent.com/u/76959?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tfrere",
+        "avatar": "https://avatars.githubusercontent.com/u/6255609?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/pollen-robotics/microduck_rl",
+    "name": "pollen-robotics/microduck_rl",
+    "description": "RL training environments for Microduck (mjlab)  ",
+    "language": "Python",
+    "stars": "1909",
+    "forks": "376",
+    "increased": "828 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/debpalash",
+        "avatar": "https://avatars.githubusercontent.com/u/4178343?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/velixio",
+        "avatar": "https://avatars.githubusercontent.com/u/270455167?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/paoloantinori",
+        "avatar": "https://avatars.githubusercontent.com/u/1520602?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/psiberfunk",
+        "avatar": "https://avatars.githubusercontent.com/u/19777571?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/debpalash/VoiceStudio",
+    "name": "debpalash/VoiceStudio",
+    "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.  ",
+    "language": "Python",
+    "stars": "20681",
+    "forks": "2576",
+    "increased": "7916 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/vitaut",
+        "avatar": "https://avatars.githubusercontent.com/u/576385?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/phprus",
+        "avatar": "https://avatars.githubusercontent.com/u/382460?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/alexezeder",
+        "avatar": "https://avatars.githubusercontent.com/u/1554508?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/DanielaE",
+        "avatar": "https://avatars.githubusercontent.com/u/1381823?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/fmtlib/fmt",
+    "name": "fmtlib/fmt",
+    "description": "A modern formatting library  ",
+    "language": "C++",
+    "stars": "25654",
+    "forks": "3045",
+    "increased": "1909 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/affaan-m",
+        "avatar": "https://avatars.githubusercontent.com/u/124439313?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/haelyra",
+        "avatar": "https://avatars.githubusercontent.com/u/49814733?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pangerlkr",
+        "avatar": "https://avatars.githubusercontent.com/u/73515951?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/affaan-m/ECC",
+    "name": "affaan-m/ECC",
+    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.  ",
+    "language": "JavaScript",
+    "stars": "252906",
+    "forks": "37936",
+    "increased": "7735 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/DietrichGebert",
+        "avatar": "https://avatars.githubusercontent.com/u/137048761?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Lakshya77089",
+        "avatar": "https://avatars.githubusercontent.com/u/169168095?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ousamabenyounes",
+        "avatar": "https://avatars.githubusercontent.com/u/2910651?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dhedhialy",
+        "avatar": "https://avatars.githubusercontent.com/u/91044156?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/DietrichGebert/ponytail",
+    "name": "DietrichGebert/ponytail",
+    "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.  ",
+    "language": "JavaScript",
+    "stars": "131052",
+    "forks": "7021",
+    "increased": "12834 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/handsomestWei",
+        "avatar": "https://avatars.githubusercontent.com/u/36500279?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/xiaofengShi",
+        "avatar": "https://avatars.githubusercontent.com/u/30405889?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dajiaohuang",
+        "avatar": "https://avatars.githubusercontent.com/u/108231307?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/917Dhj",
+        "avatar": "https://avatars.githubusercontent.com/u/135248415?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/handsomestWei/patent-disclosure-skill",
+    "name": "handsomestWei/patent-disclosure-skill",
+    "description": "中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。  ",
+    "language": "Python",
+    "stars": "8474",
+    "forks": "888",
+    "increased": "2227 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/richard-scott",
+        "avatar": "https://avatars.githubusercontent.com/u/5149834?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/zubair-trabzada",
+        "avatar": "https://avatars.githubusercontent.com/u/13802400?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/xiaolai",
+        "avatar": "https://avatars.githubusercontent.com/u/152970?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/zubair-trabzada/geo-seo-claude",
+    "name": "zubair-trabzada/geo-seo-claude",
+    "description": "GEO-first SEO skill for Claude Code. Comprehensive AI search optimization for any website — citability scoring, AI crawler analysis, brand authority, schema markup, platform-specific optimization, and PDF reports. If you want learn how to sell this to real businesses, check out the skool community  ",
+    "language": "Python",
+    "stars": "10407",
+    "forks": "1580",
+    "increased": "428 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/advaitpaliwal",
+        "avatar": "https://avatars.githubusercontent.com/u/66044327?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/shkao",
+        "avatar": "https://avatars.githubusercontent.com/u/4758311?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/randomm",
+        "avatar": "https://avatars.githubusercontent.com/u/259547?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Dunya-8a",
+        "avatar": "https://avatars.githubusercontent.com/u/53619378?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/advaitpaliwal/feynman",
+    "name": "advaitpaliwal/feynman",
+    "description": "The open source AI research agent.  ",
+    "language": "TypeScript",
+    "stars": "9057",
+    "forks": "1042",
+    "increased": "292 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Imbad0202",
+        "avatar": "https://avatars.githubusercontent.com/u/132531341?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/2023Anita",
+        "avatar": "https://avatars.githubusercontent.com/u/126993554?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/madtriceps",
+        "avatar": "https://avatars.githubusercontent.com/u/115035770?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ktao732084-arch",
+        "avatar": "https://avatars.githubusercontent.com/u/254419203?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Imbad0202/academic-research-skills",
+    "name": "Imbad0202/academic-research-skills",
+    "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize  ",
+    "language": "Python",
+    "stars": "46829",
+    "forks": "3663",
+    "increased": "2406 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/colinhacks",
+        "avatar": "https://avatars.githubusercontent.com/u/3084745?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/JacobWeisenburger",
+        "avatar": "https://avatars.githubusercontent.com/u/31667350?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/scotttrinh",
+        "avatar": "https://avatars.githubusercontent.com/u/1682194?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/igalklebanov",
+        "avatar": "https://avatars.githubusercontent.com/u/14938291?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/colinhacks/zod",
+    "name": "colinhacks/zod",
+    "description": "TypeScript-first schema validation with static type inference  ",
+    "language": "TypeScript",
+    "stars": "43891",
+    "forks": "2180",
+    "increased": "175 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Borda",
+        "avatar": "https://avatars.githubusercontent.com/u/6035284?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/SkalskiP",
+        "avatar": "https://avatars.githubusercontent.com/u/26109316?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/roboflow/rf-detr",
+    "name": "roboflow/rf-detr",
+    "description": "RF-DETR is a real-time object detection and segmentation model architecture developed by Roboflow, SOTA on COCO, designed for fine-tuning. [ICLR 2026]  ",
+    "language": "Python",
+    "stars": "9376",
+    "forks": "1185",
+    "increased": "235 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/bensenescu",
+        "avatar": "https://avatars.githubusercontent.com/u/44480372?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jeremypenguin-max",
+        "avatar": "https://avatars.githubusercontent.com/u/287046313?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bookingseo",
+        "avatar": "https://avatars.githubusercontent.com/u/68512992?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mvanhorn",
+        "avatar": "https://avatars.githubusercontent.com/u/455140?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/every-app/open-seo",
+    "name": "every-app/open-seo",
+    "description": "Open source alternative to Semrush and Ahrefs  ",
+    "language": "TypeScript",
+    "stars": "17726",
+    "forks": "2235",
+    "increased": "2137 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/bradfitz",
+        "avatar": "https://avatars.githubusercontent.com/u/2621?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/danderson",
+        "avatar": "https://avatars.githubusercontent.com/u/1918?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/andrew-d",
+        "avatar": "https://avatars.githubusercontent.com/u/1079173?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/raggi",
+        "avatar": "https://avatars.githubusercontent.com/u/348?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jwhited",
+        "avatar": "https://avatars.githubusercontent.com/u/10344482?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/tailscale/tailcat",
+    "name": "tailscale/tailcat",
+    "description": "like netcat, but over Tailscale's data plane, without Tailscale's control plane  ",
+    "language": "Go",
+    "stars": "6722",
+    "forks": "263",
+    "increased": "stars this week"
+  }
+]
