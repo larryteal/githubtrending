@@ -1,0 +1,469 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ayghri",
+        "avatar": "https://avatars.githubusercontent.com/u/32200675?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/thejesh23",
+        "avatar": "https://avatars.githubusercontent.com/u/35212698?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/SillyDark",
+        "avatar": "https://avatars.githubusercontent.com/u/116559191?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/commie70",
+        "avatar": "https://avatars.githubusercontent.com/u/57289446?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/ayghri/i-have-adhd",
+    "name": "ayghri/i-have-adhd",
+    "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.  ",
+    "language": "Python",
+    "stars": "38494",
+    "forks": "2208",
+    "increased": "3882 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/bilawalsidhu",
+        "avatar": "https://avatars.githubusercontent.com/u/106619546?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ethanstoner",
+        "avatar": "https://avatars.githubusercontent.com/u/177599791?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/yangsongsf",
+        "avatar": "https://avatars.githubusercontent.com/u/4534677?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/prajwal-raj",
+        "avatar": "https://avatars.githubusercontent.com/u/49208092?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/bilawalsidhu/gods-eye-view",
+    "name": "bilawalsidhu/gods-eye-view",
+    "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.  ",
+    "language": "JavaScript",
+    "stars": "24455",
+    "forks": "5074",
+    "increased": "1762 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/obra",
+        "avatar": "https://avatars.githubusercontent.com/u/45416?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/arittr",
+        "avatar": "https://avatars.githubusercontent.com/u/5742859?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/clkao",
+        "avatar": "https://avatars.githubusercontent.com/u/69736?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jjshanks",
+        "avatar": "https://avatars.githubusercontent.com/u/62661?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/obra/superpowers",
+    "name": "obra/superpowers",
+    "description": "An agentic skills framework &amp; software development methodology that works.  ",
+    "language": "Shell",
+    "stars": "284733",
+    "forks": "25471",
+    "increased": "732 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/alsk1992",
+        "avatar": "https://avatars.githubusercontent.com/u/193760801?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dajiaohuang",
+        "avatar": "https://avatars.githubusercontent.com/u/108231307?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/nox-oss",
+        "avatar": "https://avatars.githubusercontent.com/u/259919097?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/alsk1992/CloddsBot",
+    "name": "alsk1992/CloddsBot",
+    "description": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.  ",
+    "language": "TypeScript",
+    "stars": "1691",
+    "forks": "259",
+    "increased": "277 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/jeff-r2026",
+        "avatar": "https://avatars.githubusercontent.com/u/279665174?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/m0Nst3r873",
+        "avatar": "https://avatars.githubusercontent.com/u/146067293?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cursoragent",
+        "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Eyre921",
+        "avatar": "https://avatars.githubusercontent.com/u/98458308?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Tencent/teamai-cli",
+    "name": "Tencent/teamai-cli",
+    "description": "Make Every Team AI Native  ",
+    "language": "TypeScript",
+    "stars": "3836",
+    "forks": "250",
+    "increased": "841 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/AlexsJones",
+        "avatar": "https://avatars.githubusercontent.com/u/1235925?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/three-foxes-in-a-trenchcoat",
+        "avatar": "https://avatars.githubusercontent.com/u/261414774?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/AlexsJones/llmfit",
+    "name": "AlexsJones/llmfit",
+    "description": "Hundreds of models &amp; providers. One command to find what runs on your hardware.  ",
+    "language": "Rust",
+    "stars": "35767",
+    "forks": "2269",
+    "increased": "258 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/liquidslr",
+        "avatar": "https://avatars.githubusercontent.com/u/26876811?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/emmadonjo",
+        "avatar": "https://avatars.githubusercontent.com/u/22492808?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/stym01",
+        "avatar": "https://avatars.githubusercontent.com/u/153318865?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/liquidslr/system-design-notes",
+    "name": "liquidslr/system-design-notes",
+    "description": "Notes of the book System Desgin Interview - An Insider's Guide  ",
+    "stars": "18831",
+    "forks": "3486",
+    "increased": "900 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/cathrynlavery",
+        "avatar": "https://avatars.githubusercontent.com/u/50469282?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/parveen0029",
+        "avatar": "https://avatars.githubusercontent.com/u/174610155?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mvanhorn",
+        "avatar": "https://avatars.githubusercontent.com/u/455140?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/web-flow",
+        "avatar": "https://avatars.githubusercontent.com/u/19864447?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/cathrynlavery/diagram-design",
+    "name": "cathrynlavery/diagram-design",
+    "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.  ",
+    "language": "HTML",
+    "stars": "37806",
+    "forks": "2396",
+    "increased": "1294 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/freestylefly",
+        "avatar": "https://avatars.githubusercontent.com/u/43960064?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ImgBotApp",
+        "avatar": "https://avatars.githubusercontent.com/u/31427850?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/LengShangbai",
+        "avatar": "https://avatars.githubusercontent.com/u/155434161?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sscodeai",
+        "avatar": "https://avatars.githubusercontent.com/u/284359760?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/freestylefly/awesome-gpt-image-2",
+    "name": "freestylefly/awesome-gpt-image-2",
+    "description": "Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。  ",
+    "language": "JavaScript",
+    "stars": "30886",
+    "forks": "2995",
+    "increased": "962 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/luboslenco",
+        "avatar": "https://avatars.githubusercontent.com/u/3685704?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/MathemanFlo",
+        "avatar": "https://avatars.githubusercontent.com/u/28649121?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/shiena",
+        "avatar": "https://avatars.githubusercontent.com/u/1295639?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/lidorY",
+        "avatar": "https://avatars.githubusercontent.com/u/15870496?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Xephobia",
+        "avatar": "https://avatars.githubusercontent.com/u/28755060?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/armory3d/armorpaint",
+    "name": "armory3d/armorpaint",
+    "description": "Graphics Creation Tools  ",
+    "language": "C",
+    "stars": "4433",
+    "forks": "522",
+    "increased": "72 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/diegosouzapw",
+        "avatar": "https://avatars.githubusercontent.com/u/8016841?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/backryun",
+        "avatar": "https://avatars.githubusercontent.com/u/24198422?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/oyi77",
+        "avatar": "https://avatars.githubusercontent.com/u/14921983?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/diegosouzapw/OmniRoute",
+    "name": "diegosouzapw/OmniRoute",
+    "description": "Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline &amp; Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 550+ contributors  ",
+    "language": "TypeScript",
+    "stars": "64277",
+    "forks": "8998",
+    "increased": "626 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/JustVugg",
+        "avatar": "https://avatars.githubusercontent.com/u/13022503?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ZacharyZcR",
+        "avatar": "https://avatars.githubusercontent.com/u/48591714?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/monotophic",
+        "avatar": "https://avatars.githubusercontent.com/u/289220702?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/steve-m",
+        "avatar": "https://avatars.githubusercontent.com/u/522310?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/JustVugg/colibri",
+    "name": "JustVugg/colibri",
+    "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦  ",
+    "language": "C",
+    "stars": "27487",
+    "forks": "3011",
+    "increased": "98 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/wyuc",
+        "avatar": "https://avatars.githubusercontent.com/u/18752201?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cosarah",
+        "avatar": "https://avatars.githubusercontent.com/u/117187635?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/YizukiAme",
+        "avatar": "https://avatars.githubusercontent.com/u/104178195?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ly-wang19",
+        "avatar": "https://avatars.githubusercontent.com/u/94427531?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/THU-MAIC/OpenMAIC",
+    "name": "THU-MAIC/OpenMAIC",
+    "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click  ",
+    "language": "TypeScript",
+    "stars": "35371",
+    "forks": "5643",
+    "increased": "837 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/nashsu",
+        "avatar": "https://avatars.githubusercontent.com/u/2127280?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/skfan135",
+        "avatar": "https://avatars.githubusercontent.com/u/111690459?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/AndrewDongminYoo",
+        "avatar": "https://avatars.githubusercontent.com/u/82999715?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/chuenchen309",
+        "avatar": "https://avatars.githubusercontent.com/u/48723787?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/nashsu/llm_wiki",
+    "name": "nashsu/llm_wiki",
+    "description": "LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。  ",
+    "language": "TypeScript",
+    "stars": "18154",
+    "forks": "2100",
+    "increased": "142 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/quuu",
+        "avatar": "https://avatars.githubusercontent.com/u/32676955?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/huozhi",
+        "avatar": "https://avatars.githubusercontent.com/u/4800338?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jonathanhefner",
+        "avatar": "https://avatars.githubusercontent.com/u/771968?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/vercel-labs/skills",
+    "name": "vercel-labs/skills",
+    "description": "The open agent skills tool - npx skills  ",
+    "language": "TypeScript",
+    "stars": "31175",
+    "forks": "2663",
+    "increased": "122 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/vastsa",
+        "avatar": "https://avatars.githubusercontent.com/u/48862574?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Tioit-Wang",
+        "avatar": "https://avatars.githubusercontent.com/u/104554654?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/yg2224",
+        "avatar": "https://avatars.githubusercontent.com/u/136247805?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/BioYue",
+        "avatar": "https://avatars.githubusercontent.com/u/133179025?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/vastsa/PI-Desktop",
+    "name": "vastsa/PI-Desktop",
+    "description": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins  ",
+    "language": "TypeScript",
+    "stars": "2332",
+    "forks": "194",
+    "increased": "624 stars today"
+  }
+]
