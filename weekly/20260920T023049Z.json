@@ -1,0 +1,621 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/lizhengfeng101",
+        "avatar": "https://avatars.githubusercontent.com/u/254839944?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/wu21-web",
+        "avatar": "https://avatars.githubusercontent.com/u/149216116?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/chethanuk",
+        "avatar": "https://avatars.githubusercontent.com/u/16241795?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/stay-foolish-forever",
+        "avatar": "https://avatars.githubusercontent.com/u/61303077?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/alibaba/open-code-review",
+    "name": "alibaba/open-code-review",
+    "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.  ",
+    "language": "Go",
+    "stars": "37655",
+    "forks": "2689",
+    "increased": "15028 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/actions-user",
+        "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/poteat",
+        "avatar": "https://avatars.githubusercontent.com/u/7668446?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bcherny",
+        "avatar": "https://avatars.githubusercontent.com/u/1761758?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ant-kurt",
+        "avatar": "https://avatars.githubusercontent.com/u/209710463?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/anthropics/claude-code",
+    "name": "anthropics/claude-code",
+    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.  ",
+    "language": "TypeScript",
+    "stars": "146743",
+    "forks": "23943",
+    "increased": "1999 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/affaan-m",
+        "avatar": "https://avatars.githubusercontent.com/u/124439313?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/haelyra",
+        "avatar": "https://avatars.githubusercontent.com/u/49814733?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pangerlkr",
+        "avatar": "https://avatars.githubusercontent.com/u/73515951?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/affaan-m/ECC",
+    "name": "affaan-m/ECC",
+    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.  ",
+    "language": "JavaScript",
+    "stars": "262998",
+    "forks": "39354",
+    "increased": "6265 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/lyingbug",
+        "avatar": "https://avatars.githubusercontent.com/u/11257935?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/voidkey",
+        "avatar": "https://avatars.githubusercontent.com/u/67856742?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/begoniezhao",
+        "avatar": "https://avatars.githubusercontent.com/u/216642699?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Tencent/WeKnora",
+    "name": "Tencent/WeKnora",
+    "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.  ",
+    "language": "Go",
+    "stars": "27502",
+    "forks": "3704",
+    "increased": "4867 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/samehkhamis",
+        "avatar": "https://avatars.githubusercontent.com/u/845989?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bilawalsidhu",
+        "avatar": "https://avatars.githubusercontent.com/u/106619546?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Tom-Neverwinter",
+        "avatar": "https://avatars.githubusercontent.com/u/3943634?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/manjunath22466",
+        "avatar": "https://avatars.githubusercontent.com/u/301209272?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/bilawalsidhu/gods-eye-view",
+    "name": "bilawalsidhu/gods-eye-view",
+    "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.  ",
+    "language": "JavaScript",
+    "stars": "38671",
+    "forks": "7810",
+    "increased": "10207 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/addyosmani",
+        "avatar": "https://avatars.githubusercontent.com/u/110953?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/nucliweb",
+        "avatar": "https://avatars.githubusercontent.com/u/1307927?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/federicobartoli",
+        "avatar": "https://avatars.githubusercontent.com/u/27234034?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/HMAKT99",
+        "avatar": "https://avatars.githubusercontent.com/u/222980227?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/addyosmani/agent-skills",
+    "name": "addyosmani/agent-skills",
+    "description": "Production-grade engineering skills for AI coding agents.  ",
+    "language": "JavaScript",
+    "stars": "97089",
+    "forks": "10245",
+    "increased": "3445 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/jordanecker-ant",
+        "avatar": "https://avatars.githubusercontent.com/u/305637556?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bryan-anthropic",
+        "avatar": "https://avatars.githubusercontent.com/u/238056179?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mattpic-ant",
+        "avatar": "https://avatars.githubusercontent.com/u/227474486?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/anthropics/knowledge-work-plugins",
+    "name": "anthropics/knowledge-work-plugins",
+    "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork  ",
+    "language": "Python",
+    "stars": "25150",
+    "forks": "2997",
+    "increased": "1034 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ayghri",
+        "avatar": "https://avatars.githubusercontent.com/u/32200675?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/thejesh23",
+        "avatar": "https://avatars.githubusercontent.com/u/35212698?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/SillyDark",
+        "avatar": "https://avatars.githubusercontent.com/u/116559191?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/commie70",
+        "avatar": "https://avatars.githubusercontent.com/u/57289446?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/ayghri/i-have-adhd",
+    "name": "ayghri/i-have-adhd",
+    "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.  ",
+    "language": "Python",
+    "stars": "48736",
+    "forks": "2835",
+    "increased": "5589 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/mksglu",
+        "avatar": "https://avatars.githubusercontent.com/u/6067714?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ipedro",
+        "avatar": "https://avatars.githubusercontent.com/u/380338?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ousamabenyounes",
+        "avatar": "https://avatars.githubusercontent.com/u/2910651?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/mksglu/context-mode",
+    "name": "mksglu/context-mode",
+    "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.  ",
+    "language": "TypeScript",
+    "stars": "23676",
+    "forks": "1707",
+    "increased": "1359 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/max-sixty",
+        "avatar": "https://avatars.githubusercontent.com/u/5635139?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/worktrunk-bot",
+        "avatar": "https://avatars.githubusercontent.com/u/254187624?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/max-sixty/worktrunk",
+    "name": "max-sixty/worktrunk",
+    "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows  ",
+    "language": "Rust",
+    "stars": "8125",
+    "forks": "280",
+    "increased": "1141 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/blader",
+        "avatar": "https://avatars.githubusercontent.com/u/1672?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mvanhorn",
+        "avatar": "https://avatars.githubusercontent.com/u/455140?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Scott-Emberson",
+        "avatar": "https://avatars.githubusercontent.com/u/8268155?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/warp-agent",
+        "avatar": "https://avatars.githubusercontent.com/u/243858445?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/blader/humanizer",
+    "name": "blader/humanizer",
+    "description": "Agent skill that removes signs of AI-generated writing from text  ",
+    "language": "Python",
+    "stars": "50275",
+    "forks": "4055",
+    "increased": "3024 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/bdraco",
+        "avatar": "https://avatars.githubusercontent.com/u/663432?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/balloob",
+        "avatar": "https://avatars.githubusercontent.com/u/1444314?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/epenet",
+        "avatar": "https://avatars.githubusercontent.com/u/6771947?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/frenck",
+        "avatar": "https://avatars.githubusercontent.com/u/195327?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/emontnemery",
+        "avatar": "https://avatars.githubusercontent.com/u/14281572?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/home-assistant/core",
+    "name": "home-assistant/core",
+    "description": "🏡 Open source home automation that puts local control and privacy first.  ",
+    "language": "Python",
+    "stars": "90829",
+    "forks": "38709",
+    "increased": "417 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/afourney",
+        "avatar": "https://avatars.githubusercontent.com/u/4017093?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/gagb",
+        "avatar": "https://avatars.githubusercontent.com/u/13227607?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sugatoray",
+        "avatar": "https://avatars.githubusercontent.com/u/10201242?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/PetrAPConsulting",
+        "avatar": "https://avatars.githubusercontent.com/u/173082609?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/microsoft/markitdown",
+    "name": "microsoft/markitdown",
+    "description": "Python tool for converting files and office documents to Markdown.  ",
+    "language": "Python",
+    "stars": "185685",
+    "forks": "13674",
+    "increased": "2767 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/kunchenguid",
+        "avatar": "https://avatars.githubusercontent.com/u/3233006?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mremond",
+        "avatar": "https://avatars.githubusercontent.com/u/86736?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tiago-peixoto",
+        "avatar": "https://avatars.githubusercontent.com/u/1987829?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/karotkriss",
+        "avatar": "https://avatars.githubusercontent.com/u/101884182?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/kunchenguid/firstmate",
+    "name": "kunchenguid/firstmate",
+    "description": "Talk to one agent. Ship with a crew.  ",
+    "language": "Shell",
+    "stars": "6745",
+    "forks": "2032",
+    "increased": "1073 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Panniantong",
+        "avatar": "https://avatars.githubusercontent.com/u/73925474?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/nyxst4ck",
+        "avatar": "https://avatars.githubusercontent.com/u/289980115?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kadaliao",
+        "avatar": "https://avatars.githubusercontent.com/u/7401626?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/hymansun",
+        "avatar": "https://avatars.githubusercontent.com/u/10735997?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Panniantong/Agent-Reach",
+    "name": "Panniantong/Agent-Reach",
+    "description": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.  ",
+    "language": "Python",
+    "stars": "83482",
+    "forks": "7313",
+    "increased": "3914 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/miguel-heygen",
+        "avatar": "https://avatars.githubusercontent.com/u/229591595?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/vanceingalls",
+        "avatar": "https://avatars.githubusercontent.com/u/337856?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jrusso1020",
+        "avatar": "https://avatars.githubusercontent.com/u/7664106?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ukimsanov",
+        "avatar": "https://avatars.githubusercontent.com/u/165517112?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/heygen-com/hyperframes",
+    "name": "heygen-com/hyperframes",
+    "description": "Write HTML. Render video. Built for agents.  ",
+    "language": "TypeScript",
+    "stars": "51678",
+    "forks": "4709",
+    "increased": "2498 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/nwparker",
+        "avatar": "https://avatars.githubusercontent.com/u/4138956?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/AmethystLiang",
+        "avatar": "https://avatars.githubusercontent.com/u/6427696?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/orca-ide",
+        "avatar": "https://avatars.githubusercontent.com/u/277417572?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/brennanb2025",
+        "avatar": "https://avatars.githubusercontent.com/u/79079362?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Jinwoo-H",
+        "avatar": "https://avatars.githubusercontent.com/u/73622457?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/stablyai/orca",
+    "name": "stablyai/orca",
+    "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.  ",
+    "language": "TypeScript",
+    "stars": "72693",
+    "forks": "4752",
+    "increased": "5404 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/cching-openai",
+        "avatar": "https://avatars.githubusercontent.com/u/239646192?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ashwinm-oai",
+        "avatar": "https://avatars.githubusercontent.com/u/264544061?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Aismit",
+        "avatar": "https://avatars.githubusercontent.com/u/24821844?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/vb-openai",
+        "avatar": "https://avatars.githubusercontent.com/u/250380837?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/gverma-openai",
+        "avatar": "https://avatars.githubusercontent.com/u/235382312?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/openai/plugins",
+    "name": "openai/plugins",
+    "description": "OpenAI Plugins  ",
+    "language": "JavaScript",
+    "stars": "7045",
+    "forks": "910",
+    "increased": "522 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/danny-avila",
+        "avatar": "https://avatars.githubusercontent.com/u/110412045?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/berry-13",
+        "avatar": "https://avatars.githubusercontent.com/u/81851188?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dustinhealy",
+        "avatar": "https://avatars.githubusercontent.com/u/54083382?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/wtlyu",
+        "avatar": "https://avatars.githubusercontent.com/u/8267138?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/danny-avila/LibreChat",
+    "name": "danny-avila/LibreChat",
+    "description": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active  ",
+    "language": "TypeScript",
+    "stars": "44413",
+    "forks": "9120",
+    "increased": "1573 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/joshenlim",
+        "avatar": "https://avatars.githubusercontent.com/u/19742402?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kiwicopple",
+        "avatar": "https://avatars.githubusercontent.com/u/10214025?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/MildTomato",
+        "avatar": "https://avatars.githubusercontent.com/u/8291514?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/saltcod",
+        "avatar": "https://avatars.githubusercontent.com/u/105593?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/alaister",
+        "avatar": "https://avatars.githubusercontent.com/u/10985857?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/supabase/supabase",
+    "name": "supabase/supabase",
+    "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.  ",
+    "language": "TypeScript",
+    "stars": "110347",
+    "forks": "14407",
+    "increased": "1389 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/sgugger",
+        "avatar": "https://avatars.githubusercontent.com/u/35901082?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ydshieh",
+        "avatar": "https://avatars.githubusercontent.com/u/2521628?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/thomwolf",
+        "avatar": "https://avatars.githubusercontent.com/u/7353373?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/LysandreJik",
+        "avatar": "https://avatars.githubusercontent.com/u/30755778?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/patrickvonplaten",
+        "avatar": "https://avatars.githubusercontent.com/u/23423619?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/huggingface/transformers",
+    "name": "huggingface/transformers",
+    "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.  ",
+    "language": "Python",
+    "stars": "166404",
+    "forks": "34631",
+    "increased": "1290 stars this week"
+  }
+]
