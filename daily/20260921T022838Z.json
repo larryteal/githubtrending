@@ -1,0 +1,344 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/affaan-m",
+        "avatar": "https://avatars.githubusercontent.com/u/124439313?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/haelyra",
+        "avatar": "https://avatars.githubusercontent.com/u/49814733?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pangerlkr",
+        "avatar": "https://avatars.githubusercontent.com/u/73515951?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/affaan-m/ECC",
+    "name": "affaan-m/ECC",
+    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.  ",
+    "language": "JavaScript",
+    "stars": "263826",
+    "forks": "469",
+    "increased": "826 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/steve8708",
+        "avatar": "https://avatars.githubusercontent.com/u/844291?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/builderio-bot",
+        "avatar": "https://avatars.githubusercontent.com/u/175421836?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/3mdistal",
+        "avatar": "https://avatars.githubusercontent.com/u/86723305?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/BuilderIO/agent-native",
+    "name": "BuilderIO/agent-native",
+    "description": "A framework for building agentic apps  ",
+    "language": "TypeScript",
+    "stars": "5267",
+    "forks": "494",
+    "increased": "98 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/literally-dan",
+        "avatar": "https://avatars.githubusercontent.com/u/9935415?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/CooperSheroy",
+        "avatar": "https://avatars.githubusercontent.com/u/59650384?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kennysarnoski-jarvis",
+        "avatar": "https://avatars.githubusercontent.com/u/228360615?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/cloudflare/security-audit-skill",
+    "name": "cloudflare/security-audit-skill",
+    "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings  ",
+    "language": "JavaScript",
+    "stars": "18119",
+    "forks": "1012",
+    "increased": "2428 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/f-trycua",
+        "avatar": "https://avatars.githubusercontent.com/u/195596869?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ddupont808",
+        "avatar": "https://avatars.githubusercontent.com/u/3820588?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/r33drichards",
+        "avatar": "https://avatars.githubusercontent.com/u/57335981?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/trycua/cua",
+    "name": "trycua/cua",
+    "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.  ",
+    "language": "HTML",
+    "stars": "25198",
+    "forks": "1737",
+    "increased": "1018 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/mihilmy",
+        "avatar": "https://avatars.githubusercontent.com/u/5457787?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cxyback",
+        "avatar": "https://avatars.githubusercontent.com/u/174142461?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/manar-ant",
+        "avatar": "https://avatars.githubusercontent.com/u/250030384?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tobinsouth",
+        "avatar": "https://avatars.githubusercontent.com/u/32489862?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/viveknair",
+        "avatar": "https://avatars.githubusercontent.com/u/1203039?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/anthropics/financial-services",
+    "name": "anthropics/financial-services",
+    "language": "Python",
+    "stars": "35406",
+    "forks": "5251",
+    "increased": "260 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/shamoon",
+        "avatar": "https://avatars.githubusercontent.com/u/4887959?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/stumpylog",
+        "avatar": "https://avatars.githubusercontent.com/u/797416?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/danielquinn",
+        "avatar": "https://avatars.githubusercontent.com/u/218205?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/paperlessngx-bot",
+        "avatar": "https://avatars.githubusercontent.com/u/99855517?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/paperless-ngx/paperless-ngx",
+    "name": "paperless-ngx/paperless-ngx",
+    "description": "A community-supported supercharged document management system: scan, index and archive all your documents  ",
+    "language": "Python",
+    "stars": "45603",
+    "forks": "3149",
+    "increased": "57 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/actions-user",
+        "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/poteat",
+        "avatar": "https://avatars.githubusercontent.com/u/7668446?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bcherny",
+        "avatar": "https://avatars.githubusercontent.com/u/1761758?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ant-kurt",
+        "avatar": "https://avatars.githubusercontent.com/u/209710463?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/anthropics/claude-code",
+    "name": "anthropics/claude-code",
+    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.  ",
+    "language": "TypeScript",
+    "stars": "147171",
+    "forks": "24073",
+    "increased": "419 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/mihail911",
+        "avatar": "https://avatars.githubusercontent.com/u/2789441?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/febielin",
+        "avatar": "https://avatars.githubusercontent.com/u/133082422?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/mihail911/modern-software-dev-assignments",
+    "name": "mihail911/modern-software-dev-assignments",
+    "description": "Assignments for CS146S: The Modern Software Dev (Stanford University Fall 2026/2025)  ",
+    "language": "Python",
+    "stars": "4582",
+    "forks": "1012",
+    "increased": "172 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/arpanetus",
+        "avatar": "https://avatars.githubusercontent.com/u/14979358?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/higgsfield",
+        "avatar": "https://avatars.githubusercontent.com/u/24421551?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/zxcjhg",
+        "avatar": "https://avatars.githubusercontent.com/u/3302371?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/higgsfield-ai/higgsfield",
+    "name": "higgsfield-ai/higgsfield",
+    "description": "Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters  ",
+    "language": "Jupyter Notebook",
+    "stars": "5411",
+    "forks": "958",
+    "increased": "465 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ravixalgorithm",
+        "avatar": "https://avatars.githubusercontent.com/u/148683640?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/keshav-005",
+        "avatar": "https://avatars.githubusercontent.com/u/180140750?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/nb-src",
+        "avatar": "https://avatars.githubusercontent.com/u/76625701?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/chinnsenn",
+        "avatar": "https://avatars.githubusercontent.com/u/13096352?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Open-Dev-Society/OpenStock",
+    "name": "Open-Dev-Society/OpenStock",
+    "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.  ",
+    "language": "TypeScript",
+    "stars": "16890",
+    "forks": "2138",
+    "increased": "755 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/kylecarbs",
+        "avatar": "https://avatars.githubusercontent.com/u/7122116?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mafredri",
+        "avatar": "https://avatars.githubusercontent.com/u/147409?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/johnstcn",
+        "avatar": "https://avatars.githubusercontent.com/u/4949514?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Emyrk",
+        "avatar": "https://avatars.githubusercontent.com/u/5446298?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/coder/coder",
+    "name": "coder/coder",
+    "description": "Secure environments for developers and their agents  ",
+    "language": "Go",
+    "stars": "16085",
+    "forks": "1544",
+    "increased": "379 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ctate",
+        "avatar": "https://avatars.githubusercontent.com/u/366502?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Railly",
+        "avatar": "https://avatars.githubusercontent.com/u/51397083?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/lucianfialho",
+        "avatar": "https://avatars.githubusercontent.com/u/3296497?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/vercel-labs/json-render",
+    "name": "vercel-labs/json-render",
+    "description": "The Generative UI framework  ",
+    "language": "TypeScript",
+    "stars": "17376",
+    "forks": "924",
+    "increased": "291 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/addyosmani",
+        "avatar": "https://avatars.githubusercontent.com/u/110953?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/nucliweb",
+        "avatar": "https://avatars.githubusercontent.com/u/1307927?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/federicobartoli",
+        "avatar": "https://avatars.githubusercontent.com/u/27234034?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/HMAKT99",
+        "avatar": "https://avatars.githubusercontent.com/u/222980227?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/addyosmani/agent-skills",
+    "name": "addyosmani/agent-skills",
+    "description": "Production-grade engineering skills for AI coding agents.  ",
+    "language": "JavaScript",
+    "stars": "97738",
+    "forks": "10297",
+    "increased": "736 stars today"
+  }
+]
