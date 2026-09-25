@@ -1,0 +1,415 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/rohitg00",
+        "avatar": "https://avatars.githubusercontent.com/u/48523873?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/abhinav-m22",
+        "avatar": "https://avatars.githubusercontent.com/u/113239388?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/thereisnotime",
+        "avatar": "https://avatars.githubusercontent.com/u/37583483?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/rohitg00/ai-engineering-from-scratch",
+    "name": "rohitg00/ai-engineering-from-scratch",
+    "description": "Learn it. Build it. Ship it for others.  ",
+    "language": "Python",
+    "stars": "56628",
+    "forks": "9939",
+    "increased": "347 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/nicoloboschi",
+        "avatar": "https://avatars.githubusercontent.com/u/23314389?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/benfrank241",
+        "avatar": "https://avatars.githubusercontent.com/u/62250174?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/r266-tech",
+        "avatar": "https://avatars.githubusercontent.com/u/233881301?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cdbartholomew",
+        "avatar": "https://avatars.githubusercontent.com/u/22917476?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/vectorize-io/hindsight",
+    "name": "vectorize-io/hindsight",
+    "description": "Hindsight: Agent Memory That Learns  ",
+    "language": "Python",
+    "stars": "27857",
+    "forks": "2691",
+    "increased": "1668 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/jikkai",
+        "avatar": "https://avatars.githubusercontent.com/u/14025786?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/DR-Univer",
+        "avatar": "https://avatars.githubusercontent.com/u/68851825?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/wzhudev",
+        "avatar": "https://avatars.githubusercontent.com/u/12122021?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Dushusir",
+        "avatar": "https://avatars.githubusercontent.com/u/26371161?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/wpxp123456",
+        "avatar": "https://avatars.githubusercontent.com/u/26315959?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/dream-num/univer",
+    "name": "dream-num/univer",
+    "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.  ",
+    "language": "TypeScript",
+    "stars": "17846",
+    "forks": "1540",
+    "increased": "1082 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/rakyll",
+        "avatar": "https://avatars.githubusercontent.com/u/108380?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/joycel-github",
+        "avatar": "https://avatars.githubusercontent.com/u/11900208?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/wjjclaud",
+        "avatar": "https://avatars.githubusercontent.com/u/14038238?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/anj-s",
+        "avatar": "https://avatars.githubusercontent.com/u/32556631?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/zbl94",
+        "avatar": "https://avatars.githubusercontent.com/u/106645026?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/google/ax",
+    "name": "google/ax",
+    "description": "Google's open agentic orchestration runtime  ",
+    "language": "Go",
+    "stars": "10536",
+    "forks": "508",
+    "increased": "1373 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/kevalmorabia97",
+        "avatar": "https://avatars.githubusercontent.com/u/28916987?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/shengliangxu",
+        "avatar": "https://avatars.githubusercontent.com/u/106840466?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cjluo-nv",
+        "avatar": "https://avatars.githubusercontent.com/u/108829653?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/h-guo18",
+        "avatar": "https://avatars.githubusercontent.com/u/67671475?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ajrasane",
+        "avatar": "https://avatars.githubusercontent.com/u/131806219?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/NVIDIA/Model-Optimizer",
+    "name": "NVIDIA/Model-Optimizer",
+    "description": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.  ",
+    "language": "Python",
+    "stars": "4105",
+    "forks": "630",
+    "increased": "44 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/dangeredwolf",
+        "avatar": "https://avatars.githubusercontent.com/u/2636265?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cursoragent",
+        "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Wazbat",
+        "avatar": "https://avatars.githubusercontent.com/u/6253896?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/FxEmbed/FxEmbed",
+    "name": "FxEmbed/FxEmbed",
+    "description": "Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others  ",
+    "language": "TypeScript",
+    "stars": "5377",
+    "forks": "250",
+    "increased": "182 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/mihilmy",
+        "avatar": "https://avatars.githubusercontent.com/u/5457787?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cxyback",
+        "avatar": "https://avatars.githubusercontent.com/u/174142461?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/manar-ant",
+        "avatar": "https://avatars.githubusercontent.com/u/250030384?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tobinsouth",
+        "avatar": "https://avatars.githubusercontent.com/u/32489862?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/viveknair",
+        "avatar": "https://avatars.githubusercontent.com/u/1203039?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/anthropics/financial-services",
+    "name": "anthropics/financial-services",
+    "language": "Python",
+    "stars": "37371",
+    "forks": "5421",
+    "increased": "509 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/yuh-yang",
+        "avatar": "https://avatars.githubusercontent.com/u/43330997?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/AiMiDi",
+        "avatar": "https://avatars.githubusercontent.com/u/76622021?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/omerarslan0",
+        "avatar": "https://avatars.githubusercontent.com/u/76780961?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/hito0512",
+        "avatar": "https://avatars.githubusercontent.com/u/26110883?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/HKUDS/CLI-Anything",
+    "name": "HKUDS/CLI-Anything",
+    "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:  https://clianything.cc/    ",
+    "language": "Python",
+    "stars": "50352",
+    "forks": "4616",
+    "increased": "413 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/botherder",
+        "avatar": "https://avatars.githubusercontent.com/u/1032671?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/DonnchaC",
+        "avatar": "https://avatars.githubusercontent.com/u/3081375?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Te-k",
+        "avatar": "https://avatars.githubusercontent.com/u/15989628?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/besendorf",
+        "avatar": "https://avatars.githubusercontent.com/u/26350155?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/mvt-project/mvt",
+    "name": "mvt-project/mvt",
+    "description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.  ",
+    "language": "Python",
+    "stars": "14735",
+    "forks": "1392",
+    "increased": "272 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/obra",
+        "avatar": "https://avatars.githubusercontent.com/u/45416?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/arittr",
+        "avatar": "https://avatars.githubusercontent.com/u/5742859?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/clkao",
+        "avatar": "https://avatars.githubusercontent.com/u/69736?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/gaurav0107",
+        "avatar": "https://avatars.githubusercontent.com/u/12824278?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/obra/superpowers",
+    "name": "obra/superpowers",
+    "description": "An agentic skills framework &amp; software development methodology that works.  ",
+    "language": "Shell",
+    "stars": "291253",
+    "forks": "26055",
+    "increased": "611 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/zastrowm",
+        "avatar": "https://avatars.githubusercontent.com/u/3211021?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pgrayy",
+        "avatar": "https://avatars.githubusercontent.com/u/204914194?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/strands-agent",
+        "avatar": "https://avatars.githubusercontent.com/u/217235299?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/yonib05",
+        "avatar": "https://avatars.githubusercontent.com/u/5503597?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/strands-agents/harness-sdk",
+    "name": "strands-agents/harness-sdk",
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python &amp; TypeScript - any model, any cloud.  ",
+    "language": "Python",
+    "stars": "8273",
+    "forks": "1237",
+    "increased": "455 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/julyx10",
+        "avatar": "https://avatars.githubusercontent.com/u/36072047?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/baksohyeon",
+        "avatar": "https://avatars.githubusercontent.com/u/80398645?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/talynone",
+        "avatar": "https://avatars.githubusercontent.com/u/2554644?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Dimmitrius",
+        "avatar": "https://avatars.githubusercontent.com/u/22343750?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/julyx10/lap",
+    "name": "julyx10/lap",
+    "description": "An offline-first photo manager for large local libraries  ",
+    "language": "Vue",
+    "stars": "2889",
+    "forks": "171",
+    "increased": "122 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/JayZeeDesign",
+        "avatar": "https://avatars.githubusercontent.com/u/22532527?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/stonexer",
+        "avatar": "https://avatars.githubusercontent.com/u/6255130?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/unclecode",
+        "avatar": "https://avatars.githubusercontent.com/u/12494079?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/shehjad-dev",
+        "avatar": "https://avatars.githubusercontent.com/u/64325867?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/superdesigndev/treg",
+    "name": "superdesigndev/treg",
+    "description": "OpenRouter for agent tools. Join community here:  https://discord.gg/6mQYYfFMAn    ",
+    "language": "Python",
+    "stars": "3178",
+    "forks": "265",
+    "increased": "468 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/leejet",
+        "avatar": "https://avatars.githubusercontent.com/u/31925346?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/wbruna",
+        "avatar": "https://avatars.githubusercontent.com/u/734885?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/stduhpf",
+        "avatar": "https://avatars.githubusercontent.com/u/28208228?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/fszontagh",
+        "avatar": "https://avatars.githubusercontent.com/u/51741446?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rmatif",
+        "avatar": "https://avatars.githubusercontent.com/u/66360289?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/leejet/stable-diffusion.cpp",
+    "name": "leejet/stable-diffusion.cpp",
+    "description": "Diffusion model(SD,Flux,Wan,Qwen Image,Z-Image,...) inference in pure C/C++  ",
+    "language": "C++",
+    "stars": "7260",
+    "forks": "11",
+    "increased": "36 stars today"
+  }
+]
