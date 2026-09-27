@@ -1,0 +1,450 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/cryppadotta",
+        "avatar": "https://avatars.githubusercontent.com/u/34892728?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Paperclip-Paperclip",
+        "avatar": "https://avatars.githubusercontent.com/u/271391591?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/devinfoley",
+        "avatar": "https://avatars.githubusercontent.com/u/139239?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/nickyleach",
+        "avatar": "https://avatars.githubusercontent.com/u/331803?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/paperclipai/paperclip",
+    "name": "paperclipai/paperclip",
+    "description": "The open-source app everyone uses to manage agents at work  ",
+    "language": "TypeScript",
+    "stars": "87498",
+    "forks": "15445",
+    "increased": "2608 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/nicoloboschi",
+        "avatar": "https://avatars.githubusercontent.com/u/23314389?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/benfrank241",
+        "avatar": "https://avatars.githubusercontent.com/u/62250174?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/r266-tech",
+        "avatar": "https://avatars.githubusercontent.com/u/233881301?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cdbartholomew",
+        "avatar": "https://avatars.githubusercontent.com/u/22917476?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/vectorize-io/hindsight",
+    "name": "vectorize-io/hindsight",
+    "description": "Hin dsight: Agent Memory That Learns  ",
+    "language": "Python",
+    "stars": "32361",
+    "forks": "3600",
+    "increased": "2147 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/kevalmorabia97",
+        "avatar": "https://avatars.githubusercontent.com/u/28916987?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/shengliangxu",
+        "avatar": "https://avatars.githubusercontent.com/u/106840466?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cjluo-nv",
+        "avatar": "https://avatars.githubusercontent.com/u/108829653?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/h-guo18",
+        "avatar": "https://avatars.githubusercontent.com/u/67671475?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ajrasane",
+        "avatar": "https://avatars.githubusercontent.com/u/131806219?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/NVIDIA/Model-Optimizer",
+    "name": "NVIDIA/Model-Optimizer",
+    "description": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.  ",
+    "language": "Python",
+    "stars": "4773",
+    "forks": "669",
+    "increased": "357 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/jikkai",
+        "avatar": "https://avatars.githubusercontent.com/u/14025786?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/DR-Univer",
+        "avatar": "https://avatars.githubusercontent.com/u/68851825?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/wzhudev",
+        "avatar": "https://avatars.githubusercontent.com/u/12122021?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Dushusir",
+        "avatar": "https://avatars.githubusercontent.com/u/26371161?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/wpxp123456",
+        "avatar": "https://avatars.githubusercontent.com/u/26315959?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/dream-num/univer",
+    "name": "dream-num/univer",
+    "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.  ",
+    "language": "TypeScript",
+    "stars": "19315",
+    "forks": "1643",
+    "increased": "849 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/tensorflower-gardener",
+        "avatar": "https://avatars.githubusercontent.com/u/17151892?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ezhulenev",
+        "avatar": "https://avatars.githubusercontent.com/u/1174378?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/akuegel",
+        "avatar": "https://avatars.githubusercontent.com/u/14309772?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/hawkinsp",
+        "avatar": "https://avatars.githubusercontent.com/u/348932?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mihaimaruseac",
+        "avatar": "https://avatars.githubusercontent.com/u/323199?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/tensorflow/tensorflow",
+    "name": "tensorflow/tensorflow",
+    "description": "An Open Source Machine Learning Framework for Everyone  ",
+    "language": "C++",
+    "stars": "200472",
+    "forks": "77635",
+    "increased": "46 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/rohitg00",
+        "avatar": "https://avatars.githubusercontent.com/u/48523873?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/abhinav-m22",
+        "avatar": "https://avatars.githubusercontent.com/u/113239388?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/thereisnotime",
+        "avatar": "https://avatars.githubusercontent.com/u/37583483?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/rohitg00/ai-engineering-from-scratch",
+    "name": "rohitg00/ai-engineering-from-scratch",
+    "description": "Learn it. Build it. Ship it for others.  ",
+    "language": "Python",
+    "stars": "58429",
+    "forks": "10130",
+    "increased": "827 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/jefferai",
+        "avatar": "https://avatars.githubusercontent.com/u/28627?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/vishalnayak",
+        "avatar": "https://avatars.githubusercontent.com/u/3053672?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cipherboy",
+        "avatar": "https://avatars.githubusercontent.com/u/914030?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/hc-github-team-secure-vault-core",
+        "avatar": "https://avatars.githubusercontent.com/u/82990506?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/armon",
+        "avatar": "https://avatars.githubusercontent.com/u/592032?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/openbao/openbao",
+    "name": "openbao/openbao",
+    "description": "OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.  ",
+    "language": "Go",
+    "stars": "8020",
+    "forks": "590",
+    "increased": "364 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/wesbillman",
+        "avatar": "https://avatars.githubusercontent.com/u/51647?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/wpfleger96",
+        "avatar": "https://avatars.githubusercontent.com/u/15384764?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tlongwell-block",
+        "avatar": "https://avatars.githubusercontent.com/u/109685178?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/klopez4212",
+        "avatar": "https://avatars.githubusercontent.com/u/7863796?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/block/buzz",
+    "name": "block/buzz",
+    "description": "A hive mind communication platform  ",
+    "language": "Rust",
+    "stars": "34845",
+    "forks": "4595",
+    "increased": "339 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/bpasero",
+        "avatar": "https://avatars.githubusercontent.com/u/900690?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jrieken",
+        "avatar": "https://avatars.githubusercontent.com/u/1794099?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Tyriar",
+        "avatar": "https://avatars.githubusercontent.com/u/2193314?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sandy081",
+        "avatar": "https://avatars.githubusercontent.com/u/10746682?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/joaomoreno",
+        "avatar": "https://avatars.githubusercontent.com/u/22350?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/microsoft/vscode",
+    "name": "microsoft/vscode",
+    "description": "Visual Studio Code  ",
+    "language": "TypeScript",
+    "stars": "193084",
+    "forks": "43571",
+    "increased": "95 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/zhaoxuya520",
+        "avatar": "https://avatars.githubusercontent.com/u/147215175?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dhicoc",
+        "avatar": "https://avatars.githubusercontent.com/u/94750419?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jhuang-tw",
+        "avatar": "https://avatars.githubusercontent.com/u/77732008?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/zhaoxuya",
+        "avatar": "https://avatars.githubusercontent.com/u/32364788?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/doublecurry",
+        "avatar": "https://avatars.githubusercontent.com/u/30251656?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/zhaoxuya520/reverse-skill",
+    "name": "zhaoxuya520/reverse-skill",
+    "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端  ",
+    "language": "PowerShell",
+    "stars": "38043",
+    "forks": "5278",
+    "increased": "361 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/lattner",
+        "avatar": "https://avatars.githubusercontent.com/u/15152540?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/topperc",
+        "avatar": "https://avatars.githubusercontent.com/u/22566570?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/RKSimon",
+        "avatar": "https://avatars.githubusercontent.com/u/2175834?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/arsenm",
+        "avatar": "https://avatars.githubusercontent.com/u/138339?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/espindola",
+        "avatar": "https://avatars.githubusercontent.com/u/42633?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/llvm/llvm-project",
+    "name": "llvm/llvm-project",
+    "description": "The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.  ",
+    "language": "LLVM",
+    "stars": "40756",
+    "forks": "18824",
+    "increased": "41 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/actions-user",
+        "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ashwin-ant",
+        "avatar": "https://avatars.githubusercontent.com/u/178951676?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ltawfik",
+        "avatar": "https://avatars.githubusercontent.com/u/11431944?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/anthropics/claude-code-action",
+    "name": "anthropics/claude-code-action",
+    "language": "TypeScript",
+    "stars": "9106",
+    "forks": "2165",
+    "increased": "31 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/459680",
+        "avatar": "https://avatars.githubusercontent.com/u/72681142?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/al-cheb",
+        "avatar": "https://avatars.githubusercontent.com/u/47745270?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/miketimofeev",
+        "avatar": "https://avatars.githubusercontent.com/u/48208649?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/actions/runner-images",
+    "name": "actions/runner-images",
+    "description": "GitHub Actions runner images  ",
+    "language": "PowerShell",
+    "stars": "13310",
+    "forks": "3869",
+    "increased": "19 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/gmegidish",
+        "avatar": "https://avatars.githubusercontent.com/u/2457607?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/krismuhi",
+        "avatar": "https://avatars.githubusercontent.com/u/38224019?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/benlmyers",
+        "avatar": "https://avatars.githubusercontent.com/u/41796709?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tomoya0x00",
+        "avatar": "https://avatars.githubusercontent.com/u/5106629?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/aluedeke",
+        "avatar": "https://avatars.githubusercontent.com/u/311702?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/mobile-next/mobile-mcp",
+    "name": "mobile-next/mobile-mcp",
+    "description": "Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulators and Real Devices)  ",
+    "language": "TypeScript",
+    "stars": "7389",
+    "forks": "643",
+    "increased": "168 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ijjk",
+        "avatar": "https://avatars.githubusercontent.com/u/22380829?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/timneutkens",
+        "avatar": "https://avatars.githubusercontent.com/u/6324199?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sokra",
+        "avatar": "https://avatars.githubusercontent.com/u/1365881?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/vercel-release-bot",
+        "avatar": "https://avatars.githubusercontent.com/u/88769842?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/huozhi",
+        "avatar": "https://avatars.githubusercontent.com/u/4800338?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/vercel/next.js",
+    "name": "vercel/next.js",
+    "description": "The React Framework  ",
+    "language": "JavaScript",
+    "stars": "142654",
+    "forks": "33181",
+    "increased": "54 stars today"
+  }
+]
