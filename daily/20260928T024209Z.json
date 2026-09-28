@@ -1,0 +1,273 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/cryppadotta",
+        "avatar": "https://avatars.githubusercontent.com/u/34892728?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Paperclip-Paperclip",
+        "avatar": "https://avatars.githubusercontent.com/u/271391591?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/devinfoley",
+        "avatar": "https://avatars.githubusercontent.com/u/139239?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/nickyleach",
+        "avatar": "https://avatars.githubusercontent.com/u/331803?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/paperclipai/paperclip",
+    "name": "paperclipai/paperclip",
+    "description": "The open-source app everyone uses to manage agents at work  ",
+    "language": "TypeScript",
+    "stars": "90159",
+    "forks": "15689",
+    "increased": "2401 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/nicoloboschi",
+        "avatar": "https://avatars.githubusercontent.com/u/23314389?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/benfrank241",
+        "avatar": "https://avatars.githubusercontent.com/u/62250174?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/r266-tech",
+        "avatar": "https://avatars.githubusercontent.com/u/233881301?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cdbartholomew",
+        "avatar": "https://avatars.githubusercontent.com/u/22917476?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/vectorize-io/hindsight",
+    "name": "vectorize-io/hindsight",
+    "description": "Hindsight: Agent Memory That Learns  ",
+    "language": "Python",
+    "stars": "37571",
+    "forks": "4862",
+    "increased": "4520 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/debpalash",
+        "avatar": "https://avatars.githubusercontent.com/u/4178343?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kevin9327",
+        "avatar": "https://avatars.githubusercontent.com/u/5299031?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jaketame",
+        "avatar": "https://avatars.githubusercontent.com/u/1787973?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/velixio",
+        "avatar": "https://avatars.githubusercontent.com/u/270455167?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/debpalash/VoiceStudio",
+    "name": "debpalash/VoiceStudio",
+    "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.  ",
+    "language": "Python",
+    "stars": "40370",
+    "forks": "4794",
+    "increased": "3086 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/rohitg00",
+        "avatar": "https://avatars.githubusercontent.com/u/48523873?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/abhinav-m22",
+        "avatar": "https://avatars.githubusercontent.com/u/113239388?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/thereisnotime",
+        "avatar": "https://avatars.githubusercontent.com/u/37583483?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/rohitg00/ai-engineering-from-scratch",
+    "name": "rohitg00/ai-engineering-from-scratch",
+    "description": "Learn it. Build it. Ship it for others.  ",
+    "language": "Python",
+    "stars": "59418",
+    "forks": "10249",
+    "increased": "790 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/InfinityLoop1308",
+        "avatar": "https://avatars.githubusercontent.com/u/96324692?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/wh201906",
+        "avatar": "https://avatars.githubusercontent.com/u/62299611?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Korb",
+        "avatar": "https://avatars.githubusercontent.com/u/3509797?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Priveetee",
+        "avatar": "https://avatars.githubusercontent.com/u/138765817?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/yurtpage",
+        "avatar": "https://avatars.githubusercontent.com/u/155876573?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/InfinityLoop1308/PipePipe",
+    "name": "InfinityLoop1308/PipePipe",
+    "description": "An open-source Android app to let you browse YouTube and other services freely.  ",
+    "language": "Shell",
+    "stars": "6616",
+    "forks": "223",
+    "increased": "242 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ctate",
+        "avatar": "https://avatars.githubusercontent.com/u/366502?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jimmyhmiller",
+        "avatar": "https://avatars.githubusercontent.com/u/6071338?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/HagegeR",
+        "avatar": "https://avatars.githubusercontent.com/u/20857346?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mmamedel",
+        "avatar": "https://avatars.githubusercontent.com/u/23098414?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ryoppippi",
+        "avatar": "https://avatars.githubusercontent.com/u/1560508?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/vercel-labs/scriptc",
+    "name": "vercel-labs/scriptc",
+    "description": "TypeScript-to-Native Compiler  ",
+    "language": "TypeScript",
+    "stars": "5435",
+    "forks": "142",
+    "increased": "102 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/mvschwarz",
+        "avatar": "https://avatars.githubusercontent.com/u/171890339?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mattik",
+        "avatar": "https://avatars.githubusercontent.com/u/1448131?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/agentS",
+        "avatar": "https://avatars.githubusercontent.com/u/5032736?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/danielkuykendall23-boop",
+        "avatar": "https://avatars.githubusercontent.com/u/245085724?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/mvschwarz/openrig",
+    "name": "mvschwarz/openrig",
+    "description": "Multi-agent harness that runs Claude Code and Codex together as one system  ",
+    "language": "TypeScript",
+    "stars": "1043",
+    "forks": "106",
+    "increased": "114 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/jikkai",
+        "avatar": "https://avatars.githubusercontent.com/u/14025786?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/DR-Univer",
+        "avatar": "https://avatars.githubusercontent.com/u/68851825?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/wzhudev",
+        "avatar": "https://avatars.githubusercontent.com/u/12122021?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Dushusir",
+        "avatar": "https://avatars.githubusercontent.com/u/26371161?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/wpxp123456",
+        "avatar": "https://avatars.githubusercontent.com/u/26315959?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/dream-num/univer",
+    "name": "dream-num/univer",
+    "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.  ",
+    "language": "TypeScript",
+    "stars": "20493",
+    "forks": "1724",
+    "increased": "895 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/willfaust",
+        "avatar": "https://avatars.githubusercontent.com/u/39139570?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/125hz",
+        "avatar": "https://avatars.githubusercontent.com/u/133181124?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/codex",
+        "avatar": "https://avatars.githubusercontent.com/u/267193182?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/willfaust/Madeira",
+    "name": "willfaust/Madeira",
+    "description": "Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT  ",
+    "language": "C",
+    "stars": "843",
+    "forks": "152",
+    "increased": "83 stars today"
+  }
+]
