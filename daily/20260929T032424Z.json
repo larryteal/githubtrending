@@ -1,0 +1,250 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/debpalash",
+        "avatar": "https://avatars.githubusercontent.com/u/4178343?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kevin9327",
+        "avatar": "https://avatars.githubusercontent.com/u/5299031?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jaketame",
+        "avatar": "https://avatars.githubusercontent.com/u/1787973?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/velixio",
+        "avatar": "https://avatars.githubusercontent.com/u/270455167?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/debpalash/VoiceStudio",
+    "name": "debpalash/VoiceStudio",
+    "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.  ",
+    "language": "Python",
+    "stars": "44561",
+    "forks": "5131",
+    "increased": "3221 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/cryppadotta",
+        "avatar": "https://avatars.githubusercontent.com/u/34892728?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Paperclip-Paperclip",
+        "avatar": "https://avatars.githubusercontent.com/u/271391591?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/devinfoley",
+        "avatar": "https://avatars.githubusercontent.com/u/139239?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/nickyleach",
+        "avatar": "https://avatars.githubusercontent.com/u/331803?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/paperclipai/paperclip",
+    "name": "paperclipai/paperclip",
+    "description": "The open-source app everyone uses to manage agents at work  ",
+    "language": "TypeScript",
+    "stars": "93091",
+    "forks": "15915",
+    "increased": "3197 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/nicoloboschi",
+        "avatar": "https://avatars.githubusercontent.com/u/23314389?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/benfrank241",
+        "avatar": "https://avatars.githubusercontent.com/u/62250174?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/r266-tech",
+        "avatar": "https://avatars.githubusercontent.com/u/233881301?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cdbartholomew",
+        "avatar": "https://avatars.githubusercontent.com/u/22917476?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/vectorize-io/hindsight",
+    "name": "vectorize-io/hindsight",
+    "description": "Hindsight: Agent Memory That Learns  ",
+    "language": "Python",
+    "stars": "41214",
+    "forks": "5562",
+    "increased": "4561 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/JJassonn69",
+        "avatar": "https://avatars.githubusercontent.com/u/83615043?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/NawfalMotii79",
+        "avatar": "https://avatars.githubusercontent.com/u/215612484?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/joyshmitz",
+        "avatar": "https://avatars.githubusercontent.com/u/11138019?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/shaun0927",
+        "avatar": "https://avatars.githubusercontent.com/u/70629228?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/3aLaee",
+        "avatar": "https://avatars.githubusercontent.com/u/102328514?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/NawfalMotii79/PLFM_RADAR",
+    "name": "NawfalMotii79/PLFM_RADAR",
+    "description": "Open-source, low-cost 10.5 GHz PLFM phased array RADAR system  ",
+    "language": "PLSQL",
+    "stars": "25808",
+    "forks": "5888",
+    "increased": "158 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/bhuvy2",
+        "avatar": "https://avatars.githubusercontent.com/u/6509868?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/angrave",
+        "avatar": "https://avatars.githubusercontent.com/u/4468456?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/PradyumnaShome",
+        "avatar": "https://avatars.githubusercontent.com/u/13492296?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ekcom",
+        "avatar": "https://avatars.githubusercontent.com/u/28277163?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/aneeshdurg",
+        "avatar": "https://avatars.githubusercontent.com/u/14022626?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/cs341-illinois/coursebook",
+    "name": "cs341-illinois/coursebook",
+    "description": "Open Source Introductory Systems Programming Textbook for the University of Illinois  ",
+    "language": "TeX",
+    "stars": "2579",
+    "forks": "242",
+    "increased": "195 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/byoungd",
+        "avatar": "https://avatars.githubusercontent.com/u/16145783?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/fakesnow",
+        "avatar": "https://avatars.githubusercontent.com/u/4256108?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/holtenko",
+        "avatar": "https://avatars.githubusercontent.com/u/17680637?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/WMXPY",
+        "avatar": "https://avatars.githubusercontent.com/u/5085821?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/overtrue",
+        "avatar": "https://avatars.githubusercontent.com/u/1472352?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/byoungd/up",
+    "name": "byoungd/up",
+    "description": "An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英语学习/学英语  ",
+    "language": "JavaScript",
+    "stars": "64844",
+    "forks": "6523",
+    "increased": "327 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/mvschwarz",
+        "avatar": "https://avatars.githubusercontent.com/u/171890339?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mattik",
+        "avatar": "https://avatars.githubusercontent.com/u/1448131?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mvdpoel",
+        "avatar": "https://avatars.githubusercontent.com/u/1132767?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/agentS",
+        "avatar": "https://avatars.githubusercontent.com/u/5032736?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/mvschwarz/openrig",
+    "name": "mvschwarz/openrig",
+    "description": "Multi-agent harness that runs Claude Code and Codex together as one system  ",
+    "language": "TypeScript",
+    "stars": "1810",
+    "forks": "144",
+    "increased": "734 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/jikkai",
+        "avatar": "https://avatars.githubusercontent.com/u/14025786?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/DR-Univer",
+        "avatar": "https://avatars.githubusercontent.com/u/68851825?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/wzhudev",
+        "avatar": "https://avatars.githubusercontent.com/u/12122021?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Dushusir",
+        "avatar": "https://avatars.githubusercontent.com/u/26371161?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/wpxp123456",
+        "avatar": "https://avatars.githubusercontent.com/u/26315959?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/dream-num/univer",
+    "name": "dream-num/univer",
+    "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.  ",
+    "language": "TypeScript",
+    "stars": "21352",
+    "forks": "1807",
+    "increased": "1099 stars today"
+  }
+]
