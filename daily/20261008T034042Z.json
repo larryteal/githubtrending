@@ -1,0 +1,377 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/morluto",
+        "avatar": "https://avatars.githubusercontent.com/u/76467478?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/N0zoM1z0",
+        "avatar": "https://avatars.githubusercontent.com/u/161784452?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kaoru0822-kitauji",
+        "avatar": "https://avatars.githubusercontent.com/u/208281322?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rudycelekli",
+        "avatar": "https://avatars.githubusercontent.com/u/47457359?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/morluto/rea",
+    "name": "morluto/rea",
+    "description": "Reverse engineer anything with agents, from app behavior down to native binaries.  ",
+    "language": "TypeScript",
+    "stars": "16287",
+    "forks": "1691",
+    "increased": "4655 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/mattpocock",
+        "avatar": "https://avatars.githubusercontent.com/u/28293365?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/gabimoncha",
+        "avatar": "https://avatars.githubusercontent.com/u/39256258?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/mattpocock/skills",
+    "name": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .agents directory.  ",
+    "language": "Shell",
+    "stars": "279830",
+    "forks": "23457",
+    "increased": "1403 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/boykopovar",
+        "avatar": "https://avatars.githubusercontent.com/u/184076081?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/oneandonlydean",
+        "avatar": "https://avatars.githubusercontent.com/u/158058829?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/adriadam10",
+        "avatar": "https://avatars.githubusercontent.com/u/57327458?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/SamG-Coder",
+        "avatar": "https://avatars.githubusercontent.com/u/13449963?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/boykopovar/AnyPS5",
+    "name": "boykopovar/AnyPS5",
+    "description": "Tool for automatic PS5 executables porting to Linux and Windows  ",
+    "language": "C++",
+    "stars": "11019",
+    "forks": "835",
+    "increased": "2716 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ayghri",
+        "avatar": "https://avatars.githubusercontent.com/u/32200675?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/thejesh23",
+        "avatar": "https://avatars.githubusercontent.com/u/35212698?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/SillyDark",
+        "avatar": "https://avatars.githubusercontent.com/u/116559191?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/commie70",
+        "avatar": "https://avatars.githubusercontent.com/u/57289446?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/ayghri/i-have-adhd",
+    "name": "ayghri/i-have-adhd",
+    "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.  ",
+    "language": "Python",
+    "stars": "55249",
+    "forks": "3164",
+    "increased": "619 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/cathrynlavery",
+        "avatar": "https://avatars.githubusercontent.com/u/50469282?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/parveen0029",
+        "avatar": "https://avatars.githubusercontent.com/u/174610155?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mvanhorn",
+        "avatar": "https://avatars.githubusercontent.com/u/455140?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/cathrynlavery/diagram-design",
+    "name": "cathrynlavery/diagram-design",
+    "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.  ",
+    "language": "HTML",
+    "stars": "45142",
+    "forks": "2902",
+    "increased": "825 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/addyosmani",
+        "avatar": "https://avatars.githubusercontent.com/u/110953?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/nucliweb",
+        "avatar": "https://avatars.githubusercontent.com/u/1307927?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/federicobartoli",
+        "avatar": "https://avatars.githubusercontent.com/u/27234034?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ayobamiseun",
+        "avatar": "https://avatars.githubusercontent.com/u/66267222?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/addyosmani/agent-skills",
+    "name": "addyosmani/agent-skills",
+    "description": "Production-grade engineering skills for AI coding agents.  ",
+    "language": "JavaScript",
+    "stars": "102917",
+    "forks": "10777",
+    "increased": "677 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ryanfleury",
+        "avatar": "https://avatars.githubusercontent.com/u/12454169?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/NikitaSmith057",
+        "avatar": "https://avatars.githubusercontent.com/u/4572155?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mmozeiko",
+        "avatar": "https://avatars.githubusercontent.com/u/1665010?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/NikitaAtEpic",
+        "avatar": "https://avatars.githubusercontent.com/u/167924611?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/andreymlv",
+        "avatar": "https://avatars.githubusercontent.com/u/58001412?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/EpicGames/raddebugger",
+    "name": "EpicGames/raddebugger",
+    "description": "A native, user-mode, multi-process, graphical debugger.  ",
+    "language": "C",
+    "stars": "7905",
+    "forks": "384",
+    "increased": "90 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/thedotmack",
+        "avatar": "https://avatars.githubusercontent.com/u/683968?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rudycelekli",
+        "avatar": "https://avatars.githubusercontent.com/u/47457359?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cursoragent",
+        "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rodboev",
+        "avatar": "https://avatars.githubusercontent.com/u/106971?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/thedotmack/claude-mem",
+    "name": "thedotmack/claude-mem",
+    "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More  ",
+    "language": "TypeScript",
+    "stars": "97830",
+    "forks": "8607",
+    "increased": "578 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/lawrencecchen",
+        "avatar": "https://avatars.githubusercontent.com/u/54008264?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/austinywang",
+        "avatar": "https://avatars.githubusercontent.com/u/38676809?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/azooz2003-bit",
+        "avatar": "https://avatars.githubusercontent.com/u/67667005?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/teamleaderleo",
+        "avatar": "https://avatars.githubusercontent.com/u/13091533?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/manaflow-ai/cmux",
+    "name": "manaflow-ai/cmux",
+    "description": "Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.  ",
+    "language": "Swift",
+    "stars": "27892",
+    "forks": "2463",
+    "increased": "44 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/f-trycua",
+        "avatar": "https://avatars.githubusercontent.com/u/195596869?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ddupont808",
+        "avatar": "https://avatars.githubusercontent.com/u/3820588?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/r33drichards",
+        "avatar": "https://avatars.githubusercontent.com/u/57335981?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/trycua/cua",
+    "name": "trycua/cua",
+    "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.  ",
+    "language": "Rust",
+    "stars": "28815",
+    "forks": "2041",
+    "increased": "228 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/literally-dan",
+        "avatar": "https://avatars.githubusercontent.com/u/9935415?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/CooperSheroy",
+        "avatar": "https://avatars.githubusercontent.com/u/59650384?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kennysarnoski-jarvis",
+        "avatar": "https://avatars.githubusercontent.com/u/228360615?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/cloudflare/security-audit-skill",
+    "name": "cloudflare/security-audit-skill",
+    "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings  ",
+    "language": "JavaScript",
+    "stars": "26139",
+    "forks": "1571",
+    "increased": "576 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/okwasniewski",
+        "avatar": "https://avatars.githubusercontent.com/u/52801365?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kacperkapusciak",
+        "avatar": "https://avatars.githubusercontent.com/u/39658211?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/szymonrybczak",
+        "avatar": "https://avatars.githubusercontent.com/u/63900941?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/DeryFerd",
+        "avatar": "https://avatars.githubusercontent.com/u/114888155?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/tester-army/e2e",
+    "name": "tester-army/e2e",
+    "description": "Next generation e2e testing framework for web and mobile apps.  ",
+    "language": "TypeScript",
+    "stars": "7626",
+    "forks": "346",
+    "increased": "1390 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/DuarteSantos8",
+        "avatar": "https://avatars.githubusercontent.com/u/171949022?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kurktchiev",
+        "avatar": "https://avatars.githubusercontent.com/u/5804477?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sgoendoer",
+        "avatar": "https://avatars.githubusercontent.com/u/1579152?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Space-Hermes",
+        "avatar": "https://avatars.githubusercontent.com/u/290709289?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/DuarteSantos8/openGym",
+    "name": "DuarteSantos8/openGym",
+    "description": "Self-hosted gym &amp; body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.  ",
+    "language": "JavaScript",
+    "stars": "7127",
+    "forks": "924",
+    "increased": "1493 stars today"
+  }
+]
