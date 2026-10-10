@@ -1,0 +1,306 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/morluto",
+        "avatar": "https://avatars.githubusercontent.com/u/76467478?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/N0zoM1z0",
+        "avatar": "https://avatars.githubusercontent.com/u/161784452?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kaoru0822-kitauji",
+        "avatar": "https://avatars.githubusercontent.com/u/208281322?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rudycelekli",
+        "avatar": "https://avatars.githubusercontent.com/u/47457359?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/morluto/rea",
+    "name": "morluto/rea",
+    "description": "Reverse engineer anything with agents, from app behavior down to native binaries.  ",
+    "language": "TypeScript",
+    "stars": "49855",
+    "forks": "8636",
+    "increased": "14927 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/boykopovar",
+        "avatar": "https://avatars.githubusercontent.com/u/184076081?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/oneandonlydean",
+        "avatar": "https://avatars.githubusercontent.com/u/158058829?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/adriadam10",
+        "avatar": "https://avatars.githubusercontent.com/u/57327458?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/SamG-Coder",
+        "avatar": "https://avatars.githubusercontent.com/u/13449963?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/boykopovar/AnyPS5",
+    "name": "boykopovar/AnyPS5",
+    "description": "Tool for automatic PS5 executables porting to Linux and Windows  ",
+    "language": "C++",
+    "stars": "22800",
+    "forks": "1874",
+    "increased": "5868 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/mattpocock",
+        "avatar": "https://avatars.githubusercontent.com/u/28293365?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/gabimoncha",
+        "avatar": "https://avatars.githubusercontent.com/u/39256258?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/mattpocock/skills",
+    "name": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .agents directory.  ",
+    "language": "Shell",
+    "stars": "282918",
+    "forks": "23708",
+    "increased": "1687 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/cathrynlavery",
+        "avatar": "https://avatars.githubusercontent.com/u/50469282?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/parveen0029",
+        "avatar": "https://avatars.githubusercontent.com/u/174610155?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mvanhorn",
+        "avatar": "https://avatars.githubusercontent.com/u/455140?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/cathrynlavery/diagram-design",
+    "name": "cathrynlavery/diagram-design",
+    "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.  ",
+    "language": "HTML",
+    "stars": "48045",
+    "forks": "3043",
+    "increased": "1739 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/lizhengfeng101",
+        "avatar": "https://avatars.githubusercontent.com/u/254839944?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/wu21-web",
+        "avatar": "https://avatars.githubusercontent.com/u/149216116?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/chethanuk",
+        "avatar": "https://avatars.githubusercontent.com/u/16241795?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/stay-foolish-forever",
+        "avatar": "https://avatars.githubusercontent.com/u/61303077?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Qiyuanqiii",
+        "avatar": "https://avatars.githubusercontent.com/u/267806965?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/alibaba/open-code-review",
+    "name": "alibaba/open-code-review",
+    "description": "Secure, fast, efficient, battle-tested at Alibaba's scale . Hybrid architecture co de review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.  ",
+    "language": "Go",
+    "stars": "45365",
+    "forks": "3274",
+    "increased": "326 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/jordanecker-ant",
+        "avatar": "https://avatars.githubusercontent.com/u/305637556?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bryan-anthropic",
+        "avatar": "https://avatars.githubusercontent.com/u/238056179?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mattpic-ant",
+        "avatar": "https://avatars.githubusercontent.com/u/227474486?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/anthropics/knowledge-work-plugins",
+    "name": "anthropics/knowledge-work-plugins",
+    "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork  ",
+    "language": "Python",
+    "stars": "332",
+    "forks": "3250",
+    "increased": "709 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ishaan-jaff",
+        "avatar": "https://avatars.githubusercontent.com/u/29436595?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mateo-berri",
+        "avatar": "https://avatars.githubusercontent.com/u/277851410?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/yuneng-berri",
+        "avatar": "https://avatars.githubusercontent.com/u/264297931?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Sameerlite",
+        "avatar": "https://avatars.githubusercontent.com/u/231518212?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/BerriAI/litellm",
+    "name": "BerriAI/litellm",
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]  ",
+    "language": "Python",
+    "stars": "60718",
+    "forks": "12196",
+    "increased": "95 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/addyosmani",
+        "avatar": "https://avatars.githubusercontent.com/u/110953?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/nucliweb",
+        "avatar": "https://avatars.githubusercontent.com/u/1307927?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/federicobartoli",
+        "avatar": "https://avatars.githubusercontent.com/u/27234034?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ayobamiseun",
+        "avatar": "https://avatars.githubusercontent.com/u/66267222?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/addyosmani/agent-skills",
+    "name": "addyosmani/agent-skills",
+    "description": "Production-grade engineering skills for AI coding agents.  ",
+    "language": "JavaScript",
+    "stars": "104076",
+    "forks": "10871",
+    "increased": "436 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/echelon",
+        "avatar": "https://avatars.githubusercontent.com/u/39263?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bflatastic",
+        "avatar": "https://avatars.githubusercontent.com/u/46063141?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ArEnSc",
+        "avatar": "https://avatars.githubusercontent.com/u/6252325?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/wilwong",
+        "avatar": "https://avatars.githubusercontent.com/u/1340665?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Quicksticks-oss",
+        "avatar": "https://avatars.githubusercontent.com/u/75916236?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/storytold/artcraft",
+    "name": "storytold/artcraft",
+    "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers  ",
+    "language": "Rust",
+    "stars": "11829",
+    "forks": "1792",
+    "increased": "3752 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/LinZhuoChen",
+        "avatar": "https://avatars.githubusercontent.com/u/32637882?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/justimyhxu",
+        "avatar": "https://avatars.githubusercontent.com/u/29980330?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Robbyant/lingbot-map",
+    "name": "Robbyant/lingbot-map",
+    "description": "[ECCV 2026 Best Paper Award Candidate] LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction  ",
+    "language": "Python",
+    "stars": "17761",
+    "forks": "1955",
+    "increased": "110 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/twostraws",
+        "avatar": "https://avatars.githubusercontent.com/u/190200?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/GLinnik21",
+        "avatar": "https://avatars.githubusercontent.com/u/23104281?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Jeehut",
+        "avatar": "https://avatars.githubusercontent.com/u/6942160?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/twostraws/SwiftUI-Agent-Skill",
+    "name": "twostraws/SwiftUI-Agent-Skill",
+    "description": "SwiftUI agent skill for Claude Code, Codex, and other AI tool s.  ",
+    "stars": "5508",
+    "forks": "197",
+    "increased": "65 stars today"
+  }
+]
