@@ -1,0 +1,384 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/morluto",
+        "avatar": "https://avatars.githubusercontent.com/u/76467478?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/N0zoM1z0",
+        "avatar": "https://avatars.githubusercontent.com/u/161784452?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kaoru0822-kitauji",
+        "avatar": "https://avatars.githubusercontent.com/u/208281322?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rudycelekli",
+        "avatar": "https://avatars.githubusercontent.com/u/47457359?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/morluto/rea",
+    "name": "morluto/rea",
+    "description": "Reverse engineer anything with agents, from app behavior down to native binaries.  ",
+    "language": "TypeScript",
+    "stars": "75068",
+    "forks": "15938",
+    "increased": "25793 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/oneandonlydean",
+        "avatar": "https://avatars.githubusercontent.com/u/158058829?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/adriadam10",
+        "avatar": "https://avatars.githubusercontent.com/u/57327458?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/boykopovar",
+        "avatar": "https://avatars.githubusercontent.com/u/184076081?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/SamG-Coder",
+        "avatar": "https://avatars.githubusercontent.com/u/13449963?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/boykopovar/AnyPS5",
+    "name": "boykopovar/AnyPS5",
+    "description": "Tool for automatic PS5 executables porting to Linux and Windows  ",
+    "language": "C++",
+    "stars": "27119",
+    "forks": "2278",
+    "increased": "5805 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/echelon",
+        "avatar": "https://avatars.githubusercontent.com/u/39263?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bflatastic",
+        "avatar": "https://avatars.githubusercontent.com/u/46063141?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ArEnSc",
+        "avatar": "https://avatars.githubusercontent.com/u/6252325?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/wilwong",
+        "avatar": "https://avatars.githubusercontent.com/u/1340665?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Quicksticks-oss",
+        "avatar": "https://avatars.githubusercontent.com/u/75916236?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/storytold/artcraft",
+    "name": "storytold/artcraft",
+    "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers  ",
+    "language": "Rust",
+    "stars": "14716",
+    "forks": "2324",
+    "increased": "3222 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/cathrynlavery",
+        "avatar": "https://avatars.githubusercontent.com/u/50469282?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/parveen0029",
+        "avatar": "https://avatars.githubusercontent.com/u/174610155?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mvanhorn",
+        "avatar": "https://avatars.githubusercontent.com/u/455140?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/cathrynlavery/diagram-design",
+    "name": "cathrynlavery/diagram-design",
+    "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.  ",
+    "language": "HTML",
+    "stars": "49058",
+    "forks": "3101",
+    "increased": "1190 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/mksglu",
+        "avatar": "https://avatars.githubusercontent.com/u/6067714?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ipedro",
+        "avatar": "https://avatars.githubusercontent.com/u/380338?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ousamabenyounes",
+        "avatar": "https://avatars.githubusercontent.com/u/2910651?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/mksglu/context-mode",
+    "name": "mksglu/context-mode",
+    "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.  ",
+    "language": "TypeScript",
+    "stars": "26362",
+    "forks": "1899",
+    "increased": "178 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/mattpocock",
+        "avatar": "https://avatars.githubusercontent.com/u/28293365?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/gabimoncha",
+        "avatar": "https://avatars.githubusercontent.com/u/39256258?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/mattpocock/skills",
+    "name": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .agents directory.  ",
+    "language": "Shell",
+    "stars": "284640",
+    "forks": "23819",
+    "increased": "1736 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/skia-flutter-autoroll",
+        "avatar": "https://avatars.githubusercontent.com/u/37626415?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/engine-flutter-autoroll",
+        "avatar": "https://avatars.githubusercontent.com/u/42042535?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/abarth",
+        "avatar": "https://avatars.githubusercontent.com/u/112007?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Hixie",
+        "avatar": "https://avatars.githubusercontent.com/u/551196?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jason-simmons",
+        "avatar": "https://avatars.githubusercontent.com/u/14226037?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/flutter/flutter",
+    "name": "flutter/flutter",
+    "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond  ",
+    "language": "Dart",
+    "stars": "179561",
+    "forks": "33606",
+    "increased": "88 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/tensorflower-gardener",
+        "avatar": "https://avatars.githubusercontent.com/u/17151892?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ezhulenev",
+        "avatar": "https://avatars.githubusercontent.com/u/1174378?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/akuegel",
+        "avatar": "https://avatars.githubusercontent.com/u/14309772?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/hawkinsp",
+        "avatar": "https://avatars.githubusercontent.com/u/348932?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mihaimaruseac",
+        "avatar": "https://avatars.githubusercontent.com/u/323199?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/tensorflow/tensorflow",
+    "name": "tensorflow/tensorflow",
+    "description": "An Open Source Machine Learning Framework for Everyone  ",
+    "language": "C++",
+    "stars": "200746",
+    "forks": "78969",
+    "increased": "26 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/hugohe3",
+        "avatar": "https://avatars.githubusercontent.com/u/188330578?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/shenqili",
+        "avatar": "https://avatars.githubusercontent.com/u/22169353?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/WodenJay",
+        "avatar": "https://avatars.githubusercontent.com/u/185591438?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kevindesuyo",
+        "avatar": "https://avatars.githubusercontent.com/u/83796293?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/hugohe3/ppt-master",
+    "name": "hugohe3/ppt-master",
+    "description": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He  ",
+    "language": "Python",
+    "stars": "59567",
+    "forks": "4697",
+    "increased": "461 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/pytorchmergebot",
+        "avatar": "https://avatars.githubusercontent.com/u/97764156?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/malfet",
+        "avatar": "https://avatars.githubusercontent.com/u/2453524?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ezyang",
+        "avatar": "https://avatars.githubusercontent.com/u/13564?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/zou3519",
+        "avatar": "https://avatars.githubusercontent.com/u/5652049?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cyyever",
+        "avatar": "https://avatars.githubusercontent.com/u/17618148?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/pytorch/pytorch",
+    "name": "pytorch/pytorch",
+    "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration  ",
+    "language": "Python",
+    "stars": "104162",
+    "forks": "31960",
+    "increased": "84 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/sgugger",
+        "avatar": "https://avatars.githubusercontent.com/u/35901082?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ydshieh",
+        "avatar": "https://avatars.githubusercontent.com/u/2521628?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/thomwolf",
+        "avatar": "https://avatars.githubusercontent.com/u/7353373?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/LysandreJik",
+        "avatar": "https://avatars.githubusercontent.com/u/30755778?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/patrickvonplaten",
+        "avatar": "https://avatars.githubusercontent.com/u/23423619?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/huggingface/transformers",
+    "name": "huggingface/transformers",
+    "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.  ",
+    "language": "Python",
+    "stars": "167306",
+    "forks": "34802",
+    "increased": "96 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/jordanecker-ant",
+        "avatar": "https://avatars.githubusercontent.com/u/305637556?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bryan-anthropic",
+        "avatar": "https://avatars.githubusercontent.com/u/238056179?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mattpic-ant",
+        "avatar": "https://avatars.githubusercontent.com/u/227474486?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/anthropics/knowledge-work-plugins",
+    "name": "anthropics/knowledge-work-plugins",
+    "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork  ",
+    "language": "Python",
+    "stars": "28853",
+    "forks": "3283",
+    "increased": "625 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/forrestchang",
+        "avatar": "https://avatars.githubusercontent.com/u/7857126?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/back1ply",
+        "avatar": "https://avatars.githubusercontent.com/u/45536170?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/herobrine19",
+        "avatar": "https://avatars.githubusercontent.com/u/45513138?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/szkocot",
+        "avatar": "https://avatars.githubusercontent.com/u/478549?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/multica-ai/andrej-karpathy-skills",
+    "name": "multica-ai/andrej-karpathy-skills",
+    "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.  ",
+    "stars": "218344",
+    "forks": "21986",
+    "increased": "278 stars today"
+  }
+]
