@@ -1,0 +1,269 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/morluto",
+        "avatar": "https://avatars.githubusercontent.com/u/76467478?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/N0zoM1z0",
+        "avatar": "https://avatars.githubusercontent.com/u/161784452?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kaoru0822-kitauji",
+        "avatar": "https://avatars.githubusercontent.com/u/208281322?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rudycelekli",
+        "avatar": "https://avatars.githubusercontent.com/u/47457359?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/morluto/rea",
+    "name": "morluto/rea",
+    "description": "Reverse engineer anything with agents, from app behavior down to native binaries.  ",
+    "language": "TypeScript",
+    "stars": "168032",
+    "forks": "39934",
+    "increased": "45327 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/samehkhamis",
+        "avatar": "https://avatars.githubusercontent.com/u/845989?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/asturksever",
+        "avatar": "https://avatars.githubusercontent.com/u/28983926?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bilawalsidhu",
+        "avatar": "https://avatars.githubusercontent.com/u/106619546?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/manjunath22466",
+        "avatar": "https://avatars.githubusercontent.com/u/301209272?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/bilawalsidhu/gods-eye-view",
+    "name": "bilawalsidhu/gods-eye-view",
+    "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.  ",
+    "language": "JavaScript",
+    "stars": "53984",
+    "forks": "10643",
+    "increased": "1895 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/mksglu",
+        "avatar": "https://avatars.githubusercontent.com/u/6067714?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ipedro",
+        "avatar": "https://avatars.githubusercontent.com/u/380338?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ousamabenyounes",
+        "avatar": "https://avatars.githubusercontent.com/u/2910651?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/mksglu/context-mode",
+    "name": "mksglu/context-mode",
+    "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.  ",
+    "language": "TypeScript",
+    "stars": "27454",
+    "forks": "1953",
+    "increased": "246 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/echelon",
+        "avatar": "https://avatars.githubusercontent.com/u/39263?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bflatastic",
+        "avatar": "https://avatars.githubusercontent.com/u/46063141?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ArEnSc",
+        "avatar": "https://avatars.githubusercontent.com/u/6252325?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/wilwong",
+        "avatar": "https://avatars.githubusercontent.com/u/1340665?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Quicksticks-oss",
+        "avatar": "https://avatars.githubusercontent.com/u/75916236?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/storytold/artcraft",
+    "name": "storytold/artcraft",
+    "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers  ",
+    "language": "Rust",
+    "stars": "22698",
+    "forks": "3639",
+    "increased": "4095 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/tjbck",
+        "avatar": "https://avatars.githubusercontent.com/u/25473318?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Classic298",
+        "avatar": "https://avatars.githubusercontent.com/u/27028174?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/silentoplayz",
+        "avatar": "https://avatars.githubusercontent.com/u/50341825?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cheahjs",
+        "avatar": "https://avatars.githubusercontent.com/u/818368?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ShirasawaSama",
+        "avatar": "https://avatars.githubusercontent.com/u/17093811?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/open-webui/open-webui",
+    "name": "open-webui/open-webui",
+    "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)  ",
+    "language": "Python",
+    "stars": "155211",
+    "forks": "22655",
+    "increased": "157 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/cathrynlavery",
+        "avatar": "https://avatars.githubusercontent.com/u/50469282?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/parveen0029",
+        "avatar": "https://avatars.githubusercontent.com/u/174610155?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rudycelekli",
+        "avatar": "https://avatars.githubusercontent.com/u/47457359?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/cathrynlavery/diagram-design",
+    "name": "cathrynlavery/diagram-design",
+    "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.  ",
+    "language": "HTML",
+    "stars": "52921",
+    "forks": "3346",
+    "increased": "2081 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/lyogavin",
+        "avatar": "https://avatars.githubusercontent.com/u/1113905?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cursoragent",
+        "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/eltociear",
+        "avatar": "https://avatars.githubusercontent.com/u/22633385?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/NavodPeiris",
+        "avatar": "https://avatars.githubusercontent.com/u/69672640?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/lyogavin/airllm",
+    "name": "lyogavin/airllm",
+    "description": "AirLLM 2.8T LLM inference with single 4GB GPU  ",
+    "language": "Jupyter Notebook",
+    "stars": "37674",
+    "forks": "3882",
+    "increased": "879 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/potassiummmm",
+        "avatar": "https://avatars.githubusercontent.com/u/54800242?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tsong-ms",
+        "avatar": "https://avatars.githubusercontent.com/u/84831885?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/younesbelkada",
+        "avatar": "https://avatars.githubusercontent.com/u/49240599?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/isHuangXin",
+        "avatar": "https://avatars.githubusercontent.com/u/57054352?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/XsquirrelC",
+        "avatar": "https://avatars.githubusercontent.com/u/178687198?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/microsoft/BitNet",
+    "name": "microsoft/BitNet",
+    "description": "Official inference framework for 1-bit LLMs  ",
+    "language": "C++",
+    "stars": "40972",
+    "forks": "3816",
+    "increased": "97 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Alishahryar1",
+        "avatar": "https://avatars.githubusercontent.com/u/20476625?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cursoragent",
+        "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Tanishq-1",
+        "avatar": "https://avatars.githubusercontent.com/u/49880456?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Alishahryar1/free-claude-code",
+    "name": "Alishahryar1/free-claude-code",
+    "description": "Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)  ",
+    "language": "Python",
+    "stars": "59366",
+    "forks": "9345",
+    "increased": "626 stars today"
+  }
+]
