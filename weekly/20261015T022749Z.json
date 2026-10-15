@@ -1,0 +1,345 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/morluto",
+        "avatar": "https://avatars.githubusercontent.com/u/76467478?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/N0zoM1z0",
+        "avatar": "https://avatars.githubusercontent.com/u/161784452?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kaoru0822-kitauji",
+        "avatar": "https://avatars.githubusercontent.com/u/208281322?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rudycelekli",
+        "avatar": "https://avatars.githubusercontent.com/u/47457359?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/morluto/rea",
+    "name": "morluto/rea",
+    "description": "Reverse engineer anything with agents, from app behavior down to native binaries.  ",
+    "language": "TypeScript",
+    "stars": "244853",
+    "forks": "61219",
+    "increased": "214837 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/adriadam10",
+        "avatar": "https://avatars.githubusercontent.com/u/57327458?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/oneandonlydean",
+        "avatar": "https://avatars.githubusercontent.com/u/158058829?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/boykopovar",
+        "avatar": "https://avatars.githubusercontent.com/u/184076081?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/MarcZX100",
+        "avatar": "https://avatars.githubusercontent.com/u/67475268?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/boykopovar/AnyPS5",
+    "name": "boykopovar/AnyPS5",
+    "description": "Tool for automatic PS5 executables porting to Linux and Windows  ",
+    "language": "C++",
+    "stars": "37253",
+    "forks": "3288",
+    "increased": "28240 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/mattpocock",
+        "avatar": "https://avatars.githubusercontent.com/u/28293365?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/gabimoncha",
+        "avatar": "https://avatars.githubusercontent.com/u/39256258?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/mattpocock/skills",
+    "name": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .agents directory.  ",
+    "language": "Shell",
+    "stars": "291389",
+    "forks": "24437",
+    "increased": "12292 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/miguel-heygen",
+        "avatar": "https://avatars.githubusercontent.com/u/229591595?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/vanceingalls",
+        "avatar": "https://avatars.githubusercontent.com/u/337856?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jrusso1020",
+        "avatar": "https://avatars.githubusercontent.com/u/7664106?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ukimsanov",
+        "avatar": "https://avatars.githubusercontent.com/u/165517112?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/heygen-com/hyperframes",
+    "name": "heygen-com/hyperframes",
+    "description": "Write HTML. Render video. Built for agents.  ",
+    "language": "TypeScript",
+    "stars": "63772",
+    "forks": "5724",
+    "increased": "5123 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ryanfleury",
+        "avatar": "https://avatars.githubusercontent.com/u/12454169?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/NikitaSmith057",
+        "avatar": "https://avatars.githubusercontent.com/u/4572155?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mmozeiko",
+        "avatar": "https://avatars.githubusercontent.com/u/1665010?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/NikitaAtEpic",
+        "avatar": "https://avatars.githubusercontent.com/u/167924611?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/andreymlv",
+        "avatar": "https://avatars.githubusercontent.com/u/58001412?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/EpicGames/raddebugger",
+    "name": "EpicGames/raddebugger",
+    "description": "A native, user-mode, multi-process, graphical debugger.  ",
+    "language": "C",
+    "stars": "8543",
+    "forks": "415",
+    "increased": "814 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/okwasniewski",
+        "avatar": "https://avatars.githubusercontent.com/u/52801365?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kacperkapusciak",
+        "avatar": "https://avatars.githubusercontent.com/u/39658211?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rudycelekli",
+        "avatar": "https://avatars.githubusercontent.com/u/47457359?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/fecolinhares",
+        "avatar": "https://avatars.githubusercontent.com/u/963774?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/tester-army/e2e",
+    "name": "tester-army/e2e",
+    "description": "Next generation e2e testing framework for web and mobile apps.  ",
+    "language": "TypeScript",
+    "stars": "10532",
+    "forks": "512",
+    "increased": "3505 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/thedotmack",
+        "avatar": "https://avatars.githubusercontent.com/u/683968?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rudycelekli",
+        "avatar": "https://avatars.githubusercontent.com/u/47457359?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cursoragent",
+        "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rodboev",
+        "avatar": "https://avatars.githubusercontent.com/u/106971?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/thedotmack/claude-mem",
+    "name": "thedotmack/claude-mem",
+    "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, H ermes, Copilot, OpenCode + More  ",
+    "language": "TypeScript",
+    "stars": "100786",
+    "forks": "8829",
+    "increased": "3371 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/cathrynlavery",
+        "avatar": "https://avatars.githubusercontent.com/u/50469282?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rudycelekli",
+        "avatar": "https://avatars.githubusercontent.com/u/47457359?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/parveen0029",
+        "avatar": "https://avatars.githubusercontent.com/u/174610155?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/cathrynlavery/diagram-design",
+    "name": "cathrynlavery/diagram-design",
+    "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.  ",
+    "language": "HTML",
+    "stars": "55383",
+    "forks": "3501",
+    "increased": "10706 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/twostraws",
+        "avatar": "https://avatars.githubusercontent.com/u/190200?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/GLinnik21",
+        "avatar": "https://avatars.githubusercontent.com/u/23104281?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Jeehut",
+        "avatar": "https://avatars.githubusercontent.com/u/6942160?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/twostraws/SwiftUI-Agent-Skill",
+    "name": "twostraws/SwiftUI-Agent-Skill",
+    "description": "SwiftUI agent skill for Claude Code, Codex, and other AI tools.  ",
+    "stars": "5982",
+    "forks": "218",
+    "increased": "930 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/earthtojake",
+        "avatar": "https://avatars.githubusercontent.com/u/10742417?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/warun7",
+        "avatar": "https://avatars.githubusercontent.com/u/143688508?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/earthtojake/text-to-cad",
+    "name": "earthtojake/text-to-cad",
+    "description": "Give your agent CAD superpowers.  ",
+    "language": "on",
+    "stars": "20405",
+    "forks": "2011",
+    "increased": "1994 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/skia-flutter-autoroll",
+        "avatar": "https://avatars.githubusercontent.com/u/37626415?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/engine-flutter-autoroll",
+        "avatar": "https://avatars.githubusercontent.com/u/42042535?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/abarth",
+        "avatar": "https://avatars.githubusercontent.com/u/112007?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Hixie",
+        "avatar": "https://avatars.githubusercontent.com/u/551196?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jason-simmons",
+        "avatar": "https://avatars.githubusercontent.com/u/14226037?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/flutter/flutter",
+    "name": "flutter/flutter",
+    "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond  ",
+    "language": "Dart",
+    "stars": "180179",
+    "forks": "34107",
+    "increased": "1117 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ryanmkurtz",
+        "avatar": "https://avatars.githubusercontent.com/u/5378554?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ghidra1",
+        "avatar": "https://avatars.githubusercontent.com/u/48333017?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dragonmacher",
+        "avatar": "https://avatars.githubusercontent.com/u/48328597?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/nsadeveloper789",
+        "avatar": "https://avatars.githubusercontent.com/u/46821332?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/caheckman",
+        "avatar": "https://avatars.githubusercontent.com/u/48068198?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/NationalSecurityAgency/ghidra",
+    "name": "NationalSecurityAgency/ghidra",
+    "description": "Ghidra is a software reverse engineering (SRE) framework  ",
+    "language": "Java",
+    "stars": "87615",
+    "forks": "9775",
+    "increased": "5613 stars this week"
+  }
+]

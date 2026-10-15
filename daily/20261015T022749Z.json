@@ -1,0 +1,362 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/morluto",
+        "avatar": "https://avatars.githubusercontent.com/u/76467478?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/N0zoM1z0",
+        "avatar": "https://avatars.githubusercontent.com/u/161784452?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kaoru0822-kitauji",
+        "avatar": "https://avatars.githubusercontent.com/u/208281322?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rudycelekli",
+        "avatar": "https://avatars.githubusercontent.com/u/47457359?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/morluto/rea",
+    "name": "morluto/rea",
+    "description": "Reverse engineer anything with agents, from app behavior down to native binaries.  ",
+    "language": "TypeScript",
+    "stars": "244853",
+    "forks": "61219",
+    "increased": "41034 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/debpalash",
+        "avatar": "https://avatars.githubusercontent.com/u/4178343?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/velixio",
+        "avatar": "https://avatars.githubusercontent.com/u/270455167?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kevin9327",
+        "avatar": "https://avatars.githubusercontent.com/u/5299031?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jaketame",
+        "avatar": "https://avatars.githubusercontent.com/u/1787973?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/debpalash/VoiceStudio",
+    "name": "debpalash/VoiceStudio",
+    "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.  ",
+    "language": "Python",
+    "stars": "66574",
+    "forks": "7334",
+    "increased": "3538 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/mksglu",
+        "avatar": "https://avatars.githubusercontent.com/u/6067714?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ipedro",
+        "avatar": "https://avatars.githubusercontent.com/u/380338?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ousamabenyounes",
+        "avatar": "https://avatars.githubusercontent.com/u/2910651?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/mksglu/context-mode",
+    "name": "mksglu/context-mode",
+    "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.  ",
+    "language": "TypeScript",
+    "stars": "29199",
+    "forks": "2047",
+    "increased": "947 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ljharb",
+        "avatar": "https://avatars.githubusercontent.com/u/45469?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/PeterDaveHello",
+        "avatar": "https://avatars.githubusercontent.com/u/3691490?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/creationix",
+        "avatar": "https://avatars.githubusercontent.com/u/89353?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/koenpunt",
+        "avatar": "https://avatars.githubusercontent.com/u/351038?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/lukechilds",
+        "avatar": "https://avatars.githubusercontent.com/u/2123375?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/nvm-sh/nvm",
+    "name": "nvm-sh/nvm",
+    "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.  ",
+    "language": "Shell",
+    "stars": "95471",
+    "forks": "10518",
+    "increased": "52 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/timothykassis",
+        "avatar": "https://avatars.githubusercontent.com/u/9168908?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cursoragent",
+        "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/borealBytes",
+        "avatar": "https://avatars.githubusercontent.com/u/206480607?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/K-Dense-AI/scientific-agent-skills",
+    "name": "K-Dense-AI/scientific-agent-skills",
+    "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.  ",
+    "language": "Python",
+    "stars": "49435",
+    "forks": "4425",
+    "increased": "163 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/yuh-yang",
+        "avatar": "https://avatars.githubusercontent.com/u/43330997?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/AiMiDi",
+        "avatar": "https://avatars.githubusercontent.com/u/76622021?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/omerarslan0",
+        "avatar": "https://avatars.githubusercontent.com/u/76780961?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/hito0512",
+        "avatar": "https://avatars.githubusercontent.com/u/26110883?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/HKUDS/CLI-Anything",
+    "name": "HKUDS/CLI-Anything",
+    "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:  https://clianything.cc/    ",
+    "language": "Python",
+    "stars": "52571",
+    "forks": "4774",
+    "increased": "103 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/rudycelekli",
+        "avatar": "https://avatars.githubusercontent.com/u/47457359?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/n-papaioannou",
+        "avatar": "https://avatars.githubusercontent.com/u/258243974?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/stefyi-4355",
+        "avatar": "https://avatars.githubusercontent.com/u/260612219?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Sebabaian",
+        "avatar": "https://avatars.githubusercontent.com/u/234348864?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/ifixai-ai/iFixAi",
+    "name": "ifixai-ai/iFixAi",
+    "description": "Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds.  ",
+    "language": "Python",
+    "stars": "27535",
+    "forks": "1508",
+    "increased": "2109 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/sirozha",
+        "avatar": "https://avatars.githubusercontent.com/u/7765123?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/asdek",
+        "avatar": "https://avatars.githubusercontent.com/u/4257336?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mason5052",
+        "avatar": "https://avatars.githubusercontent.com/u/52062353?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cursoragent",
+        "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/vxcontrol/pentagi",
+    "name": "vxcontrol/pentagi",
+    "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks  ",
+    "language": "Go",
+    "stars": "29604",
+    "forks": "4443",
+    "increased": "1025 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/bors",
+        "avatar": "https://avatars.githubusercontent.com/u/3372342?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/matthiaskrgr",
+        "avatar": "https://avatars.githubusercontent.com/u/476013?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/RalfJung",
+        "avatar": "https://avatars.githubusercontent.com/u/330628?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/GuillaumeGomez",
+        "avatar": "https://avatars.githubusercontent.com/u/3050060?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/matklad",
+        "avatar": "https://avatars.githubusercontent.com/u/1711539?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/rust-lang/rust",
+    "name": "rust-lang/rust",
+    "description": "Empowering everyone to build reliable and efficient software.  ",
+    "language": "Rust",
+    "stars": "120073",
+    "forks": "18701",
+    "increased": "207 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/kabiroberai",
+        "avatar": "https://avatars.githubusercontent.com/u/12706786?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/reklis",
+        "avatar": "https://avatars.githubusercontent.com/u/33566?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/erikbdev",
+        "avatar": "https://avatars.githubusercontent.com/u/16653389?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mvanhorn",
+        "avatar": "https://avatars.githubusercontent.com/u/455140?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pawlowskialex",
+        "avatar": "https://avatars.githubusercontent.com/u/1180980?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/xtool-org/xtool",
+    "name": "xtool-org/xtool",
+    "description": "Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.  ",
+    "language": "Swift",
+    "stars": "10926",
+    "forks": "499",
+    "increased": "1502 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ntdevlabs",
+        "avatar": "https://avatars.githubusercontent.com/u/38796849?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Miiraak",
+        "avatar": "https://avatars.githubusercontent.com/u/167513064?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Karl-WE",
+        "avatar": "https://avatars.githubusercontent.com/u/45657752?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/szepeviktor",
+        "avatar": "https://avatars.githubusercontent.com/u/952007?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/eugenesan",
+        "avatar": "https://avatars.githubusercontent.com/u/406768?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/ntdevlabs/tiny11builder",
+    "name": "ntdevlabs/tiny11builder",
+    "description": "WinUI app for building smaller, customized Windows 11 images.  ",
+    "language": "C#",
+    "stars": "20266",
+    "forks": "1556",
+    "increased": "139 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ryanmkurtz",
+        "avatar": "https://avatars.githubusercontent.com/u/5378554?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ghidra1",
+        "avatar": "https://avatars.githubusercontent.com/u/48333017?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dragonmacher",
+        "avatar": "https://avatars.githubusercontent.com/u/48328597?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/nsadeveloper789",
+        "avatar": "https://avatars.githubusercontent.com/u/46821332?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/caheckman",
+        "avatar": "https://avatars.githubusercontent.com/u/48068198?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/NationalSecurityAgency/ghidra",
+    "name": "NationalSecurityAgency/ghidra",
+    "description": "Ghidra is a software reverse engineering (SRE) framework  ",
+    "language": "Java",
+    "stars": "87615",
+    "forks": "9775",
+    "increased": "1008 stars today"
+  }
+]
