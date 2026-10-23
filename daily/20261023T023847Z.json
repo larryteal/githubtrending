@@ -1,0 +1,257 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/dstogov",
+        "avatar": "https://avatars.githubusercontent.com/u/2510034?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/nikic",
+        "avatar": "https://avatars.githubusercontent.com/u/216080?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/weltling",
+        "avatar": "https://avatars.githubusercontent.com/u/22016?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cmb69",
+        "avatar": "https://avatars.githubusercontent.com/u/2306138?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/iliaal",
+        "avatar": "https://avatars.githubusercontent.com/u/158724?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/php/php-src",
+    "name": "php/php-src",
+    "description": "The PHP Interpreter  ",
+    "language": "C",
+    "stars": "41218",
+    "forks": "8317",
+    "increased": "287 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/jordanecker-ant",
+        "avatar": "https://avatars.githubusercontent.com/u/305637556?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bryan-anthropic",
+        "avatar": "https://avatars.githubusercontent.com/u/238056179?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mattpic-ant",
+        "avatar": "https://avatars.githubusercontent.com/u/227474486?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/anthropics/knowledge-work-plugins",
+    "name": "anthropics/knowledge-work-plugins",
+    "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork  ",
+    "language": "Python",
+    "stars": "31669",
+    "forks": "3536",
+    "increased": "303 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/DietrichGebert",
+        "avatar": "https://avatars.githubusercontent.com/u/137048761?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ousamabenyounes",
+        "avatar": "https://avatars.githubusercontent.com/u/2910651?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Lakshya77089",
+        "avatar": "https://avatars.githubusercontent.com/u/169168095?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dhedhialy",
+        "avatar": "https://avatars.githubusercontent.com/u/91044156?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/DietrichGebert/ponytail",
+    "name": "DietrichGebert/ponytail",
+    "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.  ",
+    "language": "JavaScript",
+    "stars": "173626",
+    "forks": "9447",
+    "increased": "1948 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/literally-dan",
+        "avatar": "https://avatars.githubusercontent.com/u/9935415?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/CooperSheroy",
+        "avatar": "https://avatars.githubusercontent.com/u/59650384?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kennysarnoski-jarvis",
+        "avatar": "https://avatars.githubusercontent.com/u/228360615?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/cloudflare/security-audit-skill",
+    "name": "cloudflare/security-audit-skill",
+    "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings  ",
+    "language": "JavaScript",
+    "stars": "39717",
+    "forks": "2479",
+    "increased": "2979 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/safishamsi",
+        "avatar": "https://avatars.githubusercontent.com/u/216348667?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ayushcodes10",
+        "avatar": "https://avatars.githubusercontent.com/u/144055433?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rajatnagda45",
+        "avatar": "https://avatars.githubusercontent.com/u/215653880?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/abhay-codes07",
+        "avatar": "https://avatars.githubusercontent.com/u/182421137?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Graphify-Labs/graphify",
+    "name": "Graphify-Labs/graphify",
+    "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.  ",
+    "language": "Python",
+    "stars": "133056",
+    "forks": "12728",
+    "increased": "1408 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/joshenlim",
+        "avatar": "https://avatars.githubusercontent.com/u/19742402?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kiwicopple",
+        "avatar": "https://avatars.githubusercontent.com/u/10214025?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/MildTomato",
+        "avatar": "https://avatars.githubusercontent.com/u/8291514?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/saltcod",
+        "avatar": "https://avatars.githubusercontent.com/u/105593?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/alaister",
+        "avatar": "https://avatars.githubusercontent.com/u/10985857?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/supabase/supabase",
+    "name": "supabase/supabase",
+    "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.  ",
+    "language": "TypeScript",
+    "stars": "113521",
+    "forks": "17004",
+    "increased": "693 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/tiangolo",
+        "avatar": "https://avatars.githubusercontent.com/u/1326112?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/YuriiMotov",
+        "avatar": "https://avatars.githubusercontent.com/u/109919500?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/fastapi/fastapi",
+    "name": "fastapi/fastapi",
+    "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production  ",
+    "language": "Python",
+    "stars": "103803",
+    "forks": "10094",
+    "increased": "101 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/luongnv89",
+        "avatar": "https://avatars.githubusercontent.com/u/3288457?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/edocltd",
+        "avatar": "https://avatars.githubusercontent.com/u/258913972?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/toanalien",
+        "avatar": "https://avatars.githubusercontent.com/u/5405744?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/lzw-git-all",
+        "avatar": "https://avatars.githubusercontent.com/u/271938013?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/luongnv89/claude-howto",
+    "name": "luongnv89/claude-howto",
+    "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.  ",
+    "language": "Python",
+    "stars": "43313",
+    "forks": "5397",
+    "increased": "177 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/LTCatt",
+        "avatar": "https://avatars.githubusercontent.com/u/40348278?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/allMagicNB",
+        "avatar": "https://avatars.githubusercontent.com/u/116283787?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/RyogiMutsuki",
+        "avatar": "https://avatars.githubusercontent.com/u/188181427?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/wyc-26",
+        "avatar": "https://avatars.githubusercontent.com/u/154735436?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Pigeon0v0",
+        "avatar": "https://avatars.githubusercontent.com/u/60414767?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Meloong-Git/PCL",
+    "name": "Meloong-Git/PCL",
+    "description": "Minecraft 启动器 Plain Craft Launcher（PCL）。  ",
+    "language": "Visual Basic .NET",
+    "stars": "8731",
+    "forks": "1207",
+    "increased": "119 stars today"
+  }
+]
