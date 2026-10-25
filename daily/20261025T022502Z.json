@@ -1,0 +1,284 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/literally-dan",
+        "avatar": "https://avatars.githubusercontent.com/u/9935415?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/CooperSheroy",
+        "avatar": "https://avatars.githubusercontent.com/u/59650384?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kennysarnoski-jarvis",
+        "avatar": "https://avatars.githubusercontent.com/u/228360615?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/cloudflare/security-audit-skill",
+    "name": "cloudflare/security-audit-skill",
+    "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings  ",
+    "language": "JavaScript",
+    "stars": "44710",
+    "forks": "2771",
+    "increased": "2264 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/drew",
+        "avatar": "https://avatars.githubusercontent.com/u/385?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/johntmyers",
+        "avatar": "https://avatars.githubusercontent.com/u/9696606?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pimlock",
+        "avatar": "https://avatars.githubusercontent.com/u/1116309?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/miyoungc",
+        "avatar": "https://avatars.githubusercontent.com/u/189799508?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/elezar",
+        "avatar": "https://avatars.githubusercontent.com/u/931393?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/NVIDIA/OpenShell",
+    "name": "NVIDIA/OpenShell",
+    "description": "OpenShell is the safe, private runtime for autonomous AI agents.  ",
+    "language": "Rust",
+    "stars": "19510",
+    "forks": "1933",
+    "increased": "896 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/arnewouters",
+        "avatar": "https://avatars.githubusercontent.com/u/25950814?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/herosjourney",
+        "avatar": "https://avatars.githubusercontent.com/u/10217123?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/anasstahr",
+        "avatar": "https://avatars.githubusercontent.com/u/203639952?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rshevchuk-git",
+        "avatar": "https://avatars.githubusercontent.com/u/51510790?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/leon1418",
+        "avatar": "https://avatars.githubusercontent.com/u/3831693?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/aws/agent-toolkit-for-aws",
+    "name": "aws/agent-toolkit-for-aws",
+    "description": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS  ",
+    "language": "Python",
+    "stars": "3151",
+    "forks": "400",
+    "increased": "13 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Luffixos",
+        "avatar": "https://avatars.githubusercontent.com/u/154055839?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Nutlope",
+        "avatar": "https://avatars.githubusercontent.com/u/63742054?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/riccardogiorato",
+        "avatar": "https://avatars.githubusercontent.com/u/4527364?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/JaySmith502",
+        "avatar": "https://avatars.githubusercontent.com/u/8827236?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Nutlope/hallmark",
+    "name": "Nutlope/hallmark",
+    "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.  ",
+    "language": "CSS",
+    "stars": "32217",
+    "forks": "1653",
+    "increased": "455 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/luongnv89",
+        "avatar": "https://avatars.githubusercontent.com/u/3288457?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/edocltd",
+        "avatar": "https://avatars.githubusercontent.com/u/258913972?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/toanalien",
+        "avatar": "https://avatars.githubusercontent.com/u/5405744?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/lzw-git-all",
+        "avatar": "https://avatars.githubusercontent.com/u/271938013?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/luongnv89/claude-howto",
+    "name": "luongnv89/claude-howto",
+    "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.  ",
+    "language": "Python",
+    "stars": "44603",
+    "forks": "5496",
+    "increased": "392 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/pbakaus",
+        "avatar": "https://avatars.githubusercontent.com/u/43004?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/abdulwahabone",
+        "avatar": "https://avatars.githubusercontent.com/u/32850166?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cursoragent",
+        "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/pbakaus/impeccable",
+    "name": "pbakaus/impeccable",
+    "description": "The design language that makes your AI harness better at design.  ",
+    "language": "Rust",
+    "stars": "86471",
+    "forks": "5157",
+    "increased": "619 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/pierre-rouanet",
+        "avatar": "https://avatars.githubusercontent.com/u/4290742?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/apirrone",
+        "avatar": "https://avatars.githubusercontent.com/u/6552564?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Drenayaz",
+        "avatar": "https://avatars.githubusercontent.com/u/72405531?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Nixxx19",
+        "avatar": "https://avatars.githubusercontent.com/u/185968020?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/pollen-robotics/microduck",
+    "name": "pollen-robotics/microduck",
+    "description": "A Tiny biped duck robot 🦆  ",
+    "language": "Rust",
+    "stars": "11030",
+    "forks": "1415",
+    "increased": "319 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/scidomino",
+        "avatar": "https://avatars.githubusercontent.com/u/13950003?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jacob314",
+        "avatar": "https://avatars.githubusercontent.com/u/1226812?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/NTaylorMullen",
+        "avatar": "https://avatars.githubusercontent.com/u/2008729?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/abhipatel12",
+        "avatar": "https://avatars.githubusercontent.com/u/43648792?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/SandyTao520",
+        "avatar": "https://avatars.githubusercontent.com/u/12478482?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/google-gemini/gemini-cli",
+    "name": "google-gemini/gemini-cli",
+    "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.  ",
+    "language": "TypeScript",
+    "stars": "108097",
+    "forks": "14812",
+    "increased": "44 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/jbiaojerry",
+        "avatar": "https://avatars.githubusercontent.com/u/6221683?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/jbiaojerry/ebook-treasure-chest",
+    "name": "jbiaojerry/ebook-treasure-chest",
+    "description": "欢迎来到电子书下载宝库，一个汇聚了各类电子书下载链接的地方。无论你是喜欢阅读经典文学、经管励志、终身学习、职场创业、技术手册还是其他类型的书籍，这里都能满足你的需求。 该库涵盖了帆书app(原樊登读书)、微信读书、京东读书、喜马拉雅等读书app的大部分电子书。  ",
+    "language": "Python",
+    "stars": "22673",
+    "forks": "3195",
+    "increased": "227 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/dashhuang",
+        "avatar": "https://avatars.githubusercontent.com/u/125997726?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/zqchris",
+        "avatar": "https://avatars.githubusercontent.com/u/4436110?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/MagicLizi",
+        "avatar": "https://avatars.githubusercontent.com/u/17176223?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/DavidShenXD",
+        "avatar": "https://avatars.githubusercontent.com/u/290921921?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/makecindy/cindy",
+    "name": "makecindy/cindy",
+    "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。  ",
+    "language": "TypeScript",
+    "stars": "4135",
+    "forks": "598",
+    "increased": "477 stars today"
+  }
+]
