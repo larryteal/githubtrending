@@ -1,0 +1,409 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/literally-dan",
+        "avatar": "https://avatars.githubusercontent.com/u/9935415?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/CooperSheroy",
+        "avatar": "https://avatars.githubusercontent.com/u/59650384?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kennysarnoski-jarvis",
+        "avatar": "https://avatars.githubusercontent.com/u/228360615?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/cloudflare/security-audit-skill",
+    "name": "cloudflare/security-audit-skill",
+    "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings  ",
+    "language": "JavaScript",
+    "stars": "47047",
+    "forks": "2918",
+    "increased": "15072 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ruvnet",
+        "avatar": "https://avatars.githubusercontent.com/u/2934394?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rudycelekli",
+        "avatar": "https://avatars.githubusercontent.com/u/47457359?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/proffesor-for-testing",
+        "avatar": "https://avatars.githubusercontent.com/u/214853444?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/ruvnet/ruflo",
+    "name": "ruvnet/ruflo",
+    "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build con versational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated  ",
+    "language": "TypeScript",
+    "stars": "79302",
+    "forks": "9308",
+    "increased": "2987 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/jordanecker-ant",
+        "avatar": "https://avatars.githubusercontent.com/u/305637556?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bryan-anthropic",
+        "avatar": "https://avatars.githubusercontent.com/u/238056179?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mattpic-ant",
+        "avatar": "https://avatars.githubusercontent.com/u/227474486?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/anthropics/knowledge-work-plugins",
+    "name": "anthropics/knowledge-work-plugins",
+    "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork  ",
+    "language": "Python",
+    "stars": "33005",
+    "forks": "3633",
+    "increased": "2790 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/thdxr",
+        "avatar": "https://avatars.githubusercontent.com/u/826656?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rekram1-node",
+        "avatar": "https://avatars.githubusercontent.com/u/63023139?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/adamdotdevin",
+        "avatar": "https://avatars.githubusercontent.com/u/2363879?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kitlangton",
+        "avatar": "https://avatars.githubusercontent.com/u/7587245?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/anomalyco/opencode",
+    "name": "anomalyco/opencode",
+    "description": "The open source coding agent.  ",
+    "language": "TypeScript",
+    "stars": "221551",
+    "forks": "29622",
+    "increased": "5921 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/nwparker",
+        "avatar": "https://avatars.githubusercontent.com/u/4138956?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/brennanb2025",
+        "avatar": "https://avatars.githubusercontent.com/u/79079362?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Jinwoo-H",
+        "avatar": "https://avatars.githubusercontent.com/u/73622457?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/AmethystLiang",
+        "avatar": "https://avatars.githubusercontent.com/u/6427696?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/orca-ide",
+        "avatar": "https://avatars.githubusercontent.com/u/277417572?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/stablyai/orca",
+    "name": "stablyai/orca",
+    "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.  ",
+    "language": "TypeScript",
+    "stars": "105918",
+    "forks": "6697",
+    "increased": "9622 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/miguel-heygen",
+        "avatar": "https://avatars.githubusercontent.com/u/229591595?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/vanceingalls",
+        "avatar": "https://avatars.githubusercontent.com/u/337856?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jrusso1020",
+        "avatar": "https://avatars.githubusercontent.com/u/7664106?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ukimsanov",
+        "avatar": "https://avatars.githubusercontent.com/u/165517112?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/heygen-com/hyperframes",
+    "name": "heygen-com/hyperframes",
+    "description": "Write HTML. Render video. Built for agents.  ",
+    "language": "TypeScript",
+    "stars": "72217",
+    "forks": "6525",
+    "increased": "5612 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/android-devrel-github-bot",
+        "avatar": "https://avatars.githubusercontent.com/u/133978327?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/simona-anomis",
+        "avatar": "https://avatars.githubusercontent.com/u/35065668?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/JoseAlcerreca",
+        "avatar": "https://avatars.githubusercontent.com/u/609125?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bentrengrove",
+        "avatar": "https://avatars.githubusercontent.com/u/19445?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/vinishavathwani",
+        "avatar": "https://avatars.githubusercontent.com/u/35296563?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/android/skills",
+    "name": "android/skills",
+    "language": "Kotlin",
+    "stars": "9730",
+    "forks": "627",
+    "increased": "1070 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/safishamsi",
+        "avatar": "https://avatars.githubusercontent.com/u/216348667?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ayushcodes10",
+        "avatar": "https://avatars.githubusercontent.com/u/144055433?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rajatnagda45",
+        "avatar": "https://avatars.githubusercontent.com/u/215653880?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/abhay-codes07",
+        "avatar": "https://avatars.githubusercontent.com/u/182421137?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Graphify-Labs/graphify",
+    "name": "Graphify-Labs/graphify",
+    "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.  ",
+    "language": "Python",
+    "stars": "135326",
+    "forks": "12912",
+    "increased": "6903 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/akitaonrails",
+        "avatar": "https://avatars.githubusercontent.com/u/2840?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/viniciusdsandrade",
+        "avatar": "https://avatars.githubusercontent.com/u/95101505?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rudycelekli",
+        "avatar": "https://avatars.githubusercontent.com/u/47457359?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/djalmajr",
+        "avatar": "https://avatars.githubusercontent.com/u/1858147?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/akitaonrails/ai-memory",
+    "name": "akitaonrails/ai-memory",
+    "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors  ",
+    "language": "Rust",
+    "stars": "13539",
+    "forks": "959",
+    "increased": "3254 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/comfyanonymous",
+        "avatar": "https://avatars.githubusercontent.com/u/121283862?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bigcat88",
+        "avatar": "https://avatars.githubusercontent.com/u/13381981?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pythongosssss",
+        "avatar": "https://avatars.githubusercontent.com/u/125205205?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/comfyui-wiki",
+        "avatar": "https://avatars.githubusercontent.com/u/192523189?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rattus128",
+        "avatar": "https://avatars.githubusercontent.com/u/46076784?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Comfy-Org/ComfyUI",
+    "name": "Comfy-Org/ComfyUI",
+    "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.  ",
+    "language": "Python",
+    "stars": "142962",
+    "forks": "16876",
+    "increased": "4790 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/jordanecker-ant",
+        "avatar": "https://avatars.githubusercontent.com/u/305637556?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bryan-anthropic",
+        "avatar": "https://avatars.githubusercontent.com/u/238056179?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mhegazy",
+        "avatar": "https://avatars.githubusercontent.com/u/8000722?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/anthropics/claude-plugins-official",
+    "name": "anthropics/claude-plugins-official",
+    "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.  ",
+    "language": "Python",
+    "stars": "44574",
+    "forks": "4664",
+    "increased": "2245 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/DarkLight1337",
+        "avatar": "https://avatars.githubusercontent.com/u/44970335?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mgoin",
+        "avatar": "https://avatars.githubusercontent.com/u/3195154?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/WoosukKwon",
+        "avatar": "https://avatars.githubusercontent.com/u/46394894?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/hmellor",
+        "avatar": "https://avatars.githubusercontent.com/u/19981378?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/vllm-project/vllm",
+    "name": "vllm-project/vllm",
+    "description": "A high-throughput and memory-efficient inference and serving engine for LLMs  ",
+    "language": "Python",
+    "stars": "95505",
+    "forks": "23951",
+    "increased": "1445 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/forrestchang",
+        "avatar": "https://avatars.githubusercontent.com/u/7857126?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/back1ply",
+        "avatar": "https://avatars.githubusercontent.com/u/45536170?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/herobrine19",
+        "avatar": "https://avatars.githubusercontent.com/u/45513138?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/szkocot",
+        "avatar": "https://avatars.githubusercontent.com/u/478549?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/multica-ai/andrej-karpathy-skills",
+    "name": "multica-ai/andrej-karpathy-skills",
+    "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.  ",
+    "stars": "223888",
+    "forks": "22415",
+    "increased": "2937 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/juliusmarminge",
+        "avatar": "https://avatars.githubusercontent.com/u/51714798?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/t3dotgg",
+        "avatar": "https://avatars.githubusercontent.com/u/6751787?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/codex",
+        "avatar": "https://avatars.githubusercontent.com/u/267193182?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/maria-rcks",
+        "avatar": "https://avatars.githubusercontent.com/u/254055478?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/pingdotgg/t3code",
+    "name": "pingdotgg/t3code",
+    "language": "TypeScript",
+    "stars": "30161",
+    "forks": "8084",
+    "increased": "1770 stars this week"
+  }
+]

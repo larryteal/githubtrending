@@ -1,0 +1,319 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/dashhuang",
+        "avatar": "https://avatars.githubusercontent.com/u/125997726?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/zqchris",
+        "avatar": "https://avatars.githubusercontent.com/u/4436110?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/MagicLizi",
+        "avatar": "https://avatars.githubusercontent.com/u/17176223?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/DavidShenXD",
+        "avatar": "https://avatars.githubusercontent.com/u/290921921?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/makecindy/cindy",
+    "name": "makecindy/cindy",
+    "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。  ",
+    "language": "TypeScript",
+    "stars": "4986",
+    "forks": "674",
+    "increased": "675 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Luffixos",
+        "avatar": "https://avatars.githubusercontent.com/u/154055839?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Nutlope",
+        "avatar": "https://avatars.githubusercontent.com/u/63742054?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/riccardogiorato",
+        "avatar": "https://avatars.githubusercontent.com/u/4527364?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/JaySmith502",
+        "avatar": "https://avatars.githubusercontent.com/u/8827236?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Nutlope/hallmark",
+    "name": "Nutlope/hallmark",
+    "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.  ",
+    "language": "CSS",
+    "stars": "33981",
+    "forks": "1773",
+    "increased": "1317 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/debpalash",
+        "avatar": "https://avatars.githubusercontent.com/u/4178343?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/velixio",
+        "avatar": "https://avatars.githubusercontent.com/u/270455167?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kevin9327",
+        "avatar": "https://avatars.githubusercontent.com/u/5299031?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jaketame",
+        "avatar": "https://avatars.githubusercontent.com/u/1787973?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/debpalash/VoiceStudio",
+    "name": "debpalash/VoiceStudio",
+    "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.  ",
+    "language": "Python",
+    "stars": "86986",
+    "forks": "9630",
+    "increased": "1592 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/pbakaus",
+        "avatar": "https://avatars.githubusercontent.com/u/43004?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/abdulwahabone",
+        "avatar": "https://avatars.githubusercontent.com/u/32850166?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cursoragent",
+        "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/pbakaus/impeccable",
+    "name": "pbakaus/impeccable",
+    "description": "The design language that makes your AI harness better at design.  ",
+    "language": "Rust",
+    "stars": "87812",
+    "forks": "5248",
+    "increased": "1092 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/pierre-rouanet",
+        "avatar": "https://avatars.githubusercontent.com/u/4290742?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/apirrone",
+        "avatar": "https://avatars.githubusercontent.com/u/6552564?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Drenayaz",
+        "avatar": "https://avatars.githubusercontent.com/u/72405531?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Nixxx19",
+        "avatar": "https://avatars.githubusercontent.com/u/185968020?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/pollen-robotics/microduck",
+    "name": "pollen-robotics/microduck",
+    "description": "A Tiny biped duck robot 🦆  ",
+    "language": "Rust",
+    "stars": "11721",
+    "forks": "1491",
+    "increased": "647 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Yijia-Xiao",
+        "avatar": "https://avatars.githubusercontent.com/u/48253104?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/EdwardoSunny",
+        "avatar": "https://avatars.githubusercontent.com/u/68405458?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/CadeYu",
+        "avatar": "https://avatars.githubusercontent.com/u/91041827?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/luohy15",
+        "avatar": "https://avatars.githubusercontent.com/u/15189961?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/TauricResearch/TradingAgents",
+    "name": "TauricResearch/TradingAgents",
+    "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework  ",
+    "language": "Python",
+    "stars": "114709",
+    "forks": "22132",
+    "increased": "381 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Renhuai123",
+        "avatar": "https://avatars.githubusercontent.com/u/91890238?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Renhuai",
+        "avatar": "https://avatars.githubusercontent.com/u/108378938?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sakura168899-debug",
+        "avatar": "https://avatars.githubusercontent.com/u/289346330?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Renhuai123/ziwei-doushu",
+    "name": "Renhuai123/ziwei-doushu",
+    "description": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据  ",
+    "language": "TypeScript",
+    "stars": "7705",
+    "forks": "1563",
+    "increased": "199 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/rsolmano",
+        "avatar": "https://avatars.githubusercontent.com/u/177517595?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/danyaberezun",
+        "avatar": "https://avatars.githubusercontent.com/u/3789877?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/OLavrik",
+        "avatar": "https://avatars.githubusercontent.com/u/14210843?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/SBOne-Kenobi",
+        "avatar": "https://avatars.githubusercontent.com/u/54807972?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/JetBrains/thinkrail",
+    "name": "JetBrains/thinkrail",
+    "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need  ",
+    "language": "TypeScript",
+    "stars": "1840",
+    "forks": "105",
+    "increased": "51 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/andrasbacsai",
+        "avatar": "https://avatars.githubusercontent.com/u/5845193?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/peaklabs-dev",
+        "avatar": "https://avatars.githubusercontent.com/u/122374094?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ShadowArcanist",
+        "avatar": "https://avatars.githubusercontent.com/u/162910371?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/coollabsio/coolify",
+    "name": "coollabsio/coolify",
+    "description": "An open-source, self-hostable PaaS alternative to Vercel, Heroku &amp; Netlify that lets you easily deploy static sites, databases, full-stack applications and 360+ one-click services on your own servers.  ",
+    "language": "PHP",
+    "stars": "64466",
+    "forks": "5794",
+    "increased": "152 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/literally-dan",
+        "avatar": "https://avatars.githubusercontent.com/u/9935415?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/CooperSheroy",
+        "avatar": "https://avatars.githubusercontent.com/u/59650384?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kennysarnoski-jarvis",
+        "avatar": "https://avatars.githubusercontent.com/u/228360615?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/cloudflare/security-audit-skill",
+    "name": "cloudflare/security-audit-skill",
+    "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings  ",
+    "language": "JavaScript",
+    "stars": "47047",
+    "forks": "2918",
+    "increased": "2878 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/AgriciDaniel",
+        "avatar": "https://avatars.githubusercontent.com/u/223140489?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Nordalux",
+        "avatar": "https://avatars.githubusercontent.com/u/129338099?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/codex",
+        "avatar": "https://avatars.githubusercontent.com/u/267193182?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/AgriciDaniel/claude-seo",
+    "name": "AgriciDaniel/claude-seo",
+    "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.  ",
+    "language": "Python",
+    "stars": "20985",
+    "forks": "2959",
+    "increased": "197 stars today"
+  }
+]
