@@ -1,0 +1,405 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/rsolmano",
+        "avatar": "https://avatars.githubusercontent.com/u/177517595?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/danyaberezun",
+        "avatar": "https://avatars.githubusercontent.com/u/3789877?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/OLavrik",
+        "avatar": "https://avatars.githubusercontent.com/u/14210843?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/SBOne-Kenobi",
+        "avatar": "https://avatars.githubusercontent.com/u/54807972?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/JetBrains/thinkrail",
+    "name": "JetBrains/thinkrail",
+    "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need  ",
+    "language": "TypeScript",
+    "stars": "5223",
+    "forks": "269",
+    "increased": "1068 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/elayadesign",
+        "avatar": "https://avatars.githubusercontent.com/u/218383883?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/elayadesign/ai-design-skills",
+    "name": "elayadesign/ai-design-skills",
+    "stars": "11290",
+    "forks": "817",
+    "increased": "2139 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/obra",
+        "avatar": "https://avatars.githubusercontent.com/u/45416?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/arittr",
+        "avatar": "https://avatars.githubusercontent.com/u/5742859?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/clkao",
+        "avatar": "https://avatars.githubusercontent.com/u/69736?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/arimu1",
+        "avatar": "https://avatars.githubusercontent.com/u/19286898?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/obra/superpowers",
+    "name": "obra/superpowers",
+    "description": "An agentic skills framework &amp; software development methodology that works.  ",
+    "language": "Shell",
+    "stars": "307555",
+    "forks": "27353",
+    "increased": "1095 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/pancacake",
+        "avatar": "https://avatars.githubusercontent.com/u/150592536?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Pinkllow",
+        "avatar": "https://avatars.githubusercontent.com/u/272976591?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/evan188199-tech",
+        "avatar": "https://avatars.githubusercontent.com/u/238371241?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/HKUDS/DeepTutor",
+    "name": "HKUDS/DeepTutor",
+    "description": "DeepTutor: Lifelong Personalized Tutoring.  https://deeptutor.info/  .  ",
+    "language": "Python",
+    "stars": "48274",
+    "forks": "5982",
+    "increased": "2371 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/gbirman",
+        "avatar": "https://avatars.githubusercontent.com/u/25272206?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/whutchinson98",
+        "avatar": "https://avatars.githubusercontent.com/u/6412775?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/synoet",
+        "avatar": "https://avatars.githubusercontent.com/u/10552019?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sedson",
+        "avatar": "https://avatars.githubusercontent.com/u/11590722?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/peterchinman",
+        "avatar": "https://avatars.githubusercontent.com/u/56948273?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/macro-inc/macro",
+    "name": "macro-inc/macro",
+    "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.  ",
+    "language": "Rust",
+    "stars": "5485",
+    "forks": "522",
+    "increased": "117 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Luffixos",
+        "avatar": "https://avatars.githubusercontent.com/u/154055839?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Nutlope",
+        "avatar": "https://avatars.githubusercontent.com/u/63742054?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/riccardogiorato",
+        "avatar": "https://avatars.githubusercontent.com/u/4527364?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/JaySmith502",
+        "avatar": "https://avatars.githubusercontent.com/u/8827236?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Nutlope/hallmark",
+    "name": "Nutlope/hallmark",
+    "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.  ",
+    "language": "CSS",
+    "stars": "0",
+    "forks": "2121",
+    "increased": "2110 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/pbakaus",
+        "avatar": "https://avatars.githubusercontent.com/u/43004?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/abdulwahabone",
+        "avatar": "https://avatars.githubusercontent.com/u/32850166?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cursoragent",
+        "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/pbakaus/impeccable",
+    "name": "pbakaus/impeccable",
+    "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.  ",
+    "language": "Rust",
+    "stars": "93065",
+    "forks": "5492",
+    "increased": "1472 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/dashhuang",
+        "avatar": "https://avatars.githubusercontent.com/u/125997726?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/zqchris",
+        "avatar": "https://avatars.githubusercontent.com/u/4436110?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/MagicLizi",
+        "avatar": "https://avatars.githubusercontent.com/u/17176223?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/DavidShenXD",
+        "avatar": "https://avatars.githubusercontent.com/u/290921921?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/makecindy/cindy",
+    "name": "makecindy/cindy",
+    "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。  ",
+    "language": "TypeScript",
+    "stars": "8196",
+    "forks": "958",
+    "increased": "728 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/NorbertBodziony",
+        "avatar": "https://avatars.githubusercontent.com/u/38857779?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Sniezka1927",
+        "avatar": "https://avatars.githubusercontent.com/u/48182795?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/nrb-dev",
+        "avatar": "https://avatars.githubusercontent.com/u/90916274?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/aniruddhaadak80",
+        "avatar": "https://avatars.githubusercontent.com/u/127435065?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/nightly-labs/openbot",
+    "name": "nightly-labs/openbot",
+    "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.  ",
+    "language": "TypeScript",
+    "stars": "3351",
+    "forks": "320",
+    "increased": "1054 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/togg53192-cmd",
+        "avatar": "https://avatars.githubusercontent.com/u/222877182?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/raghavraut",
+        "avatar": "https://avatars.githubusercontent.com/u/282240492?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/metalim",
+        "avatar": "https://avatars.githubusercontent.com/u/230431?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/reblox01",
+        "avatar": "https://avatars.githubusercontent.com/u/74146687?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/togg53192-cmd/jailbreaks",
+    "name": "togg53192-cmd/jailbreaks",
+    "description": "LIST OF ALL MY JAILBREAKS  ",
+    "stars": "7323",
+    "forks": "1047",
+    "increased": "1477 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/hmjz100",
+        "avatar": "https://avatars.githubusercontent.com/u/98228280?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/MisaLiu",
+        "avatar": "https://avatars.githubusercontent.com/u/62408957?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Night-stars-1",
+        "avatar": "https://avatars.githubusercontent.com/u/99261160?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sherlocknieh",
+        "avatar": "https://avatars.githubusercontent.com/u/43476643?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/DeepslateQAQ",
+        "avatar": "https://avatars.githubusercontent.com/u/46892455?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/hmjz100/LinkSwift",
+    "name": "hmjz100/LinkSwift",
+    "description": "一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘  ",
+    "language": "JavaScript",
+    "stars": "35167",
+    "forks": "2497",
+    "increased": "1616 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/EvanBacon",
+        "avatar": "https://avatars.githubusercontent.com/u/9664363?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Kudo",
+        "avatar": "https://avatars.githubusercontent.com/u/46429?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/gwdp",
+        "avatar": "https://avatars.githubusercontent.com/u/215459?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ide",
+        "avatar": "https://avatars.githubusercontent.com/u/379606?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/expo/skills",
+    "name": "expo/skills",
+    "description": "A collection of AI agent skills for working with Expo projects and Expo Application Services  ",
+    "language": "Shell",
+    "stars": "3627",
+    "forks": "230",
+    "increased": "90 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ruvnet",
+        "avatar": "https://avatars.githubusercontent.com/u/2934394?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/proffesor-for-testing",
+        "avatar": "https://avatars.githubusercontent.com/u/214853444?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/aepod",
+        "avatar": "https://avatars.githubusercontent.com/u/124563?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/ruvnet/RuView",
+    "name": "ruvnet/RuView",
+    "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.  ",
+    "language": "Rust",
+    "stars": "101165",
+    "forks": "13166",
+    "increased": "557 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/xiaolai",
+        "avatar": "https://avatars.githubusercontent.com/u/152970?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/wpeiran",
+        "avatar": "https://avatars.githubusercontent.com/u/45680845?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/towerzju",
+        "avatar": "https://avatars.githubusercontent.com/u/23193127?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/HarryYC",
+        "avatar": "https://avatars.githubusercontent.com/u/12432409?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ljqbpm",
+        "avatar": "https://avatars.githubusercontent.com/u/16041286?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/xiaolai/the-craft-of-selfteaching",
+    "name": "xiaolai/the-craft-of-selfteaching",
+    "description": "One has no future if one couldn't teach themself.  ",
+    "language": "Jupyter Notebook",
+    "stars": "18603",
+    "forks": "17899",
+    "increased": "148 stars today"
+  }
+]
