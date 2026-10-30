@@ -1,0 +1,304 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/pancacake",
+        "avatar": "https://avatars.githubusercontent.com/u/150592536?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Pinkllow",
+        "avatar": "https://avatars.githubusercontent.com/u/272976591?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/evan188199-tech",
+        "avatar": "https://avatars.githubusercontent.com/u/238371241?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/HKUDS/DeepTutor",
+    "name": "HKUDS/DeepTutor",
+    "description": "DeepTutor: Lifelong Personalized Tutoring.  https://deeptutor.info/  .  ",
+    "language": "Python",
+    "stars": "50427",
+    "forks": "6207",
+    "increased": "1930 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/obra",
+        "avatar": "https://avatars.githubusercontent.com/u/45416?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/arittr",
+        "avatar": "https://avatars.githubusercontent.com/u/5742859?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/clkao",
+        "avatar": "https://avatars.githubusercontent.com/u/69736?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/arimu1",
+        "avatar": "https://avatars.githubusercontent.com/u/19286898?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/obra/superpowers",
+    "name": "obra/superpowers",
+    "description": "An agentic skills framework &amp; software development methodology that works.  ",
+    "language": "Shell",
+    "stars": "308695",
+    "forks": "27459",
+    "increased": "1034 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/pbakaus",
+        "avatar": "https://avatars.githubusercontent.com/u/43004?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/abdulwahabone",
+        "avatar": "https://avatars.githubusercontent.com/u/32850166?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cursoragent",
+        "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/pbakaus/impeccable",
+    "name": "pbakaus/impeccable",
+    "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.  ",
+    "language": "Rust",
+    "stars": "95630",
+    "forks": "5636",
+    "increased": "2870 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/rsolmano",
+        "avatar": "https://avatars.githubusercontent.com/u/177517595?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/danyaberezun",
+        "avatar": "https://avatars.githubusercontent.com/u/3789877?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/OLavrik",
+        "avatar": "https://avatars.githubusercontent.com/u/14210843?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/SBOne-Kenobi",
+        "avatar": "https://avatars.githubusercontent.com/u/54807972?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/JetBrains/thinkrail",
+    "name": "JetBrains/thinkrail",
+    "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need  ",
+    "language": "TypeScript",
+    "stars": "6095",
+    "forks": "329",
+    "increased": "1117 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/milind-soni",
+        "avatar": "https://avatars.githubusercontent.com/u/46266943?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/aivsomkar",
+        "avatar": "https://avatars.githubusercontent.com/u/255997030?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/robinsonnblack",
+        "avatar": "https://avatars.githubusercontent.com/u/331326017?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bradhallett",
+        "avatar": "https://avatars.githubusercontent.com/u/53977268?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/milind-soni/OpenMausBot",
+    "name": "milind-soni/OpenMausBot",
+    "description": "Open-source Grok Bot alternative with a virtual machine that bots can use  ",
+    "language": "TypeScript",
+    "stars": "7587",
+    "forks": "1122",
+    "increased": "1199 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/NorbertBodziony",
+        "avatar": "https://avatars.githubusercontent.com/u/38857779?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Sniezka1927",
+        "avatar": "https://avatars.githubusercontent.com/u/48182795?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/nrb-dev",
+        "avatar": "https://avatars.githubusercontent.com/u/90916274?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/aniruddhaadak80",
+        "avatar": "https://avatars.githubusercontent.com/u/127435065?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/nightly-labs/openbot",
+    "name": "nightly-labs/openbot",
+    "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.  ",
+    "language": "TypeScript",
+    "stars": "3952",
+    "forks": "365",
+    "increased": "709 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/elayadesign",
+        "avatar": "https://avatars.githubusercontent.com/u/218383883?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/elayadesign/ai-design-skills",
+    "name": "elayadesign/ai-design-skills",
+    "stars": "12315",
+    "forks": "894",
+    "increased": "1187 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/thedotmack",
+        "avatar": "https://avatars.githubusercontent.com/u/683968?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rudycelekli",
+        "avatar": "https://avatars.githubusercontent.com/u/47457359?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cursoragent",
+        "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rodboev",
+        "avatar": "https://avatars.githubusercontent.com/u/106971?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/thedotmack/claude-mem",
+    "name": "thedotmack/claude-mem",
+    "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More  ",
+    "language": "TypeScript",
+    "stars": "104938",
+    "forks": "9253",
+    "increased": "336 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/davidmckayv",
+        "avatar": "https://avatars.githubusercontent.com/u/1574202?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kevin9327",
+        "avatar": "https://avatars.githubusercontent.com/u/5299031?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Ayush7614",
+        "avatar": "https://avatars.githubusercontent.com/u/67006255?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/guidovizoso",
+        "avatar": "https://avatars.githubusercontent.com/u/27702539?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/CopilotKit/OpenBot",
+    "name": "CopilotKit/OpenBot",
+    "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.  ",
+    "language": "TypeScript",
+    "stars": "8234",
+    "forks": "1050",
+    "increased": "247 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/togg53192-cmd",
+        "avatar": "https://avatars.githubusercontent.com/u/222877182?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/raghavraut",
+        "avatar": "https://avatars.githubusercontent.com/u/282240492?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/metalim",
+        "avatar": "https://avatars.githubusercontent.com/u/230431?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/reblox01",
+        "avatar": "https://avatars.githubusercontent.com/u/74146687?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/togg53192-cmd/jailbreaks",
+    "name": "togg53192-cmd/jailbreaks",
+    "description": "LIST OF ALL MY JAILBREAKS  ",
+    "stars": "9269",
+    "forks": "1293",
+    "increased": "1594 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Donchitos",
+        "avatar": "https://avatars.githubusercontent.com/u/150119193?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+    "name": "Donchitos/Claude-Code-Game-Studios",
+    "description": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.  ",
+    "language": "Shell",
+    "stars": "29386",
+    "forks": "4060",
+    "increased": "353 stars today"
+  }
+]
