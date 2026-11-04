@@ -1,0 +1,448 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Luffixos",
+        "avatar": "https://avatars.githubusercontent.com/u/154055839?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Nutlope",
+        "avatar": "https://avatars.githubusercontent.com/u/63742054?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rudycelekli",
+        "avatar": "https://avatars.githubusercontent.com/u/47457359?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/xunguangzlj-cloud",
+        "avatar": "https://avatars.githubusercontent.com/u/293371022?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Nutlope/hallmark",
+    "name": "Nutlope/hallmark",
+    "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.  ",
+    "language": "CSS",
+    "stars": "47119",
+    "forks": "2488",
+    "increased": "8765 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/thedotmack",
+        "avatar": "https://avatars.githubusercontent.com/u/683968?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rudycelekli",
+        "avatar": "https://avatars.githubusercontent.com/u/47457359?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cursoragent",
+        "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rodboev",
+        "avatar": "https://avatars.githubusercontent.com/u/106971?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/thedotmack/claude-mem",
+    "name": "thedotmack/claude-mem",
+    "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More  ",
+    "language": "TypeScript",
+    "stars": "112083",
+    "forks": "9753",
+    "increased": "7995 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/juliusmarminge",
+        "avatar": "https://avatars.githubusercontent.com/u/51714798?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/t3dotgg",
+        "avatar": "https://avatars.githubusercontent.com/u/6751787?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/maria-rcks",
+        "avatar": "https://avatars.githubusercontent.com/u/254055478?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/codex",
+        "avatar": "https://avatars.githubusercontent.com/u/267193182?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/pingdotgg/t3code",
+    "name": "pingdotgg/t3code",
+    "language": "TypeScript",
+    "stars": "44703",
+    "forks": "9272",
+    "increased": "12542 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/obra",
+        "avatar": "https://avatars.githubusercontent.com/u/45416?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/arittr",
+        "avatar": "https://avatars.githubusercontent.com/u/5742859?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/clkao",
+        "avatar": "https://avatars.githubusercontent.com/u/69736?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/arimu1",
+        "avatar": "https://avatars.githubusercontent.com/u/19286898?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/obra/superpowers",
+    "name": "obra/superpowers",
+    "description": "An agentic skills framework &amp; software development methodology that works.  ",
+    "language": "Shell",
+    "stars": "311950",
+    "forks": "27746",
+    "increased": "5994 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/pbakaus",
+        "avatar": "https://avatars.githubusercontent.com/u/43004?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/abdulwahabone",
+        "avatar": "https://avatars.githubusercontent.com/u/32850166?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cursoragent",
+        "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/pbakaus/impeccable",
+    "name": "pbakaus/impeccable",
+    "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.  ",
+    "language": "Rust",
+    "stars": "101687",
+    "forks": "5995",
+    "increased": "11405 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/AgriciDaniel",
+        "avatar": "https://avatars.githubusercontent.com/u/223140489?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Nordalux",
+        "avatar": "https://avatars.githubusercontent.com/u/129338099?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/codex",
+        "avatar": "https://avatars.githubusercontent.com/u/267193182?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/AgriciDaniel/claude-seo",
+    "name": "AgriciDaniel/claude-seo",
+    "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.  ",
+    "language": "Python",
+    "stars": "26381",
+    "forks": "3436",
+    "increased": "3751 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/rsolmano",
+        "avatar": "https://avatars.githubusercontent.com/u/177517595?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/danyaberezun",
+        "avatar": "https://avatars.githubusercontent.com/u/3789877?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/OLavrik",
+        "avatar": "https://avatars.githubusercontent.com/u/14210843?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Mark-Life",
+        "avatar": "https://avatars.githubusercontent.com/u/88837967?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/JetBrains/thinkrail",
+    "name": "JetBrains/thinkrail",
+    "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need  ",
+    "language": "TypeScript",
+    "stars": "7462",
+    "forks": "448",
+    "increased": "3898 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/rlancemartin",
+        "avatar": "https://avatars.githubusercontent.com/u/122662504?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/klazuka",
+        "avatar": "https://avatars.githubusercontent.com/u/84525?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cj-ant",
+        "avatar": "https://avatars.githubusercontent.com/u/286490957?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ericharmeling",
+        "avatar": "https://avatars.githubusercontent.com/u/27286675?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/anthropics/skills",
+    "name": "anthropics/skills",
+    "description": "Public repository for Agent Skills  ",
+    "language": "Python",
+    "stars": "187156",
+    "forks": "22088",
+    "increased": "2969 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/jakubkrehel",
+        "avatar": "https://avatars.githubusercontent.com/u/87530089?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/jakubkrehel/skills",
+    "name": "jakubkrehel/skills",
+    "description": "A collec tion of agent skills that help you build great interfaces.  ",
+    "language": "Markdown",
+    "stars": "10645",
+    "forks": "410",
+    "increased": "1761 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/forrestchang",
+        "avatar": "https://avatars.githubusercontent.com/u/7857126?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/back1ply",
+        "avatar": "https://avatars.githubusercontent.com/u/45536170?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/herobrine19",
+        "avatar": "https://avatars.githubusercontent.com/u/45513138?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/szkocot",
+        "avatar": "https://avatars.githubusercontent.com/u/478549?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/multica-ai/andrej-karpathy-skills",
+    "name": "multica-ai/andrej-karpathy-skills",
+    "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.  ",
+    "stars": "229159",
+    "forks": "22837",
+    "increased": "3921 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/mitchellh",
+        "avatar": "https://avatars.githubusercontent.com/u/1299?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jcollie",
+        "avatar": "https://avatars.githubusercontent.com/u/740022?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/qwerasd205",
+        "avatar": "https://avatars.githubusercontent.com/u/7241851?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/ghostty-org/ghostty",
+    "name": "ghostty-org/ghostty",
+    "description": "👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.  ",
+    "language": "Zig",
+    "stars": "63456",
+    "forks": "3811",
+    "increased": "771 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/literally-dan",
+        "avatar": "https://avatars.githubusercontent.com/u/9935415?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/CooperSheroy",
+        "avatar": "https://avatars.githubusercontent.com/u/59650384?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kennysarnoski-jarvis",
+        "avatar": "https://avatars.githubusercontent.com/u/228360615?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/cloudflare/security-audit-skill",
+    "name": "cloudflare/security-audit-skill",
+    "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings  ",
+    "language": "JavaScript",
+    "stars": "58313",
+    "forks": "3795",
+    "increased": "8598 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/vaxerski",
+        "avatar": "https://avatars.githubusercontent.com/u/43317083?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/fufexan",
+        "avatar": "https://avatars.githubusercontent.com/u/36706276?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/gulafaran",
+        "avatar": "https://avatars.githubusercontent.com/u/773455?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/MightyPlaza",
+        "avatar": "https://avatars.githubusercontent.com/u/123664421?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/UjinT34",
+        "avatar": "https://avatars.githubusercontent.com/u/41110182?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/hyprwm/Hyprland",
+    "name": "hyprwm/Hyprland",
+    "description": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.  ",
+    "language": "C++",
+    "stars": "40239",
+    "forks": "2164",
+    "increased": "1232 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Yijia-Xiao",
+        "avatar": "https://avatars.githubusercontent.com/u/48253104?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/EdwardoSunny",
+        "avatar": "https://avatars.githubusercontent.com/u/68405458?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/CadeYu",
+        "avatar": "https://avatars.githubusercontent.com/u/91041827?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/luohy15",
+        "avatar": "https://avatars.githubusercontent.com/u/15189961?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/TauricResearch/TradingAgents",
+    "name": "TauricResearch/TradingAgents",
+    "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework  ",
+    "language": "Python",
+    "stars": "120404",
+    "forks": "23018",
+    "increased": "his week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/max-sixty",
+        "avatar": "https://avatars.githubusercontent.com/u/5635139?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/worktrunk-bot",
+        "avatar": "https://avatars.githubusercontent.com/u/254187624?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/max-sixty/worktrunk",
+    "name": "max-sixty/worktrunk",
+    "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows  ",
+    "language": "Rust",
+    "stars": "10587",
+    "forks": "383",
+    "increased": "749 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/affaan-m",
+        "avatar": "https://avatars.githubusercontent.com/u/124439313?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/haelyra",
+        "avatar": "https://avatars.githubusercontent.com/u/49814733?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/montjeffrey",
+        "avatar": "https://avatars.githubusercontent.com/u/24193489?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/affaan-m/ECC",
+    "name": "affaan-m/ECC",
+    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.  ",
+    "language": "JavaScript",
+    "stars": "296627",
+    "forks": "43863",
+    "increased": "6053 stars this week"
+  }
+]
