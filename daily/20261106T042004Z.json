@@ -1,0 +1,406 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/DinaLaptii",
+        "avatar": "https://avatars.githubusercontent.com/u/263323607?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/yuvalshkolar",
+        "avatar": "https://avatars.githubusercontent.com/u/21292702?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/liavnave",
+        "avatar": "https://avatars.githubusercontent.com/u/29655923?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/liofnv",
+        "avatar": "https://avatars.githubusercontent.com/u/263700388?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tomer-levin-nv",
+        "avatar": "https://avatars.githubusercontent.com/u/263323887?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/NVIDIA/auto-ontology",
+    "name": "NVIDIA/auto-ontology",
+    "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.  ",
+    "language": "Python",
+    "stars": "7639",
+    "forks": "611",
+    "increased": "2679 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/mattpocock",
+        "avatar": "https://avatars.githubusercontent.com/u/28293365?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/gabimoncha",
+        "avatar": "https://avatars.githubusercontent.com/u/39256258?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/mattpocock/skills",
+    "name": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .agents directory.  ",
+    "language": "Shell",
+    "stars": "315512",
+    "forks": "26415",
+    "increased": "oday"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/garrytan",
+        "avatar": "https://avatars.githubusercontent.com/u/19957?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/test22345",
+        "avatar": "https://avatars.githubusercontent.com/u/17983607?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/szsunyuan",
+        "avatar": "https://avatars.githubusercontent.com/u/3579304?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/garrytan/gstack",
+    "name": "garrytan/gstack",
+    "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA  ",
+    "language": "peScript",
+    "stars": "140052",
+    "forks": "20701",
+    "increased": "612 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/dingyufei615",
+        "avatar": "https://avatars.githubusercontent.com/u/34468774?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ijodion",
+        "avatar": "https://avatars.githubusercontent.com/u/212712200?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/hurleychin",
+        "avatar": "https://avatars.githubusercontent.com/u/4160779?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Usagi-org/ai-goofish-monitor",
+    "name": "Usagi-org/ai-goofish-monitor",
+    "description": "基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。  ",
+    "language": "Python",
+    "stars": "17781",
+    "forks": "2965",
+    "increased": "240 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/D4Vinci",
+        "avatar": "https://avatars.githubusercontent.com/u/20604835?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/yetval",
+        "avatar": "https://avatars.githubusercontent.com/u/102706514?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/AbdullahY36",
+        "avatar": "https://avatars.githubusercontent.com/u/52079299?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/SulimanAbdulrazzaq",
+        "avatar": "https://avatars.githubusercontent.com/u/144490671?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/codex",
+        "avatar": "https://avatars.githubusercontent.com/u/267193182?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/D4Vinci/Scrapling",
+    "name": "D4Vinci/Scrapling",
+    "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here:  https://discord.gg/EMgGbDceNQ  and follow here for daily tips and tricks:  https://x.com/Scrapling_dev    ",
+    "language": "Python",
+    "stars": "98182",
+    "forks": "10284",
+    "increased": "1655 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/lahfir",
+        "avatar": "https://avatars.githubusercontent.com/u/70215676?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ctate",
+        "avatar": "https://avatars.githubusercontent.com/u/366502?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/vercel-labs/agent-desktop",
+    "name": "vercel-labs/agent-desktop",
+    "description": "Computer use CLI for AI agents  ",
+    "language": "Rust",
+    "stars": "17138",
+    "forks": "1213",
+    "increased": "2173 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/max-sixty",
+        "avatar": "https://avatars.githubusercontent.com/u/5635139?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/worktrunk-bot",
+        "avatar": "https://avatars.githubusercontent.com/u/254187624?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/max-sixty/worktrunk",
+    "name": "max-sixty/worktrunk",
+    "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows  ",
+    "language": "Rust",
+    "stars": "11586",
+    "forks": "441",
+    "increased": "546 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Cyan4973",
+        "avatar": "https://avatars.githubusercontent.com/u/750081?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/inikep",
+        "avatar": "https://avatars.githubusercontent.com/u/15112322?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/t-mat",
+        "avatar": "https://avatars.githubusercontent.com/u/898396?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/felixhandte",
+        "avatar": "https://avatars.githubusercontent.com/u/1154694?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/lz4/lz4",
+    "name": "lz4/lz4",
+    "description": "Extremely Fast Compression algorithm  ",
+    "language": "C",
+    "stars": "12423",
+    "forks": "1636",
+    "increased": "23 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/cloud-ix-copybara",
+        "avatar": "https://avatars.githubusercontent.com/u/277152880?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/holtskinner",
+        "avatar": "https://avatars.githubusercontent.com/u/13262395?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/martinvarelaj",
+        "avatar": "https://avatars.githubusercontent.com/u/52255361?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/helloeve",
+        "avatar": "https://avatars.githubusercontent.com/u/2510012?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/wangauone",
+        "avatar": "https://avatars.githubusercontent.com/u/51683731?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/google/skills",
+    "name": "google/skills",
+    "description": "Agent Skills for Google products and technologies  ",
+    "language": "Python",
+    "stars": "22451",
+    "forks": "1894",
+    "increased": "211 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ctate",
+        "avatar": "https://avatars.githubusercontent.com/u/366502?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Railly",
+        "avatar": "https://avatars.githubusercontent.com/u/51397083?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/lahfir",
+        "avatar": "https://avatars.githubusercontent.com/u/70215676?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/vercel-labs/agent-browser",
+    "name": "vercel-labs/agent-browser",
+    "description": "Browser automation CLI for AI agents  ",
+    "language": "Rust",
+    "stars": "46013",
+    "forks": "3150",
+    "increased": "150 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/hervenivon",
+        "avatar": "https://avatars.githubusercontent.com/u/1057302?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/codex",
+        "avatar": "https://avatars.githubusercontent.com/u/267193182?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/edemaistre",
+        "avatar": "https://avatars.githubusercontent.com/u/78570368?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/scenario-labs/skills",
+    "name": "scenario-labs/skills",
+    "description": "Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and brands consistent through the Scenario MCP, plus expert teams that drive Blender, Maya, ZBrush, Unreal, and Unity.  ",
+    "language": "Python",
+    "stars": "3163",
+    "forks": "276",
+    "increased": "667 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ConardLi",
+        "avatar": "https://avatars.githubusercontent.com/u/30708545?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cursoragent",
+        "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/eltociear",
+        "avatar": "https://avatars.githubusercontent.com/u/22633385?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/ConardLi/garden-skills",
+    "name": "ConardLi/garden-skills",
+    "description": "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and mor e.  ",
+    "language": "JavaScript",
+    "stars": "14239",
+    "forks": "1654",
+    "increased": "175 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/YaoyaoChang",
+        "avatar": "https://avatars.githubusercontent.com/u/20237658?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pengzhiliang",
+        "avatar": "https://avatars.githubusercontent.com/u/26346329?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/MSLDCherryPick",
+        "avatar": "https://avatars.githubusercontent.com/u/173002764?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jsoref",
+        "avatar": "https://avatars.githubusercontent.com/u/2119212?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/microsoft/VibeVoice",
+    "name": "microsoft/VibeVoice",
+    "description": "Open-Source Frontier Voice AI  ",
+    "language": "Python",
+    "stars": "56096",
+    "forks": "6314",
+    "increased": "223 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/hectorvent",
+        "avatar": "https://avatars.githubusercontent.com/u/2405682?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pgermosen",
+        "avatar": "https://avatars.githubusercontent.com/u/6233424?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/AndreKurait",
+        "avatar": "https://avatars.githubusercontent.com/u/33106608?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/okinaka",
+        "avatar": "https://avatars.githubusercontent.com/u/120861?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/exoego",
+        "avatar": "https://avatars.githubusercontent.com/u/127635?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/floci-io/floci",
+    "name": "floci-io/floci",
+    "description": "Light, fluffy, and always free - The AWS Local Emulator alternative  ",
+    "language": "Java",
+    "stars": "30517",
+    "forks": "3335",
+    "increased": "779 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/JiaFeiMiao-K-Cat",
+        "avatar": "https://avatars.githubusercontent.com/u/60653106?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Catho168",
+        "avatar": "https://avatars.githubusercontent.com/u/98449983?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/eltociear",
+        "avatar": "https://avatars.githubusercontent.com/u/22633385?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/keremuysal",
+        "avatar": "https://avatars.githubusercontent.com/u/70893996?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio",
+    "name": "JiaFeiMiao-K-Cat/DiscImageStudio",
+    "language": "C#",
+    "stars": "7385",
+    "forks": "264",
+    "increased": "984 stars today"
+  }
+]
