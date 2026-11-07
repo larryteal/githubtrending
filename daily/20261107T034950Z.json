@@ -1,0 +1,501 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/as-cii",
+        "avatar": "https://avatars.githubusercontent.com/u/482957?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/maxbrunsfeld",
+        "avatar": "https://avatars.githubusercontent.com/u/326587?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/maxdeviant",
+        "avatar": "https://avatars.githubusercontent.com/u/1486634?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/nathansobo",
+        "avatar": "https://avatars.githubusercontent.com/u/1789?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ConradIrwin",
+        "avatar": "https://avatars.githubusercontent.com/u/94272?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/zed-industries/zed",
+    "name": "zed-industries/zed",
+    "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.  ",
+    "language": "Rust",
+    "stars": "93729",
+    "forks": "11506",
+    "increased": "306 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/DinaLaptii",
+        "avatar": "https://avatars.githubusercontent.com/u/263323607?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/yuvalshkolar",
+        "avatar": "https://avatars.githubusercontent.com/u/21292702?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/liavnave",
+        "avatar": "https://avatars.githubusercontent.com/u/29655923?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/liofnv",
+        "avatar": "https://avatars.githubusercontent.com/u/263700388?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tomer-levin-nv",
+        "avatar": "https://avatars.githubusercontent.com/u/263323887?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/NVIDIA/auto-ontology",
+    "name": "NVIDIA/auto-ontology",
+    "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.  ",
+    "language": "Python",
+    "stars": "9197",
+    "forks": "733",
+    "increased": "2015 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/rafaelfranca",
+        "avatar": "https://avatars.githubusercontent.com/u/47848?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kamipo",
+        "avatar": "https://avatars.githubusercontent.com/u/12642?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jeremy",
+        "avatar": "https://avatars.githubusercontent.com/u/199?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tenderlove",
+        "avatar": "https://avatars.githubusercontent.com/u/3124?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/byroot",
+        "avatar": "https://avatars.githubusercontent.com/u/44640?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/rails/rails",
+    "name": "rails/rails",
+    "description": "Ruby on Rails  ",
+    "language": "Ruby",
+    "stars": "59042",
+    "forks": "23833",
+    "increased": "142 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/kasper93",
+        "avatar": "https://avatars.githubusercontent.com/u/1126053?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Dudemanguy",
+        "avatar": "https://avatars.githubusercontent.com/u/5105515?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/guidocella",
+        "avatar": "https://avatars.githubusercontent.com/u/11783568?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/haasn",
+        "avatar": "https://avatars.githubusercontent.com/u/1149047?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pigoz",
+        "avatar": "https://avatars.githubusercontent.com/u/24681?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/mpv-player/mpv",
+    "name": "mpv-player/mpv",
+    "description": "🎥 Command line media player  ",
+    "language": "C",
+    "stars": "37904",
+    "forks": "3633",
+    "increased": "37 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/bors",
+        "avatar": "https://avatars.githubusercontent.com/u/3372342?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/matthiaskrgr",
+        "avatar": "https://avatars.githubusercontent.com/u/476013?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/RalfJung",
+        "avatar": "https://avatars.githubusercontent.com/u/330628?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/GuillaumeGomez",
+        "avatar": "https://avatars.githubusercontent.com/u/3050060?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/matklad",
+        "avatar": "https://avatars.githubusercontent.com/u/1711539?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/rust-lang/rust",
+    "name": "rust-lang/rust",
+    "description": "Empowering everyone to build reliable and efficient software.  ",
+    "language": "Rust",
+    "stars": "121490",
+    "forks": "17369",
+    "increased": "192 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/sebmarkbage",
+        "avatar": "https://avatars.githubusercontent.com/u/63648?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/zpao",
+        "avatar": "https://avatars.githubusercontent.com/u/8445?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/gaearon",
+        "avatar": "https://avatars.githubusercontent.com/u/810438?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/acdlite",
+        "avatar": "https://avatars.githubusercontent.com/u/3624098?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sophiebits",
+        "avatar": "https://avatars.githubusercontent.com/u/6820?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/react/react",
+    "name": "react/react",
+    "description": "The library for web and native user interfaces.  ",
+    "language": "JavaScript",
+    "stars": "252280",
+    "forks": "51818",
+    "increased": "248 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/gkalpak",
+        "avatar": "https://avatars.githubusercontent.com/u/8604205?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/petebacondarwin",
+        "avatar": "https://avatars.githubusercontent.com/u/15655?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/crisbeto",
+        "avatar": "https://avatars.githubusercontent.com/u/4450522?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/angular-robot",
+        "avatar": "https://avatars.githubusercontent.com/u/89942104?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/devversion",
+        "avatar": "https://avatars.githubusercontent.com/u/4987015?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/angular/angular",
+    "name": "angular/angular",
+    "description": "Deliver web apps with confidence 🚀  ",
+    "language": "TypeScript",
+    "stars": "101395",
+    "forks": "28912",
+    "increased": "135 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/fabpot",
+        "avatar": "https://avatars.githubusercontent.com/u/47313?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/nicolas-grekas",
+        "avatar": "https://avatars.githubusercontent.com/u/243674?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/xabbuh",
+        "avatar": "https://avatars.githubusercontent.com/u/1957048?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/derrabus",
+        "avatar": "https://avatars.githubusercontent.com/u/1506493?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/chalasr",
+        "avatar": "https://avatars.githubusercontent.com/u/7502063?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/symfony/symfony",
+    "name": "symfony/symfony",
+    "description": "The Symfony PHP framework  ",
+    "language": "PHP",
+    "stars": "31449",
+    "forks": "9949",
+    "increased": "128 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/fabxc",
+        "avatar": "https://avatars.githubusercontent.com/u/4948210?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/juliusv",
+        "avatar": "https://avatars.githubusercontent.com/u/538008?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/beorn7",
+        "avatar": "https://avatars.githubusercontent.com/u/5609886?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bboreham",
+        "avatar": "https://avatars.githubusercontent.com/u/8125524?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/prometheus/prometheus",
+    "name": "prometheus/prometheus",
+    "description": "The Prometheus monitoring system and time series database.  ",
+    "language": "Go",
+    "stars": "67213",
+    "forks": "10989",
+    "increased": "148 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/cloud-ix-copybara",
+        "avatar": "https://avatars.githubusercontent.com/u/277152880?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/holtskinner",
+        "avatar": "https://avatars.githubusercontent.com/u/13262395?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/martinvarelaj",
+        "avatar": "https://avatars.githubusercontent.com/u/52255361?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/helloeve",
+        "avatar": "https://avatars.githubusercontent.com/u/2510012?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/wangauone",
+        "avatar": "https://avatars.githubusercontent.com/u/51683731?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/google/skills",
+    "name": "google/skills",
+    "description": "Agent Skills for Google products and technologies  ",
+    "language": "Python",
+    "stars": "22883",
+    "forks": "1926",
+    "increased": "stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/bpasero",
+        "avatar": "https://avatars.githubusercontent.com/u/900690?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jrieken",
+        "avatar": "https://avatars.githubusercontent.com/u/1794099?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Tyriar",
+        "avatar": "https://avatars.githubusercontent.com/u/2193314?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sandy081",
+        "avatar": "https://avatars.githubusercontent.com/u/10746682?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/joaomoreno",
+        "avatar": "https://avatars.githubusercontent.com/u/22350?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/microsoft/vscode",
+    "name": "microsoft/vscode",
+    "description": "Visual Studio Code  ",
+    "language": "TypeScript",
+    "stars": "195052",
+    "forks": "44429",
+    "increased": "301 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/sophiajt",
+        "avatar": "https://avatars.githubusercontent.com/u/547158?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/fdncred",
+        "avatar": "https://avatars.githubusercontent.com/u/343840?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sholderbach",
+        "avatar": "https://avatars.githubusercontent.com/u/15833959?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/andrasio",
+        "avatar": "https://avatars.githubusercontent.com/u/951128?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/nushell/nushell",
+    "name": "nushell/nushell",
+    "description": "A new type of shell  ",
+    "language": "Rust",
+    "stars": "41000",
+    "forks": "2343",
+    "increased": "131 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/gyuho",
+        "avatar": "https://avatars.githubusercontent.com/u/6799218?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ahrtr",
+        "avatar": "https://avatars.githubusercontent.com/u/30739825?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/xiang90",
+        "avatar": "https://avatars.githubusercontent.com/u/4479947?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/serathius",
+        "avatar": "https://avatars.githubusercontent.com/u/5873433?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/yichengq",
+        "avatar": "https://avatars.githubusercontent.com/u/2976232?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/etcd-io/etcd",
+    "name": "etcd-io/etcd",
+    "description": "Distributed reliable key-value store for the most critical data of a distributed system  ",
+    "language": "Go",
+    "stars": "52626",
+    "forks": "10590",
+    "increased": "128 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/levitte",
+        "avatar": "https://avatars.githubusercontent.com/u/698918?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mattcaswell",
+        "avatar": "https://avatars.githubusercontent.com/u/7422273?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dot-asm",
+        "avatar": "https://avatars.githubusercontent.com/u/9038069?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/paulidale",
+        "avatar": "https://avatars.githubusercontent.com/u/17916609?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/snhenson",
+        "avatar": "https://avatars.githubusercontent.com/u/6590984?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/openssl/openssl",
+    "name": "openssl/openssl",
+    "description": "General purpose TLS and crypto library  ",
+    "language": "C",
+    "stars": "31309",
+    "forks": "11580",
+    "increased": "26 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/mattpocock",
+        "avatar": "https://avatars.githubusercontent.com/u/28293365?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/gabimoncha",
+        "avatar": "https://avatars.githubusercontent.com/u/39256258?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/mattpocock/skills",
+    "name": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .agents directory.  ",
+    "language": "Shell",
+    "stars": "316842",
+    "forks": "26510",
+    "increased": "2070 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/literally-dan",
+        "avatar": "https://avatars.githubusercontent.com/u/9935415?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/CooperSheroy",
+        "avatar": "https://avatars.githubusercontent.com/u/59650384?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kennysarnoski-jarvis",
+        "avatar": "https://avatars.githubusercontent.com/u/228360615?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/cloudflare/security-audit-skill",
+    "name": "cloudflare/security-audit-skill",
+    "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings  ",
+    "language": "JavaScript",
+    "stars": "64255",
+    "forks": "4161",
+    "increased": "2548 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/charliermarsh",
+        "avatar": "https://avatars.githubusercontent.com/u/1309177?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/MichaReiser",
+        "avatar": "https://avatars.githubusercontent.com/u/1203881?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/AlexWaygood",
+        "avatar": "https://avatars.githubusercontent.com/u/66076021?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sharkdp",
+        "avatar": "https://avatars.githubusercontent.com/u/4209276?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/astral-sh/ruff",
+    "name": "astral-sh/ruff",
+    "description": "An extremely fast Python linter and code formatter, written in Rust.  ",
+    "language": "Rust",
+    "stars": "50722",
+    "forks": "2613",
+    "increased": "169 stars today"
+  }
+]
