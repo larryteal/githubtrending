@@ -1,0 +1,427 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ctate",
+        "avatar": "https://avatars.githubusercontent.com/u/366502?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Railly",
+        "avatar": "https://avatars.githubusercontent.com/u/51397083?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/lahfir",
+        "avatar": "https://avatars.githubusercontent.com/u/70215676?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/vercel-labs/agent-browser",
+    "name": "vercel-labs/agent-browser",
+    "description": "Browser automation CLI for AI agents  ",
+    "language": "Rust",
+    "stars": "46917",
+    "forks": "3217",
+    "increased": "190 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/literally-dan",
+        "avatar": "https://avatars.githubusercontent.com/u/9935415?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/CooperSheroy",
+        "avatar": "https://avatars.githubusercontent.com/u/59650384?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kennysarnoski-jarvis",
+        "avatar": "https://avatars.githubusercontent.com/u/228360615?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/cloudflare/security-audit-skill",
+    "name": "cloudflare/security-audit-skill",
+    "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings  ",
+    "language": "JavaScript",
+    "stars": "65882",
+    "forks": "4281",
+    "increased": "2085 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/cloud-ix-copybara",
+        "avatar": "https://avatars.githubusercontent.com/u/277152880?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/holtskinner",
+        "avatar": "https://avatars.githubusercontent.com/u/13262395?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/martinvarelaj",
+        "avatar": "https://avatars.githubusercontent.com/u/52255361?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/helloeve",
+        "avatar": "https://avatars.githubusercontent.com/u/2510012?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/wangauone",
+        "avatar": "https://avatars.githubusercontent.com/u/51683731?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/google/skills",
+    "name": "google/skills",
+    "description": "Agent Skills for Google products and technologies  ",
+    "language": "Python",
+    "stars": "23468",
+    "forks": "1961",
+    "increased": "443 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/mattpocock",
+        "avatar": "https://avatars.githubusercontent.com/u/28293365?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/gabimoncha",
+        "avatar": "https://avatars.githubusercontent.com/u/39256258?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/mattpocock/skills",
+    "name": "mattpocock/skills",
+    "description": "Skills for Re al Engineers. Straight f rom my .agents directory.  ",
+    "language": "Shell",
+    "stars": "317816",
+    "forks": "26588",
+    "increased": "1100 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/rlancemartin",
+        "avatar": "https://avatars.githubusercontent.com/u/122662504?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/klazuka",
+        "avatar": "https://avatars.githubusercontent.com/u/84525?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cj-ant",
+        "avatar": "https://avatars.githubusercontent.com/u/286490957?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ericharmeling",
+        "avatar": "https://avatars.githubusercontent.com/u/27286675?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/anthropics/skills",
+    "name": "anthropics/skills",
+    "description": "Public repository for Agent Skills  ",
+    "language": "Python",
+    "stars": "188871",
+    "forks": "22261",
+    "increased": "390 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/cixzhang",
+        "avatar": "https://avatars.githubusercontent.com/u/2781099?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rubyycheung",
+        "avatar": "https://avatars.githubusercontent.com/u/254546175?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/josephfarina",
+        "avatar": "https://avatars.githubusercontent.com/u/17398284?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/vjeux",
+        "avatar": "https://avatars.githubusercontent.com/u/197597?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/meta/astryx",
+    "name": "meta/astryx",
+    "description": "An open source design system that's fully customizable and agent ready  ",
+    "language": "TypeScript",
+    "stars": "14643",
+    "forks": "1198",
+    "increased": "96 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/fabxc",
+        "avatar": "https://avatars.githubusercontent.com/u/4948210?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/juliusv",
+        "avatar": "https://avatars.githubusercontent.com/u/538008?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/beorn7",
+        "avatar": "https://avatars.githubusercontent.com/u/5609886?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bboreham",
+        "avatar": "https://avatars.githubusercontent.com/u/8125524?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/prometheus/prometheus",
+    "name": "prometheus/prometheus",
+    "description": "The Prometheus monitoring system and time series database.  ",
+    "language": "Go",
+    "stars": "67469",
+    "forks": "11007",
+    "increased": "322 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/sdushantha",
+        "avatar": "https://avatars.githubusercontent.com/u/27065646?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/hoadlck",
+        "avatar": "https://avatars.githubusercontent.com/u/1666888?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ppfeister",
+        "avatar": "https://avatars.githubusercontent.com/u/33327613?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/TheYahya",
+        "avatar": "https://avatars.githubusercontent.com/u/15307244?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Czechball",
+        "avatar": "https://avatars.githubusercontent.com/u/13371865?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/sherlock-project/sherlock",
+    "name": "sherlock-project/sherlock",
+    "description": "Hunt down social media accounts by username across social networks  ",
+    "language": "Python",
+    "stars": "100748",
+    "forks": "11900",
+    "increased": "1766 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/milind-soni",
+        "avatar": "https://avatars.githubusercontent.com/u/46266943?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/aivsomkar",
+        "avatar": "https://avatars.githubusercontent.com/u/255997030?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/robinsonnblack",
+        "avatar": "https://avatars.githubusercontent.com/u/331326017?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bradhallett",
+        "avatar": "https://avatars.githubusercontent.com/u/53977268?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/milind-soni/OpenMausBot",
+    "name": "milind-soni/OpenMausBot",
+    "description": "Open-source Grok Bot alternative with a virtual machine that bots can use  ",
+    "language": "TypeScript",
+    "stars": "17141",
+    "forks": "2420",
+    "increased": "1955 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/charliermarsh",
+        "avatar": "https://avatars.githubusercontent.com/u/1309177?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/MichaReiser",
+        "avatar": "https://avatars.githubusercontent.com/u/1203881?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/AlexWaygood",
+        "avatar": "https://avatars.githubusercontent.com/u/66076021?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/sharkdp",
+        "avatar": "https://avatars.githubusercontent.com/u/4209276?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/astral-sh/ruff",
+    "name": "astral-sh/ruff",
+    "description": "An extremely fast Python linter and code formatter, written in Rust.  ",
+    "language": "Rust",
+    "stars": "51000",
+    "forks": "2633",
+    "increased": "350 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/adamwathan",
+        "avatar": "https://avatars.githubusercontent.com/u/4323180?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/RobinMalfait",
+        "avatar": "https://avatars.githubusercontent.com/u/1834413?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/thecrypticace",
+        "avatar": "https://avatars.githubusercontent.com/u/614993?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/reinink",
+        "avatar": "https://avatars.githubusercontent.com/u/882133?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/tailwindlabs/tailwindcss",
+    "name": "tailwindlabs/tailwindcss",
+    "description": "A utility-first CSS framework for rapid UI development.  ",
+    "language": "TypeScript",
+    "stars": "98520",
+    "forks": "7112",
+    "increased": "122 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/mbillow",
+        "avatar": "https://avatars.githubusercontent.com/u/8651166?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/perseus177",
+        "avatar": "https://avatars.githubusercontent.com/u/25415840?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/roweboat123",
+        "avatar": "https://avatars.githubusercontent.com/u/37281333?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/antiremy",
+        "avatar": "https://avatars.githubusercontent.com/u/848627?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Metal-Eagle",
+        "avatar": "https://avatars.githubusercontent.com/u/32430809?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/mbillow/localthings",
+    "name": "mbillow/localthings",
+    "description": "Control your Samsung appliances from Home Assistant over your home network, with no cloud account.  ",
+    "language": "Python",
+    "stars": "1081",
+    "forks": "113",
+    "increased": "186 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/as-cii",
+        "avatar": "https://avatars.githubusercontent.com/u/482957?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/maxbrunsfeld",
+        "avatar": "https://avatars.githubusercontent.com/u/326587?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/maxdeviant",
+        "avatar": "https://avatars.githubusercontent.com/u/1486634?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/nathansobo",
+        "avatar": "https://avatars.githubusercontent.com/u/1789?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ConradIrwin",
+        "avatar": "https://avatars.githubusercontent.com/u/94272?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/zed-industries/zed",
+    "name": "zed-industries/zed",
+    "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.  ",
+    "language": "Rust",
+    "stars": "94318",
+    "forks": "11557",
+    "increased": "1114 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ranxianglei",
+        "avatar": "https://avatars.githubusercontent.com/u/12445698?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/YunzhouLi-hub",
+        "avatar": "https://avatars.githubusercontent.com/u/154221037?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/z0d0dOr",
+        "avatar": "https://avatars.githubusercontent.com/u/128966342?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/yanhuojiyusheng",
+        "avatar": "https://avatars.githubusercontent.com/u/98598692?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/ranxianglei/billion-context",
+    "name": "ranxianglei/billion-context",
+    "description": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need  ",
+    "language": "TypeScript",
+    "stars": "4667",
+    "forks": "372",
+    "increased": "191 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/dims",
+        "avatar": "https://avatars.githubusercontent.com/u/23304?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/TerryHowe",
+        "avatar": "https://avatars.githubusercontent.com/u/104113?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/lia-campbell",
+        "avatar": "https://avatars.githubusercontent.com/u/200289150?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jedimt",
+        "avatar": "https://avatars.githubusercontent.com/u/10234760?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/danbudris",
+        "avatar": "https://avatars.githubusercontent.com/u/11739241?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/dsx-ai-factory/nvke",
+    "name": "dsx-ai-factory/nvke",
+    "description": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.  ",
+    "language": "Go",
+    "stars": "591",
+    "forks": "91",
+    "increased": "123 stars today"
+  }
+]
