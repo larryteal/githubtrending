@@ -1,0 +1,278 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/cixzhang",
+        "avatar": "https://avatars.githubusercontent.com/u/2781099?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rubyycheung",
+        "avatar": "https://avatars.githubusercontent.com/u/254546175?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/josephfarina",
+        "avatar": "https://avatars.githubusercontent.com/u/17398284?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/vjeux",
+        "avatar": "https://avatars.githubusercontent.com/u/197597?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/meta/astryx",
+    "name": "meta/astryx",
+    "description": "An open source design system that's fully custom izable and agent ready   ",
+    "language": "TypeScript",
+    "stars": "25351",
+    "forks": "1975",
+    "increased": "2776 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ZhuLinsen",
+        "avatar": "https://avatars.githubusercontent.com/u/42829555?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/massif-01",
+        "avatar": "https://avatars.githubusercontent.com/u/176381099?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/freesme",
+        "avatar": "https://avatars.githubusercontent.com/u/56824280?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Activer007",
+        "avatar": "https://avatars.githubusercontent.com/u/30621586?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/birdxs",
+        "avatar": "https://avatars.githubusercontent.com/u/36181736?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/ZhuLinsen/daily_stock_analysis",
+    "name": "ZhuLinsen/daily_stock_analysis",
+    "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.  ",
+    "language": "Python",
+    "stars": "70520",
+    "forks": "56940",
+    "increased": "278 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/paulirish",
+        "avatar": "https://avatars.githubusercontent.com/u/39191?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rviscomi",
+        "avatar": "https://avatars.githubusercontent.com/u/1120896?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/micahjo7",
+        "avatar": "https://avatars.githubusercontent.com/u/126118814?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/philipwalton",
+        "avatar": "https://avatars.githubusercontent.com/u/326742?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/GoogleChrome/modern-web-guidance-src",
+    "name": "GoogleChrome/modern-web-guidance-src",
+    "language": "TypeScript",
+    "stars": "1927",
+    "forks": "148",
+    "increased": "159 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/shadcn",
+        "avatar": "https://avatars.githubusercontent.com/u/124599?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/erikpr1994",
+        "avatar": "https://avatars.githubusercontent.com/u/6299331?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/beastawakens",
+        "avatar": "https://avatars.githubusercontent.com/u/888909?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/morinim",
+        "avatar": "https://avatars.githubusercontent.com/u/10128372?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/shadcn/improve",
+    "name": "shadcn/improve",
+    "description": "Use your most capable model to audit your codebase and write plans for cheaper models to execute.  ",
+    "stars": "11070",
+    "forks": "449",
+    "increased": "361 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/addyosmani",
+        "avatar": "https://avatars.githubusercontent.com/u/110953?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/nucliweb",
+        "avatar": "https://avatars.githubusercontent.com/u/1307927?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rudycelekli",
+        "avatar": "https://avatars.githubusercontent.com/u/47457359?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ayobamiseun",
+        "avatar": "https://avatars.githubusercontent.com/u/66267222?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/addyosmani/agent-skills",
+    "name": "addyosmani/agent-skills",
+    "description": "Production-grade engineering skills for AI coding agents.  ",
+    "language": "JavaScript",
+    "stars": "116076",
+    "forks": "12170",
+    "increased": "787 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ctate",
+        "avatar": "https://avatars.githubusercontent.com/u/366502?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Railly",
+        "avatar": "https://avatars.githubusercontent.com/u/51397083?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/lahfir",
+        "avatar": "https://avatars.githubusercontent.com/u/70215676?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/vercel-labs/agent-browser",
+    "name": "vercel-labs/agent-browser",
+    "description": "Browser automation CLI for AI agents  ",
+    "language": "Rust",
+    "stars": "49994",
+    "forks": "3493",
+    "increased": "708 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/jjmata",
+        "avatar": "https://avatars.githubusercontent.com/u/187772?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/zachgoll",
+        "avatar": "https://avatars.githubusercontent.com/u/16676157?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Shpigford",
+        "avatar": "https://avatars.githubusercontent.com/u/35243?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/we-promise/sure",
+    "name": "we-promise/sure",
+    "description": "The personal finance app for everyone (by everyone)  ",
+    "language": "Ruby",
+    "stars": "13112",
+    "forks": "964",
+    "increased": "1078 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kingpanther13",
+        "avatar": "https://avatars.githubusercontent.com/u/25392815?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/julienld",
+        "avatar": "https://avatars.githubusercontent.com/u/3122659?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/homeassistant-ai/ha-mcp",
+    "name": "homeassistant-ai/ha-mcp",
+    "description": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.  ",
+    "language": "Python",
+    "stars": "7472",
+    "forks": "456",
+    "increased": "645 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/mldangelo-oai",
+        "avatar": "https://avatars.githubusercontent.com/u/269034524?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/codex",
+        "avatar": "https://avatars.githubusercontent.com/u/267193182?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ianw-oai",
+        "avatar": "https://avatars.githubusercontent.com/u/269041055?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kmbroai",
+        "avatar": "https://avatars.githubusercontent.com/u/272643392?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/openai/codex-security",
+    "name": "openai/codex-security",
+    "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm:  https://www.npmjs.com/package/@openai/codex-security    ",
+    "language": "TypeScript",
+    "stars": "11869",
+    "forks": "945",
+    "increased": "52 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/alxkm",
+        "avatar": "https://avatars.githubusercontent.com/u/19151554?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/vil02",
+        "avatar": "https://avatars.githubusercontent.com/u/65706193?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Hardvan",
+        "avatar": "https://avatars.githubusercontent.com/u/97388607?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/yanglbme",
+        "avatar": "https://avatars.githubusercontent.com/u/21008209?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/TheAlgorithms/Java",
+    "name": "TheAlgorithms/Java",
+    "description": "All Algorithms implemented in Java  ",
+    "language": "Java",
+    "stars": "67104",
+    "forks": "21516",
+    "increased": "51 stars today"
+  }
+]

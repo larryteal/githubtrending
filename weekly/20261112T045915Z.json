@@ -1,0 +1,357 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/DinaLaptii",
+        "avatar": "https://avatars.githubusercontent.com/u/263323607?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/yuvalshkolar",
+        "avatar": "https://avatars.githubusercontent.com/u/21292702?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/liavnave",
+        "avatar": "https://avatars.githubusercontent.com/u/29655923?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/liofnv",
+        "avatar": "https://avatars.githubusercontent.com/u/263700388?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tomer-levin-nv",
+        "avatar": "https://avatars.githubusercontent.com/u/263323887?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/NVIDIA/auto-ontology",
+    "name": "NVIDIA/auto-ontology",
+    "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.  ",
+    "language": "Python",
+    "stars": "11937",
+    "forks": "979",
+    "increased": "7947 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/rlancemartin",
+        "avatar": "https://avatars.githubusercontent.com/u/122662504?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/klazuka",
+        "avatar": "https://avatars.githubusercontent.com/u/84525?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cj-ant",
+        "avatar": "https://avatars.githubusercontent.com/u/286490957?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ericharmeling",
+        "avatar": "https://avatars.githubusercontent.com/u/27286675?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/anthropics/skills",
+    "name": "anthropics/skills",
+    "description": "Public repository for Agent Skills  ",
+    "language": "Python",
+    "stars": "193257",
+    "forks": "22741",
+    "increased": "5738 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/lahfir",
+        "avatar": "https://avatars.githubusercontent.com/u/70215676?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ctate",
+        "avatar": "https://avatars.githubusercontent.com/u/366502?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/vercel-labs/agent-desktop",
+    "name": "vercel-labs/agent-desktop",
+    "description": "Computer use CLI for AI agents  ",
+    "language": "Rust",
+    "stars": "22236",
+    "forks": "1653",
+    "increased": "7772 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/milind-soni",
+        "avatar": "https://avatars.githubusercontent.com/u/46266943?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/aivsomkar",
+        "avatar": "https://avatars.githubusercontent.com/u/255997030?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/AdityaUmale",
+        "avatar": "https://avatars.githubusercontent.com/u/146627237?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/robinsonnblack",
+        "avatar": "https://avatars.githubusercontent.com/u/331326017?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/milind-soni/OpenMausBot",
+    "name": "milind-soni/OpenMausBot",
+    "description": "Open-source Grok Bot alternative with a virtual machine that bots can use  ",
+    "language": "TypeScript",
+    "stars": "21352",
+    "forks": "2982",
+    "increased": "9257 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ctate",
+        "avatar": "https://avatars.githubusercontent.com/u/366502?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Railly",
+        "avatar": "https://avatars.githubusercontent.com/u/51397083?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/lahfir",
+        "avatar": "https://avatars.githubusercontent.com/u/70215676?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/vercel-labs/agent-browser",
+    "name": "vercel-labs/agent-browser",
+    "description": "Browser automation CLI for AI agents  ",
+    "language": "Rust",
+    "stars": "49994",
+    "forks": "3493",
+    "increased": "4183 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/literally-dan",
+        "avatar": "https://avatars.githubusercontent.com/u/9935415?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/CooperSheroy",
+        "avatar": "https://avatars.githubusercontent.com/u/59650384?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kennysarnoski-jarvis",
+        "avatar": "https://avatars.githubusercontent.com/u/228360615?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/cloudflare/security-audit-skill",
+    "name": "cloudflare/security-audit-skill",
+    "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings  ",
+    "language": "JavaScript",
+    "stars": "70489",
+    "forks": "4672",
+    "increased": "11507 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/mattpocock",
+        "avatar": "https://avatars.githubusercontent.com/u/28293365?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/gabimoncha",
+        "avatar": "https://avatars.githubusercontent.com/u/39256258?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/mattpocock/skills",
+    "name": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .agents directory.  ",
+    "language": "Shell",
+    "stars": "322188",
+    "forks": "27020",
+    "increased": "9575 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/D4Vinci",
+        "avatar": "https://avatars.githubusercontent.com/u/20604835?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/yetval",
+        "avatar": "https://avatars.githubusercontent.com/u/102706514?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/AbdullahY36",
+        "avatar": "https://avatars.githubusercontent.com/u/52079299?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/SulimanAbdulrazzaq",
+        "avatar": "https://avatars.githubusercontent.com/u/144490671?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/codex",
+        "avatar": "https://avatars.githubusercontent.com/u/267193182?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/D4Vinci/Scrapling",
+    "name": "D4Vinci/Scrapling",
+    "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here:  https://discord.gg/EMgGbDceNQ  and follow here for daily tips and tricks:  https://x.com/Scrapling_dev    ",
+    "language": "Python",
+    "stars": "101740",
+    "forks": "10602",
+    "increased": "5814 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/as-cii",
+        "avatar": "https://avatars.githubusercontent.com/u/482957?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/maxbrunsfeld",
+        "avatar": "https://avatars.githubusercontent.com/u/326587?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/maxdeviant",
+        "avatar": "https://avatars.githubusercontent.com/u/1486634?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/nathansobo",
+        "avatar": "https://avatars.githubusercontent.com/u/1789?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ConradIrwin",
+        "avatar": "https://avatars.githubusercontent.com/u/94272?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/zed-industries/zed",
+    "name": "zed-industries/zed",
+    "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.  ",
+    "language": "Rust",
+    "stars": "94738",
+    "forks": "11633",
+    "increased": "2310 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Donchitos",
+        "avatar": "https://avatars.githubusercontent.com/u/150119193?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+    "name": "Donchitos/Claude-Code-Game-Studios",
+    "description": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.  ",
+    "language": "Shell",
+    "stars": "38548",
+    "forks": "5011",
+    "increased": "3150 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/cloud-ix-copybara",
+        "avatar": "https://avatars.githubusercontent.com/u/277152880?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/holtskinner",
+        "avatar": "https://avatars.githubusercontent.com/u/13262395?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/martinvarelaj",
+        "avatar": "https://avatars.githubusercontent.com/u/52255361?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/helloeve",
+        "avatar": "https://avatars.githubusercontent.com/u/2510012?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/wangauone",
+        "avatar": "https://avatars.githubusercontent.com/u/51683731?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/google/skills",
+    "name": "google/skills",
+    "description": "Agent Skills for Google products and technologies  ",
+    "language": "Python",
+    "stars": "23959",
+    "forks": "1998",
+    "increased": "2013 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/yuvaltassa",
+        "avatar": "https://avatars.githubusercontent.com/u/6387526?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/quagla",
+        "avatar": "https://avatars.githubusercontent.com/u/102665781?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/haroonq",
+        "avatar": "https://avatars.githubusercontent.com/u/29288912?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kbayes",
+        "avatar": "https://avatars.githubusercontent.com/u/42924292?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/saran-t",
+        "avatar": "https://avatars.githubusercontent.com/u/2200217?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/google-deepmind/mujoco",
+    "name": "google-deepmind/mujoco",
+    "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.  ",
+    "language": "C++",
+    "stars": "17676",
+    "forks": "2174",
+    "increased": "1535 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ogulcancelik",
+        "avatar": "https://avatars.githubusercontent.com/u/7064011?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/JJLiebig",
+        "avatar": "https://avatars.githubusercontent.com/u/14083666?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/akbash-bot",
+        "avatar": "https://avatars.githubusercontent.com/u/300245827?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kangal-bot",
+        "avatar": "https://avatars.githubusercontent.com/u/285672167?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/herdrdev/herdr",
+    "name": "herdrdev/herdr",
+    "description": "the runtime your coding agents live on  ",
+    "language": "Rust",
+    "stars": "50393",
+    "forks": "4066",
+    "increased": "2213 stars this week"
+  }
+]
