@@ -1,0 +1,385 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/paulirish",
+        "avatar": "https://avatars.githubusercontent.com/u/39191?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rviscomi",
+        "avatar": "https://avatars.githubusercontent.com/u/1120896?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/micahjo7",
+        "avatar": "https://avatars.githubusercontent.com/u/126118814?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/LeaVerou",
+        "avatar": "https://avatars.githubusercontent.com/u/175836?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/GoogleChrome/modern-web-guidance-src",
+    "name": "GoogleChrome/modern-web-guidance-src",
+    "description": "Keep your coding agent up to date with the latest web best practices  ",
+    "language": "TypeScript",
+    "stars": "3357",
+    "forks": "213",
+    "increased": "739 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/mldangelo-oai",
+        "avatar": "https://avatars.githubusercontent.com/u/269034524?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/codex",
+        "avatar": "https://avatars.githubusercontent.com/u/267193182?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ianw-oai",
+        "avatar": "https://avatars.githubusercontent.com/u/269041055?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kmbroai",
+        "avatar": "https://avatars.githubusercontent.com/u/272643392?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/openai/codex-security",
+    "name": "openai/codex-security",
+    "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm:  https://www.npmjs.com/package/@openai/codex-security    ",
+    "language": "TypeScript",
+    "stars": "12563",
+    "forks": "981",
+    "increased": "643 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ljharb",
+        "avatar": "https://avatars.githubusercontent.com/u/45469?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/PeterDaveHello",
+        "avatar": "https://avatars.githubusercontent.com/u/3691490?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/creationix",
+        "avatar": "https://avatars.githubusercontent.com/u/89353?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/koenpunt",
+        "avatar": "https://avatars.githubusercontent.com/u/351038?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/lukechilds",
+        "avatar": "https://avatars.githubusercontent.com/u/2123375?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/nvm-sh/nvm",
+    "name": "nvm-sh/nvm",
+    "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.  ",
+    "language": "Shell",
+    "stars": "96038",
+    "forks": "10760",
+    "increased": "63 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/pookjw",
+        "avatar": "https://avatars.githubusercontent.com/u/11896738?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/metalnodeug",
+        "avatar": "https://avatars.githubusercontent.com/u/30961174?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/SamZong233",
+        "avatar": "https://avatars.githubusercontent.com/u/66147452?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dfrias",
+        "avatar": "https://avatars.githubusercontent.com/u/6193760?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/pookjw/HermesEnabler",
+    "name": "pookjw/HermesEnabler",
+    "description": "Enable Hermès Watch Faces on any Apple Watch devices  ",
+    "language": "Objective-C",
+    "stars": "1597",
+    "forks": "143",
+    "increased": "218 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/jjmata",
+        "avatar": "https://avatars.githubusercontent.com/u/187772?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/zachgoll",
+        "avatar": "https://avatars.githubusercontent.com/u/16676157?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Shpigford",
+        "avatar": "https://avatars.githubusercontent.com/u/35243?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/we-promise/sure",
+    "name": "we-promise/sure",
+    "description": "The personal finance app for everyone (by everyone)  ",
+    "language": "Ruby",
+    "stars": "14061",
+    "forks": "1056",
+    "increased": "967 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/wenshao",
+        "avatar": "https://avatars.githubusercontent.com/u/1166785?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/qwencoder",
+        "avatar": "https://avatars.githubusercontent.com/u/224605497?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/yiliang114",
+        "avatar": "https://avatars.githubusercontent.com/u/11473889?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tanzhenxin",
+        "avatar": "https://avatars.githubusercontent.com/u/480123?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/qwen-code-dev-bot",
+        "avatar": "https://avatars.githubusercontent.com/u/269191875?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/QwenLM/qwen-code",
+    "name": "QwenLM/qwen-code",
+    "description": "An open-source AI coding agent that lives in your terminal.  ",
+    "language": "TypeScript",
+    "stars": "29904",
+    "forks": "3403",
+    "increased": "151 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ashhart",
+        "avatar": "https://avatars.githubusercontent.com/u/71890694?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jschmied",
+        "avatar": "https://avatars.githubusercontent.com/u/600316?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/BobClawblaw",
+        "avatar": "https://avatars.githubusercontent.com/u/288991054?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/laudney",
+        "avatar": "https://avatars.githubusercontent.com/u/106273?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/BlivionIaG",
+        "avatar": "https://avatars.githubusercontent.com/u/15323295?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/ashhart/TensorFold",
+    "name": "ashhart/TensorFold",
+    "description": "LLM Inference Engine for Metal, CUDA and Vulkan.  ",
+    "language": "Zig",
+    "stars": "1989",
+    "forks": "394",
+    "increased": "54 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Trott",
+        "avatar": "https://avatars.githubusercontent.com/u/718899?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ry",
+        "avatar": "https://avatars.githubusercontent.com/u/80?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/bnoordhuis",
+        "avatar": "https://avatars.githubusercontent.com/u/275871?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/addaleax",
+        "avatar": "https://avatars.githubusercontent.com/u/899444?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/isaacs",
+        "avatar": "https://avatars.githubusercontent.com/u/9287?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/nodejs/node",
+    "name": "nodejs/node",
+    "description": "Node.js JavaScript runtime ✨🐢🚀✨  ",
+    "language": "JavaScript",
+    "stars": "123620",
+    "forks": "38057",
+    "increased": "62 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/addyosmani",
+        "avatar": "https://avatars.githubusercontent.com/u/110953?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/nucliweb",
+        "avatar": "https://avatars.githubusercontent.com/u/1307927?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rudycelekli",
+        "avatar": "https://avatars.githubusercontent.com/u/47457359?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ayobamiseun",
+        "avatar": "https://avatars.githubusercontent.com/u/66267222?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/addyosmani/agent-skills",
+    "name": "addyosmani/agent-skills",
+    "description": "Production-grade engineering skills for AI coding agents.  ",
+    "language": "JavaScript",
+    "stars": "116777",
+    "forks": "12214",
+    "increased": "816 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/cixzhang",
+        "avatar": "https://avatars.githubusercontent.com/u/2781099?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rubyycheung",
+        "avatar": "https://avatars.githubusercontent.com/u/254546175?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/josephfarina",
+        "avatar": "https://avatars.githubusercontent.com/u/17398284?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/vjeux",
+        "avatar": "https://avatars.githubusercontent.com/u/197597?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/meta/astryx",
+    "name": "meta/astryx",
+    "description": "An open source design system that's fully customizable and agent ready  ",
+    "language": "TypeScript",
+    "stars": "26744",
+    "forks": "2073",
+    "increased": "1830 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/davidmckayv",
+        "avatar": "https://avatars.githubusercontent.com/u/1574202?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kevin9327",
+        "avatar": "https://avatars.githubusercontent.com/u/5299031?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/guidovizoso",
+        "avatar": "https://avatars.githubusercontent.com/u/27702539?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Ayush7614",
+        "avatar": "https://avatars.githubusercontent.com/u/67006255?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/CopilotKit/OpenBot",
+    "name": "CopilotKit/OpenBot",
+    "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.  ",
+    "language": "TypeScript",
+    "stars": "11732",
+    "forks": "1449",
+    "increased": "298 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Alishahryar1",
+        "avatar": "https://avatars.githubusercontent.com/u/20476625?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cursoragent",
+        "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Tanishq-1",
+        "avatar": "https://avatars.githubusercontent.com/u/49880456?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Alishahryar1/free-claude-code",
+    "name": "Alishahryar1/free-claude-code",
+    "description": "Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)  ",
+    "language": "Python",
+    "stars": "69440",
+    "forks": "10778",
+    "increased": "415 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ggerganov",
+        "avatar": "https://avatars.githubusercontent.com/u/1991296?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ngxson",
+        "avatar": "https://avatars.githubusercontent.com/u/7702203?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/CISC",
+        "avatar": "https://avatars.githubusercontent.com/u/1629204?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/JohannesGaessler",
+        "avatar": "https://avatars.githubusercontent.com/u/18492268?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/slaren",
+        "avatar": "https://avatars.githubusercontent.com/u/2141330?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/ggml-org/llama.cpp",
+    "name": "ggml-org/llama.cpp",
+    "description": "LLM inference in C/C++  ",
+    "language": "C++",
+    "stars": "134632",
+    "forks": "25515",
+    "increased": "176 stars today"
+  }
+]
