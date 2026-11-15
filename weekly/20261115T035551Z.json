@@ -1,0 +1,331 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/cixzhang",
+        "avatar": "https://avatars.githubusercontent.com/u/2781099?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rubyycheung",
+        "avatar": "https://avatars.githubusercontent.com/u/254546175?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/josephfarina",
+        "avatar": "https://avatars.githubusercontent.com/u/17398284?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/vjeux",
+        "avatar": "https://avatars.githubusercontent.com/u/197597?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/meta/astryx",
+    "name": "meta/astryx",
+    "description": "An open source design system that's fully customizable and agent ready  ",
+    "language": "TypeScript",
+    "stars": "28241",
+    "forks": "2195",
+    "increased": "13660 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/sdushantha",
+        "avatar": "https://avatars.githubusercontent.com/u/27065646?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/hoadlck",
+        "avatar": "https://avatars.githubusercontent.com/u/1666888?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ppfeister",
+        "avatar": "https://avatars.githubusercontent.com/u/33327613?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/TheYahya",
+        "avatar": "https://avatars.githubusercontent.com/u/15307244?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Czechball",
+        "avatar": "https://avatars.githubusercontent.com/u/13371865?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/sherlock-project/sherlock",
+    "name": "sherlock-project/sherlock",
+    "description": "Hunt down social media accounts by username across social networks  ",
+    "language": "Python",
+    "stars": "111861",
+    "forks": "12946",
+    "increased": "12401 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/rlancemartin",
+        "avatar": "https://avatars.githubusercontent.com/u/122662504?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/klazuka",
+        "avatar": "https://avatars.githubusercontent.com/u/84525?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cj-ant",
+        "avatar": "https://avatars.githubusercontent.com/u/286490957?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ericharmeling",
+        "avatar": "https://avatars.githubusercontent.com/u/27286675?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/anthropics/skills",
+    "name": "anthropics/skills",
+    "description": "Public repository for Agent Skills  ",
+    "language": "Python",
+    "stars": "194684",
+    "forks": "22904",
+    "increased": "6220 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ctate",
+        "avatar": "https://avatars.githubusercontent.com/u/366502?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Railly",
+        "avatar": "https://avatars.githubusercontent.com/u/51397083?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/lahfir",
+        "avatar": "https://avatars.githubusercontent.com/u/70215676?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/vercel-labs/agent-browser",
+    "name": "vercel-labs/agent-browser",
+    "description": "Browser automation CLI for AI agents  ",
+    "language": "Rust",
+    "stars": "51271",
+    "forks": "3579",
+    "increased": "4601 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/n3wth",
+        "avatar": "https://avatars.githubusercontent.com/u/5912894?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/briansuchy",
+        "avatar": "https://avatars.githubusercontent.com/u/329134269?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/eewing314",
+        "avatar": "https://avatars.githubusercontent.com/u/22433831?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/briansuchy-goog",
+        "avatar": "https://avatars.githubusercontent.com/u/270992383?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/google/elephant-goldfish-model",
+    "name": "google/elephant-goldfish-model",
+    "description": "Open-source plugin for designing and reviewing software with agents  ",
+    "language": "Python",
+    "stars": "19256",
+    "forks": "1427",
+    "increased": "5539 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/milind-soni",
+        "avatar": "https://avatars.githubusercontent.com/u/46266943?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/aivsomkar",
+        "avatar": "https://avatars.githubusercontent.com/u/255997030?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/AdityaUmale",
+        "avatar": "https://avatars.githubusercontent.com/u/146627237?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/robinsonnblack",
+        "avatar": "https://avatars.githubusercontent.com/u/331326017?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/milind-soni/OpenMausBot",
+    "name": "milind-soni/OpenMausBot",
+    "description": "Open-source Grok Bot alternative with a virtual machine that bots can use  ",
+    "language": "TypeScript",
+    "stars": "22851",
+    "forks": "3180",
+    "increased": "6413 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ZhuLinsen",
+        "avatar": "https://avatars.githubusercontent.com/u/42829555?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/massif-01",
+        "avatar": "https://avatars.githubusercontent.com/u/176381099?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/freesme",
+        "avatar": "https://avatars.githubusercontent.com/u/56824280?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Activer007",
+        "avatar": "https://avatars.githubusercontent.com/u/30621586?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/birdxs",
+        "avatar": "https://avatars.githubusercontent.com/u/36181736?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/ZhuLinsen/daily_stock_analysis",
+    "name": "ZhuLinsen/daily_stock_analysis",
+    "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated no tifications, and cost-free scheduled runs.  ",
+    "language": "Python",
+    "stars": "72282",
+    "forks": "57492",
+    "increased": "4526 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/yuvaltassa",
+        "avatar": "https://avatars.githubusercontent.com/u/6387526?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/quagla",
+        "avatar": "https://avatars.githubusercontent.com/u/102665781?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/haroonq",
+        "avatar": "https://avatars.githubusercontent.com/u/29288912?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kbayes",
+        "avatar": "https://avatars.githubusercontent.com/u/42924292?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/thowell",
+        "avatar": "https://avatars.githubusercontent.com/u/12521315?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/google-deepmind/mujoco",
+    "name": "google-deepmind/mujoco",
+    "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.  ",
+    "language": "C++",
+    "stars": "17994",
+    "forks": "2204",
+    "increased": "1859 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/backnotprop",
+        "avatar": "https://avatars.githubusercontent.com/u/7244317?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/utpalsinghdev",
+        "avatar": "https://avatars.githubusercontent.com/u/110197373?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/leoreisdias",
+        "avatar": "https://avatars.githubusercontent.com/u/47978193?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/uvw",
+        "avatar": "https://avatars.githubusercontent.com/u/1078682?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/backnotprop/plannotator",
+    "name": "backnotprop/plannotator",
+    "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.  ",
+    "language": "TypeScript",
+    "stars": "11235",
+    "forks": "940",
+    "increased": "818 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/addyosmani",
+        "avatar": "https://avatars.githubusercontent.com/u/110953?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/nucliweb",
+        "avatar": "https://avatars.githubusercontent.com/u/1307927?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ayobamiseun",
+        "avatar": "https://avatars.githubusercontent.com/u/66267222?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rudycelekli",
+        "avatar": "https://avatars.githubusercontent.com/u/47457359?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/addyosmani/agent-skills",
+    "name": "addyosmani/agent-skills",
+    "description": "Production-grade engineering skills for AI coding agents.  ",
+    "language": "JavaScript",
+    "stars": "117620",
+    "forks": "12304",
+    "increased": "3670 stars this week"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/cj-ant",
+        "avatar": "https://avatars.githubusercontent.com/u/286490957?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/x5a",
+        "avatar": "https://avatars.githubusercontent.com/u/4421754?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/alexalbertt",
+        "avatar": "https://avatars.githubusercontent.com/u/34638987?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/zealoushacker",
+        "avatar": "https://avatars.githubusercontent.com/u/346275?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/anthropics/claude-quickstarts",
+    "name": "anthropics/claude-quickstarts",
+    "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API  ",
+    "language": "Python",
+    "stars": "20998",
+    "forks": "3497",
+    "increased": "1794 stars this week"
+  }
+]
