@@ -1,0 +1,550 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/cursoragent",
+        "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/poteto",
+        "avatar": "https://avatars.githubusercontent.com/u/1390709?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/djiang-jq",
+        "avatar": "https://avatars.githubusercontent.com/u/257394719?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/minupalaniappan",
+        "avatar": "https://avatars.githubusercontent.com/u/2145689?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ericzakariasson",
+        "avatar": "https://avatars.githubusercontent.com/u/25622412?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/cursor/plugins",
+    "name": "cursor/plugins",
+    "description": "Cursor plugin specification and official plugins  ",
+    "language": "TypeScript",
+    "stars": "17298",
+    "forks": "1911",
+    "increased": "314 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/yuh-yang",
+        "avatar": "https://avatars.githubusercontent.com/u/43330997?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/AiMiDi",
+        "avatar": "https://avatars.githubusercontent.com/u/76622021?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/omerarslan0",
+        "avatar": "https://avatars.githubusercontent.com/u/76780961?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/hito0512",
+        "avatar": "https://avatars.githubusercontent.com/u/26110883?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/HKUDS/CLI-Anything",
+    "name": "HKUDS/CLI-Anything",
+    "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:  https://clianything.cc/    ",
+    "language": "Python",
+    "stars": "59931",
+    "forks": "5440",
+    "increased": "389 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/mvanhorn",
+        "avatar": "https://avatars.githubusercontent.com/u/455140?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tmchow",
+        "avatar": "https://avatars.githubusercontent.com/u/517103?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/iliaal",
+        "avatar": "https://avatars.githubusercontent.com/u/158724?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/mvanhorn/last30days-skill",
+    "name": "mvanhorn/last30days-skill",
+    "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary  ",
+    "language": "Python",
+    "stars": "70193",
+    "forks": "6255",
+    "increased": "1059 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/kmendell",
+        "avatar": "https://avatars.githubusercontent.com/u/25576967?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/getarcaneappbot",
+        "avatar": "https://avatars.githubusercontent.com/u/242722930?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cabaucom376",
+        "avatar": "https://avatars.githubusercontent.com/u/104145051?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/GiulioSavini",
+        "avatar": "https://avatars.githubusercontent.com/u/180265839?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/getarcaneapp/arcane",
+    "name": "getarcaneapp/arcane",
+    "description": "Modern Docker Management, Designed for Everyone  ",
+    "language": "Go",
+    "stars": "9894",
+    "forks": "568",
+    "increased": "547 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/rng1995",
+        "avatar": "https://avatars.githubusercontent.com/u/32655573?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/chrisknvidia",
+        "avatar": "https://avatars.githubusercontent.com/u/256191862?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/YMuskrat",
+        "avatar": "https://avatars.githubusercontent.com/u/101849520?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kweinmeister",
+        "avatar": "https://avatars.githubusercontent.com/u/11586922?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/NVIDIA/SkillEvaluator",
+    "name": "NVIDIA/SkillEvaluator",
+    "description": "Multi-tier framework for evaluating AI agent skills and plugins with quality gates, security scanning, harness compatibility checks, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior. Ships reusable CI templates that bring every check to any repository.  ",
+    "language": "Python",
+    "stars": "3828",
+    "forks": "524",
+    "increased": "312 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ljharb",
+        "avatar": "https://avatars.githubusercontent.com/u/45469?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/PeterDaveHello",
+        "avatar": "https://avatars.githubusercontent.com/u/3691490?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/creationix",
+        "avatar": "https://avatars.githubusercontent.com/u/89353?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/koenpunt",
+        "avatar": "https://avatars.githubusercontent.com/u/351038?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/lukechilds",
+        "avatar": "https://avatars.githubusercontent.com/u/2123375?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/nvm-sh/nvm",
+    "name": "nvm-sh/nvm",
+    "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.  ",
+    "language": "Shell",
+    "stars": "96176",
+    "forks": "10781",
+    "increased": "237 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/charliermarsh",
+        "avatar": "https://avatars.githubusercontent.com/u/1309177?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/zanieb",
+        "avatar": "https://avatars.githubusercontent.com/u/2586601?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/konstin",
+        "avatar": "https://avatars.githubusercontent.com/u/6826232?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/astral-sh/uv",
+    "name": "astral-sh/uv",
+    "description": "An extremely fast Python package and project manager, written in Rust.  ",
+    "language": "Rust",
+    "stars": "92283",
+    "forks": "3924",
+    "increased": "258 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/yiwen-song",
+        "avatar": "https://avatars.githubusercontent.com/u/34639474?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/obrienciaran",
+        "avatar": "https://avatars.githubusercontent.com/u/31419980?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/google-research/paper-orchestra",
+    "name": "google-research/paper-orchestra",
+    "description": "PaperOrchestra is a multi-agent framework for automated AI research paper writing.  ",
+    "language": "Python",
+    "stars": "4462",
+    "forks": "551",
+    "increased": "1524 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/JLXIA",
+        "avatar": "https://avatars.githubusercontent.com/u/43076783?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/davideast",
+        "avatar": "https://avatars.githubusercontent.com/u/4570265?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Emp1500",
+        "avatar": "https://avatars.githubusercontent.com/u/201552351?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dalmaer",
+        "avatar": "https://avatars.githubusercontent.com/u/4770?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/meeChn",
+        "avatar": "https://avatars.githubusercontent.com/u/1460397?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/google-labs-code/stitch-skills",
+    "name": "google-labs-code/stitch-skills",
+    "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.  ",
+    "language": "TypeScript",
+    "stars": "10469",
+    "forks": "1371",
+    "increased": "365 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Rich-Harris",
+        "avatar": "https://avatars.githubusercontent.com/u/1162160?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dummdidumm",
+        "avatar": "https://avatars.githubusercontent.com/u/5968653?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Conduitry",
+        "avatar": "https://avatars.githubusercontent.com/u/16696352?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/trueadm",
+        "avatar": "https://avatars.githubusercontent.com/u/1519870?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/sveltejs/svelte",
+    "name": "sveltejs/svelte",
+    "description": "web development for the rest of us  ",
+    "language": "JavaScript",
+    "stars": "89662",
+    "forks": "6208",
+    "increased": "692 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/jeresig",
+        "avatar": "https://avatars.githubusercontent.com/u/1615?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/timmywil",
+        "avatar": "https://avatars.githubusercontent.com/u/192451?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dmethvin",
+        "avatar": "https://avatars.githubusercontent.com/u/157858?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mgol",
+        "avatar": "https://avatars.githubusercontent.com/u/1758366?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jzaefferer",
+        "avatar": "https://avatars.githubusercontent.com/u/52585?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/jquery/jquery",
+    "name": "jquery/jquery",
+    "description": "jQuery JavaScript Library  ",
+    "language": "JavaScript",
+    "stars": "60036",
+    "forks": "20709",
+    "increased": "266 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/eldadfux",
+        "avatar": "https://avatars.githubusercontent.com/u/1297371?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/abnegate",
+        "avatar": "https://avatars.githubusercontent.com/u/5857008?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ChiragAgg5k",
+        "avatar": "https://avatars.githubusercontent.com/u/110609663?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/lohanidamodar",
+        "avatar": "https://avatars.githubusercontent.com/u/6360216?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Meldiron",
+        "avatar": "https://avatars.githubusercontent.com/u/19310830?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/appwrite/appwrite",
+    "name": "appwrite/appwrite",
+    "description": "The open-source cloud for agents &amp; devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more  ",
+    "language": "TypeScript",
+    "stars": "58278",
+    "forks": "5885",
+    "increased": "232 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ilya-lavrenov",
+        "avatar": "https://avatars.githubusercontent.com/u/2566854?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rkazants",
+        "avatar": "https://avatars.githubusercontent.com/u/35459624?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ilyachur",
+        "avatar": "https://avatars.githubusercontent.com/u/4737252?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mvafin",
+        "avatar": "https://avatars.githubusercontent.com/u/16835333?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/openvinotoolkit/openvino",
+    "name": "openvinotoolkit/openvino",
+    "description": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference  ",
+    "language": "C++",
+    "stars": "11375",
+    "forks": "3604",
+    "increased": "24 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/obra",
+        "avatar": "https://avatars.githubusercontent.com/u/45416?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/arittr",
+        "avatar": "https://avatars.githubusercontent.com/u/5742859?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/clkao",
+        "avatar": "https://avatars.githubusercontent.com/u/69736?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/arimu1",
+        "avatar": "https://avatars.githubusercontent.com/u/19286898?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/obra/superpowers",
+    "name": "obra/superpowers",
+    "description": "An agentic skills framework &amp; software development methodology that works.  ",
+    "language": "Shell",
+    "stars": "321437",
+    "forks": "28569",
+    "increased": "822 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/affaan-m",
+        "avatar": "https://avatars.githubusercontent.com/u/124439313?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/haelyra",
+        "avatar": "https://avatars.githubusercontent.com/u/49814733?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/montjeffrey",
+        "avatar": "https://avatars.githubusercontent.com/u/24193489?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/L4XB",
+        "avatar": "https://avatars.githubusercontent.com/u/103962359?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/affaan-m/ECC",
+    "name": "affaan-m/ECC",
+    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.  ",
+    "language": "JavaScript",
+    "stars": "306687",
+    "forks": "45150",
+    "increased": "1108 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/DeanChensj",
+        "avatar": "https://avatars.githubusercontent.com/u/9414763?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/xcv58",
+        "avatar": "https://avatars.githubusercontent.com/u/503123?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mathieuwang",
+        "avatar": "https://avatars.githubusercontent.com/u/14016345?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/zsc8917zsc",
+        "avatar": "https://avatars.githubusercontent.com/u/3294106?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/DeanChensj/jiangshan-map",
+    "name": "DeanChensj/jiangshan-map",
+    "description": "江山时序 · 中国历史交互地图时间轴 (403 BCE – Present) | Interactive Historical Atlas of China across 18 dynasties, 198 territory snapshots, ancient-to-modern place genealogy &amp; classical poetry routes  ",
+    "language": "JavaScript",
+    "stars": "8115",
+    "forks": "993",
+    "increased": "218 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/janober",
+        "avatar": "https://avatars.githubusercontent.com/u/6249596?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ivov",
+        "avatar": "https://avatars.githubusercontent.com/u/44588767?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/netroy",
+        "avatar": "https://avatars.githubusercontent.com/u/196144?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/RicardoE105",
+        "avatar": "https://avatars.githubusercontent.com/u/16496553?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/n8n-io/n8n",
+    "name": "n8n-io/n8n",
+    "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.  ",
+    "language": "TypeScript",
+    "stars": "211186",
+    "forks": "61575",
+    "increased": "325 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ryansolid",
+        "avatar": "https://avatars.githubusercontent.com/u/2768267?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cursoragent",
+        "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/brenelz",
+        "avatar": "https://avatars.githubusercontent.com/u/184235?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/solidjs/solid",
+    "name": "solidjs/solid",
+    "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces.  ",
+    "language": "TypeScript",
+    "stars": "36648",
+    "forks": "1186",
+    "increased": "40 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/punkpeye",
+        "avatar": "https://avatars.githubusercontent.com/u/108313943?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/SecretiveShell",
+        "avatar": "https://avatars.githubusercontent.com/u/84923604?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kukapay",
+        "avatar": "https://avatars.githubusercontent.com/u/201164822?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cursoragent",
+        "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/punkpeye/awesome-mcp-servers",
+    "name": "punkpeye/awesome-mcp-servers",
+    "description": "A collection of MCP servers.  ",
+    "stars": "98107",
+    "forks": "20367",
+    "increased": "53 stars today"
+  }
+]
