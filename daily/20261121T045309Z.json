@@ -1,0 +1,470 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/injectifytest",
+        "avatar": "https://avatars.githubusercontent.com/u/66463177?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/elementalsouls",
+        "avatar": "https://avatars.githubusercontent.com/u/49252733?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rudycelekli",
+        "avatar": "https://avatars.githubusercontent.com/u/47457359?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/elementalsouls/Claude-BugHunter",
+    "name": "elementalsouls/Claude-BugHunter",
+    "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.  ",
+    "language": "Python",
+    "stars": "14558",
+    "forks": "1712",
+    "increased": "1622 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/obra",
+        "avatar": "https://avatars.githubusercontent.com/u/45416?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/arittr",
+        "avatar": "https://avatars.githubusercontent.com/u/5742859?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/clkao",
+        "avatar": "https://avatars.githubusercontent.com/u/69736?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/arimu1",
+        "avatar": "https://avatars.githubusercontent.com/u/19286898?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/obra/superpowers",
+    "name": "obra/superpowers",
+    "description": "An agentic skills framework &amp; software development methodology that works.  ",
+    "language": "Shell",
+    "stars": "322945",
+    "forks": "28676",
+    "increased": "890 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/yuh-yang",
+        "avatar": "https://avatars.githubusercontent.com/u/43330997?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/AiMiDi",
+        "avatar": "https://avatars.githubusercontent.com/u/76622021?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/omerarslan0",
+        "avatar": "https://avatars.githubusercontent.com/u/76780961?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/hito0512",
+        "avatar": "https://avatars.githubusercontent.com/u/26110883?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/HKUDS/CLI-Anything",
+    "name": "HKUDS/CLI-Anything",
+    "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:  https://clianything.cc/    ",
+    "language": "Python",
+    "stars": "61500",
+    "forks": "5580",
+    "increased": "773 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/jingyaogong",
+        "avatar": "https://avatars.githubusercontent.com/u/62287848?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/iomgaa-ycz",
+        "avatar": "https://avatars.githubusercontent.com/u/124225682?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Linxiushen",
+        "avatar": "https://avatars.githubusercontent.com/u/142557582?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/basil-k-aji-dev",
+        "avatar": "https://avatars.githubusercontent.com/u/70605804?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/readlnh",
+        "avatar": "https://avatars.githubusercontent.com/u/16349082?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/jingyaogong/minimind",
+    "name": "jingyaogong/minimind",
+    "description": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.  ",
+    "language": "Python",
+    "stars": "67770",
+    "forks": "8860",
+    "increased": "847 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/cursoragent",
+        "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/poteto",
+        "avatar": "https://avatars.githubusercontent.com/u/1390709?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/djiang-jq",
+        "avatar": "https://avatars.githubusercontent.com/u/257394719?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/minupalaniappan",
+        "avatar": "https://avatars.githubusercontent.com/u/2145689?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ericzakariasson",
+        "avatar": "https://avatars.githubusercontent.com/u/25622412?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/cursor/plugins",
+    "name": "cursor/plugins",
+    "description": "Cursor plugin specification and official plugins  ",
+    "language": "TypeScript",
+    "stars": "17891",
+    "forks": "1961",
+    "increased": "299 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/nickscamara",
+        "avatar": "https://avatars.githubusercontent.com/u/20311743?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mogery",
+        "avatar": "https://avatars.githubusercontent.com/u/66118807?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rafaelsideguide",
+        "avatar": "https://avatars.githubusercontent.com/u/150964962?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/abimaelmartell",
+        "avatar": "https://avatars.githubusercontent.com/u/1450169?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/firecrawl/firecrawl",
+    "name": "firecrawl/firecrawl",
+    "description": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.  ",
+    "language": "TypeScript",
+    "stars": "205442",
+    "forks": "10742",
+    "increased": "1241 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/mdounin",
+        "avatar": "https://avatars.githubusercontent.com/u/201187?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/arut",
+        "avatar": "https://avatars.githubusercontent.com/u/1236368?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/vl-homutov",
+        "avatar": "https://avatars.githubusercontent.com/u/11629712?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/VBart",
+        "avatar": "https://avatars.githubusercontent.com/u/2750827?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pluknet",
+        "avatar": "https://avatars.githubusercontent.com/u/105847909?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/nginx/nginx",
+    "name": "nginx/nginx",
+    "description": "The official NGINX Open Source repository.  ",
+    "language": "C",
+    "stars": "32606",
+    "forks": "8367",
+    "increased": "246 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ilya-lavrenov",
+        "avatar": "https://avatars.githubusercontent.com/u/2566854?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rkazants",
+        "avatar": "https://avatars.githubusercontent.com/u/35459624?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ilyachur",
+        "avatar": "https://avatars.githubusercontent.com/u/4737252?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mvafin",
+        "avatar": "https://avatars.githubusercontent.com/u/16835333?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/openvinotoolkit/openvino",
+    "name": "openvinotoolkit/openvino",
+    "description": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference  ",
+    "language": "C++",
+    "stars": "11817",
+    "forks": "3639",
+    "increased": "217 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/cathrynlavery",
+        "avatar": "https://avatars.githubusercontent.com/u/50469282?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rudycelekli",
+        "avatar": "https://avatars.githubusercontent.com/u/47457359?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mvanhorn",
+        "avatar": "https://avatars.githubusercontent.com/u/455140?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/cathrynlavery/diagram-design",
+    "name": "cathrynlavery/diagram-design",
+    "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.  ",
+    "language": "HTML",
+    "stars": "69377",
+    "forks": "4655",
+    "increased": "636 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/mvanhorn",
+        "avatar": "https://avatars.githubusercontent.com/u/455140?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/tmchow",
+        "avatar": "https://avatars.githubusercontent.com/u/517103?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/iliaal",
+        "avatar": "https://avatars.githubusercontent.com/u/158724?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/mvanhorn/last30days-skill",
+    "name": "mvanhorn/last30days-skill",
+    "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary  ",
+    "language": "Python",
+    "stars": "71534",
+    "forks": "6342",
+    "increased": "681 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/JLXIA",
+        "avatar": "https://avatars.githubusercontent.com/u/43076783?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/davideast",
+        "avatar": "https://avatars.githubusercontent.com/u/4570265?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Emp1500",
+        "avatar": "https://avatars.githubusercontent.com/u/201552351?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dalmaer",
+        "avatar": "https://avatars.githubusercontent.com/u/4770?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/meeChn",
+        "avatar": "https://avatars.githubusercontent.com/u/1460397?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/google-labs-code/stitch-skills",
+    "name": "google-labs-code/stitch-skills",
+    "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.  ",
+    "language": "TypeScript",
+    "stars": "11100",
+    "forks": "1413",
+    "increased": "315 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/mjmirza",
+        "avatar": "https://avatars.githubusercontent.com/u/34001140?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/omaralbeik",
+        "avatar": "https://avatars.githubusercontent.com/u/8127757?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/akash5852",
+        "avatar": "https://avatars.githubusercontent.com/u/74331256?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/userInDev",
+        "avatar": "https://avatars.githubusercontent.com/u/220561558?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/mjmirza/app-store-compliance",
+    "name": "mjmirza/app-store-compliance",
+    "description": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 117 documented rejection patterns and fixes, privacy manifest and Data safety checks, 95 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.  ",
+    "language": "Shell",
+    "stars": "2842",
+    "forks": "180",
+    "increased": "869 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/davincios",
+        "avatar": "https://avatars.githubusercontent.com/u/33206282?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/VaibhavUpreti",
+        "avatar": "https://avatars.githubusercontent.com/u/85568177?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/muddlebee",
+        "avatar": "https://avatars.githubusercontent.com/u/8139783?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/YauhenBichel",
+        "avatar": "https://avatars.githubusercontent.com/u/5603242?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cursoragent",
+        "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Tracer-Cloud/opensre",
+    "name": "Tracer-Cloud/opensre",
+    "description": "The open-source agent for CI/CD reliability.  ",
+    "language": "Python",
+    "stars": "13684",
+    "forks": "1928",
+    "increased": "466 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/darkskygit",
+        "avatar": "https://avatars.githubusercontent.com/u/25152247?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/pengx17",
+        "avatar": "https://avatars.githubusercontent.com/u/584378?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/JimmFly",
+        "avatar": "https://avatars.githubusercontent.com/u/102217452?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/EYHN",
+        "avatar": "https://avatars.githubusercontent.com/u/13579374?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/toeverything/AFFiNE",
+    "name": "toeverything/AFFiNE",
+    "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.  ",
+    "language": "TypeScript",
+    "stars": "75894",
+    "forks": "5582",
+    "increased": "676 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/XiaoYouChR",
+        "avatar": "https://avatars.githubusercontent.com/u/87308195?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/i0ntempest",
+        "avatar": "https://avatars.githubusercontent.com/u/16017904?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Alpha-Qian",
+        "avatar": "https://avatars.githubusercontent.com/u/154665575?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/LittleNightSong",
+        "avatar": "https://avatars.githubusercontent.com/u/142714722?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/XiaoYouChR/Ghost-Downloader-3",
+    "name": "XiaoYouChR/Ghost-Downloader-3",
+    "description": "The only downloader you need. 下载器的集大成者。  ",
+    "language": "Python",
+    "stars": "13858",
+    "forks": "843",
+    "increased": "1082 stars today"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/zhouxiaoka",
+        "avatar": "https://avatars.githubusercontent.com/u/78066887?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cursoragent",
+        "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/mitsa-ng",
+        "avatar": "https://avatars.githubusercontent.com/u/281058146?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/charlie",
+        "avatar": "https://avatars.githubusercontent.com/u/1763?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/zhouxiaoka/autoclip",
+    "name": "zhouxiaoka/autoclip",
+    "description": "AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping &amp; content repurposing.  ",
+    "language": "Python",
+    "stars": "12303",
+    "forks": "2025",
+    "increased": "979 stars today"
+  }
+]
