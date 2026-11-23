@@ -1,0 +1,485 @@
+[
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/Luffixos",
+        "avatar": "https://avatars.githubusercontent.com/u/154055839?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Nutlope",
+        "avatar": "https://avatars.githubusercontent.com/u/63742054?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rudycelekli",
+        "avatar": "https://avatars.githubusercontent.com/u/47457359?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cursoragent",
+        "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/xunguangzlj-cloud",
+        "avatar": "https://avatars.githubusercontent.com/u/293371022?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Nutlope/hallmark",
+    "name": "Nutlope/hallmark",
+    "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.  ",
+    "language": "CSS",
+    "stars": "59629",
+    "forks": "3264",
+    "increased": "29000 stars this month"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/literally-dan",
+        "avatar": "https://avatars.githubusercontent.com/u/9935415?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/CooperSheroy",
+        "avatar": "https://avatars.githubusercontent.com/u/59650384?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/kennysarnoski-jarvis",
+        "avatar": "https://avatars.githubusercontent.com/u/228360615?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/cloudflare/security-audit-skill",
+    "name": "cloudflare/security-audit-skill",
+    "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings  ",
+    "language": "JavaScript",
+    "stars": "77173",
+    "forks": "5199",
+    "increased": "39307 stars this month"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/milind-soni",
+        "avatar": "https://avatars.githubusercontent.com/u/46266943?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/AdityaUmale",
+        "avatar": "https://avatars.githubusercontent.com/u/146627237?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/aivsomkar",
+        "avatar": "https://avatars.githubusercontent.com/u/255997030?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/robinsonnblack",
+        "avatar": "https://avatars.githubusercontent.com/u/331326017?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/milind-soni/OpenMausBot",
+    "name": "milind-soni/OpenMausBot",
+    "description": "Open-source Grok Bot alternative with a virtual machine that bots can use  ",
+    "language": "TypeScript",
+    "stars": "26908",
+    "forks": "3841",
+    "increased": "21485 stars this month"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/juliusmarminge",
+        "avatar": "https://avatars.githubusercontent.com/u/51714798?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/maria-rcks",
+        "avatar": "https://avatars.githubusercontent.com/u/254055478?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/t3dotgg",
+        "avatar": "https://avatars.githubusercontent.com/u/6751787?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/codex",
+        "avatar": "https://avatars.githubusercontent.com/u/267193182?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/pingdotgg/t3code",
+    "name": "pingdotgg/t3code",
+    "description": "The best way to control Claude Code, Codex and more from any computer or phone  ",
+    "language": "TypeScript",
+    "stars": "72291",
+    "forks": "12172",
+    "increased": "41514 stars this month"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/rlancemartin",
+        "avatar": "https://avatars.githubusercontent.com/u/122662504?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/klazuka",
+        "avatar": "https://avatars.githubusercontent.com/u/84525?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cj-ant",
+        "avatar": "https://avatars.githubusercontent.com/u/286490957?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ericharmeling",
+        "avatar": "https://avatars.githubusercontent.com/u/27286675?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/anthropics/skills",
+    "name": "anthropics/skills",
+    "description": "Public repository for Agent Skills  ",
+    "language": "Python",
+    "stars": "199100",
+    "forks": "23307",
+    "increased": "16473 stars this month"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/thedotmack",
+        "avatar": "https://avatars.githubusercontent.com/u/683968?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Afloat16",
+        "avatar": "https://avatars.githubusercontent.com/u/132809511?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rudycelekli",
+        "avatar": "https://avatars.githubusercontent.com/u/47457359?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/DeryFerd",
+        "avatar": "https://avatars.githubusercontent.com/u/114888155?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/thedotmack/claude-mem",
+    "name": "thedotmack/claude-mem",
+    "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during se ssions, compresses it wi th AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More  ",
+    "language": "TypeScript",
+    "stars": "119130",
+    "forks": "10352",
+    "increased": "17416 stars this month"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Jakeschincariol",
+        "avatar": "https://avatars.githubusercontent.com/u/196724947?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/Jakeschincariol/instagram-agent-skill",
+    "name": "Jakeschincariol/instagram-agent-skill",
+    "description": "Thirteen Claude skills that run an Instagram account: Reels off 26 scored hook formulas, a viral research skill, a caption linter, and a humanizer. Free, MIT.  ",
+    "language": "Python",
+    "stars": "8365",
+    "forks": "1523",
+    "increased": "5773 stars this month"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/backnotprop",
+        "avatar": "https://avatars.githubusercontent.com/u/7244317?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rudycelekli",
+        "avatar": "https://avatars.githubusercontent.com/u/47457359?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/utpalsinghdev",
+        "avatar": "https://avatars.githubusercontent.com/u/110197373?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/leoreisdias",
+        "avatar": "https://avatars.githubusercontent.com/u/47978193?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/backnotprop/plannotator",
+    "name": "backnotprop/plannotator",
+    "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.  ",
+    "language": "TypeScript",
+    "stars": "14487",
+    "forks": "1432",
+    "increased": "4793 stars this month"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/pancacake",
+        "avatar": "https://avatars.githubusercontent.com/u/150592536?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/evan188199-tech",
+        "avatar": "https://avatars.githubusercontent.com/u/238371241?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Pinkllow",
+        "avatar": "https://avatars.githubusercontent.com/u/272976591?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/HKUDS/DeepTutor",
+    "name": "HKUDS/DeepTutor",
+    "description": "DeepTutor: Lifelong Personalized Tutoring.  https://deeptutor.info/  .  ",
+    "language": "Python",
+    "stars": "61679",
+    "forks": "7436",
+    "increased": "19718 stars this month"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/pbakaus",
+        "avatar": "https://avatars.githubusercontent.com/u/43004?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/abdulwahabone",
+        "avatar": "https://avatars.githubusercontent.com/u/32850166?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/cursoragent",
+        "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/pbakaus/impeccable",
+    "name": "pbakaus/impeccable",
+    "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.  ",
+    "language": "Rust",
+    "stars": "115144",
+    "forks": "6861",
+    "increased": "30634 stars this month"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/sdushantha",
+        "avatar": "https://avatars.githubusercontent.com/u/27065646?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/hoadlck",
+        "avatar": "https://avatars.githubusercontent.com/u/1666888?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ppfeister",
+        "avatar": "https://avatars.githubusercontent.com/u/33327613?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/TheYahya",
+        "avatar": "https://avatars.githubusercontent.com/u/15307244?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Czechball",
+        "avatar": "https://avatars.githubusercontent.com/u/13371865?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/sherlock-project/sherlock",
+    "name": "sherlock-project/sherlock",
+    "description": "Hunt down social media accounts by username across social networks  ",
+    "language": "Python",
+    "stars": "115948",
+    "forks": "13255",
+    "increased": "21408 stars this month"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/AgriciDaniel",
+        "avatar": "https://avatars.githubusercontent.com/u/223140489?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Afloat16",
+        "avatar": "https://avatars.githubusercontent.com/u/132809511?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Nordalux",
+        "avatar": "https://avatars.githubusercontent.com/u/129338099?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rudycelekli",
+        "avatar": "https://avatars.githubusercontent.com/u/47457359?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/AgriciDaniel/claude-seo",
+    "name": "AgriciDaniel/claude-seo",
+    "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.  ",
+    "language": "Python",
+    "stars": "31694",
+    "forks": "3901",
+    "increased": "12006 stars this month"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/JLXIA",
+        "avatar": "https://avatars.githubusercontent.com/u/43076783?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/davideast",
+        "avatar": "https://avatars.githubusercontent.com/u/4570265?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rudycelekli",
+        "avatar": "https://avatars.githubusercontent.com/u/47457359?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Emp1500",
+        "avatar": "https://avatars.githubusercontent.com/u/201552351?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dalmaer",
+        "avatar": "https://avatars.githubusercontent.com/u/4770?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/google-labs-code/stitch-skills",
+    "name": "google-labs-code/stitch-skills",
+    "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.  ",
+    "language": "TypeScript",
+    "stars": "11990",
+    "forks": "1477",
+    "increased": "month"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/miguel-heygen",
+        "avatar": "https://avatars.githubusercontent.com/u/229591595?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/vanceingalls",
+        "avatar": "https://avatars.githubusercontent.com/u/337856?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/jrusso1020",
+        "avatar": "https://avatars.githubusercontent.com/u/7664106?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/ukimsanov",
+        "avatar": "https://avatars.githubusercontent.com/u/165517112?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/heygen-com/hyperframes",
+    "name": "heygen-com/hyperframes",
+    "description": "Open-source AI video editor: edit your own footage, or create and remake any video with Claude Code, Codex or the free Studio app. Write HTML, render MP4. By HeyGen.  ",
+    "language": "TypeScript",
+    "stars": "88391",
+    "forks": "8228",
+    "increased": "18847 stars this month"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/injectifytest",
+        "avatar": "https://avatars.githubusercontent.com/u/66463177?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/elementalsouls",
+        "avatar": "https://avatars.githubusercontent.com/u/49252733?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/rudycelekli",
+        "avatar": "https://avatars.githubusercontent.com/u/47457359?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/elementalsouls/Claude-BugHunter",
+    "name": "elementalsouls/Claude-BugHunter",
+    "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.  ",
+    "language": "Python",
+    "stars": "18172",
+    "forks": "1993",
+    "increased": "11667 stars this month"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/kajisho5",
+        "avatar": "https://avatars.githubusercontent.com/u/20648875?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/dchaudhari7177",
+        "avatar": "https://avatars.githubusercontent.com/u/111210939?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/kajisho5/ffmpeg-skill",
+    "name": "kajisho5/ffmpeg-skill",
+    "description": "Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys.  ",
+    "language": "Python",
+    "stars": "9837",
+    "forks": "872",
+    "increased": "7477 stars this month"
+  },
+  {
+    "builders": [
+      {
+        "profile": "https://github.com/ctate",
+        "avatar": "https://avatars.githubusercontent.com/u/366502?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/Railly",
+        "avatar": "https://avatars.githubusercontent.com/u/51397083?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/lahfir",
+        "avatar": "https://avatars.githubusercontent.com/u/70215676?s=40&amp;v=4"
+      },
+      {
+        "profile": "https://github.com/claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4"
+      }
+    ],
+    "repository": "https://github.com/vercel-labs/agent-browser",
+    "name": "vercel-labs/agent-browser",
+    "description": "Browser automation CLI for AI agents  ",
+    "language": "Rust",
+    "stars": "53458",
+    "forks": "3742",
+    "increased": "9083 stars this month"
+  }
+]
